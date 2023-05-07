@@ -1,1 +1,91 @@
-[]
+[
+    {
+        "id": 10,
+        "name": "March 7th",
+        "rarity": 4,
+        "element": "Ice",
+        "path": "Preservation",
+        "skills": {
+            "attack": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "skill": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "ultimate": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "talent": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "technique": {
+                "name": "———",
+                "type": "———",
+                "description": "———"
+            }
+        },
+        "traces": {},
+        "eidolon": {
+            "e1": {
+                "name": "———",
+                "description": "———"
+            },
+            "e2": {
+                "name": "———",
+                "description": "———"
+            },
+            "e3": {
+                "name": "———",
+                "description": "———"
+            },
+            "e4": {
+                "name": "———",
+                "description": "———"
+            },
+            "e5": {
+                "name": "———",
+                "description": "———"
+            },
+            "e6": {
+                "name": "———",
+                "description": "———"
+            }
+        },
+        "stats": {
+            "hp": [],
+            "atk": [],
+            "def": [],
+            "spd": [],
+            "taunt": 0      
+        },
+        "materials": {
+            "calyxMat": "———",
+            "commonMat": "———",
+            "bossMat": "———",
+            "weeklyBossMat": "———"
+        },
+        "description": "———",
+        "gender": "———",
+        "world": "———",
+        "voiceActors": {
+            "en": "———",
+            "jp": "———"
+        },
+        "release": {
+            "date": "———",
+            "version": "———"
+        }
+    }
+]
