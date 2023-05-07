@@ -71,10 +71,10 @@
             "taunt": 0      
         },
         "materials": {
-            "calyxMat": "———",
-            "commonMat": "———",
-            "bossMat": "———",
-            "weeklyBossMat": "———"
+            "calyxMat": "Blade",
+            "commonMat": "Core",
+            "bossMat": "Lightning Crown of the Past Shadow",
+            "weeklyBossMat": "Destroyer's Final Road"
         },
         "description": "The head of Herta Space Station's Security Department. This quiet boy hopes to protect the researchers who value their pursuit of knowledge, and to help them to complete their work.",
         "gender": "Male",
@@ -160,10 +160,10 @@
             "taunt": 0      
         },
         "materials": {
-            "calyxMat": "———",
-            "commonMat": "———",
-            "bossMat": "———",
-            "weeklyBossMat": "———"
+            "calyxMat": "Music Box",
+            "commonMat": "Silvermane",
+            "bossMat": "Endotherm Chitin",
+            "weeklyBossMat": "Destroyer's Final Road"
         },
         "description": "The lead researcher of Herta Space Station and a lady from a renowned family. She's an astronomer overflowing with curiosity, and excels at managing the disparate staff of the space station.",
         "gender": "Female",
@@ -249,10 +249,10 @@
             "taunt": 0      
         },
         "materials": {
-            "calyxMat": "———",
-            "commonMat": "———",
-            "bossMat": "———",
-            "weeklyBossMat": "———"
+            "calyxMat": "Flower",
+            "commonMat": "Core",
+            "bossMat": "Lightning Crown of the Past Shadow",
+            "weeklyBossMat": "Guardian's Lament"
         },
         "description": "———",
         "gender": "———",
@@ -338,10 +338,10 @@
             "taunt": 0      
         },
         "materials": {
-            "calyxMat": "———",
-            "commonMat": "———",
-            "bossMat": "———",
-            "weeklyBossMat": "———"
+            "calyxMat": "Music Box",
+            "commonMat": "Silvermane",
+            "bossMat": "Storm Eye",
+            "weeklyBossMat": "Guardian's Lament"
         },
         "description": "———",
         "gender": "———",
@@ -427,10 +427,10 @@
             "taunt": 0      
         },
         "materials": {
-            "calyxMat": "———",
-            "commonMat": "———",
-            "bossMat": "———",
-            "weeklyBossMat": "———"
+            "calyxMat": "Blade",
+            "commonMat": "Engine",
+            "bossMat": "Broken Teeth of Iron Wolf",
+            "weeklyBossMat": "Guardian's Lament"
         },
         "description": "———",
         "gender": "———",
@@ -516,10 +516,10 @@
             "taunt": 0      
         },
         "materials": {
-            "calyxMat": "———",
-            "commonMat": "———",
-            "bossMat": "———",
-            "weeklyBossMat": "———"
+            "calyxMat": "Arrow",
+            "commonMat": "Core",
+            "bossMat": "Storm Eye",
+            "weeklyBossMat": "Destroyer's Final Road"
         },
         "description": "———",
         "gender": "———",
@@ -605,10 +605,10 @@
             "taunt": 0      
         },
         "materials": {
-            "calyxMat": "———",
-            "commonMat": "———",
-            "bossMat": "———",
-            "weeklyBossMat": "———"
+            "calyxMat": "Amber",
+            "commonMat": "Silvermane",
+            "bossMat": "Horn of Snow",
+            "weeklyBossMat": "Guardian's Lament"
         },
         "description": "———",
         "gender": "———",
@@ -694,10 +694,10 @@
             "taunt": 0      
         },
         "materials": {
-            "calyxMat": "———",
-            "commonMat": "———",
-            "bossMat": "———",
-            "weeklyBossMat": "———"
+            "calyxMat": "Key",
+            "commonMat": "Core",
+            "bossMat": "Horn of Snow",
+            "weeklyBossMat": "Destroyer's Final Road"
         },
         "description": "———",
         "gender": "———",
@@ -783,10 +783,10 @@
             "taunt": 0      
         },
         "materials": {
-            "calyxMat": "———",
-            "commonMat": "———",
-            "bossMat": "———",
-            "weeklyBossMat": "———"
+            "calyxMat": "Key",
+            "commonMat": "Core",
+            "bossMat": "Endotherm Chitin",
+            "weeklyBossMat": "Destroyer's Final Road"
         },
         "description": "———",
         "gender": "———",
@@ -872,10 +872,10 @@
             "taunt": 0      
         },
         "materials": {
-            "calyxMat": "———",
-            "commonMat": "———",
-            "bossMat": "———",
-            "weeklyBossMat": "———"
+            "calyxMat": "Blade",
+            "commonMat": "Engine",
+            "bossMat": "Endotherm Chitin",
+            "weeklyBossMat": "Guardian's Lament"
         },
         "description": "———",
         "gender": "———",
@@ -961,10 +961,10 @@
             "taunt": 0      
         },
         "materials": {
-            "calyxMat": "———",
-            "commonMat": "———",
-            "bossMat": "———",
-            "weeklyBossMat": "———"
+            "calyxMat": "Amber",
+            "commonMat": "Antimatter",
+            "bossMat": "Horn of Snow",
+            "weeklyBossMat": "Destroyer's Final Road"
         },
         "description": "———",
         "gender": "———",
@@ -1050,10 +1050,10 @@
             "taunt": 0      
         },
         "materials": {
-            "calyxMat": "———",
-            "commonMat": "———",
-            "bossMat": "———",
-            "weeklyBossMat": "———"
+            "calyxMat": "Flower",
+            "commonMat": "Engine",
+            "bossMat": "Broken Teeth of Iron Wolf",
+            "weeklyBossMat": "Guardian's Lament"
         },
         "description": "———",
         "gender": "———",
@@ -1139,10 +1139,10 @@
             "taunt": 0      
         },
         "materials": {
-            "calyxMat": "———",
-            "commonMat": "———",
-            "bossMat": "———",
-            "weeklyBossMat": "———"
+            "calyxMat": "Obsidian",
+            "commonMat": "Core",
+            "bossMat": "Horn of Snow",
+            "weeklyBossMat": "Guardian's Lament"
         },
         "description": "———",
         "gender": "———",
@@ -1228,10 +1228,10 @@
             "taunt": 0      
         },
         "materials": {
-            "calyxMat": "———",
-            "commonMat": "———",
-            "bossMat": "———",
-            "weeklyBossMat": "———"
+            "calyxMat": "Key",
+            "commonMat": "Antimatter",
+            "bossMat": "Void Cast Iron",
+            "weeklyBossMat": "Guardian's Lament"
         },
         "description": "———",
         "gender": "———",
@@ -1317,10 +1317,10 @@
             "taunt": 0      
         },
         "materials": {
-            "calyxMat": "———",
-            "commonMat": "———",
-            "bossMat": "———",
-            "weeklyBossMat": "———"
+            "calyxMat": "Obsidian",
+            "commonMat": "Engine",
+            "bossMat": "Storm Eye",
+            "weeklyBossMat": "Guardian's Lament"
         },
         "description": "———",
         "gender": "———",
@@ -1406,10 +1406,10 @@
             "taunt": 0      
         },
         "materials": {
-            "calyxMat": "———",
-            "commonMat": "———",
-            "bossMat": "———",
-            "weeklyBossMat": "———"
+            "calyxMat": "Arrow",
+            "commonMat": "Antimatter",
+            "bossMat": "Void Cast Iron",
+            "weeklyBossMat": "Guardian's Lament"
         },
         "description": "———",
         "gender": "———",
@@ -1495,10 +1495,10 @@
             "taunt": 0      
         },
         "materials": {
-            "calyxMat": "———",
-            "commonMat": "———",
-            "bossMat": "———",
-            "weeklyBossMat": "———"
+            "calyxMat": "Key",
+            "commonMat": "Silvermane",
+            "bossMat": "Lightning Crown of the Past Shadow",
+            "weeklyBossMat": "Guardian's Lament"
         },
         "description": "———",
         "gender": "———",
@@ -1584,10 +1584,10 @@
             "taunt": 0      
         },
         "materials": {
-            "calyxMat": "———",
-            "commonMat": "———",
-            "bossMat": "———",
-            "weeklyBossMat": "———"
+            "calyxMat": "Arrow",
+            "commonMat": "Artifex",
+            "bossMat": "Broken Teeth of Iron Wolf",
+            "weeklyBossMat": "Guardian's Lament"
         },
         "description": "———",
         "gender": "———",
@@ -1673,10 +1673,10 @@
             "taunt": 0      
         },
         "materials": {
-            "calyxMat": "———",
-            "commonMat": "———",
-            "bossMat": "———",
-            "weeklyBossMat": "———"
+            "calyxMat": "Music Box",
+            "commonMat": "Immortal",
+            "bossMat": "Lightning Crown of the Past Shadow",
+            "weeklyBossMat": "Destroyer's Final Road"
         },
         "description": "———",
         "gender": "———",
@@ -1762,10 +1762,10 @@
             "taunt": 0      
         },
         "materials": {
-            "calyxMat": "———",
-            "commonMat": "———",
-            "bossMat": "———",
-            "weeklyBossMat": "———"
+            "calyxMat": "Obsidian",
+            "commonMat": "Silvermane",
+            "bossMat": "Golden Crown of the Past Shadow",
+            "weeklyBossMat": "Destroyer's Final Road"
         },
         "description": "———",
         "gender": "———",
@@ -1851,10 +1851,10 @@
             "taunt": 0      
         },
         "materials": {
-            "calyxMat": "———",
-            "commonMat": "———",
-            "bossMat": "———",
-            "weeklyBossMat": "———"
+            "calyxMat": "Arrow",
+            "commonMat": "Antimatter",
+            "bossMat": "Horn of Snow",
+            "weeklyBossMat": "Guardian's Lament"
         },
         "description": "———",
         "gender": "———",
