@@ -1,5 +1,895 @@
 [
     {
+        "id": 0,
+        "name": "Arlan",
+        "rarity": 4,
+        "element": "Lightning",
+        "path": "Destruction",
+        "skills": {
+            "attack": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "skill": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "ultimate": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "talent": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "technique": {
+                "name": "———",
+                "type": "———",
+                "description": "———"
+            }
+        },
+        "traces": {},
+        "eidolon": {
+            "e1": {
+                "name": "———",
+                "description": "———"
+            },
+            "e2": {
+                "name": "———",
+                "description": "———"
+            },
+            "e3": {
+                "name": "———",
+                "description": "———"
+            },
+            "e4": {
+                "name": "———",
+                "description": "———"
+            },
+            "e5": {
+                "name": "———",
+                "description": "———"
+            },
+            "e6": {
+                "name": "———",
+                "description": "———"
+            }
+        },
+        "stats": {
+            "hp": [],
+            "atk": [],
+            "def": [],
+            "spd": [],
+            "taunt": 0      
+        },
+        "materials": {
+            "calyxMat": "———",
+            "commonMat": "———",
+            "bossMat": "———",
+            "weeklyBossMat": "———"
+        },
+        "description": "The head of Herta Space Station's Security Department. This quiet boy hopes to protect the researchers who value their pursuit of knowledge, and to help them to complete their work.",
+        "gender": "Male",
+        "world": "Herta Space Station",
+        "voiceActors": {
+            "en": "Dani Chambers",
+            "jp": "Ryoko Shiraishi (白石 涼子)"
+        },
+        "release": {
+            "date": "April 26, 2023",
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 1,
+        "name": "Asta",
+        "rarity": 4,
+        "element": "Fire",
+        "path": "Harmony",
+        "skills": {
+            "attack": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "skill": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "ultimate": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "talent": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "technique": {
+                "name": "———",
+                "type": "———",
+                "description": "———"
+            }
+        },
+        "traces": {},
+        "eidolon": {
+            "e1": {
+                "name": "———",
+                "description": "———"
+            },
+            "e2": {
+                "name": "———",
+                "description": "———"
+            },
+            "e3": {
+                "name": "———",
+                "description": "———"
+            },
+            "e4": {
+                "name": "———",
+                "description": "———"
+            },
+            "e5": {
+                "name": "———",
+                "description": "———"
+            },
+            "e6": {
+                "name": "———",
+                "description": "———"
+            }
+        },
+        "stats": {
+            "hp": [],
+            "atk": [],
+            "def": [],
+            "spd": [],
+            "taunt": 0      
+        },
+        "materials": {
+            "calyxMat": "———",
+            "commonMat": "———",
+            "bossMat": "———",
+            "weeklyBossMat": "———"
+        },
+        "description": "The lead researcher of Herta Space Station and a lady from a renowned family. She's an astronomer overflowing with curiosity, and excels at managing the disparate staff of the space station.",
+        "gender": "Female",
+        "world": "Herta Space Station",
+        "voiceActors": {
+            "en": "Felecia Angelle",
+            "jp": "Chinatsu Akasaki (赤﨑 千夏)"
+        },
+        "release": {
+            "date": "April 26, 2023",
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Bailu",
+        "rarity": 5,
+        "element": "Lightning",
+        "path": "Abundance",
+        "skills": {
+            "attack": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "skill": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "ultimate": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "talent": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "technique": {
+                "name": "———",
+                "type": "———",
+                "description": "———"
+            }
+        },
+        "traces": {},
+        "eidolon": {
+            "e1": {
+                "name": "———",
+                "description": "———"
+            },
+            "e2": {
+                "name": "———",
+                "description": "———"
+            },
+            "e3": {
+                "name": "———",
+                "description": "———"
+            },
+            "e4": {
+                "name": "———",
+                "description": "———"
+            },
+            "e5": {
+                "name": "———",
+                "description": "———"
+            },
+            "e6": {
+                "name": "———",
+                "description": "———"
+            }
+        },
+        "stats": {
+            "hp": [],
+            "atk": [],
+            "def": [],
+            "spd": [],
+            "taunt": 0      
+        },
+        "materials": {
+            "calyxMat": "———",
+            "commonMat": "———",
+            "bossMat": "———",
+            "weeklyBossMat": "———"
+        },
+        "description": "———",
+        "gender": "———",
+        "world": "———",
+        "voiceActors": {
+            "en": "———",
+            "jp": "———"
+        },
+        "release": {
+            "date": "April 26, 2023",
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Bronya",
+        "rarity": 5,
+        "element": "Wind",
+        "path": "Harmony",
+        "skills": {
+            "attack": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "skill": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "ultimate": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "talent": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "technique": {
+                "name": "———",
+                "type": "———",
+                "description": "———"
+            }
+        },
+        "traces": {},
+        "eidolon": {
+            "e1": {
+                "name": "———",
+                "description": "———"
+            },
+            "e2": {
+                "name": "———",
+                "description": "———"
+            },
+            "e3": {
+                "name": "———",
+                "description": "———"
+            },
+            "e4": {
+                "name": "———",
+                "description": "———"
+            },
+            "e5": {
+                "name": "———",
+                "description": "———"
+            },
+            "e6": {
+                "name": "———",
+                "description": "———"
+            }
+        },
+        "stats": {
+            "hp": [],
+            "atk": [],
+            "def": [],
+            "spd": [],
+            "taunt": 0      
+        },
+        "materials": {
+            "calyxMat": "———",
+            "commonMat": "———",
+            "bossMat": "———",
+            "weeklyBossMat": "———"
+        },
+        "description": "———",
+        "gender": "———",
+        "world": "———",
+        "voiceActors": {
+            "en": "———",
+            "jp": "———"
+        },
+        "release": {
+            "date": "April 26, 2023",
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Clara",
+        "rarity": 5,
+        "element": "Physical",
+        "path": "Destruction",
+        "skills": {
+            "attack": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "skill": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "ultimate": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "talent": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "technique": {
+                "name": "———",
+                "type": "———",
+                "description": "———"
+            }
+        },
+        "traces": {},
+        "eidolon": {
+            "e1": {
+                "name": "———",
+                "description": "———"
+            },
+            "e2": {
+                "name": "———",
+                "description": "———"
+            },
+            "e3": {
+                "name": "———",
+                "description": "———"
+            },
+            "e4": {
+                "name": "———",
+                "description": "———"
+            },
+            "e5": {
+                "name": "———",
+                "description": "———"
+            },
+            "e6": {
+                "name": "———",
+                "description": "———"
+            }
+        },
+        "stats": {
+            "hp": [],
+            "atk": [],
+            "def": [],
+            "spd": [],
+            "taunt": 0      
+        },
+        "materials": {
+            "calyxMat": "———",
+            "commonMat": "———",
+            "bossMat": "———",
+            "weeklyBossMat": "———"
+        },
+        "description": "———",
+        "gender": "———",
+        "world": "———",
+        "voiceActors": {
+            "en": "———",
+            "jp": "———"
+        },
+        "release": {
+            "date": "April 26, 2023",
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Dan Heng",
+        "rarity": 4,
+        "element": "Wind",
+        "path": "Hunt",
+        "skills": {
+            "attack": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "skill": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "ultimate": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "talent": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "technique": {
+                "name": "———",
+                "type": "———",
+                "description": "———"
+            }
+        },
+        "traces": {},
+        "eidolon": {
+            "e1": {
+                "name": "———",
+                "description": "———"
+            },
+            "e2": {
+                "name": "———",
+                "description": "———"
+            },
+            "e3": {
+                "name": "———",
+                "description": "———"
+            },
+            "e4": {
+                "name": "———",
+                "description": "———"
+            },
+            "e5": {
+                "name": "———",
+                "description": "———"
+            },
+            "e6": {
+                "name": "———",
+                "description": "———"
+            }
+        },
+        "stats": {
+            "hp": [],
+            "atk": [],
+            "def": [],
+            "spd": [],
+            "taunt": 0      
+        },
+        "materials": {
+            "calyxMat": "———",
+            "commonMat": "———",
+            "bossMat": "———",
+            "weeklyBossMat": "———"
+        },
+        "description": "———",
+        "gender": "———",
+        "world": "———",
+        "voiceActors": {
+            "en": "———",
+            "jp": "———"
+        },
+        "release": {
+            "date": "April 26, 2023",
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Gepard",
+        "rarity": 5,
+        "element": "Ice",
+        "path": "Preservation",
+        "skills": {
+            "attack": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "skill": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "ultimate": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "talent": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "technique": {
+                "name": "———",
+                "type": "———",
+                "description": "———"
+            }
+        },
+        "traces": {},
+        "eidolon": {
+            "e1": {
+                "name": "———",
+                "description": "———"
+            },
+            "e2": {
+                "name": "———",
+                "description": "———"
+            },
+            "e3": {
+                "name": "———",
+                "description": "———"
+            },
+            "e4": {
+                "name": "———",
+                "description": "———"
+            },
+            "e5": {
+                "name": "———",
+                "description": "———"
+            },
+            "e6": {
+                "name": "———",
+                "description": "———"
+            }
+        },
+        "stats": {
+            "hp": [],
+            "atk": [],
+            "def": [],
+            "spd": [],
+            "taunt": 0      
+        },
+        "materials": {
+            "calyxMat": "———",
+            "commonMat": "———",
+            "bossMat": "———",
+            "weeklyBossMat": "———"
+        },
+        "description": "———",
+        "gender": "———",
+        "world": "———",
+        "voiceActors": {
+            "en": "———",
+            "jp": "———"
+        },
+        "release": {
+            "date": "April 26, 2023",
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Herta",
+        "rarity": 4,
+        "element": "Ice",
+        "path": "Erudition",
+        "skills": {
+            "attack": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "skill": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "ultimate": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "talent": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "technique": {
+                "name": "———",
+                "type": "———",
+                "description": "———"
+            }
+        },
+        "traces": {},
+        "eidolon": {
+            "e1": {
+                "name": "———",
+                "description": "———"
+            },
+            "e2": {
+                "name": "———",
+                "description": "———"
+            },
+            "e3": {
+                "name": "———",
+                "description": "———"
+            },
+            "e4": {
+                "name": "———",
+                "description": "———"
+            },
+            "e5": {
+                "name": "———",
+                "description": "———"
+            },
+            "e6": {
+                "name": "———",
+                "description": "———"
+            }
+        },
+        "stats": {
+            "hp": [],
+            "atk": [],
+            "def": [],
+            "spd": [],
+            "taunt": 0      
+        },
+        "materials": {
+            "calyxMat": "———",
+            "commonMat": "———",
+            "bossMat": "———",
+            "weeklyBossMat": "———"
+        },
+        "description": "———",
+        "gender": "———",
+        "world": "———",
+        "voiceActors": {
+            "en": "———",
+            "jp": "———"
+        },
+        "release": {
+            "date": "April 26, 2023",
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Himeko",
+        "rarity": 5,
+        "element": "Fire",
+        "path": "Erudition",
+        "skills": {
+            "attack": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "skill": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "ultimate": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "talent": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "technique": {
+                "name": "———",
+                "type": "———",
+                "description": "———"
+            }
+        },
+        "traces": {},
+        "eidolon": {
+            "e1": {
+                "name": "———",
+                "description": "———"
+            },
+            "e2": {
+                "name": "———",
+                "description": "———"
+            },
+            "e3": {
+                "name": "———",
+                "description": "———"
+            },
+            "e4": {
+                "name": "———",
+                "description": "———"
+            },
+            "e5": {
+                "name": "———",
+                "description": "———"
+            },
+            "e6": {
+                "name": "———",
+                "description": "———"
+            }
+        },
+        "stats": {
+            "hp": [],
+            "atk": [],
+            "def": [],
+            "spd": [],
+            "taunt": 0      
+        },
+        "materials": {
+            "calyxMat": "———",
+            "commonMat": "———",
+            "bossMat": "———",
+            "weeklyBossMat": "———"
+        },
+        "description": "———",
+        "gender": "———",
+        "world": "———",
+        "voiceActors": {
+            "en": "———",
+            "jp": "———"
+        },
+        "release": {
+            "date": "April 26, 2023",
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Hook",
+        "rarity": 4,
+        "element": "Fire",
+        "path": "Destruction",
+        "skills": {
+            "attack": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "skill": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "ultimate": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "talent": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "technique": {
+                "name": "———",
+                "type": "———",
+                "description": "———"
+            }
+        },
+        "traces": {},
+        "eidolon": {
+            "e1": {
+                "name": "———",
+                "description": "———"
+            },
+            "e2": {
+                "name": "———",
+                "description": "———"
+            },
+            "e3": {
+                "name": "———",
+                "description": "———"
+            },
+            "e4": {
+                "name": "———",
+                "description": "———"
+            },
+            "e5": {
+                "name": "———",
+                "description": "———"
+            },
+            "e6": {
+                "name": "———",
+                "description": "———"
+            }
+        },
+        "stats": {
+            "hp": [],
+            "atk": [],
+            "def": [],
+            "spd": [],
+            "taunt": 0      
+        },
+        "materials": {
+            "calyxMat": "———",
+            "commonMat": "———",
+            "bossMat": "———",
+            "weeklyBossMat": "———"
+        },
+        "description": "———",
+        "gender": "———",
+        "world": "———",
+        "voiceActors": {
+            "en": "———",
+            "jp": "———"
+        },
+        "release": {
+            "date": "April 26, 2023",
+            "version": "1.0"
+        }
+    },
+    {
         "id": 10,
         "name": "March 7th",
         "rarity": 4,
@@ -84,8 +974,898 @@
             "jp": "———"
         },
         "release": {
-            "date": "———",
-            "version": "———"
+            "date": "April 26, 2023",
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 11,
+        "name": "Natasha",
+        "rarity": 4,
+        "element": "Physical",
+        "path": "Abundance",
+        "skills": {
+            "attack": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "skill": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "ultimate": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "talent": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "technique": {
+                "name": "———",
+                "type": "———",
+                "description": "———"
+            }
+        },
+        "traces": {},
+        "eidolon": {
+            "e1": {
+                "name": "———",
+                "description": "———"
+            },
+            "e2": {
+                "name": "———",
+                "description": "———"
+            },
+            "e3": {
+                "name": "———",
+                "description": "———"
+            },
+            "e4": {
+                "name": "———",
+                "description": "———"
+            },
+            "e5": {
+                "name": "———",
+                "description": "———"
+            },
+            "e6": {
+                "name": "———",
+                "description": "———"
+            }
+        },
+        "stats": {
+            "hp": [],
+            "atk": [],
+            "def": [],
+            "spd": [],
+            "taunt": 0      
+        },
+        "materials": {
+            "calyxMat": "———",
+            "commonMat": "———",
+            "bossMat": "———",
+            "weeklyBossMat": "———"
+        },
+        "description": "———",
+        "gender": "———",
+        "world": "———",
+        "voiceActors": {
+            "en": "———",
+            "jp": "———"
+        },
+        "release": {
+            "date": "April 26, 2023",
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Pela",
+        "rarity": 4,
+        "element": "Ice",
+        "path": "Nihility",
+        "skills": {
+            "attack": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "skill": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "ultimate": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "talent": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "technique": {
+                "name": "———",
+                "type": "———",
+                "description": "———"
+            }
+        },
+        "traces": {},
+        "eidolon": {
+            "e1": {
+                "name": "———",
+                "description": "———"
+            },
+            "e2": {
+                "name": "———",
+                "description": "———"
+            },
+            "e3": {
+                "name": "———",
+                "description": "———"
+            },
+            "e4": {
+                "name": "———",
+                "description": "———"
+            },
+            "e5": {
+                "name": "———",
+                "description": "———"
+            },
+            "e6": {
+                "name": "———",
+                "description": "———"
+            }
+        },
+        "stats": {
+            "hp": [],
+            "atk": [],
+            "def": [],
+            "spd": [],
+            "taunt": 0      
+        },
+        "materials": {
+            "calyxMat": "———",
+            "commonMat": "———",
+            "bossMat": "———",
+            "weeklyBossMat": "———"
+        },
+        "description": "———",
+        "gender": "———",
+        "world": "———",
+        "voiceActors": {
+            "en": "———",
+            "jp": "———"
+        },
+        "release": {
+            "date": "April 26, 2023",
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Qingque",
+        "rarity": 4,
+        "element": "Quantum",
+        "path": "Erudition",
+        "skills": {
+            "attack": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "skill": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "ultimate": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "talent": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "technique": {
+                "name": "———",
+                "type": "———",
+                "description": "———"
+            }
+        },
+        "traces": {},
+        "eidolon": {
+            "e1": {
+                "name": "———",
+                "description": "———"
+            },
+            "e2": {
+                "name": "———",
+                "description": "———"
+            },
+            "e3": {
+                "name": "———",
+                "description": "———"
+            },
+            "e4": {
+                "name": "———",
+                "description": "———"
+            },
+            "e5": {
+                "name": "———",
+                "description": "———"
+            },
+            "e6": {
+                "name": "———",
+                "description": "———"
+            }
+        },
+        "stats": {
+            "hp": [],
+            "atk": [],
+            "def": [],
+            "spd": [],
+            "taunt": 0      
+        },
+        "materials": {
+            "calyxMat": "———",
+            "commonMat": "———",
+            "bossMat": "———",
+            "weeklyBossMat": "———"
+        },
+        "description": "———",
+        "gender": "———",
+        "world": "———",
+        "voiceActors": {
+            "en": "———",
+            "jp": "———"
+        },
+        "release": {
+            "date": "April 26, 2023",
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 14,
+        "name": "Samp",
+        "rarity": 4,
+        "element": "Wind",
+        "path": "Nihility",
+        "skills": {
+            "attack": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "skill": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "ultimate": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "talent": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "technique": {
+                "name": "———",
+                "type": "———",
+                "description": "———"
+            }
+        },
+        "traces": {},
+        "eidolon": {
+            "e1": {
+                "name": "———",
+                "description": "———"
+            },
+            "e2": {
+                "name": "———",
+                "description": "———"
+            },
+            "e3": {
+                "name": "———",
+                "description": "———"
+            },
+            "e4": {
+                "name": "———",
+                "description": "———"
+            },
+            "e5": {
+                "name": "———",
+                "description": "———"
+            },
+            "e6": {
+                "name": "———",
+                "description": "———"
+            }
+        },
+        "stats": {
+            "hp": [],
+            "atk": [],
+            "def": [],
+            "spd": [],
+            "taunt": 0      
+        },
+        "materials": {
+            "calyxMat": "———",
+            "commonMat": "———",
+            "bossMat": "———",
+            "weeklyBossMat": "———"
+        },
+        "description": "———",
+        "gender": "———",
+        "world": "———",
+        "voiceActors": {
+            "en": "———",
+            "jp": "———"
+        },
+        "release": {
+            "date": "April 26, 2023",
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 15,
+        "name": "Seele",
+        "rarity": 5,
+        "element": "Quantum",
+        "path": "Hunt",
+        "skills": {
+            "attack": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "skill": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "ultimate": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "talent": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "technique": {
+                "name": "———",
+                "type": "———",
+                "description": "———"
+            }
+        },
+        "traces": {},
+        "eidolon": {
+            "e1": {
+                "name": "———",
+                "description": "———"
+            },
+            "e2": {
+                "name": "———",
+                "description": "———"
+            },
+            "e3": {
+                "name": "———",
+                "description": "———"
+            },
+            "e4": {
+                "name": "———",
+                "description": "———"
+            },
+            "e5": {
+                "name": "———",
+                "description": "———"
+            },
+            "e6": {
+                "name": "———",
+                "description": "———"
+            }
+        },
+        "stats": {
+            "hp": [],
+            "atk": [],
+            "def": [],
+            "spd": [],
+            "taunt": 0      
+        },
+        "materials": {
+            "calyxMat": "———",
+            "commonMat": "———",
+            "bossMat": "———",
+            "weeklyBossMat": "———"
+        },
+        "description": "———",
+        "gender": "———",
+        "world": "———",
+        "voiceActors": {
+            "en": "———",
+            "jp": "———"
+        },
+        "release": {
+            "date": "April 26, 2023",
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 16,
+        "name": "Serval",
+        "rarity": 4,
+        "element": "Lightning",
+        "path": "Erudition",
+        "skills": {
+            "attack": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "skill": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "ultimate": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "talent": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "technique": {
+                "name": "———",
+                "type": "———",
+                "description": "———"
+            }
+        },
+        "traces": {},
+        "eidolon": {
+            "e1": {
+                "name": "———",
+                "description": "———"
+            },
+            "e2": {
+                "name": "———",
+                "description": "———"
+            },
+            "e3": {
+                "name": "———",
+                "description": "———"
+            },
+            "e4": {
+                "name": "———",
+                "description": "———"
+            },
+            "e5": {
+                "name": "———",
+                "description": "———"
+            },
+            "e6": {
+                "name": "———",
+                "description": "———"
+            }
+        },
+        "stats": {
+            "hp": [],
+            "atk": [],
+            "def": [],
+            "spd": [],
+            "taunt": 0      
+        },
+        "materials": {
+            "calyxMat": "———",
+            "commonMat": "———",
+            "bossMat": "———",
+            "weeklyBossMat": "———"
+        },
+        "description": "———",
+        "gender": "———",
+        "world": "———",
+        "voiceActors": {
+            "en": "———",
+            "jp": "———"
+        },
+        "release": {
+            "date": "April 26, 2023",
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 17,
+        "name": "Sushang",
+        "rarity": 4,
+        "element": "Physical",
+        "path": "Hunt",
+        "skills": {
+            "attack": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "skill": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "ultimate": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "talent": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "technique": {
+                "name": "———",
+                "type": "———",
+                "description": "———"
+            }
+        },
+        "traces": {},
+        "eidolon": {
+            "e1": {
+                "name": "———",
+                "description": "———"
+            },
+            "e2": {
+                "name": "———",
+                "description": "———"
+            },
+            "e3": {
+                "name": "———",
+                "description": "———"
+            },
+            "e4": {
+                "name": "———",
+                "description": "———"
+            },
+            "e5": {
+                "name": "———",
+                "description": "———"
+            },
+            "e6": {
+                "name": "———",
+                "description": "———"
+            }
+        },
+        "stats": {
+            "hp": [],
+            "atk": [],
+            "def": [],
+            "spd": [],
+            "taunt": 0      
+        },
+        "materials": {
+            "calyxMat": "———",
+            "commonMat": "———",
+            "bossMat": "———",
+            "weeklyBossMat": "———"
+        },
+        "description": "———",
+        "gender": "———",
+        "world": "———",
+        "voiceActors": {
+            "en": "———",
+            "jp": "———"
+        },
+        "release": {
+            "date": "April 26, 2023",
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 18,
+        "name": "Tingyun",
+        "rarity": 4,
+        "element": "Lightning",
+        "path": "Harmony",
+        "skills": {
+            "attack": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "skill": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "ultimate": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "talent": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "technique": {
+                "name": "———",
+                "type": "———",
+                "description": "———"
+            }
+        },
+        "traces": {},
+        "eidolon": {
+            "e1": {
+                "name": "———",
+                "description": "———"
+            },
+            "e2": {
+                "name": "———",
+                "description": "———"
+            },
+            "e3": {
+                "name": "———",
+                "description": "———"
+            },
+            "e4": {
+                "name": "———",
+                "description": "———"
+            },
+            "e5": {
+                "name": "———",
+                "description": "———"
+            },
+            "e6": {
+                "name": "———",
+                "description": "———"
+            }
+        },
+        "stats": {
+            "hp": [],
+            "atk": [],
+            "def": [],
+            "spd": [],
+            "taunt": 0      
+        },
+        "materials": {
+            "calyxMat": "———",
+            "commonMat": "———",
+            "bossMat": "———",
+            "weeklyBossMat": "———"
+        },
+        "description": "———",
+        "gender": "———",
+        "world": "———",
+        "voiceActors": {
+            "en": "———",
+            "jp": "———"
+        },
+        "release": {
+            "date": "April 26, 2023",
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 19,
+        "name": "Welt",
+        "rarity": 5,
+        "element": "Imaginary",
+        "path": "Nihility",
+        "skills": {
+            "attack": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "skill": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "ultimate": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "talent": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "technique": {
+                "name": "———",
+                "type": "———",
+                "description": "———"
+            }
+        },
+        "traces": {},
+        "eidolon": {
+            "e1": {
+                "name": "———",
+                "description": "———"
+            },
+            "e2": {
+                "name": "———",
+                "description": "———"
+            },
+            "e3": {
+                "name": "———",
+                "description": "———"
+            },
+            "e4": {
+                "name": "———",
+                "description": "———"
+            },
+            "e5": {
+                "name": "———",
+                "description": "———"
+            },
+            "e6": {
+                "name": "———",
+                "description": "———"
+            }
+        },
+        "stats": {
+            "hp": [],
+            "atk": [],
+            "def": [],
+            "spd": [],
+            "taunt": 0      
+        },
+        "materials": {
+            "calyxMat": "———",
+            "commonMat": "———",
+            "bossMat": "———",
+            "weeklyBossMat": "———"
+        },
+        "description": "———",
+        "gender": "———",
+        "world": "———",
+        "voiceActors": {
+            "en": "———",
+            "jp": "———"
+        },
+        "release": {
+            "date": "April 26, 2023",
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 20,
+        "name": "Yanqing",
+        "rarity": 5,
+        "element": "Ice",
+        "path": "Hunt",
+        "skills": {
+            "attack": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "skill": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "ultimate": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "talent": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "technique": {
+                "name": "———",
+                "type": "———",
+                "description": "———"
+            }
+        },
+        "traces": {},
+        "eidolon": {
+            "e1": {
+                "name": "———",
+                "description": "———"
+            },
+            "e2": {
+                "name": "———",
+                "description": "———"
+            },
+            "e3": {
+                "name": "———",
+                "description": "———"
+            },
+            "e4": {
+                "name": "———",
+                "description": "———"
+            },
+            "e5": {
+                "name": "———",
+                "description": "———"
+            },
+            "e6": {
+                "name": "———",
+                "description": "———"
+            }
+        },
+        "stats": {
+            "hp": [],
+            "atk": [],
+            "def": [],
+            "spd": [],
+            "taunt": 0      
+        },
+        "materials": {
+            "calyxMat": "———",
+            "commonMat": "———",
+            "bossMat": "———",
+            "weeklyBossMat": "———"
+        },
+        "description": "———",
+        "gender": "———",
+        "world": "———",
+        "voiceActors": {
+            "en": "———",
+            "jp": "———"
+        },
+        "release": {
+            "date": "April 26, 2023",
+            "version": "1.0"
         }
     }
 ]
