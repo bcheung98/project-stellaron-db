@@ -78,7 +78,7 @@
         },
         "description": "The head of Herta Space Station's Security Department. This quiet boy hopes to protect the researchers who value their pursuit of knowledge, and to help them to complete their work.",
         "gender": "Male",
-        "world": "Herta Space Station",
+        "faction": "Herta Space Station",
         "voiceActors": {
             "en": "Dani Chambers",
             "jp": "Ryoko Shiraishi (白石 涼子)"
@@ -167,7 +167,7 @@
         },
         "description": "The lead researcher of Herta Space Station and a lady from a renowned family. She's an astronomer overflowing with curiosity, and excels at managing the disparate staff of the space station.",
         "gender": "Female",
-        "world": "Herta Space Station",
+        "faction": "Herta Space Station",
         "voiceActors": {
             "en": "Felecia Angelle",
             "jp": "Chinatsu Akasaki (赤﨑 千夏)"
@@ -256,7 +256,7 @@
         },
         "description": "———",
         "gender": "———",
-        "world": "———",
+        "faction": "———",
         "voiceActors": {
             "en": "———",
             "jp": "———"
@@ -345,7 +345,7 @@
         },
         "description": "———",
         "gender": "———",
-        "world": "———",
+        "faction": "———",
         "voiceActors": {
             "en": "———",
             "jp": "———"
@@ -434,7 +434,7 @@
         },
         "description": "———",
         "gender": "———",
-        "world": "———",
+        "faction": "———",
         "voiceActors": {
             "en": "———",
             "jp": "———"
@@ -523,7 +523,7 @@
         },
         "description": "———",
         "gender": "———",
-        "world": "———",
+        "faction": "———",
         "voiceActors": {
             "en": "———",
             "jp": "———"
@@ -612,7 +612,7 @@
         },
         "description": "———",
         "gender": "———",
-        "world": "———",
+        "faction": "———",
         "voiceActors": {
             "en": "———",
             "jp": "———"
@@ -701,7 +701,7 @@
         },
         "description": "———",
         "gender": "———",
-        "world": "———",
+        "faction": "———",
         "voiceActors": {
             "en": "———",
             "jp": "———"
@@ -790,7 +790,7 @@
         },
         "description": "———",
         "gender": "———",
-        "world": "———",
+        "faction": "———",
         "voiceActors": {
             "en": "———",
             "jp": "———"
@@ -879,7 +879,7 @@
         },
         "description": "———",
         "gender": "———",
-        "world": "———",
+        "faction": "———",
         "voiceActors": {
             "en": "———",
             "jp": "———"
@@ -968,7 +968,7 @@
         },
         "description": "———",
         "gender": "———",
-        "world": "———",
+        "faction": "———",
         "voiceActors": {
             "en": "———",
             "jp": "———"
@@ -1057,7 +1057,7 @@
         },
         "description": "———",
         "gender": "———",
-        "world": "———",
+        "faction": "———",
         "voiceActors": {
             "en": "———",
             "jp": "———"
@@ -1146,7 +1146,7 @@
         },
         "description": "———",
         "gender": "———",
-        "world": "———",
+        "faction": "———",
         "voiceActors": {
             "en": "———",
             "jp": "———"
@@ -1235,7 +1235,7 @@
         },
         "description": "———",
         "gender": "———",
-        "world": "———",
+        "faction": "———",
         "voiceActors": {
             "en": "———",
             "jp": "———"
@@ -1324,7 +1324,7 @@
         },
         "description": "———",
         "gender": "———",
-        "world": "———",
+        "faction": "———",
         "voiceActors": {
             "en": "———",
             "jp": "———"
@@ -1413,7 +1413,7 @@
         },
         "description": "———",
         "gender": "———",
-        "world": "———",
+        "faction": "———",
         "voiceActors": {
             "en": "———",
             "jp": "———"
@@ -1502,7 +1502,7 @@
         },
         "description": "———",
         "gender": "———",
-        "world": "———",
+        "faction": "———",
         "voiceActors": {
             "en": "———",
             "jp": "———"
@@ -1591,7 +1591,7 @@
         },
         "description": "———",
         "gender": "———",
-        "world": "———",
+        "faction": "———",
         "voiceActors": {
             "en": "———",
             "jp": "———"
@@ -1680,7 +1680,7 @@
         },
         "description": "———",
         "gender": "———",
-        "world": "———",
+        "faction": "———",
         "voiceActors": {
             "en": "———",
             "jp": "———"
@@ -1769,7 +1769,7 @@
         },
         "description": "———",
         "gender": "———",
-        "world": "———",
+        "faction": "———",
         "voiceActors": {
             "en": "———",
             "jp": "———"
@@ -1858,7 +1858,7 @@
         },
         "description": "———",
         "gender": "———",
-        "world": "———",
+        "faction": "———",
         "voiceActors": {
             "en": "———",
             "jp": "———"
