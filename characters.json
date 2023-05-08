@@ -605,7 +605,7 @@
             "taunt": 0      
         },
         "materials": {
-            "calyxMat": "Amber",
+            "calyxMat": "Shield",
             "commonMat": "Silvermane",
             "bossMat": "Horn of Snow",
             "weeklyBossMat": "Guardian's Lament"
@@ -961,7 +961,7 @@
             "taunt": 0      
         },
         "materials": {
-            "calyxMat": "Amber",
+            "calyxMat": "Shield",
             "commonMat": "Antimatter",
             "bossMat": "Horn of Snow",
             "weeklyBossMat": "Destroyer's Final Road"
