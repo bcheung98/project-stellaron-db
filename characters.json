@@ -254,12 +254,12 @@
             "bossMat": "Lightning Crown of the Past Shadow",
             "weeklyBossMat": "Guardian's Lament"
         },
-        "description": "———",
-        "gender": "———",
-        "faction": "———",
+        "description": "The High Elder of the Vidyadhara, who is also known as the \"Healer Lady\" on the Luofu. She uses her unique medical treatment that can only be provided by the Vidyadhara dragon race to save lives.",
+        "gender": "Female",
+        "faction": "Xianzhou Luofu",
         "voiceActors": {
-            "en": "———",
-            "jp": "———"
+            "en": "Su Ling Chan",
+            "jp": "Emiri Katō (加藤 英美里)"
         },
         "release": {
             "date": "April 26, 2023",
@@ -343,12 +343,12 @@
             "bossMat": "Storm Eye",
             "weeklyBossMat": "Guardian's Lament"
         },
-        "description": "———",
-        "gender": "———",
-        "faction": "———",
+        "description": "Heir apparent to the Supreme Guardian of Belobog. She possesses pride befitting of a princess, but also the determination and integrity of a soldier.",
+        "gender": "Female",
+        "faction": "Belobog",
         "voiceActors": {
-            "en": "———",
-            "jp": "———"
+            "en": "Madeline Reiter",
+            "jp": "Kana Asumi (阿澄 佳奈)"
         },
         "release": {
             "date": "April 26, 2023",
@@ -432,12 +432,12 @@
             "bossMat": "Broken Teeth of Iron Wolf",
             "weeklyBossMat": "Guardian's Lament"
         },
-        "description": "———",
-        "gender": "———",
-        "faction": "———",
+        "description": "A vagrant girl who lives with robots. She is introverted, gentle, and has a pure heart. She wishes for all Underworlders to become a family.",
+        "gender": "Female",
+        "faction": "Belobog",
         "voiceActors": {
-            "en": "———",
-            "jp": "———"
+            "en": "Emily Sun",
+            "jp": "Rina Hidaka (日高 里菜)"
         },
         "release": {
             "date": "April 26, 2023",
@@ -521,12 +521,12 @@
             "bossMat": "Storm Eye",
             "weeklyBossMat": "Destroyer's Final Road"
         },
-        "description": "———",
-        "gender": "———",
-        "faction": "———",
+        "description": "A cold and reserved young man who is reticent about his past. To avoid his kin, he decided to travel with the Astral Express.",
+        "gender": "Male",
+        "faction": "Astral Express",
         "voiceActors": {
-            "en": "———",
-            "jp": "———"
+            "en": "Nicholas Leung",
+            "jp": "Kent Itō (伊東 健人)"
         },
         "release": {
             "date": "April 26, 2023",
@@ -610,12 +610,12 @@
             "bossMat": "Horn of Snow",
             "weeklyBossMat": "Guardian's Lament"
         },
-        "description": "———",
-        "gender": "———",
-        "faction": "———",
+        "description": "A captain in the Silvermane Guards and an outstanding warrior of Belobog. He is meticulous and vigilant to the core and is always true to himself.",
+        "gender": "Male",
+        "faction": "Belobog",
         "voiceActors": {
-            "en": "———",
-            "jp": "———"
+            "en": "Bryson Baugus",
+            "jp": "Makoto Furukawa (古川 慎)"
         },
         "release": {
             "date": "April 26, 2023",
@@ -699,12 +699,12 @@
             "bossMat": "Horn of Snow",
             "weeklyBossMat": "Destroyer's Final Road"
         },
-        "description": "———",
-        "gender": "———",
-        "faction": "———",
+        "description": "Member 83 of the Genius Society. The real master of the space station. An incredibly intelligent yet unsympathetic scientist.",
+        "gender": "Female",
+        "faction": "Herta Space Station",
         "voiceActors": {
-            "en": "———",
-            "jp": "———"
+            "en": "PJ Mattson",
+            "jp": "Haruka Yamazaki (山崎 はるか)"
         },
         "release": {
             "date": "April 26, 2023",
@@ -788,12 +788,12 @@
             "bossMat": "Endotherm Chitin",
             "weeklyBossMat": "Destroyer's Final Road"
         },
-        "description": "———",
-        "gender": "———",
-        "faction": "———",
+        "description": "The one who repaired the Astral Express. To witness the vast starry sky, she decided to travel with the Astral Express. Her hobby is brewing hand-made coffee.",
+        "gender": "Female",
+        "faction": "Astral Express",
         "voiceActors": {
-            "en": "———",
-            "jp": "———"
+            "en": "Cia Court",
+            "jp": "Rie Tanaka (田中 理恵)"
         },
         "release": {
             "date": "April 26, 2023",
@@ -877,12 +877,12 @@
             "bossMat": "Endotherm Chitin",
             "weeklyBossMat": "Guardian's Lament"
         },
-        "description": "———",
-        "gender": "———",
-        "faction": "———",
+        "description": "Boss (self-proclaimed) of an Underworld adventure squad, The Moles. She loves freedom and sees life as a series of adventures.",
+        "gender": "Female",
+        "faction": "Belobog",
         "voiceActors": {
-            "en": "———",
-            "jp": "———"
+            "en": "Felecia Angelle",
+            "jp": "Sora Tokui (徳井 青空)"
         },
         "release": {
             "date": "April 26, 2023",
@@ -966,12 +966,12 @@
             "bossMat": "Horn of Snow",
             "weeklyBossMat": "Destroyer's Final Road"
         },
-        "description": "———",
-        "gender": "———",
-        "faction": "———",
+        "description": "A girl who once slumbered in eternal ice and knows nothing about her past. To find out the truth about her origins, she decided to travel with the Astral Express. As of right now, she has prepared about 67 different versions of her life story for herself.",
+        "gender": "Female",
+        "faction": "Astral Express",
         "voiceActors": {
-            "en": "———",
-            "jp": "———"
+            "en": "Skyler Davenport",
+            "jp": "Yui Ogura (小倉 唯)"
         },
         "release": {
             "date": "April 26, 2023",
@@ -1055,12 +1055,12 @@
             "bossMat": "Broken Teeth of Iron Wolf",
             "weeklyBossMat": "Guardian's Lament"
         },
-        "description": "———",
-        "gender": "———",
-        "faction": "———",
+        "description": "A doctor from the Underworld and a caregiver of children. Alongside her kindness and caring, she also has a hidden dangerous side.",
+        "gender": "Female",
+        "faction": "Belobog",
         "voiceActors": {
-            "en": "———",
-            "jp": "———"
+            "en": "Elizabeth Maxwell",
+            "jp": "Yumi Uchiyama (内山 夕実)"
         },
         "release": {
             "date": "April 26, 2023",
@@ -1144,12 +1144,12 @@
             "bossMat": "Horn of Snow",
             "weeklyBossMat": "Guardian's Lament"
         },
-        "description": "———",
-        "gender": "———",
-        "faction": "———",
+        "description": "A secretarial officer for the Silvermane Guards. She has a serious personality and is revered by other members of the Silvermane Guards.",
+        "gender": "Female",
+        "faction": "Belobog",
         "voiceActors": {
-            "en": "———",
-            "jp": "———"
+            "en": "Xanthe Huynh",
+            "jp": "Sumire Morohoshi (諸星 すみれ)"
         },
         "release": {
             "date": "April 26, 2023",
@@ -1233,12 +1233,12 @@
             "bossMat": "Void Cast Iron",
             "weeklyBossMat": "Guardian's Lament"
         },
-        "description": "———",
-        "gender": "———",
-        "faction": "———",
+        "description": "Diviner of the Divination Commission on the Xianzhou Luofu, and a librarian. Always slacks off and is about to be demoted to a \"door guardian.\"",
+        "gender": "Female",
+        "faction": "Xianzhou Luofu",
         "voiceActors": {
-            "en": "———",
-            "jp": "———"
+            "en": "Bryn Apprill",
+            "jp": "Arisa Date (伊達 朱里紗)"
         },
         "release": {
             "date": "April 26, 2023",
@@ -1322,12 +1322,12 @@
             "bossMat": "Storm Eye",
             "weeklyBossMat": "Guardian's Lament"
         },
-        "description": "———",
-        "gender": "———",
-        "faction": "———",
+        "description": "A merchant who freely travels between the Overworld and the Underworld. He acts like he is everyone's friend, is enthusiastically humorous, and is good at bantering.",
+        "gender": "Male",
+        "faction": "Belobog",
         "voiceActors": {
-            "en": "———",
-            "jp": "———"
+            "en": "Roger Rose",
+            "jp": "Daisuke Hirakawa (平川 大輔)"
         },
         "release": {
             "date": "April 26, 2023",
@@ -1411,12 +1411,12 @@
             "bossMat": "Void Cast Iron",
             "weeklyBossMat": "Guardian's Lament"
         },
-        "description": "———",
-        "gender": "———",
-        "faction": "———",
+        "description": "A resident of the Underworld and the backbone of Wildfire. She goes by the alias \"Babochka.\" She has a frank personality, but there is a delicate and sensitive hidden side to her deep in her heart.",
+        "gender": "Female",
+        "faction": "Belobog",
         "voiceActors": {
-            "en": "———",
-            "jp": "———"
+            "en": "Molly Zhang",
+            "jp": "Mai Nakahara (中原 麻衣)"
         },
         "release": {
             "date": "April 26, 2023",
@@ -1500,12 +1500,12 @@
             "bossMat": "Lightning Crown of the Past Shadow",
             "weeklyBossMat": "Guardian's Lament"
         },
-        "description": "———",
-        "gender": "———",
-        "faction": "———",
+        "description": "A Belobog mechanic who used to be a researcher for the Technology Division of the Architects.<br />As Gepard Landau's elder sister, her personality stands in stark contrast to her brother's.<br />She loves an ancient form of music known as \"rock 'n' roll\" that was popular before the Eternal Freeze.",
+        "gender": "Female",
+        "faction": "Belobog",
         "voiceActors": {
-            "en": "———",
-            "jp": "———"
+            "en": "Natalie Van Sistine",
+            "jp": "Aimi (愛美)"
         },
         "release": {
             "date": "April 26, 2023",
@@ -1589,12 +1589,12 @@
             "bossMat": "Broken Teeth of Iron Wolf",
             "weeklyBossMat": "Guardian's Lament"
         },
-        "description": "———",
-        "gender": "———",
-        "faction": "———",
+        "description": "Born on the Xianzhou Yaoqing, sent to the Cloud Knights of the Luofu for military training. She wields her family sword, a gift from her mother, and longs for the future she will go on to write.",
+        "gender": "Female",
+        "faction": "Xianzhou Luofu",
         "voiceActors": {
-            "en": "———",
-            "jp": "———"
+            "en": "Anjali Kunapaneni",
+            "jp": "Misato Fukuen (福圓 美里)"
         },
         "release": {
             "date": "April 26, 2023",
@@ -1678,12 +1678,12 @@
             "bossMat": "Lightning Crown of the Past Shadow",
             "weeklyBossMat": "Destroyer's Final Road"
         },
-        "description": "———",
-        "gender": "———",
-        "faction": "———",
+        "description": "Amicassador of the Sky-Faring Commission of the Xianzhou Luofu. She travels with business delegates, forging trade relationships and alliances with many worlds.",
+        "gender": "Female",
+        "faction": "Xianzhou Luofu",
         "voiceActors": {
-            "en": "———",
-            "jp": "———"
+            "en": "Laci Morgan",
+            "jp": "Yūki Takada (高田 憂希)"
         },
         "release": {
             "date": "April 26, 2023",
@@ -1767,12 +1767,12 @@
             "bossMat": "Golden Crown of the Past Shadow",
             "weeklyBossMat": "Destroyer's Final Road"
         },
-        "description": "———",
-        "gender": "———",
-        "faction": "———",
+        "description": "A seasoned member of the Express crew. The passion buried in his heart burns anew as he enjoys this fresh adventure. Occasionally, he would sketch the experiences in a notebook.",
+        "gender": "Male",
+        "faction": "Astral Express",
         "voiceActors": {
-            "en": "———",
-            "jp": "———"
+            "en": "Corey Landis",
+            "jp": "Yoshimasa Hosoya (細谷 佳正)"
         },
         "release": {
             "date": "April 26, 2023",
@@ -1856,12 +1856,12 @@
             "bossMat": "Gelid Chitin",
             "weeklyBossMat": "Guardian's Lament"
         },
-        "description": "———",
-        "gender": "———",
-        "faction": "———",
+        "description": "General Jing Yuan's retainer. A gifted swordsman who hasn't even come of age. No one can best Yanqing when he holds a sword in hand.",
+        "gender": "Male",
+        "faction": "Xianzhou Luofu",
         "voiceActors": {
-            "en": "———",
-            "jp": "———"
+            "en": "Amber May",
+            "jp": "Marina Inoue (井上 麻里奈)"
         },
         "release": {
             "date": "April 26, 2023",
