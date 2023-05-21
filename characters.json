@@ -1336,95 +1336,6 @@
     },
     {
         "id": 15,
-        "name": "Seele",
-        "rarity": 5,
-        "element": "Quantum",
-        "path": "Hunt",
-        "skills": {
-            "attack": {
-                "name": "———",
-                "type": "———",
-                "description": "———",
-                "scaling": []
-            },
-            "skill": {
-                "name": "———",
-                "type": "———",
-                "description": "———",
-                "scaling": []
-            },
-            "ultimate": {
-                "name": "———",
-                "type": "———",
-                "description": "———",
-                "scaling": []
-            },
-            "talent": {
-                "name": "———",
-                "type": "———",
-                "description": "———",
-                "scaling": []
-            },
-            "technique": {
-                "name": "———",
-                "type": "———",
-                "description": "———"
-            }
-        },
-        "traces": {},
-        "eidolon": {
-            "e1": {
-                "name": "———",
-                "description": "———"
-            },
-            "e2": {
-                "name": "———",
-                "description": "———"
-            },
-            "e3": {
-                "name": "———",
-                "description": "———"
-            },
-            "e4": {
-                "name": "———",
-                "description": "———"
-            },
-            "e5": {
-                "name": "———",
-                "description": "———"
-            },
-            "e6": {
-                "name": "———",
-                "description": "———"
-            }
-        },
-        "stats": {
-            "hp": [],
-            "atk": [],
-            "def": [],
-            "spd": [],
-            "taunt": 0      
-        },
-        "materials": {
-            "calyxMat": "Arrow",
-            "commonMat": "Antimatter",
-            "bossMat": "Void Cast Iron",
-            "weeklyBossMat": "Guardian's Lament"
-        },
-        "description": "A resident of the Underworld and the backbone of Wildfire. She goes by the alias \"Babochka.\" She has a frank personality, but there is a delicate and sensitive hidden side to her deep in her heart.",
-        "gender": "Female",
-        "faction": "Belobog",
-        "voiceActors": {
-            "en": "Molly Zhang",
-            "jp": "Mai Nakahara (中原 麻衣)"
-        },
-        "release": {
-            "date": "April 26, 2023",
-            "version": "1.0"
-        }
-    },
-    {
-        "id": 16,
         "name": "Serval",
         "rarity": 4,
         "element": "Lightning",
@@ -1513,7 +1424,7 @@
         }
     },
     {
-        "id": 17,
+        "id": 16,
         "name": "Sushang",
         "rarity": 4,
         "element": "Physical",
@@ -1602,7 +1513,7 @@
         }
     },
     {
-        "id": 18,
+        "id": 17,
         "name": "Tingyun",
         "rarity": 4,
         "element": "Lightning",
@@ -1691,7 +1602,7 @@
         }
     },
     {
-        "id": 19,
+        "id": 18,
         "name": "Welt",
         "rarity": 5,
         "element": "Imaginary",
@@ -1780,7 +1691,7 @@
         }
     },
     {
-        "id": 20,
+        "id": 19,
         "name": "Yanqing",
         "rarity": 5,
         "element": "Ice",
@@ -1865,6 +1776,184 @@
         },
         "release": {
             "date": "April 26, 2023",
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 20,
+        "name": "Seele",
+        "rarity": 5,
+        "element": "Quantum",
+        "path": "Hunt",
+        "skills": {
+            "attack": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "skill": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "ultimate": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "talent": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "technique": {
+                "name": "———",
+                "type": "———",
+                "description": "———"
+            }
+        },
+        "traces": {},
+        "eidolon": {
+            "e1": {
+                "name": "———",
+                "description": "———"
+            },
+            "e2": {
+                "name": "———",
+                "description": "———"
+            },
+            "e3": {
+                "name": "———",
+                "description": "———"
+            },
+            "e4": {
+                "name": "———",
+                "description": "———"
+            },
+            "e5": {
+                "name": "———",
+                "description": "———"
+            },
+            "e6": {
+                "name": "———",
+                "description": "———"
+            }
+        },
+        "stats": {
+            "hp": [],
+            "atk": [],
+            "def": [],
+            "spd": [],
+            "taunt": 0      
+        },
+        "materials": {
+            "calyxMat": "Arrow",
+            "commonMat": "Antimatter",
+            "bossMat": "Void Cast Iron",
+            "weeklyBossMat": "Guardian's Lament"
+        },
+        "description": "A resident of the Underworld and the backbone of Wildfire. She goes by the alias \"Babochka.\" She has a frank personality, but there is a delicate and sensitive hidden side to her deep in her heart.",
+        "gender": "Female",
+        "faction": "Belobog",
+        "voiceActors": {
+            "en": "Molly Zhang",
+            "jp": "Mai Nakahara (中原 麻衣)"
+        },
+        "release": {
+            "date": "April 26, 2023",
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 21,
+        "name": "Jing Yuan",
+        "rarity": 5,
+        "element": "Lightning",
+        "path": "Erudition",
+        "skills": {
+            "attack": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "skill": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "ultimate": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "talent": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "technique": {
+                "name": "———",
+                "type": "———",
+                "description": "———"
+            }
+        },
+        "traces": {},
+        "eidolon": {
+            "e1": {
+                "name": "———",
+                "description": "———"
+            },
+            "e2": {
+                "name": "———",
+                "description": "———"
+            },
+            "e3": {
+                "name": "———",
+                "description": "———"
+            },
+            "e4": {
+                "name": "———",
+                "description": "———"
+            },
+            "e5": {
+                "name": "———",
+                "description": "———"
+            },
+            "e6": {
+                "name": "———",
+                "description": "———"
+            }
+        },
+        "stats": {
+            "hp": [],
+            "atk": [],
+            "def": [],
+            "spd": [],
+            "taunt": 0      
+        },
+        "materials": {
+            "calyxMat": "Key",
+            "commonMat": "Immortal",
+            "bossMat": "Shape Shifter's Lightning Staff",
+            "weeklyBossMat": "Destroyer's Final Road"
+        },
+        "description": "The Divine Foresight, one of the Seven Arbiter-Generals of the Xianzhou Alliance, leads the Cloud Knights of the Xianzhou Luofu.<br />A student of the Luofu's previous Sword Champion, though not known for his martial prowess.",
+        "gender": "Male",
+        "faction": "Xianzhou Luofu",
+        "voiceActors": {
+            "en": "Alejandro Saab",
+            "jp": "Daisuke Ono (小野 大輔)"
+        },
+        "release": {
+            "date": "May 16, 2023",
             "version": "1.0"
         }
     }
