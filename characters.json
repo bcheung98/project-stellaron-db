@@ -1956,5 +1956,94 @@
             "date": "May 16, 2023",
             "version": "1.0"
         }
+    },
+    {
+        "id": 22,
+        "name": "Silver Wolf",
+        "rarity": 5,
+        "element": "Quantum",
+        "path": "Nihility",
+        "skills": {
+            "attack": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "skill": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "ultimate": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "talent": {
+                "name": "———",
+                "type": "———",
+                "description": "———",
+                "scaling": []
+            },
+            "technique": {
+                "name": "———",
+                "type": "———",
+                "description": "———"
+            }
+        },
+        "traces": {},
+        "eidolon": {
+            "e1": {
+                "name": "———",
+                "description": "———"
+            },
+            "e2": {
+                "name": "———",
+                "description": "———"
+            },
+            "e3": {
+                "name": "———",
+                "description": "———"
+            },
+            "e4": {
+                "name": "———",
+                "description": "———"
+            },
+            "e5": {
+                "name": "———",
+                "description": "———"
+            },
+            "e6": {
+                "name": "———",
+                "description": "———"
+            }
+        },
+        "stats": {
+            "hp": [],
+            "atk": [],
+            "def": [],
+            "spd": [],
+            "taunt": 0      
+        },
+        "materials": {
+            "calyxMat": "Obsidian",
+            "commonMat": "Engine",
+            "bossMat": "Void Cast Iron",
+            "weeklyBossMat": "Destroyer's Final Road"
+        },
+        "description": "A member of the Stellaron Hunters and a genius hacker. She sees the universe as a massive immersive simulation game and has fun with it. She's mastered the skill known as \"aether editing,\" which can be used to tamper with the data of reality.",
+        "gender": "Female",
+        "faction": "Stellaron Hunters",
+        "voiceActors": {
+            "en": "Melissa Fahn",
+            "jp": "Kana Asumi (阿澄 佳奈)"
+        },
+        "release": {
+            "date": "June 7, 2023",
+            "version": "1.1"
+        }
     }
 ]
