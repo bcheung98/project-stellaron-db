@@ -880,13 +880,9 @@
                 ]
             },
             {
-                "subTraces": [
-                    {
-                        "type": "HP",
-                        "description": "HP +4%",
-                        "unlock": "Lv. 1"
-                    }
-                ]
+                "type": "HP",
+                "description": "HP +4%",
+                "unlock": "Lv. 1"
             },
             {
                 "type": "HP",
