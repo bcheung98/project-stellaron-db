@@ -380,6 +380,7 @@
             },
             "ultimate": {
                 "name": "Astral Blessing",
+                "energyCost": 120,
                 "description": "<span class=\"text-highlight\">[Support]</span><br />Increases SPD of all allies by <span class=\"text-value\">36</span> for 2 turn(s).",
                 "scaling": [
                     [
@@ -692,6 +693,7 @@
             },
             "ultimate": {
                 "name": "Felicitous Thunderleap",
+                "energyCost": 100,
                 "description": "<span class=\"text-highlight\">[Restore]</span><br />Heals all allies for <span class=\"text-value\">9%</span> of Bailu's Max HP plus <span class=\"text-value\">90</span>. Bailu applies Invigoration to allies that are not already Invigorated. For those already Invigorated, Bailu extends the duration of their Invigoration by 1 turn. The effect of Invigoration can last for 2 turn(s). This effect cannot stack.",
                 "scaling": [
                     [
