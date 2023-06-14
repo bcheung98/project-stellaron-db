@@ -8333,5 +8333,665 @@
             "date": "June 7, 2023",
             "version": "1.1"
         }
+    },
+    {
+        "id": 25,
+        "name": "Luocha",
+        "rarity": 5,
+        "element": "Imaginary",
+        "path": "Abundance",
+        "skills": {
+            "attack": {
+                "name": "Thorns of the Abyss",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">50%</span> of Luocha's ATK to a single enemy.",
+                "scaling": [
+                    [
+                        "50%",
+                        "60%",
+                        "70%",
+                        "80%",
+                        "90%",
+                        "100%",
+                        "110%",
+                        "120%",
+                        "130%"
+                    ]
+                ]
+            },
+            "skill": {
+                "name": "Prayer of Abyss Flower",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br />After using his Skill, Luocha immediately restores the target ally's HP equal to <span class=\"text-value\">40%</span> of Luocha's ATK plus <span class=\"text-value\">200</span>. Meanwhile, Luocha gains 1 stack of Abyss Flower.<br />When any ally's HP percentage drops to 50% or lower, an effect equivalent to Luocha's Skill will immediately be triggered and applied to this ally for one time (without consuming Skill Points). This effect can be triggered again after 2 turn(s).",
+                "scaling": [
+                    [
+                        "40%",
+                        "42.5%",
+                        "45%",
+                        "47.5%",
+                        "50%",
+                        "52%",
+                        "54%",
+                        "56%",
+                        "58%",
+                        "60%",
+                        "62%",
+                        "64%",
+                        "66%",
+                        "68%",
+                        "70%"
+                    ],
+                    [
+                        "200",
+                        "320",
+                        "410",
+                        "500",
+                        "560",
+                        "620",
+                        "665",
+                        "710",
+                        "755",
+                        "800",
+                        "845",
+                        "890",
+                        "935",
+                        "980",
+                        "1025"
+                    ]
+                ]
+            },
+            "ultimate": {
+                "name": "Death Wish",
+                "energyCost": 100,
+                "description": "<span class=\"text-highlight\">[AoE]</span><br />Removes 1 buff(s) from all enemies and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">120%</span> of Luocha's ATK to all enemies. Luocha gains 1 stack of Abyss Flower.",
+                "scaling": [
+                    [
+                        "120%",
+                        "128%",
+                        "136%",
+                        "144%",
+                        "152%",
+                        "160%",
+                        "170%",
+                        "180%",
+                        "190%",
+                        "200%",
+                        "208%",
+                        "216%",
+                        "224%",
+                        "232%",
+                        "240%"
+                    ]
+                ]
+            },
+            "talent": {
+                "name": "Cycle of Life",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br />When Abyss Flower reaches 2 stacks, Luocha consumes all stacks of Abyss Flower to deploy a Field against the enemy.<br />When any enemy in the Field is attacked by an ally, the attacking ally's HP is immediately restored by an amount equal to <span class=\"text-value\">12%</span> of Luocha's ATK plus <span class=\"text-value\">60</span>.<br />The Field's effect lasts for 2 turns. When Luocha is knocked down, the Field will be dispelled.",
+                "scaling": [
+                    [
+                        "12%",
+                        "12.75%",
+                        "13.5%",
+                        "14.25%",
+                        "15%",
+                        "15.6%",
+                        "16.2%",
+                        "16.8%",
+                        "17.4%",
+                        "18%",
+                        "18.6%",
+                        "19.2%",
+                        "19.8%",
+                        "20.4%",
+                        "21%"
+                    ],
+                    [
+                        "60",
+                        "96",
+                        "123",
+                        "150",
+                        "168",
+                        "186",
+                        "200",
+                        "213",
+                        "227",
+                        "240",
+                        "254",
+                        "267",
+                        "281",
+                        "294",
+                        "308"
+                    ]
+                ]
+            },
+            "technique": {
+                "name": "Mercy of a Fool",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br />After the Technique is used, the Talent will be immediately triggered at the start of the next battle."
+            }
+        },
+        "traces": [
+            {
+                "name": "Cleansing Revival",
+                "description": "When the Skill's effect is triggered, removes 1 debuff(s) from a target ally.",
+                "unlock": "A2",
+                "subTraces": [
+                    {
+                        "type": "HP",
+                        "description": "HP +4%",
+                        "unlock": "A2",
+                        "subTraces": [
+                            {
+                                "type": "ATK",
+                                "description": "ATK +4%",
+                                "unlock": "A3",
+                                "subTraces": [
+                                    {
+                                        "type": "DEF",
+                                        "description": "DEF +5%",
+                                        "unlock": "A3"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Sanctified",
+                "description": "When any enemy in the Field is attacked by an ally, all allies (except the attacker) restore HP equal to 7% of Luocha's ATK plus 93.",
+                "unlock": "A4",
+                "subTraces": [
+                    {
+                        "type": "ATK",
+                        "description": "ATK +6%",
+                        "unlock": "A4",
+                        "subTraces": [
+                            {
+                                "type": "HP",
+                                "description": "HP +6%",
+                                "unlock": "A5",
+                                "subTraces": [
+                                    {
+                                        "type": "ATK",
+                                        "description": "ATK +6%",
+                                        "unlock": "A5"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Through the Valley",
+                "description": "The chance to resist Crowd Control debuffs increases by 70%.",
+                "unlock": "A6",
+                "subTraces": [
+                    {
+                        "type": "DEF",
+                        "description": "DEF +7.5%",
+                        "unlock": "A6"
+                    },
+                    {
+                        "type": "HP",
+                        "description": "HP +8%",
+                        "unlock": "Lv. 75"
+                    }
+                ]
+            },
+            {
+                "type": "ATK",
+                "description": "ATK +4%",
+                "unlock": "Lv. 1"
+            },
+            {
+                "type": "ATK",
+                "description": "ATK +8%",
+                "unlock": "Lv. 80"
+            }
+        ],
+        "eidolon": {
+            "e1": {
+                "name": "Ablution of the Quick",
+                "description": "While the Field is active, ATK of all allies increases by 20%."
+            },
+            "e2": {
+                "name": "Bestowal From the Pure",
+                "description": "When his Skill is triggered, if the target ally's HP is lower than 50%, Luocha's Outgoing Healing increases by 30%. If the target ally's HP is at 50% or higher, the ally receives a Shield that can absorb DMG equal to 18% of Luocha's ATK plus 240, lasting for 2 turns."
+            },
+            "e3": {
+                "name": "Surveyal by the Fool",
+                "description": "Skill Lv. +2, up to a maximum of Lv. 15.<br />Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "e4": {
+                "name": "Heavy Lies the Crown",
+                "description": "When Luocha's Field is active, enemies become Weakened and deal 12% less DMG."
+            },
+            "e5": {
+                "name": "Cicatrix 'Neath the Pain",
+                "description": "Ultimate Lv. +2, up to a maximum of Lv. 15.<br />Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "e6": {
+                "name": "Reunion With the Dust",
+                "description": "When Ultimate is used, there is a 100% fixed chance to reduce all enemies' All-Type RES by 20% for 2 turn(s)."
+            }
+        },
+        "stats": {
+            "hp": [
+                174,
+                340,
+                409,
+                653,
+                723,
+                810,
+                880,
+                967,
+                1037,
+                1124,
+                1194,
+                1281
+            ],
+            "atk": [
+                103,
+                201,
+                242,
+                386,
+                427,
+                479,
+                520,
+                571,
+                613,
+                664,
+                705,
+                757
+            ],
+            "def": [
+                50,
+                97,
+                116,
+                186,
+                205,
+                230,
+                250,
+                275,
+                295,
+                319,
+                339,
+                364
+            ],
+            "speed": [
+                101,
+                101,
+                101,
+                101,
+                101,
+                101,
+                101,
+                101,
+                101,
+                101,
+                101,
+                101
+            ],
+            "taunt": [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ]
+        },
+        "materials": {
+            "calyxMat": "Flower",
+            "commonMat": "Artifex",
+            "bossMat": "Golden Crown of the Past Shadow",
+            "weeklyBossMat": "Guardian's Lament"
+        },
+        "description": "Carrying a coffin wherever he goes, he is a foreign trader who came from beyond the stellar seas. Has excellent medical skills.",
+        "gender": "Male",
+        "faction": "Xianzhou Luofu",
+        "voiceActors": {
+            "en": "Craig Lee Thomas",
+            "jp": "Akira Ishida (石田 彰)"
+        },
+        "release": {
+            "date": "June 27, 2023",
+            "version": "1.1"
+        }
+    },
+    {
+        "id": 26,
+        "name": "Yukong",
+        "rarity": 4,
+        "element": "Imaginary",
+        "path": "Harmony",
+        "skills": {
+            "attack": {
+                "name": "Arrowslinger",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">50%</span> of Yukong's ATK to a single enemy.",
+                "scaling": [
+                    [
+                        "50%",
+                        "60%",
+                        "70%",
+                        "80%",
+                        "90%",
+                        "100%",
+                        "110%",
+                        "120%",
+                        "130%"
+                    ]
+                ]
+            },
+            "skill": {
+                "name": "Emboldening Salvo",
+                "description": "<span class=\"text-highlight\">[Support]</span><br />Obtains 2 stack(s) of \"Roaring Bowstrings\" (to a maximum of 2 stacks). When \"Roaring Bowstrings\" is active, the ATK of all allies increases by <span class=\"text-value\">40%</span>, and every time an ally's turn ends, Yukong loses 1 stack of \"Roaring Bowstrings.\"<br />When it's the turn where Yukong gains \"Roaring Bowstrings\" by using Skill, \"Roaring Bowstrings\" will not be removed.",
+                "scaling": [
+                    [
+                        "40%",
+                        "44%",
+                        "48%",
+                        "52%",
+                        "56%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "84%",
+                        "88%",
+                        "92%",
+                        "96%",
+                        "100%"
+                    ]
+                ]
+            },
+            "ultimate": {
+                "name": "Diving Kestrel",
+                "energyCost": 130,
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />If \"Roaring Bowstrings\" is active on Yukong when her Ultimate is used, additionally increases all allies' CRIT Rate by <span class=\"text-value\">21%</span> and CRIT DMG by <span class=\"text-value\">39%</span>. At the same time, deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">228%</span> of Yukong's ATK to a single enemy.",
+                "scaling": [
+                    [
+                        "21%",
+                        "21.7%",
+                        "22.4%",
+                        "23.1%",
+                        "23.8%",
+                        "24.5%",
+                        "25.38%",
+                        "26.25%",
+                        "27.13%",
+                        "28%",
+                        "28.7%",
+                        "29.4%",
+                        "30.1%",
+                        "30.8%",
+                        "31.5%"
+                    ],
+                    [
+                        "39%",
+                        "41.6%",
+                        "44.2%",
+                        "46.8%",
+                        "49.4%",
+                        "52%",
+                        "55.25%",
+                        "58.5%",
+                        "61.75%",
+                        "65%",
+                        "67.6%",
+                        "70.2%",
+                        "72.8%",
+                        "75.4%",
+                        "78%"
+                    ],
+                    [
+                        "228%",
+                        "243.2%",
+                        "258.4%",
+                        "273.6%",
+                        "288.8%",
+                        "304%",
+                        "323%",
+                        "342%",
+                        "361%",
+                        "380%",
+                        "395.2%",
+                        "410.4%",
+                        "425.6%",
+                        "440.8%",
+                        "456%"
+                    ]
+                ]
+            },
+            "talent": {
+                "name": "Seven Layers, One Arrow",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />Basic ATK additionally deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">40%</span> of Yukong's ATK, and increases the Toughness-Reducing DMG of this attack by 100%. This effect can be triggered again in 1 turn(s).",
+                "scaling": [
+                    [
+                        "40%",
+                        "44%",
+                        "48%",
+                        "52%",
+                        "56%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "84%",
+                        "88%",
+                        "92%",
+                        "96%",
+                        "100%"
+                    ]
+                ]
+            },
+            "technique": {
+                "name": "Chasing the Wind",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />After using her Technique, Yukong enters Sprint mode for 20 seconds. In Sprint mode, her Movement SPD increases by 35%, and Yukong gains 2 stack(s) of \"Roaring Bowstrings\" when she enters battle by attacking enemies."
+            }
+        },
+        "traces": [
+            {
+                "name": "Archerion",
+                "description": "Yukong can resist 1 debuff application for 1 time. This effect can be triggered again in 2 turn(s).",
+                "unlock": "A2",
+                "subTraces": [
+                    {
+                        "type": "HP",
+                        "description": "HP +4%",
+                        "unlock": "A2",
+                        "subTraces": [
+                            {
+                                "type": "Imaginary DMG Boost",
+                                "description": "<span class=\"text-imaginary\">Imaginary DMG</span> +3.2%",
+                                "unlock": "A3"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bowmaster",
+                "description": "When Yukong is on the field, <span class=\"text-imaginary\">Imaginary DMG</span> dealt by all allies increases by 12%.",
+                "unlock": "A4",
+                "subTraces": [
+                    {
+                        "type": "Imaginary DMG Boost",
+                        "description": "<span class=\"text-imaginary\">Imaginary DMG</span> +4.8%",
+                        "unlock": "A4",
+                        "subTraces": [
+                            {
+                                "type": "HP",
+                                "description": "HP +6%",
+                                "unlock": "A5"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Majestas",
+                "description": "When \"Roaring Bowstrings\" is active, Yukong regenerates 2 additional Energy every time an ally takes action.",
+                "unlock": "A6",
+                "subTraces": [
+                    {
+                        "type": "ATK",
+                        "description": "ATK +6%",
+                        "unlock": "A6",
+                        "subTraces": [
+                            {
+                                "type": "HP",
+                                "description": "HP +8%",
+                                "unlock": "Lv. 75"
+                            },
+                            {
+                                "type": "Imaginary DMG Boost",
+                                "description": "<span class=\"text-imaginary\">Imaginary DMG</span> +6.4%",
+                                "unlock": "Lv. 80"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Imaginary DMG Boost",
+                "description": "<span class=\"text-imaginary\">Imaginary DMG</span> +3.2%",
+                "unlock": "Lv. 1",
+                "subTraces": [
+                    {
+                        "type": "ATK",
+                        "description": "ATK +4%",
+                        "unlock": "A3"
+                    },
+                    {
+                        "type": "Imaginary DMG Boost",
+                        "description": "<span class=\"text-imaginary\">Imaginary DMG</span> +4.8%",
+                        "unlock": "A5"
+                    }
+                ]
+            }
+        ],
+        "eidolon": {
+            "e1": {
+                "name": "Aerial Marshal",
+                "description": "At the start of battle, increases the SPD of all allies by 10% for 2 turn(s)."
+            },
+            "e2": {
+                "name": "Skyward Command",
+                "description": "When any ally's current energy is equal to its energy limit, Yukong regenerates an additional 5 energy. This effect can only be triggered once for each ally. The trigger count is reset after Yukong casts her Ultimate."
+            },
+            "e3": {
+                "name": "Torrential Fusillade",
+                "description": "Skill Lv. +2, up to a maximum of Lv. 15.<br />Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "e4": {
+                "name": "Zephyrean Echoes",
+                "description": "When \"Roaring Bowstrings\" is active, Yukong deals 30% more DMG to enemies."
+            },
+            "e5": {
+                "name": "August Deadshot",
+                "description": "Ultimate Lv. +2, up to a maximum of Lv. 15.<br />Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "e6": {
+                "name": "Bowstring Thunderclap",
+                "description": "When Yukong uses her Ultimate, she immediately gains 1 stack(s) of \"Roaring Bowstrings.\""
+            }
+        },
+        "stats": {
+            "hp": [
+                125,
+                243,
+                293,
+                468,
+                518,
+                580,
+                630,
+                693,
+                743,
+                805,
+                855,
+                917
+            ],
+            "atk": [
+                82,
+                159,
+                192,
+                306,
+                339,
+                379,
+                412,
+                453,
+                486,
+                526,
+                559,
+                600
+            ],
+            "def": [
+                51,
+                99,
+                120,
+                191,
+                212,
+                237,
+                258,
+                283,
+                303,
+                329,
+                349,
+                375
+            ],
+            "speed": [
+                107,
+                107,
+                107,
+                107,
+                107,
+                107,
+                107,
+                107,
+                107,
+                107,
+                107,
+                107
+            ],
+            "taunt": [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ]
+        },
+        "materials": {
+            "calyxMat": "Music Box",
+            "commonMat": "Artifex",
+            "bossMat": "Golden Crown of the Past Shadow",
+            "weeklyBossMat": "Destroyer's Final Road"
+        },
+        "description": "Head of the Sky-Faring Commission on the Xianzhou Luofu. Yukong was a seasoned pilot and a deadshot. Since heading up the commission, she's been buried under mountains of paperwork.",
+        "gender": "Female",
+        "faction": "Xianzhou Luofu",
+        "voiceActors": {
+            "en": "Dawn M. Bennett",
+            "jp": "Yumi Tōma (冬馬 由美)"
+        },
+        "release": {
+            "date": "June 27, 2023",
+            "version": "1.1"
+        }
     }
 ]
