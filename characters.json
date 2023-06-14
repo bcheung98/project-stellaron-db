@@ -5919,6 +5919,692 @@
     },
     {
         "id": 18,
+        "name": "Trailblazer Destruction",
+        "displayName": "Trailblazer",
+        "rarity": 5,
+        "element": "Physical",
+        "path": "Destruction",
+        "skills": {
+            "attack": {
+                "name": "Farewell Hit",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">50%</span> of Trailblazer's ATK to a single enemy.",
+                "scaling": [
+                    [
+                        "50%",
+                        "60%",
+                        "70%",
+                        "80%",
+                        "90%",
+                        "100%",
+                        "110%",
+                        "120%",
+                        "130%"
+                    ]
+                ]
+            },
+            "skill": {
+                "name": "RIP Home Run",
+                "description": "<span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">62.5%</span> of the Trailblazer's ATK to a single enemy and enemies adjacent to it.",
+                "scaling": [
+                    [
+                        "62.5%",
+                        "68.75%",
+                        "75%",
+                        "81.25%",
+                        "87.5%",
+                        "93.75%",
+                        "101.5625%",
+                        "109.375%",
+                        "117.1875%",
+                        "125%",
+                        "131.25%",
+                        "137.5%",
+                        "143.75%",
+                        "150%",
+                        "156.25%"
+                    ]
+                ]
+            },
+            "ultimate": {
+                "name": "Stardust Ace",
+                "energyCost": 120,
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />Choose between two attack modes to deliver a full strike.<br />Blowout: Farewell Hit deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">300%</span> of the Trailblazer's ATK to a single enemy.<br />Blowout: RIP Home Run deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">180%</span> of the Trailblazer's ATK to a single enemy, and <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">108%</span> of the Trailblazer's ATK to enemies adjacent to it.",
+                "scaling": [
+                    [
+                        "300%",
+                        "315%",
+                        "330%",
+                        "345%",
+                        "360%",
+                        "375%",
+                        "393.75%",
+                        "412.5%",
+                        "431.25%",
+                        "450%",
+                        "465%",
+                        "480%",
+                        "495%",
+                        "510%",
+                        "525%"
+                    ],
+                    [
+                        "180%",
+                        "189%",
+                        "198%",
+                        "207%",
+                        "216%",
+                        "225%",
+                        "236.25%",
+                        "247.5%",
+                        "258.75%",
+                        "270%",
+                        "279%",
+                        "288%",
+                        "297%",
+                        "306%",
+                        "315%"
+                    ],
+                    [
+                        "108%",
+                        "113.4%",
+                        "118.8%",
+                        "124.2%",
+                        "129.6%",
+                        "135%",
+                        "141.75%",
+                        "148.5%",
+                        "155.25%",
+                        "162%",
+                        "167.4%",
+                        "172.8%",
+                        "178.2%",
+                        "183.6%",
+                        "189%"
+                    ]
+                ]
+            },
+            "talent": {
+                "name": "Perfect Pickoff",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />Each time after this character inflicts Weakness Break on an enemy, ATK increases by <span class=\"text-value\">10%</span>. This effect stacks up to 2 time(s).",
+                "scaling": [
+                    [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16.25%",
+                        "17.5%",
+                        "18.75%",
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%"
+                    ]
+                ]
+            },
+            "technique": {
+                "name": "Immortal Third Strike",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br />Immediately heals all allies for 15% of their respective Max HP after using this Technique."
+            }
+        },
+        "traces": [
+            {
+                "name": "Ready for Battle",
+                "description": "At the start of the battle, immediately regenerates 15 Energy.",
+                "unlock": "A2",
+                "subTraces": [
+                    {
+                        "type": "HP",
+                        "description": "HP +4%",
+                        "unlock": "A2",
+                        "subTraces": [
+                            {
+                                "type": "ATK",
+                                "description": "ATK +4%",
+                                "unlock": "A3",
+                                "subTraces": [
+                                    {
+                                        "type": "DEF",
+                                        "description": "DEF +5%",
+                                        "unlock": "A3"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Perseverance",
+                "description": "Each Talent stack increases the Trailblazer's DEF by 10%.",
+                "unlock": "A4",
+                "subTraces": [
+                    {
+                        "type": "ATK",
+                        "description": "ATK +6%",
+                        "unlock": "A4",
+                        "subTraces": [
+                            {
+                                "type": "HP",
+                                "description": "HP +6%",
+                                "unlock": "A5",
+                                "subTraces": [
+                                    {
+                                        "type": "ATK",
+                                        "description": "ATK +6%",
+                                        "unlock": "A5"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Fighting Will",
+                "description": "When using Skill or Ultimate \"Blowout: RIP Home Run\", DMG dealt to the target enemy is increased by 25%.",
+                "unlock": "A6",
+                "subTraces": [
+                    {
+                        "type": "DEF",
+                        "description": "DEF +7.5%",
+                        "unlock": "A6",
+                        "subTraces": [
+                            {
+                                "type": "HP",
+                                "description": "HP +8%",
+                                "unlock": "Lv. 75"
+                            },
+                            {
+                                "type": "ATK",
+                                "description": "ATK +8%",
+                                "unlock": "Lv. 80"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "ATK",
+                "description": "ATK +4%",
+                "unlock": "Lv. 1"
+            }
+        ],
+        "eidolon": {
+            "e1": {
+                "name": "A Falling Star",
+                "description": "When enemies are defeated due to the Trailblazer's Ultimate, the Trailblazer regenerates 10 extra Energy. This effect can only be triggered once per attack."
+            },
+            "e2": {
+                "name": "An Unwilling Host",
+                "description": "Attacking enemies with Physical Weakness restores the Trailblazer's HP equal to 5% of the Trailblazer's ATK."
+            },
+            "e3": {
+                "name": "A Leading Whisper",
+                "description": "Skill Lv. +2, up to a maximum of Lv. 15.<br />Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "e4": {
+                "name": "A Destructing Glance",
+                "description": "When attacking an enemy with Weakness Break, CRIT Rate is increased by 25%."
+            },
+            "e5": {
+                "name": "A Surviving Hope",
+                "description": "Ultimate Lv. +2, up to a maximum of Lv. 15.<br />Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "e6": {
+                "name": "A Trailblazing Will",
+                "description": "The Trailblazer's Talent is also triggered when they defeat an enemy."
+            }
+        },
+        "stats": {
+            "hp": [
+                164,
+                319,
+                385,
+                614,
+                679,
+                761,
+                827,
+                908,
+                974,
+                1056,
+                1121,
+                1203
+            ],
+            "atk": [
+                84,
+                165,
+                199,
+                317,
+                351,
+                393,
+                427,
+                469,
+                503,
+                545,
+                579,
+                621
+            ],
+            "def": [
+                63,
+                122,
+                147,
+                235,
+                260,
+                292,
+                317,
+                348,
+                373,
+                404,
+                429,
+                461
+            ],
+            "speed": [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            "taunt": [
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125
+            ]
+        },
+        "materials": {
+            "calyxMat": "Blade",
+            "commonMat": "Antimatter",
+            "bossMat": "Enigmatic Ectostella",
+            "weeklyBossMat": "Destroyer's Final Road"
+        },
+        "description": "A person who boarded the Astral Express. They chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron.",
+        "gender": "Adaptive",
+        "faction": "Astral Express",
+        "voiceActors": {
+            "en": "Caleb Yen / Rachael Chau",
+            "jp": "Junya Enoki (榎木 淳弥) / Yui Ishikawa (石川 由依)"
+        },
+        "release": {
+            "date": "April 26, 2023",
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 19,
+        "name": "Trailblazer Preservation",
+        "displayName": "Trailblazer",
+        "rarity": 5,
+        "element": "Fire",
+        "path": "Preservation",
+        "skills": {
+            "attack": {
+                "name": "Ice-Breaking Light",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">50%</span> of Trailblazer's ATK to a single enemy.<br /><br /><span class=\"text-highlight\">[Blast]</span><br />Consumes 4 stacks of Magma Will to enhance Basic ATK, dealing <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">90%</span> of the Trailblazer's ATK to a single enemy and <span class=\"text-fire\">Fire DMG</span> to equal to <span class=\"text-value\">36%</span> of the Trailblazer's ATK to enemies adjacent to it.",
+                "scaling": [
+                    [
+                        "50%",
+                        "60%",
+                        "70%",
+                        "80%",
+                        "90%",
+                        "100%",
+                        "110%",
+                        "120%",
+                        "130%"
+                    ],
+                    [
+                        "90%",
+                        "99%",
+                        "108%",
+                        "117%",
+                        "126%",
+                        "135%",
+                        "146.25%",
+                        "157.5%",
+                        "168.75%"
+                    ],
+                    [
+                        "36%",
+                        "39.6%",
+                        "43.2%",
+                        "46.8%",
+                        "50.4%",
+                        "54%",
+                        "58.5%",
+                        "63%",
+                        "67.5%"
+                    ]
+                ]
+            },
+            "skill": {
+                "name": "Ever-Burning Amber",
+                "description": "<span class=\"text-highlight\">[Defense]</span><br />Increases the Trailblazer's DMG Reduction by <span class=\"text-value\">40%</span> and gains 1 stack of Magma Will, with a 100% base chance to Taunt all enemies for 1 turn(s).",
+                "scaling": [
+                    [
+                        "40%",
+                        "41%",
+                        "42%",
+                        "43%",
+                        "44%",
+                        "45%",
+                        "46.25%",
+                        "47.5%",
+                        "48.75%",
+                        "50%",
+                        "51%",
+                        "52%",
+                        "53%",
+                        "54%",
+                        "55%"
+                    ]
+                ]
+            },
+            "ultimate": {
+                "name": "War-Flaming Lance",
+                "energyCost": 120,
+                "description": "<span class=\"text-highlight\">[AoE]</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">50%</span> of the Trailblazer's ATK plus <span class=\"text-value\">75%</span> of the Trailblazer's DEF to all enemies. The next Basic ATK will be automatically enhanced and does not cost Magma Will.",
+                "scaling": [
+                    [
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "81.25%",
+                        "87.5%",
+                        "93.75%",
+                        "100%",
+                        "105%",
+                        "110%",
+                        "115%",
+                        "120%",
+                        "125%"
+                    ],
+                    [
+                        "75%",
+                        "82.5%",
+                        "90%",
+                        "97.5%",
+                        "105%",
+                        "112.5%",
+                        "121.875%",
+                        "131.25%",
+                        "140.625%",
+                        "150%",
+                        "157.5%",
+                        "165%",
+                        "172.5%",
+                        "180%",
+                        "187.5%"
+                    ]
+                ]
+            },
+            "talent": {
+                "name": "Treasure of the Architects",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />Each time the Trailblazer is hit, they gain 1 stack of Magma Will for a max of 8 stack(s).<br />When Magma Will has no fewer than 4 stacks, the Trailblazer's Basic ATK becomes enhanced, dealing DMG to a single enemy and enemies adjacent to it.<br />When the Trailblazer uses Basic ATK, Skill, or Ultimate, apply a Shield to all allies that absorbs DMG equal to <span class=\"text-value\">4%</span> of the Trailblazer's DEF plus <span class=\"text-value\">20</span>. The Shield lasts for 2 turn(s).",
+                "scaling": [
+                    [
+                        "4%",
+                        "4.25%",
+                        "4.5%",
+                        "4.75%",
+                        "5%",
+                        "5.2%",
+                        "5.4%",
+                        "5.6%",
+                        "5.8%",
+                        "6%",
+                        "6.2%",
+                        "6.4%",
+                        "6.6%",
+                        "6.8%",
+                        "7%"
+                    ],
+                    [
+                        "20",
+                        "32",
+                        "41",
+                        "50",
+                        "56",
+                        "62",
+                        "66.5",
+                        "71",
+                        "75.5",
+                        "80",
+                        "84.5",
+                        "89",
+                        "93.5",
+                        "98",
+                        "102.5"
+                    ]
+                ]
+            },
+            "technique": {
+                "name": "Call of the Guardian",
+                "description": "<span class=\"text-highlight\">[Defense]</span><br />After using Technique, at the start of the next battle, gains a Shield that absorbs DMG equal to 30% of the Trailblazer's DEF plus 384 for 1 turn(s)."
+            }
+        },
+        "traces": [
+            {
+                "type": "DEF",
+                "description": "DEF +5%",
+                "unlock": "Lv. 1",
+                "subTraces": [
+                    {
+                        "name": "The Strong Defend the Weak",
+                        "description": "After using Skill, the DMG taken by all allies reduces by 15% for 1 turn(s).",
+                        "unlock": "A2",
+                        "subTraces": [
+                            {
+                                "type": "ATK",
+                                "description": "ATK +4%",
+                                "unlock": "A2",
+                                "subTraces": [
+                                    {
+                                        "type": "DEF",
+                                        "description": "DEF +5%",
+                                        "unlock": "A3"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Unwavering Gallantry",
+                        "description": "Using Enhanced Basic ATK restores the Trailblazer's HP by 5% of their Max HP.",
+                        "unlock": "A4",
+                        "subTraces": [
+                            {
+                                "type": "DEF",
+                                "description": "DEF +7.5%",
+                                "unlock": "A4",
+                                "subTraces": [
+                                    {
+                                        "type": "ATK",
+                                        "description": "ATK +6%",
+                                        "unlock": "A5"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Action Beats Overthinking",
+                "description": "When the Trailblazer is protected by a Shield at the beginning of the turn, increases their ATK by 15% and regenerates 5 Energy until the action is over.",
+                "unlock": "A6",
+                "subTraces": [
+                    {
+                        "type": "HP",
+                        "description": "HP +6%",
+                        "unlock": "A6",
+                        "subTraces": [
+                            {
+                                "type": "ATK",
+                                "description": "ATK +8%",
+                                "unlock": "Lv. 75"
+                            },
+                            {
+                                "type": "DEF",
+                                "description": "DEF +10%",
+                                "unlock": "Lv. 80"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "HP",
+                "description": "HP +4%",
+                "unlock": "A3"
+            },
+            {
+                "type": "DEF",
+                "description": "DEF +7.5%",
+                "unlock": "A5"
+            }
+        ],
+        "eidolon": {
+            "e1": {
+                "name": "Earth-Shaking Resonance",
+                "description": "When the Trailblazer uses their Basic ATK, additionally deals <span class=\"text-fire\">Fire DMG</span> equal to 25% of the Trailblazer's DEF. When the Trailblazer uses their enhanced Basic ATK, additionally deals <span class=\"text-fire\">Fire DMG</span> equal to 50% of the Trailblazer's DEF."
+            },
+            "e2": {
+                "name": "Time-Defying Tenacity",
+                "description": "The Shield applied to all allies from the Trailblazer's Talent will block extra DMG equal to 2% of the Trailblazer's DEF plus 27."
+            },
+            "e3": {
+                "name": "Trail-Blazing Blueprint",
+                "description": "Skill Lv. +2, up to a maximum of Lv. 15.<br />Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "e4": {
+                "name": "Nation-Building Oath",
+                "description": "At the start of the battle, immediately gains 4 stack(s) of Magma Will."
+            },
+            "e5": {
+                "name": "Spirit-Warming Flame",
+                "description": "Ultimate Lv. +2, up to a maximum of Lv. 15.<br />Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "e6": {
+                "name": "City-Forging Bulwarks",
+                "description": "After the Trailblazer use enhanced Basic ATK or Ultimate, their DEF increases by 10%. Stacks up to 3 time(s)."
+            }
+        },
+        "stats": {
+            "hp": [
+                169,
+                329,
+                397,
+                634,
+                701,
+                786,
+                853,
+                938,
+                1005,
+                1090,
+                1157,
+                1242
+            ],
+            "atk": [
+                82,
+                160,
+                192,
+                307,
+                340,
+                381,
+                413,
+                454,
+                487,
+                528,
+                561,
+                602
+            ],
+            "def": [
+                82,
+                161,
+                194,
+                309,
+                342,
+                384,
+                417,
+                458,
+                491,
+                532,
+                565,
+                606
+            ],
+            "speed": [
+                95,
+                95,
+                95,
+                95,
+                95,
+                95,
+                95,
+                95,
+                95,
+                95,
+                95,
+                95
+            ],
+            "taunt": [
+                150,
+                150,
+                150,
+                150,
+                150,
+                150,
+                150,
+                150,
+                150,
+                150,
+                150,
+                150
+            ]
+        },
+        "materials": {
+            "calyxMat": "Shield",
+            "commonMat": "Antimatter",
+            "bossMat": "Enigmatic Ectostella",
+            "weeklyBossMat": "Destroyer's Final Road"
+        },
+        "description": "A person who boarded the Astral Express. They chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron.",
+        "gender": "Adaptive",
+        "faction": "Astral Express",
+        "voiceActors": {
+            "en": "Caleb Yen / Rachael Chau",
+            "jp": "Junya Enoki (榎木 淳弥) / Yui Ishikawa (石川 由依)"
+        },
+        "release": {
+            "date": "April 26, 2023",
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 20,
         "name": "Welt",
         "rarity": 5,
         "element": "Imaginary",
@@ -6267,7 +6953,7 @@
         }
     },
     {
-        "id": 19,
+        "id": 21,
         "name": "Yanqing",
         "rarity": 5,
         "element": "Ice",
@@ -6646,7 +7332,7 @@
         }
     },
     {
-        "id": 20,
+        "id": 22,
         "name": "Seele",
         "rarity": 5,
         "element": "Quantum",
@@ -6940,7 +7626,7 @@
         }
     },
     {
-        "id": 21,
+        "id": 23,
         "name": "Jing Yuan",
         "rarity": 5,
         "element": "Lightning",
@@ -7232,7 +7918,7 @@
         }
     },
     {
-        "id": 22,
+        "id": 24,
         "name": "Silver Wolf",
         "rarity": 5,
         "element": "Quantum",
