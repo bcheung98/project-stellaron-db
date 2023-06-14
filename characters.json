@@ -2127,7 +2127,7 @@
                         "subTraces": [
                             {
                                 "type": "Effect RES",
-                                "description": "Effect Hit Rate +4%",
+                                "description": "Effect RES +4%",
                                 "unlock": "A2",
                                 "subTraces": [
                                     {
@@ -2151,7 +2151,7 @@
                                 "subTraces": [
                                     {
                                         "type": "Effect RES",
-                                        "description": "Effect Hit Rate +6%",
+                                        "description": "Effect RES +6%",
                                         "unlock": "A5"
                                     }
                                 ]
@@ -2172,7 +2172,7 @@
                         "subTraces": [
                             {
                                 "type": "Effect RES",
-                                "description": "Effect Hit Rate +8%",
+                                "description": "Effect RES +8%",
                                 "unlock": "Lv. 75"
                             },
                             {
@@ -2775,7 +2775,7 @@
                 "subTraces": [
                     {
                         "type": "Effect RES",
-                        "description": "Effect Hit Rate +6%",
+                        "description": "Effect RES +6%",
                         "unlock": "A6"
                     },
                     {
@@ -3448,7 +3448,7 @@
                                 "subTraces": [
                                     {
                                         "type": "Effect RES",
-                                        "description": "Effect Hit Rate +6%",
+                                        "description": "Effect RES +6%",
                                         "unlock": "A5"
                                     }
                                 ]
@@ -3814,7 +3814,7 @@
                         "subTraces": [
                             {
                                 "type": "Effect RES",
-                                "description": "Effect Hit Rate +6%",
+                                "description": "Effect RES +6%",
                                 "unlock": "A5",
                                 "subTraces": [
                                     {
