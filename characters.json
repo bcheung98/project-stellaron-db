@@ -48,8 +48,7 @@
             },
             "ultimate": {
                 "name": "Frenzied Punishment",
-                "energyCost": 110,
-                "description": "<span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">192%</span> of Arlan's ATK to a single enemy and <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">96%</span> of Arlan's ATK to enemies adjacent to it.",
+                "description": "<span class=\"text-highlight\">[Blast] | Energy Cost: 110</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">192%</span> of Arlan's ATK to a single enemy and <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">96%</span> of Arlan's ATK to enemies adjacent to it.",
                 "scaling": [
                     [
                         "192%",
@@ -380,8 +379,7 @@
             },
             "ultimate": {
                 "name": "Astral Blessing",
-                "energyCost": 120,
-                "description": "<span class=\"text-highlight\">[Support]</span><br />Increases SPD of all allies by <span class=\"text-value\">36</span> for 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[Support] | Energy Cost: 120</span><br />Increases SPD of all allies by <span class=\"text-value\">36</span> for 2 turn(s).",
                 "scaling": [
                     [
                         "36",
@@ -693,8 +691,7 @@
             },
             "ultimate": {
                 "name": "Felicitous Thunderleap",
-                "energyCost": 100,
-                "description": "<span class=\"text-highlight\">[Restore]</span><br />Heals all allies for <span class=\"text-value\">9%</span> of Bailu's Max HP plus <span class=\"text-value\">90</span>. Bailu applies Invigoration to allies that are not already Invigorated. For those already Invigorated, Bailu extends the duration of their Invigoration by 1 turn. The effect of Invigoration can last for 2 turn(s). This effect cannot stack.",
+                "description": "<span class=\"text-highlight\">[Restore] | Energy Cost: 100</span><br />Heals all allies for <span class=\"text-value\">9%</span> of Bailu's Max HP plus <span class=\"text-value\">90</span>. Bailu applies Invigoration to allies that are not already Invigorated. For those already Invigorated, Bailu extends the duration of their Invigoration by 1 turn. The effect of Invigoration can last for 2 turn(s). This effect cannot stack.",
                 "scaling": [
                     [
                         "9%",
@@ -1057,8 +1054,7 @@
             },
             "ultimate": {
                 "name": "The Belobog March",
-                "energyCost": 120,
-                "description": "<span class=\"text-highlight\">[Support]</span><br />Increases the ATK of all allies by <span class=\"text-value\">33%</span>, and increases their CRIT DMG equal to <span class=\"text-value\">12%</span> of Bronya's CRIT DMG plus <span class=\"text-value\">12%</span> for 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[Support] | Energy Cost: 120</span><br />Increases the ATK of all allies by <span class=\"text-value\">33%</span>, and increases their CRIT DMG equal to <span class=\"text-value\">12%</span> of Bronya's CRIT DMG plus <span class=\"text-value\">12%</span> for 2 turn(s).",
                 "scaling": [
                     [
                         "33%",
@@ -1404,8 +1400,7 @@
             },
             "ultimate": {
                 "name": "Promise, Not Command",
-                "energyCost": 110,
-                "description": "<span class=\"text-highlight\">[Enhance]</span><br />After Clara uses Ultimate, DMG dealt to her is reduced by an extra <span class=\"text-value\">15%</span>, and she has greatly increased chances of being attacked by enemies for 2 turn(s).<br />In addition, Svarog's Counter is enhanced. When an ally is attacked, Svarog immediately launches a Counter, and its DMG multiplier against the enemy increases by <span class=\"text-value\">96%</span>. Enemies adjacent to it take 50% of the DMG dealt to the target enemy. Enhanced Counter(s) can take effect 2 time(s).",
+                "description": "<span class=\"text-highlight\">[Enhance] | Energy Cost: 110</span><br />After Clara uses Ultimate, DMG dealt to her is reduced by an extra <span class=\"text-value\">15%</span>, and she has greatly increased chances of being attacked by enemies for 2 turn(s).<br />In addition, Svarog's Counter is enhanced. When an ally is attacked, Svarog immediately launches a Counter, and its DMG multiplier against the enemy increases by <span class=\"text-value\">96%</span>. Enemies adjacent to it take 50% of the DMG dealt to the target enemy. Enhanced Counter(s) can take effect 2 time(s).",
                 "scaling": [
                     [
                         "15%",
@@ -1719,8 +1714,7 @@
             },
             "ultimate": {
                 "name": "Ethereal Dream",
-                "energyCost": 100,
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">240%</span> of Dan Heng's ATK to a single enemy.<br />If the enemy is Slowed, the Ultimate's multiplier increases by <span class=\"text-value\">72%</span>.",
+                "description": "<span class=\"text-highlight\">[Single Target] | Energy Cost: 100</span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">240%</span> of Dan Heng's ATK to a single enemy.<br />If the enemy is Slowed, the Ultimate's multiplier increases by <span class=\"text-value\">72%</span>.",
                 "scaling": [
                     [
                         "240%",
@@ -2047,8 +2041,7 @@
             },
             "ultimate": {
                 "name": "Enduring Bulwark",
-                "energyCost": 100,
-                "description": "<span class=\"text-highlight\">[Defense]</span><br />Applies a Shield to all allies, absorbing DMG equal to <span class=\"text-value\">30%</span> of Gepard's DEF plus <span class=\"text-value\">150</span> for 3 turn(s).",
+                "description": "<span class=\"text-highlight\">[Defense] | Energy Cost: 100</span><br />Applies a Shield to all allies, absorbing DMG equal to <span class=\"text-value\">30%</span> of Gepard's DEF plus <span class=\"text-value\">150</span> for 3 turn(s).",
                 "scaling": [
                     [
                         "30%",
@@ -2360,8 +2353,7 @@
             },
             "ultimate": {
                 "name": "It's Magic, I Added Some Magic",
-                "energyCost": 110,
-                "description": "<span class=\"text-highlight\">[AoE]</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">120%</span> of Herta's ATK to all enemies.",
+                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 110</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">120%</span> of Herta's ATK to all enemies.",
                 "scaling": [
                     [
                         "120%",
@@ -2669,8 +2661,7 @@
             },
             "ultimate": {
                 "name": "Heavenly Flare",
-                "energyCost": 120,
-                "description": "<span class=\"text-highlight\">[AoE]</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">138%</span> of Himeko's ATK to all enemies. Himeko regenerates 5 extra Energy for each enemy defeated.",
+                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 120</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">138%</span> of Himeko's ATK to all enemies. Himeko regenerates 5 extra Energy for each enemy defeated.",
                 "scaling": [
                     [
                         "138%",
@@ -3029,7 +3020,6 @@
             },
             "ultimate": {
                 "name": "Boom! Here Comes the Fire!",
-                "energyCost": 120,
                 "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">240%</span> of Hook's ATK to a single enemy. After using Ultimate, the next Skill to be used is Enhanced, which deals DMG to a single enemy and enemies adjacent to it.",
                 "scaling": [
                     [
@@ -3344,8 +3334,7 @@
             },
             "ultimate": {
                 "name": "Glacial Cascade",
-                "energyCost": 120,
-                "description": "<span class=\"text-highlight\">[AoE]</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">90%</span> of March 7th's ATK to all enemies. Hit enemies have a 50% base chance to be Frozen for 1 turn(s).<br />While Frozen, enemies cannot take action and will receive Additional <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">30%</span> of March 7th's ATK at the beginning of each turn.",
+                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 120</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">90%</span> of March 7th's ATK to all enemies. Hit enemies have a 50% base chance to be Frozen for 1 turn(s).<br />While Frozen, enemies cannot take action and will receive Additional <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">30%</span> of March 7th's ATK at the beginning of each turn.",
                 "scaling": [
                     [
                         "90%",
@@ -3708,8 +3697,7 @@
             },
             "ultimate": {
                 "name": "Gift of Rebirth",
-                "energyCost": 90,
-                "description": "<span class=\"text-highlight\">[Restore]</span><br />Heals all allies for <span class=\"text-value\">9.2%</span> of Natasha's Max HP plus <span class=\"text-value\">92</span>.",
+                "description": "<span class=\"text-highlight\">[Restore] | Energy Cost: 90</span><br />Heals all allies for <span class=\"text-value\">9.2%</span> of Natasha's Max HP plus <span class=\"text-value\">92</span>.",
                 "scaling": [
                     [
                         "9.2%",
@@ -4021,8 +4009,7 @@
             },
             "ultimate": {
                 "name": "Zone Suppression",
-                "energyCost": 110,
-                "description": "<span class=\"text-highlight\">[Impair]</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">60%</span> of Pela's ATK to all enemies, with a 100% base chance to inflict Exposed on all enemies.<br />When Exposed, enemies' DEF is reduced by <span class=\"text-value\">30%</span> for 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[Impair] | Energy Cost: 110</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">60%</span> of Pela's ATK to all enemies, with a 100% base chance to inflict Exposed on all enemies.<br />When Exposed, enemies' DEF is reduced by <span class=\"text-value\">30%</span> for 2 turn(s).",
                 "scaling": [
                     [
                         "60%",
@@ -4358,8 +4345,7 @@
             },
             "ultimate": {
                 "name": "A Quartet? Woo-hoo!",
-                "energyCost": 140,
-                "description": "<span class=\"text-highlight\">[AoE]</span><br />Deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">120%</span> of Qingque's ATK to all enemies, and obtain 4 jade tiles of the same suit.",
+                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 140</span><br />Deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">120%</span> of Qingque's ATK to all enemies, and obtain 4 jade tiles of the same suit.",
                 "scaling": [
                     [
                         "120%",
@@ -4667,8 +4653,7 @@
             },
             "ultimate": {
                 "name": "Surprise Present",
-                "energyCost": 120,
-                "description": "<span class=\"text-highlight\">[Impair]</span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">96%</span> of Sampo's ATK to all enemies, with a 100% base chance to increase the targets' DoT taken by <span class=\"text-value\">20%</span> for 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[Impair] | Energy Cost: 120</span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">96%</span> of Sampo's ATK to all enemies, with a 100% base chance to increase the targets' DoT taken by <span class=\"text-value\">20%</span> for 2 turn(s).",
                 "scaling": [
                     [
                         "96%",
@@ -5016,8 +5001,7 @@
             },
             "ultimate": {
                 "name": "Here Comes the Mechanical Fever",
-                "energyCost": 100,
-                "description": "<span class=\"text-highlight\">[AoE]</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">108%</span> of Serval's ATK to all enemies. Enemies already Shocked will extend the duration of their Shock state by 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 100</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">108%</span> of Serval's ATK to all enemies. Enemies already Shocked will extend the duration of their Shock state by 2 turn(s).",
                 "scaling": [
                     [
                         "108%",
@@ -5325,8 +5309,7 @@
             },
             "ultimate": {
                 "name": "Shape of Taixu: Dawn Herald",
-                "energyCost": 120,
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">192%</span> of Sushang's ATK to a single enemy target, and she immediately takes action again. In addition, Sushang's ATK increases by <span class=\"text-value\">18%</span> and using her Skill has 2 extra chances to trigger Sword Stance for 2 turn(s).<br />Sword Stance triggered from the extra chances deals 50% of the original DMG.",
+                "description": "<span class=\"text-highlight\">[Single Target] | Energy Cost: 120</span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">192%</span> of Sushang's ATK to a single enemy target, and she immediately takes action again. In addition, Sushang's ATK increases by <span class=\"text-value\">18%</span> and using her Skill has 2 extra chances to trigger Sword Stance for 2 turn(s).<br />Sword Stance triggered from the extra chances deals 50% of the original DMG.",
                 "scaling": [
                     [
                         "192%",
@@ -5670,8 +5653,7 @@
             },
             "ultimate": {
                 "name": "Amidst the Rejoicing Clouds",
-                "energyCost": 130,
-                "description": "<span class=\"text-highlight\">[Support]</span><br />Regenerates 50 Energy for a single ally and increases the target's DMG by <span class=\"text-value\">20%</span> for 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[Support] | Energy Cost: 130</span><br />Regenerates 50 Energy for a single ally and increases the target's DMG by <span class=\"text-value\">20%</span> for 2 turn(s).",
                 "scaling": [
                     [
                         "20%",
@@ -5967,8 +5949,7 @@
             },
             "ultimate": {
                 "name": "Stardust Ace",
-                "energyCost": 120,
-                "description": "<span class=\"text-highlight\">[Enhance]</span><br />Choose between two attack modes to deliver a full strike.<br />Blowout: Farewell Hit deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">300%</span> of the Trailblazer's ATK to a single enemy.<br />Blowout: RIP Home Run deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">180%</span> of the Trailblazer's ATK to a single enemy, and <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">108%</span> of the Trailblazer's ATK to enemies adjacent to it.",
+                "description": "<span class=\"text-highlight\">[Enhance] | Energy Cost: 120</span><br />Choose between two attack modes to deliver a full strike.<br />Blowout: Farewell Hit deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">300%</span> of the Trailblazer's ATK to a single enemy.<br />Blowout: RIP Home Run deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">180%</span> of the Trailblazer's ATK to a single enemy, and <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">108%</span> of the Trailblazer's ATK to enemies adjacent to it.",
                 "scaling": [
                     [
                         "300%",
@@ -6322,8 +6303,7 @@
             },
             "ultimate": {
                 "name": "War-Flaming Lance",
-                "energyCost": 120,
-                "description": "<span class=\"text-highlight\">[AoE]</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">50%</span> of the Trailblazer's ATK plus <span class=\"text-value\">75%</span> of the Trailblazer's DEF to all enemies. The next Basic ATK will be automatically enhanced and does not cost Magma Will.",
+                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 120</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">50%</span> of the Trailblazer's ATK plus <span class=\"text-value\">75%</span> of the Trailblazer's DEF to all enemies. The next Basic ATK will be automatically enhanced and does not cost Magma Will.",
                 "scaling": [
                     [
                         "50%",
@@ -6686,8 +6666,7 @@
             },
             "ultimate": {
                 "name": "Synthetic Black Hole",
-                "energyCost": 120,
-                "description": "<span class=\"text-highlight\">[AoE]</span><br />Deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">90%</span> of Welt's ATK to all enemies, with a 100% base chance for enemies hit by this ability to be Imprisoned for 1 turn.<br />Imprisoned enemies have their actions delayed by <span class=\"text-value\">32%</span> and SPD reduced by 10%.",
+                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 120</span><br />Deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">90%</span> of Welt's ATK to all enemies, with a 100% base chance for enemies hit by this ability to be Imprisoned for 1 turn.<br />Imprisoned enemies have their actions delayed by <span class=\"text-value\">32%</span> and SPD reduced by 10%.",
                 "scaling": [
                     [
                         "90%",
@@ -7001,8 +6980,7 @@
             },
             "ultimate": {
                 "name": "Amidst the Raining Bliss",
-                "energyCost": 140,
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Increases Yanqing's CRIT Rate by 60%. When Soulsteel Sync is active, increases Yanqing's CRIT DMG by an extra <span class=\"text-value\">30%</span>. This buff lasts for one turn. Afterwards, deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">210%</span> of Yanqing's ATK to a single enemy.",
+                "description": "<span class=\"text-highlight\">[Single Target] | Energy Cost: 140</span><br />Increases Yanqing's CRIT Rate by 60%. When Soulsteel Sync is active, increases Yanqing's CRIT DMG by an extra <span class=\"text-value\">30%</span>. This buff lasts for one turn. Afterwards, deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">210%</span> of Yanqing's ATK to a single enemy.",
                 "scaling": [
                     [
                         "30%",
@@ -7380,8 +7358,7 @@
             },
             "ultimate": {
                 "name": "Butterfly Flurry",
-                "energyCost": 120,
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Seele enters the buffed state and deals Quantum DMG equal to <span class=\"text-value\">255%</span> of her ATK to a single enemy.",
+                "description": "<span class=\"text-highlight\">[Single Target] | Energy Cost: 120</span><br />Seele enters the buffed state and deals Quantum DMG equal to <span class=\"text-value\">255%</span> of her ATK to a single enemy.",
                 "scaling": [
                     [
                         "255%",
@@ -7674,8 +7651,7 @@
             },
             "ultimate": {
                 "name": "Lightbringer",
-                "energyCost": 130,
-                "description": "<span class=\"text-highlight\">[AoE]</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">120%</span> of Jing Yuan's ATK to all enemies and increases Lightning-Lord's Hits Per Action by 3 for the next turn.",
+                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 130</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">120%</span> of Jing Yuan's ATK to all enemies and increases Lightning-Lord's Hits Per Action by 3 for the next turn.",
                 "scaling": [
                     [
                         "120%",
@@ -8000,8 +7976,7 @@
             },
             "ultimate": {
                 "name": "User Banned",
-                "energyCost": 110,
-                "description": "<span class=\"text-highlight\">[Impair]</span><br />There's a <span class=\"text-value\">85%</span> base chance to decrease the target enemy's DEF by <span class=\"text-value\">36%</span> for 3 turn(s). And at the same time, deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">228%</span> of Silver Wolf's ATK to the target enemy.",
+                "description": "<span class=\"text-highlight\">[Impair] | Energy Cost: 110</span><br />There's a <span class=\"text-value\">85%</span> base chance to decrease the target enemy's DEF by <span class=\"text-value\">36%</span> for 3 turn(s). And at the same time, deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">228%</span> of Silver Wolf's ATK to the target enemy.",
                 "scaling": [
                     [
                         "85%",
@@ -8400,8 +8375,7 @@
             },
             "ultimate": {
                 "name": "Death Wish",
-                "energyCost": 100,
-                "description": "<span class=\"text-highlight\">[AoE]</span><br />Removes 1 buff(s) from all enemies and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">120%</span> of Luocha's ATK to all enemies. Luocha gains 1 stack of Abyss Flower.",
+                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 100</span><br />Removes 1 buff(s) from all enemies and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">120%</span> of Luocha's ATK to all enemies. Luocha gains 1 stack of Abyss Flower.",
                 "scaling": [
                     [
                         "120%",
@@ -8713,8 +8687,7 @@
             },
             "ultimate": {
                 "name": "Diving Kestrel",
-                "energyCost": 130,
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />If \"Roaring Bowstrings\" is active on Yukong when her Ultimate is used, additionally increases all allies' CRIT Rate by <span class=\"text-value\">21%</span> and CRIT DMG by <span class=\"text-value\">39%</span>. At the same time, deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">228%</span> of Yukong's ATK to a single enemy.",
+                "description": "<span class=\"text-highlight\">[Single Target] | Energy Cost: 130</span><br />If \"Roaring Bowstrings\" is active on Yukong when her Ultimate is used, additionally increases all allies' CRIT Rate by <span class=\"text-value\">21%</span> and CRIT DMG by <span class=\"text-value\">39%</span>. At the same time, deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">228%</span> of Yukong's ATK to a single enemy.",
                 "scaling": [
                     [
                         "21%",
