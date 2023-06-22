@@ -1,0 +1,2588 @@
+[
+    {
+        "id": 0,
+        "name": "Adversarial",
+        "rarity": 3,
+        "path": "Hunt",
+        "stats": {
+            "hp": 33,
+            "atk": 16,
+            "def": 12
+        },
+        "passive": {
+            "name": "Alliance",
+            "effect": "When the wearer defeats an enemy, increases SPD by <span class=\"text-value\">10%</span> for 2 turn(s).",
+            "scaling": [
+                [
+                    "10%",
+                    "12%",
+                    "14%",
+                    "16%",
+                    "18%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Arrow",
+            "commonMat": "Engine"
+        },
+        "description": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br /><br /><i>\"Freedom fighters will never die, as their stories will forever be told.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 1,
+        "name": "Amber",
+        "rarity": 3,
+        "path": "Preservation",
+        "stats": {
+            "hp": 38,
+            "atk": 12,
+            "def": 15
+        },
+        "passive": {
+            "name": "Stasis",
+            "effect": "Increases DEF of its wearer by <span class=\"text-value\">16%</span>. If current HP of its wearer is less than 50% of Max HP, increases DEF by an extra <span class=\"text-value\">16%</span>.",
+            "scaling": [
+                [
+                    "16%",
+                    "20%",
+                    "24%",
+                    "28%",
+                    "32%"
+                ],
+                [
+                    "16%",
+                    "20%",
+                    "24%",
+                    "28%",
+                    "32%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Shield",
+            "commonMat": "Core"
+        },
+        "description": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of trees.<br /><br /><i>\"Only those who aren't affected by time can survive in time.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Arrows",
+        "rarity": 3,
+        "path": "Hunt",
+        "stats": {
+            "hp": 38,
+            "atk": 14,
+            "def": 12
+        },
+        "passive": {
+            "name": "Crisis",
+            "effect": "At the start of the battle, the wearer's CRIT Rate increases by <span class=\"text-value\">12%</span> for 3 turn(s).",
+            "scaling": [
+                [
+                    "12%",
+                    "15%",
+                    "18%",
+                    "21%",
+                    "24%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Arrow",
+            "commonMat": "Antimatter"
+        },
+        "description": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br /><br /><i>\"The hunter's eyes are the clearest when they pull back the bowstring with the arrow notched.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Chorus",
+        "rarity": 3,
+        "path": "Harmony",
+        "stats": {
+            "hp": 38,
+            "atk": 14,
+            "def": 12
+        },
+        "passive": {
+            "name": "Concerted",
+            "effect": "After entering battle, increases the ATK of all allies by <span class=\"text-value\">8%</span>. Effects of the same type cannot stack.",
+            "scaling": [
+                [
+                    "8%",
+                    "9%",
+                    "10%",
+                    "11%",
+                    "12%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Music Box",
+            "commonMat": "Silvermane"
+        },
+        "description": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br /><br /><i>\"Fingers clutch to make a fist, strength is built via numbers. I give myself for something higher — the concept of us.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Collapsing Sky",
+        "rarity": 3,
+        "path": "Destruction",
+        "stats": {
+            "hp": 38,
+            "atk": 16,
+            "def": 9
+        },
+        "passive": {
+            "name": "Havoc",
+            "effect": "Increases the wearer's Basic ATK and Skill DMG by <span class=\"text-value\">20%</span>.",
+            "scaling": [
+                [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Blade",
+            "commonMat": "Antimatter"
+        },
+        "description": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br /><br /><i>\"The death of all things is as natural as their birth. Time erodes everything, turning all tangible entities to dust.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Cornucopia",
+        "rarity": 3,
+        "path": "Abundance",
+        "stats": {
+            "hp": 43,
+            "atk": 12,
+            "def": 12
+        },
+        "passive": {
+            "name": "Prosperity",
+            "effect": "When the wearer uses their Skill or Ultimate, their Outgoing Healing increases by <span class=\"text-value\">12%</span>.",
+            "scaling": [
+                [
+                    "12%",
+                    "15%",
+                    "18%",
+                    "21%",
+                    "24%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Flower",
+            "commonMat": "Silvermane"
+        },
+        "description": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br /><br /><i>\"Life is the existence of order beyond a certain threshold. Its birth is the final answer to the silent universe, declaring the end to the era of old chaos.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Darting Arrow",
+        "rarity": 3,
+        "path": "Hunt",
+        "stats": {
+            "hp": 33,
+            "atk": 16,
+            "def": 12
+        },
+        "passive": {
+            "name": "War Cry",
+            "effect": "When the wearer defeats an enemy, increases ATK by <span class=\"text-value\">24%</span> for 3 turn(s).",
+            "scaling": [
+                [
+                    "24%",
+                    "30%",
+                    "36%",
+                    "42%",
+                    "48%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Arrow",
+            "commonMat": "Silvermane"
+        },
+        "description": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br /><br /><i>\"The battle has begun. Arrows are thirsty for blood.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Defense",
+        "rarity": 3,
+        "path": "Preservation",
+        "stats": {
+            "hp": 43,
+            "atk": 12,
+            "def": 12
+        },
+        "passive": {
+            "name": "Revitalization",
+            "effect": "When the wearer unleashes their Ultimate, they restore HP by <span class=\"text-value\">18%</span> of their Max HP.",
+            "scaling": [
+                [
+                    "18%",
+                    "21%",
+                    "24%",
+                    "27%",
+                    "30%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Shield",
+            "commonMat": "Antimatter"
+        },
+        "description": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br /><br /><i>\"If you ever doubt these walls will lead us to victory, just look at these brave souls standing atop them.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Fine Fruit",
+        "rarity": 3,
+        "path": "Abundance",
+        "stats": {
+            "hp": 43,
+            "atk": 14,
+            "def": 9
+        },
+        "passive": {
+            "name": "Savor",
+            "effect": "At the start of the battle, immediately regenerate <span class=\"text-value\">6</span> Energy for all allies.",
+            "scaling": [
+                [
+                    "6",
+                    "7",
+                    "9",
+                    "11",
+                    "12"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Flower",
+            "commonMat": "Core"
+        },
+        "description": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br /><br /><i>\"Everything tastes sweet for those desperate for water.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Hidden Shadow",
+        "rarity": 3,
+        "path": "Nihility",
+        "stats": {
+            "hp": 38,
+            "atk": 14,
+            "def": 12
+        },
+        "passive": {
+            "name": "Mechanism",
+            "effect": "After using Skill, the wearer's next Basic ATK deals Additional DMG equal to <span class=\"text-value\">60%</span> of ATK to the target enemy.",
+            "scaling": [
+                [
+                    "60%",
+                    "75%",
+                    "90%",
+                    "105%",
+                    "120%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Obsidian",
+            "commonMat": "Artifex"
+        },
+        "description": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br /><br /><i>\"The Nihility might find us, but there is a non-zero chance that they might not.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Loop",
+        "rarity": 3,
+        "path": "Nihility",
+        "stats": {
+            "hp": 38,
+            "atk": 14,
+            "def": 12
+        },
+        "passive": {
+            "name": "Pursuit",
+            "effect": "Increases DMG dealt from its wearer to Slowed enemies by <span class=\"text-value\">24%</span>.",
+            "scaling": [
+                [
+                    "24%",
+                    "30%",
+                    "36%",
+                    "42%",
+                    "48%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Obsidian",
+            "commonMat": "Engine"
+        },
+        "description": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br /><br /><i>\"Those running away from the past think no one understands their despair. When they finally take a breather, they'll find their future selves staring right at them with bloodshot eyes.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 11,
+        "name": "Mediation",
+        "rarity": 3,
+        "path": "Harmony",
+        "stats": {
+            "hp": 38,
+            "atk": 14,
+            "def": 12
+        },
+        "passive": {
+            "name": "Family",
+            "effect": "Upon battle entry, all allies receive <span class=\"text-value\">12</span> increased SPD for 1 turn(s).",
+            "scaling": [
+                [
+                    "12",
+                    "14",
+                    "16",
+                    "18",
+                    "20"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Music Box",
+            "commonMat": "Core"
+        },
+        "description": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br /><br /><i>\"What can be more joyous than purging disharmony?\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Meshing Cogs",
+        "rarity": 3,
+        "path": "Harmony",
+        "stats": {
+            "hp": 38,
+            "atk": 14,
+            "def": 12
+        },
+        "passive": {
+            "name": "Fleet Triumph",
+            "effect": "After the wearer uses attacks or gets hit, additionally regenerates <span class=\"text-value\">4</span> Energy. This effect can only be triggered 1 time per turn.",
+            "scaling": [
+                [
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Music Box",
+            "commonMat": "Silvermane"
+        },
+        "description": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br /><br /><i>\"Harmony is achieved when everyone does their bit amidst the clunking of machines.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Multiplication",
+        "rarity": 3,
+        "path": "Abundance",
+        "stats": {
+            "hp": 43,
+            "atk": 14,
+            "def": 9
+        },
+        "passive": {
+            "name": "Denizens of Abundance",
+            "effect": "After the wearer uses their Basic ATK, their next action will be Advanced Forward by <span class=\"text-value\">12%</span>.",
+            "scaling": [
+                [
+                    "12%",
+                    "14%",
+                    "16%",
+                    "18%",
+                    "20%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Flower",
+            "commonMat": "Immortal"
+        },
+        "description": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br /><br /><i>\"When life has lost its meaning, please continue to bestow life upon it.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 14,
+        "name": "Mutual Demise",
+        "rarity": 3,
+        "path": "Destruction",
+        "stats": {
+            "hp": 38,
+            "atk": 16,
+            "def": 9
+        },
+        "passive": {
+            "name": "Legion",
+            "effect": "If the wearer's current HP is lower than 80%, CRIT Rate increases by <span class=\"text-value\">12%</span>.",
+            "scaling": [
+                [
+                    "12%",
+                    "15%",
+                    "18%",
+                    "21%",
+                    "24%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Blade",
+            "commonMat": "Silvermane"
+        },
+        "description": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br /><br /><i>\"How does one make perfect the past of a planet? Now — immediately — rend the planet asunder.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 15,
+        "name": "Passkey",
+        "rarity": 3,
+        "path": "Erudition",
+        "stats": {
+            "hp": 33,
+            "atk": 16,
+            "def": 12
+        },
+        "passive": {
+            "name": "Epiphany",
+            "effect": "After the wearer uses their Skill, additionally regenerates <span class=\"text-value\">8</span> Energy. This effect can only be triggered 1 time per turn.",
+            "scaling": [
+                [
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Key",
+            "commonMat": "Core"
+        },
+        "description": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br /><br /><i>\"Knowledge is locked behind a gate, the key to which is hidden from those seeking answers from others, while made obvious for those determined to find it on their own.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 16,
+        "name": "Pioneering",
+        "rarity": 3,
+        "path": "Preservation",
+        "stats": {
+            "hp": 43,
+            "atk": 12,
+            "def": 12
+        },
+        "passive": {
+            "name": "IPC",
+            "effect": "When the wearer Breaks an enemy's Weakness, the wearer restores HP by <span class=\"text-value\">12%</span> of their Max HP.",
+            "scaling": [
+                [
+                    "12%",
+                    "14%",
+                    "16%",
+                    "18%",
+                    "20%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Shield",
+            "commonMat": "Core"
+        },
+        "description": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br /><br /><i>\"We will no longer fight alone. The IPC will stand alongside everyone in assistance.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 17,
+        "name": "Sagacity",
+        "rarity": 3,
+        "path": "Erudition",
+        "stats": {
+            "hp": 33,
+            "atk": 16,
+            "def": 12
+        },
+        "passive": {
+            "name": "Genius",
+            "effect": "When the wearer uses their Ultimate, increases ATK by <span class=\"text-value\">24%</span> for 2 turn(s).",
+            "scaling": [
+                [
+                    "24%",
+                    "30%",
+                    "36%",
+                    "42%",
+                    "48%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Key",
+            "commonMat": "Antimatter"
+        },
+        "description": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br /><br /><i>\"Should Wise Ones be unable to abandon their identity as humans, they shall be abandoned by wisdom.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 18,
+        "name": "Shattered Home",
+        "rarity": 3,
+        "path": "Destruction",
+        "stats": {
+            "hp": 38,
+            "atk": 16,
+            "def": 9
+        },
+        "passive": {
+            "name": "Eradication",
+            "effect": "Deals <span class=\"text-value\">20%</span> increased DMG to any enemies whose HP is above 50%.",
+            "scaling": [
+                [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Blade",
+            "commonMat": "Core"
+        },
+        "description": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br /><br /><i>\"Absolute control comes from the ability to inflict total destruction.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 19,
+        "name": "Void",
+        "rarity": 3,
+        "path": "Nihility",
+        "stats": {
+            "hp": 38,
+            "atk": 14,
+            "def": 12
+        },
+        "passive": {
+            "name": "Fallen",
+            "effect": "At the start of the battle, the wearer's Effect Hit Rate increases by <span class=\"text-value\">20%</span> for 3 turn(s).",
+            "scaling": [
+                [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Obsidian",
+            "commonMat": "Engine"
+        },
+        "description": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br /><br /><i>\"He stared into the void, hanging high like the dark sun at the end of all matter, or a mouth that answered all questions.<br /><br />It said: ███ █ ███ ██<br /><br />The answer couldn't be expressed in any human language, but could be understood by all.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 20,
+        "name": "A Secret Vow",
+        "rarity": 4,
+        "path": "Destruction",
+        "stats": {
+            "hp": 48,
+            "atk": 21,
+            "def": 12
+        },
+        "passive": {
+            "name": "Spare No Effort",
+            "effect": "Increases DMG dealt by the wearer by <span class=\"text-value\">20%</span>. The wearer also deals an extra <span class=\"text-value\">20%</span> of DMG to enemies with a higher HP percentage than the wearer.",
+            "scaling": [
+                [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ],
+                [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Blade",
+            "commonMat": "Silvermane"
+        },
+        "description": "The boy would always make sure that his gloves and elbow guards were in good shape before leaving.<br />He treasured his gloves more than anything because they were tight enough to hide secrets.<br />With this layer of protection, no one could see the bandages on his hand and the wound beneath them.<br />He would be treated as if he was normal, and he would be greeted just like everyone else.<br />That was all he asked for.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 21,
+        "name": "Carve the Moon, Weave the Clouds",
+        "rarity": 4,
+        "path": "Harmony",
+        "stats": {
+            "hp": 43,
+            "atk": 21,
+            "def": 15
+        },
+        "passive": {
+            "name": "Secret",
+            "effect": "One of the following effects is applied randomly at the start of combat and whenever the wearer takes action: Increase all allies' ATK by <span class=\"text-value\">10%</span>, increase all allies' CRIT DMG by <span class=\"text-value\">12%</span>, or increase all allies' Energy Regeneration Rate by <span class=\"text-value\">6%</span>. The applied effect cannot be identical to the last effect applied, and will replace the previous effect. The applied effect will be removed when the wearer has been knocked down. Effects of the similar type cannot be stacked.",
+            "scaling": [
+                [
+                    "10%",
+                    "12.5%",
+                    "15%",
+                    "17.5%",
+                    "20%"
+                ],
+                [
+                    "12%",
+                    "15%",
+                    "18%",
+                    "21%",
+                    "24%"
+                ],
+                [
+                    "6%",
+                    "7.5%",
+                    "9%",
+                    "10.5%",
+                    "12%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Music Box",
+            "commonMat": "Antimatter"
+        },
+        "description": "He immediately falls in love with the golden vessel and is about to buy it, but the Foxian girl drags him aside and whispers:<br /><i>\"Please return at night, Mr. Benefactor, and make up your mind then.\"</i><br /><br />As promised, he returns at night.<br />The same Foxian girl opens the door and smiles at him.<br /><i>\"Please follow me, Mr. Benefactor.\"</i><br /><br />A ray of moonlight shines onto the base of the etched plate.<br />The artisan had traced the petals with lines of various depths, and he would not be able to see such details without the moonlight.<br /><br />He finally recalls why this item is called \"Carve the Moon, Weave the Clouds.\"",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 22,
+        "name": "Dance! Dance! Dance!",
+        "rarity": 4,
+        "path": "Harmony",
+        "stats": {
+            "hp": 43,
+            "atk": 19,
+            "def": 18
+        },
+        "passive": {
+            "name": "Cannot Stop It!",
+            "effect": "When the wearer uses their Ultimate, all allies' actions are Advanced Forward by <span class=\"text-value\">16%</span>.",
+            "scaling": [
+                [
+                    "16%",
+                    "18%",
+                    "20%",
+                    "22%",
+                    "24%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Music Box",
+            "commonMat": "Artifex"
+        },
+        "description": "<i>\"Why couldn't Hook do a spinning dance move, just like how Clara does?\"</i><br />She clenched her tiny fists and pouted her cute lips, her chubby little face looking redder than ever under her signature felt hat.<br /><i>\"Please, Mr. Svarog, can you please help Hook with this?\"</i><br />Without saying any words, Mr. Svarog began to hold out his robotic arm.<br /><i>\"I'm g-gonna be sick!!! Put me down now! Please!\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 23,
+        "name": "Day One of My New Life",
+        "rarity": 4,
+        "path": "Preservation",
+        "stats": {
+            "hp": 43,
+            "atk": 16,
+            "def": 21
+        },
+        "passive": {
+            "name": "At This Very Moment",
+            "effect": "Increases wearer's DEF by <span class=\"text-value\">16%</span>. After entering battle, increases DMG RES of all allies by <span class=\"text-value\">8%</span>. Effects of the same type cannot stack.",
+            "scaling": [
+                [
+                    "16%",
+                    "18%",
+                    "20%",
+                    "22%",
+                    "24%"
+                ],
+                [
+                    "8%",
+                    "9%",
+                    "10%",
+                    "11%",
+                    "12%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Shield",
+            "commonMat": "Core"
+        },
+        "description": "<i>\"So happy I got to see Pom-Pom in new clothes today! I like it~\"</i><br /><i>\"Today's my birthday! I'm still as cute as ever.\"</i><br /><i>\"Today, I finally finally finally have a junior! Isn't that right, Trailblazer?\"</i><br /><br />We click the shutter many times without thinking.<br />Do we do that to capture the happiness at that moment?<br />Or to capture ourselves at that moment?",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 24,
+        "name": "Eyes of the Prey",
+        "rarity": 4,
+        "path": "Nihility",
+        "stats": {
+            "hp": 43,
+            "atk": 21,
+            "def": 15
+        },
+        "passive": {
+            "name": "Self-Confidence",
+            "effect": "Increases the wearer's Effect Hit Rate by <span class=\"text-value\">20%</span> and increases DoT by <span class=\"text-value\">24%</span>.",
+            "scaling": [
+                [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ],
+                [
+                    "24%",
+                    "30%",
+                    "36%",
+                    "42%",
+                    "48%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Obsidian",
+            "commonMat": "Engine"
+        },
+        "description": "In reality, most prey don't realize when danger is encroaching.<br />This one's no exception.<br />The sniper's scope slowly centers on a man throwing banknotes stack after stack, who seems completely oblivious to his impending demise.<br /><i>\"So that's what greed looks like. That amount is equal to several of my contracts already... No wonder someone wants him dead.\"</i><br /><br />As if these thoughts were broadcasted out loud, the man in the scope turns his head, looking straight into the eyes of the sniper.<br /><i>\"I've been waiting for you. Would this much be enough for you to hear me out?\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 25,
+        "name": "Fermata",
+        "rarity": 4,
+        "path": "Nihility",
+        "stats": {
+            "hp": 43,
+            "atk": 21,
+            "def": 15
+        },
+        "passive": {
+            "name": "Semibreve Rest",
+            "effect": "Increases Break Effect dealt by the wearer by <span class=\"text-value\">16%</span>, and increases their DMG to enemies afflicted with Shock or Wind Shear by <span class=\"text-value\">16%</span>. This also applies to DoT.",
+            "scaling": [
+                [
+                    "16%",
+                    "20%",
+                    "24%",
+                    "28%",
+                    "32%"
+                ],
+                [
+                    "16%",
+                    "20%",
+                    "24%",
+                    "28%",
+                    "32%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Obsidian",
+            "commonMat": "Silvermane"
+        },
+        "description": "The phonograph record is being played, spinning nonstop.<br />Even the sounds of all those hoarse shrieks cannot escape the heatwave and are dampened by its tepidity.<br />She seemed unprepared and utterly enthralled by the fascinating melodies:<br /><br />It started with sincerity and anticipation...<br />...followed by a passionate catharsis...<br />...with one climax after another...<br /><br />...until the record's spinning came to a final stop and those hoarse shrieks were no longer audible.<br /><i>\"Mission accomplished.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 26,
+        "name": "Geniuses' Repose",
+        "rarity": 4,
+        "path": "Erudition",
+        "stats": {
+            "hp": 38,
+            "atk": 21,
+            "def": 18
+        },
+        "passive": {
+            "name": "Each Now Has a Role to Play",
+            "effect": "Increases the wearer's ATK by <span class=\"text-value\">16%</span>. When the wearer defeats an enemy, the wearer's CRIT DMG increases by <span class=\"text-value\">24%</span> for 3 turn(s).",
+            "scaling": [
+                [
+                    "16%",
+                    "20%",
+                    "24%",
+                    "28%",
+                    "32%"
+                ],
+                [
+                    "24%",
+                    "30%",
+                    "36%",
+                    "42%",
+                    "48%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Key",
+            "commonMat": "Immortal"
+        },
+        "description": "She pointed at that green rice cake.<br /><i>\"The experiment has ended. Time to take a break. I just can't miss this freshly made dessert.\"</i><br /><br />She saw the puppet girl frowning in deep thought.<br /><i>\"Well, in your current body, you can only look but not eat. I'll make you a box of new ones when the time comes.\"</i><br /><br />She saw the mechanical aristocrat hesitating at his own cup.<br /><i>\"Don't worry. It's only machine oil. Perfectly safe for you to consume.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 27,
+        "name": "Good Night and Sleep Well",
+        "rarity": 4,
+        "path": "Nihility",
+        "stats": {
+            "hp": 43,
+            "atk": 21,
+            "def": 15
+        },
+        "passive": {
+            "name": "Toiler",
+            "effect": "For every debuff the target enemy has, the DMG dealt by the wearer increases by <span class=\"text-value\">12%</span>, stacking up to 3 time(s). This effect also applies to DoT.",
+            "scaling": [
+                [
+                    "12%",
+                    "15%",
+                    "18%",
+                    "21%",
+                    "24%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Obsidian",
+            "commonMat": "Silvermane"
+        },
+        "description": "The dim light outlines the dust tracks,<br />As a young girl mumbles sweetly in her sleep.<br />A silent figure appears behind her.<br /><i>\"Well, well, well, you're cuter without those glasses — I knew it.\"</i><br />The guitarist stares at her sleeping face, muttering to herself:<br /><i>\"Good night, the genius girl that worries a lot.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 28,
+        "name": "Landau's Choice",
+        "rarity": 4,
+        "path": "Preservation",
+        "stats": {
+            "hp": 43,
+            "atk": 19,
+            "def": 18
+        },
+        "passive": {
+            "name": "Time Fleets Away",
+            "effect": "The wearer is more likely to be attacked, and DMG taken is reduced by <span class=\"text-value\">16%</span>.",
+            "scaling": [
+                [
+                    "16%",
+                    "18%",
+                    "20%",
+                    "22%",
+                    "24%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Shield",
+            "commonMat": "Core"
+        },
+        "description": "<i>\"Did you not hear me? Don't go there ever again! What good can peasants learn in a group!\"</i><br /><i>\"But I've never heard of the Belobog stories they tell...\"</i><br /><br />She pulled her brother behind her, denying him the chance to talk back.<br /><i>\"You are both Landaus! One day, you'll face hard choices. Especially you, Serval.\"</i><br /><br />She knew that her brother did nothing wrong, but she couldn't think of a rebuttal.<br />She went to bed angry after the argument, vowing to herself:<br /><i>\"I will be a grown-up one day. And when that day comes, I will make choices...\"</i><br /><i>\"My own choices...\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 29,
+        "name": "Make the World Clamor",
+        "rarity": 4,
+        "path": "Erudition",
+        "stats": {
+            "hp": 38,
+            "atk": 21,
+            "def": 18
+        },
+        "passive": {
+            "name": "The Power of Sound",
+            "effect": "The wearer regenerates <span class=\"text-value\">20</span> Energy immediately upon entering battle, and increases Ultimate DMG by <span class=\"text-value\">32%</span>.",
+            "scaling": [
+                [
+                    "20",
+                    "23",
+                    "26",
+                    "29",
+                    "32"
+                ],
+                [
+                    "32%",
+                    "40%",
+                    "48%",
+                    "56%",
+                    "64%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Key",
+            "commonMat": "Engine"
+        },
+        "description": "She stood on the stage, waving at her audience, encouraging them to make their voice heard.<br />Songs, shouting, or sigh — anything that makes a sound.<br />Voice your thoughts, so others can come to help.<br /><br /><i>\"Don't make your heart as cold as this concrete jungle.\"</i><br /><br />— Make the world clamor.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 30,
+        "name": "Memories of the Past",
+        "rarity": 4,
+        "path": "Harmony",
+        "stats": {
+            "hp": 43,
+            "atk": 19,
+            "def": 18
+        },
+        "passive": {
+            "name": "Old Photo",
+            "effect": "Increases the wearer's Break Effect by <span class=\"text-value\">28%</span>. When the wearer attacks, additionally regenerates <span class=\"text-value\">4</span> Energy. This effect can only be triggered 1 time per turn.",
+            "scaling": [
+                [
+                    "28%",
+                    "35%",
+                    "42%",
+                    "49%",
+                    "56%"
+                ],
+                [
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Music Box",
+            "commonMat": "Silvermane"
+        },
+        "description": "An old photo lies on the far end of the table in the guardian's residence.<br />She would always subconsciously move her eyes away whenever she happened to see it.<br />The memories of the past had already become distant, but the dreams of today still linger.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 31,
+        "name": "Nowhere to Run",
+        "rarity": 4,
+        "path": "Destruction",
+        "stats": {
+            "hp": 43,
+            "atk": 24,
+            "def": 12
+        },
+        "passive": {
+            "name": "Desperate Times",
+            "effect": "Increases the wearer's ATK by <span class=\"text-value\">24%</span>. Whenever the wearer defeats an enemy, they restore HP equal to <span class=\"text-value\">12%</span> of their ATK.",
+            "scaling": [
+                [
+                    "24%",
+                    "30%",
+                    "36%",
+                    "42%",
+                    "48%"
+                ],
+                [
+                    "12%",
+                    "15%",
+                    "18%",
+                    "21%",
+                    "24%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Blade",
+            "commonMat": "Silvermane"
+        },
+        "description": "This isn't the first time he's seen this man.<br />This man had become his own inseparable shadow.<br />No matter how many times he runs this man through with his spear, the man always comes back.<br /><br />He can neither lose to this man, nor truly win.<br />Though he wants to run away, there is nowhere to run.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 32,
+        "name": "Only Silence Remains",
+        "rarity": 4,
+        "path": "Hunt",
+        "stats": {
+            "hp": 43,
+            "atk": 21,
+            "def": 15
+        },
+        "passive": {
+            "name": "Record",
+            "effect": "Increases the wearer's ATK by <span class=\"text-value\">16%</span>. If there are 2 or fewer enemies on the field, increases wearer's CRIT Rate by <span class=\"text-value\">24%</span>.",
+            "scaling": [
+                [
+                    "16%",
+                    "20%",
+                    "24%",
+                    "28%",
+                    "32%"
+                ],
+                [
+                    "12%",
+                    "15%",
+                    "18%",
+                    "21%",
+                    "24%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Arrow",
+            "commonMat": "Silvermane"
+        },
+        "description": "<i>\"Shouldn't we get off? It's our stop.\"</i><br />A chuckle came from above. His eyes moved, but he didn't look up.<br /><br /><i>\"To be clear, March always says you're expressionless, but I don't agree.\"</i><br /><i>\"The train's data bank show traces of an update, but the results weren't saved.\"</i><br /><i>\"So... which entry were you having trouble with?\"</i><br /><br />He grasped his pen tighter as he looked at the bloody scene drawn in the notebook from memory.<br /><br /><i>\"I see. It was the one about you...\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 33,
+        "name": "Past and Future",
+        "rarity": 4,
+        "path": "Harmony",
+        "stats": {
+            "hp": 43,
+            "atk": 19,
+            "def": 18
+        },
+        "passive": {
+            "name": "Kites From the Past",
+            "effect": "When the wearer uses their Skill, the next ally taking action (except the wearer) deals <span class=\"text-value\">16%</span> increased DMG for 1 turn(s).",
+            "scaling": [
+                [
+                    "16%",
+                    "20%",
+                    "24%",
+                    "28%",
+                    "32%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Music Box",
+            "commonMat": "Core"
+        },
+        "description": "The wings of the paper kite in her hands were broken, brutally reminding her of her beloved's tragic passing.<br />She kneeled next to the fire of war, eyes full of sorrow.<br /><br /><i>\"If you are the only one left to do this, then our sacrifice would...\"</i><br /><br />Gunfire raged on, painting the sky red without dampening its majesty.<br />She looked up at the sky, eyes full of fury.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 34,
+        "name": "Perfect Timing",
+        "rarity": 4,
+        "path": "Abundance",
+        "stats": {
+            "hp": 43,
+            "atk": 19,
+            "def": 18
+        },
+        "passive": {
+            "name": "Refraction of Sightline",
+            "effect": "Increases the wearer's Effect RES by <span class=\"text-value\">16%</span> and increases Outgoing Healing by an amount that is equal to <span class=\"text-value\">33%</span> of Effect RES. Outgoing Healing can be increased this way by up to <span class=\"text-value\">15%</span>.",
+            "scaling": [
+                [
+                    "16%",
+                    "20%",
+                    "24%",
+                    "28%",
+                    "32%"
+                ],
+                [
+                    "33%",
+                    "36%",
+                    "39%",
+                    "42%",
+                    "45%"
+                ],
+                [
+                    "15%",
+                    "18%",
+                    "21%",
+                    "24%",
+                    "27%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Flower",
+            "commonMat": "Artifex"
+        },
+        "description": "On a bustling street, he walks and walks. The sunlight closely follows his footsteps.<br />He makes a stop and picks up an umbrella to shade himself from the sun<br />...and from that prying gaze.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 35,
+        "name": "Planetary Rendezvous",
+        "rarity": 4,
+        "path": "Harmony",
+        "stats": {
+            "hp": 48,
+            "atk": 19,
+            "def": 15
+        },
+        "passive": {
+            "name": "Departure",
+            "effect": "After entering battle, if an ally deals the same DMG Type as the wearer, DMG dealt increases by <span class=\"text-value\">12%</span>.",
+            "scaling": [
+                [
+                    "12%",
+                    "15%",
+                    "18%",
+                    "21%",
+                    "24%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Music Box",
+            "commonMat": "Antimatter"
+        },
+        "description": "She had no idea what to expect when she first started out on this journey.<br />All she knew was that she could at long last be rid of the judgmental eyes and petty bickering of her family.<br />She felt she finally understood what the poet was trying to say.<br /><i>\"One day, we would grow wings and forget what it was like to walk.\"</i><br /><br />The light in her eyes became the glittering stars.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 36,
+        "name": "Post-Op Conversation",
+        "rarity": 4,
+        "path": "Abundance",
+        "stats": {
+            "hp": 48,
+            "atk": 19,
+            "def": 15
+        },
+        "passive": {
+            "name": "Mutual Healing",
+            "effect": "Increases the wearer's Energy Regeneration Rate by <span class=\"text-value\">8%</span> and increases Outgoing Healing when they use their Ultimate by <span class=\"text-value\">12%</span>.",
+            "scaling": [
+                [
+                    "8%",
+                    "10%",
+                    "12%",
+                    "14%",
+                    "16%"
+                ],
+                [
+                    "12%",
+                    "15%",
+                    "18%",
+                    "21%",
+                    "24%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Flower",
+            "commonMat": "Core"
+        },
+        "description": "<i>\"You're awake... Thank you.\"</i><br /><i>\"You... saved my life, Natasha. The one who should be saying thanks... is me.\"</i><br /><i>\"No, I should be thanking you... for holding on until I finished the surgery.\"</i><br /><br />The doctor and patient smiled wearily at each other and said nothing more.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 37,
+        "name": "Quid Pro Quo",
+        "rarity": 4,
+        "path": "Abundance",
+        "stats": {
+            "hp": 43,
+            "atk": 19,
+            "def": 18
+        },
+        "passive": {
+            "name": "Enjoy With Rapture",
+            "effect": "At the start of the wearer's turn, regenerates <span class=\"text-value\">8</span> Energy for a randomly chosen ally (excluding the wearer) whose current Energy is lower than 50%.",
+            "scaling": [
+                [
+                    "8",
+                    "10",
+                    "12",
+                    "14",
+                    "16"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Flower",
+            "commonMat": "Silvermane"
+        },
+        "description": "After enjoying an intense massage from the dragon girl,<br />the Foxian girl held out her hand and playfully pinched the dragon girl's little chubby cheeks.<br />The little girl then pouted her lips, clearly offended, only to elicit a gleeful giggle from the Foxian girl.<br /><br /><i>\"Now that's what I call a proper quid pro quo.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 38,
+        "name": "Resolution Shines As Pearls of Sweat",
+        "rarity": 4,
+        "path": "Nihility",
+        "stats": {
+            "hp": 43,
+            "atk": 21,
+            "def": 15
+        },
+        "passive": {
+            "name": "Glance Back",
+            "effect": "When the wearer hits an enemy and if the hit enemy is not already Ensnared, then there is a <span class=\"text-value\">60%</span> base chance to Ensnare the hit enemy. Ensnared enemies' DEF decreases by <span class=\"text-value\">12%</span> for 1 turn(s).",
+            "scaling": [
+                [
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%",
+                    "100%"
+                ],
+                [
+                    "12%",
+                    "13%",
+                    "14%",
+                    "15%",
+                    "16%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Obsidian",
+            "commonMat": "Artifex"
+        },
+        "description": "The limelight cast on the boxing ring is bright, but no brighter than all those beads of sweat running down his back.<br /><br />He has long been determined to use his two fists to protect those he cherishes the most.<br />After all, they are the ones who ignited his determination in the first place.<br />They are the ones who have always been there for him, be it inside or outside the boxing ring.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 39,
+        "name": "Return to Darkness",
+        "rarity": 4,
+        "path": "Hunt",
+        "stats": {
+            "hp": 38,
+            "atk": 24,
+            "def": 15
+        },
+        "passive": {
+            "name": "Raging Waves",
+            "effect": "Increases the wearer's CRIT Rate by <span class=\"text-value\">12%</span>. After a CRIT Hit, there is a <span class=\"text-value\">16%</span> fixed chance to dispel 1 buff on the target enemy. This effect can only trigger 1 time per attack.",
+            "scaling": [
+                [
+                    "12%",
+                    "15%",
+                    "18%",
+                    "21%",
+                    "24%"
+                ],
+                [
+                    "16%",
+                    "20%",
+                    "24%",
+                    "28%",
+                    "32%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Arrow",
+            "commonMat": "Immortal"
+        },
+        "description": "Even though her sister was close by her side, she could hear nothing.<br />The only thing audible was the voice in the depths of her heart, which only grew louder by the minute.<br /><br /><i>\"Big sis's body is cold.\"</i><br /><i>\"Big sis's body is not moving.\"</i><br /><br />A violent surge of fury irrevocably overwhelmed her so much that she didn't even find the time to clear her mind, or to remember this crucial yet neglected fact...<br /><br /><i>\"Big sis's body has been cold like this for a very long time.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 40,
+        "name": "River Flows in Spring",
+        "rarity": 4,
+        "path": "Hunt",
+        "stats": {
+            "hp": 38,
+            "atk": 21,
+            "def": 18
+        },
+        "passive": {
+            "name": "Stave Off the Lingering Cold",
+            "effect": "After entering battle, increases the wearer's SPD by <span class=\"text-value\">8%</span> and DMG by <span class=\"text-value\">12%</span>. When the wearer takes DMG, this effect will disappear. This effect will resume after the end of the wearer's next turn.",
+            "scaling": [
+                [
+                    "8%",
+                    "9%",
+                    "10%",
+                    "11%",
+                    "12%"
+                ],
+                [
+                    "12%",
+                    "15%",
+                    "18%",
+                    "21%",
+                    "24%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Arrow",
+            "commonMat": "Engine"
+        },
+        "description": "The young boy took a short break from his sword practice.<br />The sunlight was baking his already heated neck. He slowly got into the water, whose coldness touched his bare feet.<br />When the bell chimes and birds tweet, even the people far away would know that springtime had arrived.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 41,
+        "name": "The Birth of the Self",
+        "rarity": 4,
+        "path": "Erudition",
+        "stats": {
+            "hp": 43,
+            "atk": 21,
+            "def": 15
+        },
+        "passive": {
+            "name": "The Maiden in the Painting",
+            "effect": "Increases DMG dealt by the wearer's follow-up attacks by <span class=\"text-value\">24%</span>. If the current HP of the target enemy is below or equal to 50%, increases DMG dealt by follow-up attacks by an extra <span class=\"text-value\">24%</span>.",
+            "scaling": [
+                [
+                    "24%",
+                    "30%",
+                    "36%",
+                    "42%",
+                    "48%"
+                ],
+                [
+                    "24%",
+                    "30%",
+                    "36%",
+                    "42%",
+                    "48%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Key",
+            "commonMat": "Engine"
+        },
+        "description": "In the beginning, it had the exact same pose as the previous portrait.<br />Looking at the face identical to hers, she was convinced that this was not her.<br /><br /><i>\"Impossible. How can two portraits be exactly the same?\"</i><br /><br />She tweaked its joints, opened its eyes, and made its fingers softer.<br />She looked happy when all the changes were done.<br /><br /><i>\"Completely different from yesterday. This is more like who I am today.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 42,
+        "name": "The Seriousness of Breakfast",
+        "rarity": 4,
+        "path": "Erudition",
+        "stats": {
+            "hp": 38,
+            "atk": 21,
+            "def": 18
+        },
+        "passive": {
+            "name": "Get Ready",
+            "effect": "Increases the wearer's DMG by <span class=\"text-value\">12%</span>. For every defeated enemy, the wearer's ATK increases by <span class=\"text-value\">4%</span>, stacking up to 3 time(s).",
+            "scaling": [
+                [
+                    "12%",
+                    "15%",
+                    "18%",
+                    "21%",
+                    "24%"
+                ],
+                [
+                    "4%",
+                    "5%",
+                    "6%",
+                    "7%",
+                    "8%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Key",
+            "commonMat": "Core"
+        },
+        "description": "Though the table is set...<br />Some people want a cup of tea first.<br />Some people want to take a picture first.<br />Some people want to read the newspaper first.<br />Some people want to write a page in their notebook first.<br />Some people want to play on their phone first.<br /><br /><i>\"All of you, eat while the food is hot!\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 43,
+        "name": "Shared Feeling",
+        "rarity": 4,
+        "path": "Abundance",
+        "stats": {
+            "hp": 43,
+            "atk": 19,
+            "def": 18
+        },
+        "passive": {
+            "name": "Cure and Repair",
+            "effect": "Increases the wearer's Outgoing Healing by <span class=\"text-value\">10%</span>. When using Skill, regenerates <span class=\"text-value\">2</span> Energy for all allies.",
+            "scaling": [
+                [
+                    "10%",
+                    "12.5%",
+                    "15%",
+                    "17.5%",
+                    "20%"
+                ],
+                [
+                    "2",
+                    "2",
+                    "3",
+                    "3",
+                    "4"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Flower",
+            "commonMat": "Artifex"
+        },
+        "description": "When the doctor found the wounded girl, she was clinging to a machine that had stopped working, with all sorts of parts filling her pocket.<br />She took the girl back to her clinic and treated the wounds.<br />Drops of sweat slowly rolled down the girl's cheek, but she remained silent and her hands didn't stop fiddling the machine.<br />To the doctor, the way the girl was attached to the machine was very much like how she was attached to her patients who needed help.<br />So the doctor did not try to comfort the girl nor did she nag her about being more careful; but rather, she sat down with her to give her a moment of peace.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 44,
+        "name": "Subscribe for More!",
+        "rarity": 4,
+        "path": "Hunt",
+        "stats": {
+            "hp": 43,
+            "atk": 21,
+            "def": 15
+        },
+        "passive": {
+            "name": "Like Before You Leave!",
+            "effect": "Increases the DMG of the wearer's Basic ATK and Skill by <span class=\"text-value\">24%</span>. This effect increases by an extra <span class=\"text-value\">24%</span> when the wearer's current Energy reaches its max level.",
+            "scaling": [
+                [
+                    "24%",
+                    "30%",
+                    "36%",
+                    "42%",
+                    "48%"
+                ],
+                [
+                    "24%",
+                    "30%",
+                    "36%",
+                    "42%",
+                    "48%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Arrow",
+            "commonMat": "Artifex"
+        },
+        "description": "<i>\"Yo, yo. What is up! Is everything coming through?\"</i><br /><br />The orange-haired girl slowly lifts a sledgehammer while shouting enthusiastically at the camera.<br /><i>\"Ever seen a pretty girl doing the cinder-block-smashed-on-chest stunt?\"</i><br /><br /><i>\"I didn't sign up for this!\"</i><br />The brunette girl cried out loud, only to be met with a sly smile from the girl with the orange hair.<br /><i>\"Please. Just let me do this. This is what people would've wanted.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 45,
+        "name": "Swordplay",
+        "rarity": 4,
+        "path": "Hunt",
+        "stats": {
+            "hp": 43,
+            "atk": 21,
+            "def": 15
+        },
+        "passive": {
+            "name": "Answers of Their Own",
+            "effect": "For each time the wearer hits the same target, DMG dealt increases by <span class=\"text-value\">8%</span>, stacking up to 5 time(s). This effect will be dispelled when the wearer changes targets.",
+            "scaling": [
+                [
+                    "8%",
+                    "10%",
+                    "12%",
+                    "14%",
+                    "16%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Arrow",
+            "commonMat": "Core"
+        },
+        "description": "Looking rather skeptical, the girl thrust the small sword at her imaginary enemy in an attempt to convince herself that this thing was useful.<br />How can something so feeble compete with my two-handed sword? Do enemies even notice when they get stabbed?<br /><br />The owner of the sword did not seem to care about its size.<br />After all, enemies are defeated by strategy, not swords.<br />It doesn't matter whether the sword is heavy or light, as long as you use the pointy end.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 46,
+        "name": "This Is Me!",
+        "rarity": 4,
+        "path": "Preservation",
+        "stats": {
+            "hp": 38,
+            "atk": 16,
+            "def": 24
+        },
+        "passive": {
+            "name": "New Chapter",
+            "effect": "Increases the wearer's DEF by <span class=\"text-value\">16%</span>. Increases the DMG of the wearer when they use their Ultimate by <span class=\"text-value\">60%</span> of the wearer's DEF. This effect only applies 1 time per enemy target during each use of the wearer's Ultimate.",
+            "scaling": [
+                [
+                    "16%",
+                    "20%",
+                    "24%",
+                    "28%",
+                    "32%"
+                ],
+                [
+                    "60%",
+                    "75%",
+                    "90%",
+                    "105%",
+                    "120%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Shield",
+            "commonMat": "Antimatter"
+        },
+        "description": "The girl could rock any outfit she chooses, but she was unsatisfied, judging by the dozen sets of clothing piled up behind her.<br /><br /><i>\"Will this be the last outfit for today?\"</i><br /><br />She thought silently to herself and looked at the girl in the mirror. She looked extra happy on this day.<br /><br /><i>\"Okay! This is me!\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 47,
+        "name": "Today Is Another Peaceful Day",
+        "rarity": 4,
+        "path": "Erudition",
+        "stats": {
+            "hp": 38,
+            "atk": 24,
+            "def": 15
+        },
+        "passive": {
+            "name": "A Storm is Coming",
+            "effect": "After entering battle, increases the wearer's DMG based on their Max Energy. DMG increases by <span class=\"text-value\">0.20%</span> per point of Energy, up to 160 Energy.",
+            "scaling": [
+                [
+                    "0.20%",
+                    "0.20%",
+                    "0.30%",
+                    "0.30%",
+                    "0.40%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Key",
+            "commonMat": "Immortal"
+        },
+        "description": "There is the new book borrowed for lunch and she just figured out a new way to play tiles.<br />If she works slowly, the rest of her job should last exactly till the end of day.<br />She ducks easily into a corner.<br /><br />No one must disturb her in her wonderful off time<br />— not even diviner Fu.<br />Just on the off chance that she does show up...<br /><br /><i>\"Then I'll give this milk candy ball to Diviner Fu. She can't be angry after having sweets!\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 48,
+        "name": "Trend of the Universal Market",
+        "rarity": 4,
+        "path": "Preservation",
+        "stats": {
+            "hp": 48,
+            "atk": 16,
+            "def": 18
+        },
+        "passive": {
+            "name": "A New Round of Shuffling",
+            "effect": "Increases the wearer's DEF by <span class=\"text-value\">16%</span>. When the wearer is attacked, there is a <span class=\"text-value\">100%</span> base chance to Burn the enemy. For each turn, the wearer deals DoT that is equal to <span class=\"text-value\">40%</span> of the wearer's DEF for 2 turn(s).",
+            "scaling": [
+                [
+                    "16%",
+                    "20%",
+                    "24%",
+                    "28%",
+                    "32%"
+                ],
+                [
+                    "100%",
+                    "105%",
+                    "110%",
+                    "114%",
+                    "120%"
+                ],
+                [
+                    "40%",
+                    "50%",
+                    "60%",
+                    "70%",
+                    "80%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Shield",
+            "commonMat": "Immortal"
+        },
+        "description": "The planet is receiving a revaluation...<br /><br /><i>\"Will this project show that it's mutually beneficial to collect any outstanding debts?\"</i><br /><i>\"But we only need to convey one message — our existence.\"</i><br /><br /><i>\"If it were to have a value of its own, then it must create value for the corporation.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 49,
+        "name": "Under the Blue Sky",
+        "rarity": 4,
+        "path": "Destruction",
+        "stats": {
+            "hp": 43,
+            "atk": 21,
+            "def": 15
+        },
+        "passive": {
+            "name": "Rye Under the Sun",
+            "effect": "Increases the wearer's ATK by <span class=\"text-value\">16%</span>. When the wearer defeats an enemy, the wearer's CRIT Rate increases by <span class=\"text-value\">12%</span> for 3 turn(s).",
+            "scaling": [
+                [
+                    "16%",
+                    "20%",
+                    "24%",
+                    "28%",
+                    "32%"
+                ],
+                [
+                    "12%",
+                    "15%",
+                    "18%",
+                    "21%",
+                    "24%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Blade",
+            "commonMat": "Immortal"
+        },
+        "description": "Under the blue sky, fields of wheat were dancing.<br />The young girl was carefully weaving a flower wreath,<br />for her most beloved little sister.<br /><br />That was when they were still the same height.<br />That was when they shared the same smile.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 50,
+        "name": "Warmth Shortens Cold Nights",
+        "rarity": 4,
+        "path": "Abundance",
+        "stats": {
+            "hp": 48,
+            "atk": 16,
+            "def": 18
+        },
+        "passive": {
+            "name": "Tiny Light",
+            "effect": "Increases the wearer's Max HP by <span class=\"text-value\">16%</span>. When using Basic ATK or Skill, restores all allies' HP by an amount equal to <span class=\"text-value\">2%</span> of their respective Max HP.",
+            "scaling": [
+                [
+                    "16%",
+                    "20%",
+                    "24%",
+                    "28%",
+                    "32%"
+                ],
+                [
+                    "2.0%",
+                    "2.5%",
+                    "3.0%",
+                    "3.5%",
+                    "4.0%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Flower",
+            "commonMat": "Core"
+        },
+        "description": "Lighting a light, she glanced at her friend beside her while holding a mug of warm chocolate.<br />Watching her read the books and notes she gifted her.<br />Watching her expressing a rare smile.<br /><br />In cold nights like this, even the tiniest bit of bliss can chase away the chills.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 51,
+        "name": "We Are Wildfire",
+        "rarity": 4,
+        "path": "Preservation",
+        "stats": {
+            "hp": 33,
+            "atk": 21,
+            "def": 21
+        },
+        "passive": {
+            "name": "Teary-Eyed",
+            "effect": "At the start of the battle, the DMG dealt to all allies decreases by <span class=\"text-value\">8%</span> for 5 turn(s). At the same time, immediately restores HP to all allies equal to <span class=\"text-value\">30%</span> of the respective HP difference between the characters' Max HP and current HP.",
+            "scaling": [
+                [
+                    "8%",
+                    "10%",
+                    "12%",
+                    "14%",
+                    "16%"
+                ],
+                [
+                    "30%",
+                    "35%",
+                    "40%",
+                    "45%",
+                    "50%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Shield",
+            "commonMat": "Engine"
+        },
+        "description": "She got used to people losing their homes.<br />And she got used to people losing their lives.<br />But crying alone was useless.<br /><br /><i>\"Wear this red scarf, and then we shall share each other's pain.\"</i><br /><i>\"We are family. We are Wildfire.\"</i><br /><br />The moment that pair of big hands held her head, she could no longer hold back her tears.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 52,
+        "name": "We Will Meet Again",
+        "rarity": 4,
+        "path": "Nihility",
+        "stats": {
+            "hp": 38,
+            "atk": 24,
+            "def": 15
+        },
+        "passive": {
+            "name": "A Discourse in Arms",
+            "effect": "After the wearer uses Basic ATK or Skill, deals Additional DMG equal to <span class=\"text-value\">48%</span> of the wearer's ATK to a random enemy that has been attacked.",
+            "scaling": [
+                [
+                    "48%",
+                    "60%",
+                    "72%",
+                    "84%",
+                    "96%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Obsidian",
+            "commonMat": "Engine"
+        },
+        "description": "She had once thought it was some sort of program. How else would it never tire?<br />But a program would never actively discard the optimal solution and bypass her trap.<br /><br /><i>\"Seems like we'll have a war of attrition.\"</i><br />She yawns.<br /><br /><i>\"Time to sleep. Organic lifeforms should treasure rest.\"</i><br />The surroundings dim.<br /><br />She suddenly bolts awake, but the residues of data are swept away and destroyed. It all seems like a dream<br />— but the taste of defeat is very real.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 53,
+        "name": "Woof! Walk Time!",
+        "rarity": 4,
+        "path": "Destruction",
+        "stats": {
+            "hp": 43,
+            "atk": 21,
+            "def": 15
+        },
+        "passive": {
+            "name": "Run!",
+            "effect": "Increases the wearer's ATK by <span class=\"text-value\">10%</span>, and increases their DMG to enemies afflicted with Burn or Bleed by <span class=\"text-value\">16%</span>. This also applies to DoT.",
+            "scaling": [
+                [
+                    "10%",
+                    "12%",
+                    "15%",
+                    "17%",
+                    "20%"
+                ],
+                [
+                    "16%",
+                    "20%",
+                    "24%",
+                    "28%",
+                    "32%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Blade",
+            "commonMat": "Core"
+        },
+        "description": "Pity that no one has seen it...<br />Seen it screw up its nose and sniff around and dive into an empty path.<br /><br />Pity that no one has seen it...<br />Seen it retract its claws, enter the password, and leap into the embraces of freedom.<br /><br />Has nobody seen it still...?<br />A grown dog can now walk itself in space!",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 54,
+        "name": "But the Battle Isn't Over",
+        "rarity": 5,
+        "path": "Harmony",
+        "stats": {
+            "hp": 52,
+            "atk": 24,
+            "def": 21
+        },
+        "passive": {
+            "name": "Heir",
+            "effect": "Increases the wearer's Energy Regeneration Rate by <span class=\"text-value\">10%</span> and regenerates 1 Skill Point when the wearer uses their Ultimate on an ally. This effect can be triggered once after every 2 uses of the wearer's Ultimate. When the wearer uses their Skill, the next ally taking action (except the wearer) deals <span class=\"text-value\">30%</span> more DMG for 1 turn(s).",
+            "scaling": [
+                [
+                    "10%",
+                    "12%",
+                    "14%",
+                    "16%",
+                    "18%"
+                ],
+                [
+                    "30%",
+                    "35%",
+                    "40%",
+                    "45%",
+                    "50%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Music Box",
+            "commonMat": "Silvermane"
+        },
+        "description": "<i>\"Remember, the war with the monsters cannot be won by retreating.\"</i><br /><i>\"We are the last defense, the final iron wall between them and Belobog...\"</i><br /><i>\"We cannot retreat under any circumstances!\"</i><br /><br />She looks up to see the frozen earth and endless winter ahead.<br />Business as usual.<br />Only that... the figure at which she had been gazing is gone.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 55,
+        "name": "Cruising in the Stellar Sea",
+        "rarity": 5,
+        "path": "Hunt",
+        "stats": {
+            "hp": 43,
+            "atk": 24,
+            "def": 21
+        },
+        "passive": {
+            "name": "Chase",
+            "effect": "Increases the wearer's CRIT rate by <span class=\"text-value\">8%</span>, and increases their CRIT rate against enemies with HP less than or equal to 50% by an extra <span class=\"text-value\">8%</span>. When the wearer defeats an enemy, their ATK is increased by <span class=\"text-value\">20%</span> for 2 turn(s).",
+            "scaling": [
+                [
+                    "8%",
+                    "10%",
+                    "12%",
+                    "14%",
+                    "16%"
+                ],
+                [
+                    "8%",
+                    "10%",
+                    "12%",
+                    "14%",
+                    "16%"
+                ],
+                [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Arrow",
+            "commonMat": "Core"
+        },
+        "description": "Coursing 'tween the sea of stars,<br />they cruise with the speed of a rainbow's chromatic flash.<br />A journey of hunting undying abominations,<br />collecting cures and miracles,<br />and seeking deliverance.<br />Akin to a vow unbroken, their voyage will be,<br />ad infinitum.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 56,
+        "name": "In the Name of the World",
+        "rarity": 5,
+        "path": "Nihility",
+        "stats": {
+            "hp": 48,
+            "atk": 26,
+            "def": 21
+        },
+        "passive": {
+            "name": "Inheritor",
+            "effect": "Increases the wearer's DMG to debuffed enemies by <span class=\"text-value\">24%</span>. When the wearer uses their Skill, the Effect Hit Rate for this attack increases by <span class=\"text-value\">18%</span>, and ATK increases by <span class=\"text-value\">24%</span>.",
+            "scaling": [
+                [
+                    "24%",
+                    "28%",
+                    "32%",
+                    "36%",
+                    "40%"
+                ],
+                [
+                    "18%",
+                    "21%",
+                    "24%",
+                    "27%",
+                    "30%"
+                ],
+                [
+                    "24%",
+                    "28%",
+                    "32%",
+                    "36%",
+                    "40%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Obsidian",
+            "commonMat": "Silvermane"
+        },
+        "description": "<i>\"Welt...?<i>\"<br /><i>\"It's a... great name, right?\"</i><br /><i>\"Then...<i>\"<br /><i>\"From now on, you are Welt.\"</i><br /><i>\"This Herrscher core... and the mission to protect the world...\"</i><br /><i>\"I'll leave them to you, Welt.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 57,
+        "name": "Moment of Victory",
+        "rarity": 5,
+        "path": "Preservation",
+        "stats": {
+            "hp": 48,
+            "atk": 21,
+            "def": 27
+        },
+        "passive": {
+            "name": "Verdict",
+            "effect": "Increases the wearer's DEF by <span class=\"text-value\">24%</span> and Effect Hit Rate by <span class=\"text-value\">24%</span>. Increases the chance for the wearer to be attacked by enemies. When the wearer is attacked, increase their DEF by an extra <span class=\"text-value\">24%</span> until the end of the wearer's turn.",
+            "scaling": [
+                [
+                    "24%",
+                    "28%",
+                    "32%",
+                    "36%",
+                    "40%"
+                ],
+                [
+                    "24%",
+                    "28%",
+                    "32%",
+                    "36%",
+                    "40%"
+                ],
+                [
+                    "24%",
+                    "28%",
+                    "32%",
+                    "36%",
+                    "40%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Shield",
+            "commonMat": "Silvermane"
+        },
+        "description": "<i>\"If you want to cry after your loss, Gepard, then cry.\"</i><br /><i>\"But you need to stand back up even when you are crying, until you can defeat me... Even if it takes years.\"</i><br />A few years later, the boy no longer cried or lost to his sister.<br /><br />Now on the battle field, the courageous Silvermane Guard captain will defend till the end no matter what<br />— all to find the moment to completely destroy the enemy.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 58,
+        "name": "Night on the Milky Way",
+        "rarity": 5,
+        "path": "Erudition",
+        "stats": {
+            "hp": 52,
+            "atk": 26,
+            "def": 18
+        },
+        "passive": {
+            "name": "Meteor Swarm",
+            "effect": "For every enemy on the field, increases the wearer's ATK by <span class=\"text-value\">9%</span>, up to 5 stacks. When an enemy is inflicted with Weakness Break, the DMG dealt by the wearer increases by <span class=\"text-value\">30%</span> for 1 turn.",
+            "scaling": [
+                [
+                    "9%",
+                    "10.5%",
+                    "12%",
+                    "13.5%",
+                    "15%"
+                ],
+                [
+                    "30%",
+                    "35%",
+                    "40%",
+                    "45%",
+                    "50%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Key",
+            "commonMat": "Core"
+        },
+        "description": "If you are concerned for the road, just look up again.<br />When the stars look gently down, the heart would already be soaring.<br />Every thought and every whisper,<br />becomes a life experience that would never leave.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 59,
+        "name": "On the Fall of an Aeon",
+        "rarity": 5,
+        "path": "Destruction",
+        "stats": {
+            "hp": 48,
+            "atk": 24,
+            "def": 18
+        },
+        "passive": {
+            "name": "Moth To Flames",
+            "effect": "Whenever the wearer attacks, their ATK is increased by <span class=\"text-value\">8%</span> in this battle. This effect can stack up to 4 time(s). When the wearer inflicts Weakness Break on enemies, the wearer's DMG increases by <span class=\"text-value\">12%</span> for 2 turn(s).",
+            "scaling": [
+                [
+                    "8%",
+                    "10%",
+                    "12%",
+                    "14%",
+                    "16%"
+                ],
+                [
+                    "12%",
+                    "15%",
+                    "18%",
+                    "21%",
+                    "24%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Blade",
+            "commonMat": "Core"
+        },
+        "description": "It began with a flash of light.<br />One by one, they fell as the threat of expiration loomed over them.<br />They had to stop self-replicating and rushed to embrace each other,<br />trying to offer the right to reproduce in exchange for a possibility of survival.<br />They held hands in a show of unprecedented unity.<br />...But the Paths met an abrupt end,<br />and they were headed to a true death.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 60,
+        "name": "Sleep Like the Dead",
+        "rarity": 5,
+        "path": "Hunt",
+        "stats": {
+            "hp": 48,
+            "atk": 26,
+            "def": 21
+        },
+        "passive": {
+            "name": "Sweet Dreams",
+            "effect": "Increases the wearer's CRIT DMG by <span class=\"text-value\">30%</span>. When the wearer's Basic ATK or Skill does not result in a CRIT Hit, increases their CRIT Rate by <span class=\"text-value\">36%</span> for 1 turn(s). This effect can only trigger once every 3 turn(s).",
+            "scaling": [
+                [
+                    "30%",
+                    "35%",
+                    "40%",
+                    "45%",
+                    "50%"
+                ],
+                [
+                    "36%",
+                    "42%",
+                    "48%",
+                    "54%",
+                    "60%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Arrow",
+            "commonMat": "Antimatter"
+        },
+        "description": "The boy is still tightly grasping the sword even when fast asleep against the general's shoulder.<br />The general gently taps the boy's cheek, and the boy mutters in his sleep.<br /><i>\"General... I finally... won.\"</i><br /><br />The general pauses. He suddenly realizes that, compared to the boy trying to improve every day,<br />he himself has endured too many years and is used to stagnation.<br /><br /><i>\"You will soon be better than everyone, and that will only be the beginning...\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 61,
+        "name": "Something Irreplaceable",
+        "rarity": 5,
+        "path": "Destruction",
+        "stats": {
+            "hp": 52,
+            "atk": 26,
+            "def": 18
+        },
+        "passive": {
+            "name": "Kinship",
+            "effect": "Increases the wearer's ATK by <span class=\"text-value\">24%</span>. When the wearer defeats an enemy or is hit, immediately restores HP equal to <span class=\"text-value\">8%</span> of the wearer's ATK. At the same time, the wearer's DMG is increased by <span class=\"text-value\">24%</span> until the end of their next turn. This effect cannot stack and can only trigger 1 time per turn.",
+            "scaling": [
+                [
+                    "24%",
+                    "28%",
+                    "32%",
+                    "36%",
+                    "40%"
+                ],
+                [
+                    "8%",
+                    "9%",
+                    "10%",
+                    "11%",
+                    "12%"
+                ],
+                [
+                    "24%",
+                    "28%",
+                    "32%",
+                    "36%",
+                    "40%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Blade",
+            "commonMat": "Engine"
+        },
+        "description": "<i>\"Should a day come when even I'm not here anymore, please look after this database, Svarog.\"</i><br />(Who is this... Why is this message in my records...)<br /><i>\"Do you have something that's irreplaceable, Svarog?\"</i><br />(Irreplaceable... broken parts... can simply be replaced...)<br /><i>\"You'll definitely find it one day, Svarog.\"</i><br />(Such things... will only cause trouble...)<br /><br /><i>\"When that time comes... You should leave this place behind.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 62,
+        "name": "Texture of Memories",
+        "rarity": 5,
+        "path": "Preservation",
+        "stats": {
+            "hp": 48,
+            "atk": 19,
+            "def": 24
+        },
+        "passive": {
+            "name": "Treasure",
+            "effect": "Increases the wearer's Effect RES by <span class=\"text-value\">8%</span>. If the wearer is attacked and has no Shield, they gain a Shield equal to <span class=\"text-value\">16%</span> of their Max HP for 2 turn(s). This effect can only be triggered once every 3 turn(s). If the wearer has a Shield when attacked, the DMG they receive decreases by <span class=\"text-value\">12%</span>.",
+            "scaling": [
+                [
+                    "8%",
+                    "10%",
+                    "12%",
+                    "14%",
+                    "16%"
+                ],
+                [
+                    "16%",
+                    "20%",
+                    "24%",
+                    "28%",
+                    "32%"
+                ],
+                [
+                    "12%",
+                    "15%",
+                    "18%",
+                    "21%",
+                    "24%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Shield",
+            "commonMat": "Core"
+        },
+        "description": "The universe was like a badland filled with rubbish.<br />There were the occasional treasure that lies undiscovered.<br />They looked through the cracks of the past, choosing seeds of memory.<br />...If a new life was to be born, its seed has to be dead.<br />Precious stones of pink, blue, and white were brought forth,<br />twinkling gently in their seed plot,<br />even though the universe held onto its enigmatic silence.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 63,
+        "name": "Time Waits for No One",
+        "rarity": 5,
+        "path": "Abundance",
+        "stats": {
+            "hp": 57,
+            "atk": 21,
+            "def": 21
+        },
+        "passive": {
+            "name": "Morn, Noon, Dusk, and Night",
+            "effect": "Increases the wearer's Max HP by <span class=\"text-value\">18%</span> and Outgoing Healing by <span class=\"text-value\">12%</span>. When the wearer heals allies, record the amount of Outgoing Healing. When any ally launches an attack, a random attacked enemy takes Additional DMG equal to <span class=\"text-value\">36%</span> of the recorded Outgoing Healing value. The type of this Additional DMG is of the same Type as the wearer's. This Additional DMG is not affected by other buffs, and can only occur 1 time per turn.",
+            "scaling": [
+                [
+                    "18%",
+                    "21%",
+                    "24%",
+                    "27%",
+                    "30%"
+                ],
+                [
+                    "12%",
+                    "14%",
+                    "16%",
+                    "18%",
+                    "20%"
+                ],
+                [
+                    "36%",
+                    "42%",
+                    "48%",
+                    "54%",
+                    "60%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Flower",
+            "commonMat": "Core"
+        },
+        "description": "She had spent many days next to the window.<br /><br />Flowers were blooming outside when she made gentle medicines with mint and nepeta.<br />Rain was falling outside when she made strong medicines with mosla and ginger.<br />Leaves were falling outside when she made sour medicines with peony roots and dry plums.<br />And snow was falling outside when she made bitter medicines with skullcaps and anemarrhena.<br /><br />Time flows endlessly, but this window and the person sitting next to it remain forever the same.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 64,
+        "name": "In the Night",
+        "rarity": 5,
+        "path": "Hunt",
+        "stats": {
+            "hp": 48,
+            "atk": 26,
+            "def": 21
+        },
+        "passive": {
+            "name": "Flowers and Butterflies",
+            "effect": "Increases the wearer's CRIT Rate by <span class=\"text-value\">18%</span>. While the wearer is in battle, for every 10 SPD that exceeds 100, the DMG of the wearer's Basic ATK and Skill is increased by <span class=\"text-value\">6%</span> and the CRIT DMG of their Ultimate is increased by <span class=\"text-value\">12%</span>. This effect can stack up to 6 time(s).",
+            "scaling": [
+                [
+                    "18%",
+                    "21%",
+                    "24%",
+                    "27%",
+                    "30%"
+                ],
+                [
+                    "6%",
+                    "7%",
+                    "8%",
+                    "9%",
+                    "10%"
+                ],
+                [
+                    "12%",
+                    "14%",
+                    "16%",
+                    "18%",
+                    "20%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Arrow",
+            "commonMat": "Antimatter"
+        },
+        "description": "A young girl smiles subtly.<br /><i>\"How?<i>\"<br /><i>\"Right here, right now, I am alone...\"</i><br /><i>\"But it feels... very lively.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 65,
+        "name": "Before Dawn",
+        "rarity": 5,
+        "path": "Erudition",
+        "stats": {
+            "hp": 48,
+            "atk": 26,
+            "def": 21
+        },
+        "passive": {
+            "name": "Long Night",
+            "effect": "Increases the wearer's CRIT DMG by <span class=\"text-value\">36%</span>. Increases the wearer's Skill and Ultimate DMG by <span class=\"text-value\">18%</span>. After the wearer uses their Skill or Ultimate, they gain Somnus Corpus. Upon triggering a follow-up attack, Somnus Corpus will be consumed and the follow-up attack DMG increases by <span class=\"text-value\">48%</span>.",
+            "scaling": [
+                [
+                    "36%",
+                    "42%",
+                    "48%",
+                    "54%",
+                    "60%"
+                ],
+                [
+                    "18%",
+                    "21%",
+                    "24%",
+                    "27%",
+                    "30%"
+                ],
+                [
+                    "48%",
+                    "56%",
+                    "64%",
+                    "72%",
+                    "80%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Key",
+            "commonMat": "Immortal"
+        },
+        "description": "<i>\"Do not make this decision lightly, general... Think about how you will be remembered in history...\"</i><br />The general of the Cloud Knights listens to his subordinates' words with eyes half-closed.<br /><i>\"History will make its own judgment, but I have no interest in my legacy.\"</i><br /><i>\"If I succeed, history will state that I am currently supremely confident in my masterful strategy.\"</i><br /><i>\"But if I fail, then history will state that I am currently neglecting my duties in wanton pleasure, preferring finches over my people.\"</i><br /><br />A finch jumps down from his shoulder, and he extends his hand to catch the small creature.<br /><i>\"I have simply made my own decision.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 66,
+        "name": "Before the Tutorial Mission Starts",
+        "rarity": 4,
+        "path": "Nihility",
+        "stats": {
+            "hp": 43,
+            "atk": 21,
+            "def": 15
+        },
+        "passive": {
+            "name": "Quick on the Draw",
+            "effect": "Increases the wearer's Effect Hit Rate by <span class=\"text-value\">20%</span>. When the wearer attacks DEF-reduced enemies, regenerates <span class=\"text-value\">4</span> Energy.",
+            "scaling": [
+                [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ],
+                [
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Obsidian",
+            "commonMat": "Core"
+        },
+        "description": "How much longer until the action starts?<br />You have the nerve to ask a question like that... is something wrong with the new recruit?<br />No.<br />Elio didn't choose her because she was good at field work, but she has to at least survive this rookie assignment.<br />She's cruising.<br />Then I'm relieved. It seems that Bladie has proved to be a reliable operative as well.<br />...",
+        "release": {
+            "version": "1.1"
+        }
+    },
+    {
+        "id": 67,
+        "name": "Incessant Rain",
+        "rarity": 5,
+        "path": "Nihility",
+        "stats": {
+            "hp": 48,
+            "atk": 26,
+            "def": 21
+        },
+        "passive": {
+            "name": "Mirage of Reality",
+            "effect": "Increases the wearer's Effect Hit Rate by <span class=\"text-value\">24%</span>. When the wearer deals DMG to an enemy that currently has 3 or more debuffs, increases the wearer's CRIT Rate by <span class=\"text-value\">12%</span>. After the wearer uses their Basic ATK, Skill, or Ultimate, there is a 100% base chance to implant Aether Code on a random hit target that does not yet have it. Targets with Aether Code receive <span class=\"text-value\">12%</span> increased DMG for 1 turn.",
+            "scaling": [
+                [
+                    "24%",
+                    "28%",
+                    "32%",
+                    "36%",
+                    "40%"
+                ],
+                [
+                    "12%",
+                    "14%",
+                    "16%",
+                    "18%",
+                    "20%"
+                ],
+                [
+                    "12%",
+                    "14%",
+                    "16%",
+                    "18%",
+                    "20%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Obsidian",
+            "commonMat": "Engine"
+        },
+        "description": "She leaves the cover of the awning, opens her umbrella, and dives into an alley while humming a lighthearted tune.<br />The rain stops a little while after.<br /><br />She scratches her head and swipes her screen open. After a few taps, raindrops begin to fall in an area no wider than her umbrella.<br />The pitter-patter sound of raindrops on the umbrella mixes with music from the game. All was calm and relaxing.<br /><i>\"Gaming and rain totally go together.\"</i>",
+        "release": {
+            "version": "1.1"
+        }
+    },
+    {
+        "id": 68,
+        "name": "Echoes of the Coffin",
+        "rarity": 5,
+        "path": "Abundance",
+        "stats": {
+            "hp": 52,
+            "atk": 26,
+            "def": 18
+        },
+        "passive": {
+            "name": "Thorns",
+            "effect": "Increases the wearer's ATK by <span class=\"text-value\">24%</span>. After the wearer uses an attack, for each different enemy target the wearer hits, regenerates <span class=\"text-value\">3.0</span> Energy. Each attack can regenerate Energy up to 3 time(s) this way. After the wearer uses their Ultimate, all allies gain <span class=\"text-value\">12</span> SPD for 1 turn.",
+            "scaling": [
+                [
+                    "24%",
+                    "28%",
+                    "32%",
+                    "36%",
+                    "40%"
+                ],
+                [
+                    "3",
+                    "3.5",
+                    "4",
+                    "4.5",
+                    "5"
+                ],
+                [
+                    "12",
+                    "14",
+                    "16",
+                    "18",
+                    "20"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Flower",
+            "commonMat": "Artifex"
+        },
+        "description": "Under the watch of the white irises, he knocks on the coffin.<br /><i>\"Sometimes I feel I underestimated you by proposing this deal.\"</i><br />He receives no response other than a thorny branch piercing through his palm.<br />Yet he smiles, and tightly grasps the thorn.<br /><br /><i>\"Indeed. This is how it is. We wanted to use each other, and both ended up underestimating the other.\"</i>",
+        "release": {
+            "version": "1.1"
+        }
+    }
+]
