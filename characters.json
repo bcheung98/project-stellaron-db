@@ -4413,7 +4413,7 @@
         "skills": {
             "attack": {
                 "name": "Flower Pick",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Tosses 1 jade tile from the suit with the fewest tiles in hand to deal <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">50%</span> of Qingque's ATK to a single enemy.<br /><br /><h4>Cherry on Top!</h4><br /><br /><span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">120%</span> of Qingque's ATK to a single enemy, and deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">50%</span> of Qingque's ATK to enemies adjacent to it.<br />\"Cherry on Top!\" cannot recover Skill Points.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Tosses 1 jade tile from the suit with the fewest tiles in hand to deal <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">50%</span> of Qingque's ATK to a single enemy.<br /><br /><span style=\"font-size:2.125rem;\">Cherry on Top!</span><br /><span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">120%</span> of Qingque's ATK to a single enemy, and deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">50%</span> of Qingque's ATK to enemies adjacent to it.<br />\"Cherry on Top!\" cannot recover Skill Points.",
                 "scaling": [
                     [
                         "50%",
