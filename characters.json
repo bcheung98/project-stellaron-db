@@ -9236,5 +9236,1196 @@
             "date": "June 27, 2023",
             "version": "1.1"
         }
+    },
+    {
+        "id": 27,
+        "name": "Blade",
+        "rarity": 5,
+        "element": "Wind",
+        "path": "Destruction",
+        "skills": {
+            "attack": {
+                "name": "Shard Sword",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-value\">50%</span> of Blade's ATK as <span class=\"text-wind\">Wind DMG</span> to a target enemy.<br /><br /><span style=\"font-size:2.125rem;\">Forest of Swords</span><br /><span class=\"text-highlight\">[Blast]</span><br />Consumes HP equal to 10% of Blade's Max HP and deals <span class=\"text-wind\">Wind DMG</span> equal to the sum of <span class=\"text-value\">20%</span> of his ATK and <span class=\"text-value\">50%</span> of his Max HP to a single enemy. In addition, deals <span class=\"text-wind\">Wind DMG</span> equal to the sum of <span class=\"text-value\">8%</span> of Blade's ATK and <span class=\"text-value\">20%</span> of his Max HP to adjacent targets.<br />If Blade's current HP is insufficient, his HP will be reduced to 1 when using Forest of Swords.<br />Forest of Swords cannot regenerate Skill Points.",
+                "scaling": [
+                    [
+                        "50%",
+                        "60%",
+                        "70%",
+                        "80%",
+                        "90%",
+                        "100%",
+                        "110%",
+                        "120%",
+                        "130%"
+                    ],
+                    [
+                        "20%",
+                        "24%",
+                        "28%",
+                        "32%",
+                        "36%",
+                        "40%",
+                        "44%",
+                        "48%",
+                        "52%"
+                    ],
+                    [
+                        "50%",
+                        "60%",
+                        "70%",
+                        "80%",
+                        "90%",
+                        "100%",
+                        "110%",
+                        "120%",
+                        "130%"
+                    ],
+                    [
+                        "8%",
+                        "9%",
+                        "11%",
+                        "12%",
+                        "14%",
+                        "16%",
+                        "17%",
+                        "19%",
+                        "20%"
+                    ],
+                    [
+                        "20%",
+                        "24%",
+                        "28%",
+                        "32%",
+                        "36%",
+                        "40%",
+                        "44%",
+                        "48%",
+                        "52%"
+                    ]
+                ]
+            },
+            "skill": {
+                "name": "Hellscape",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />Consumes HP equal to 30% of Blade's Max HP to enter the Hellscape state.<br />When Hellscape is active, his Skill cannot be used, his DMG dealt increases by <span class=\"text-value\">12%</span>, and his Basic ATK Shard Sword is enhanced to Forest of Swords for 3 turn(s).<br />If Blade's current HP is insufficient, his HP will be reduced to 1 when he uses his Skill.<br />This Skill does not regenerate Energy. Using this Skill does not end the current turn.",
+                "scaling": [
+                    [
+                        "12%",
+                        "14%",
+                        "17%",
+                        "20%",
+                        "23%",
+                        "26%",
+                        "29%",
+                        "33%",
+                        "36%",
+                        "40%",
+                        "42%",
+                        "45%",
+                        "48%",
+                        "51%",
+                        "54%"
+                    ]
+                ]
+            },
+            "ultimate": {
+                "name": "Death Sentence",
+                "description": "<span class=\"text-highlight\">[Blast] | Energy Cost: 130</span><br />Sets Blade's current HP to 50% of his Max HP and deals to a single enemy <span class=\"text-wind\">Wind DMG</span> equal to the sum of <span class=\"text-value\">24%</span> of his ATK, <span class=\"text-value\">60%</span> of his Max HP, and <span class=\"text-value\">60%</span> of the total HP he has lost in the current battle. At the same time, deals <span class=\"text-wind\">Wind DMG</span> to adjacent targets equal to the sum of <span class=\"text-value\">9.6%</span> of his ATK, <span class=\"text-value\">24%</span> of his Max HP, and <span class=\"text-value\">24%</span> of the total HP he has lost in the current battle.<br />The total HP Blade has lost in the current battle is capped at 90% of his Max HP. This value will be reset and re-accumulated after his Ultimate has been used.",
+                "scaling": [
+                    [
+                        "24%",
+                        "25%",
+                        "27%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "41%",
+                        "43%",
+                        "44%",
+                        "46%",
+                        "48%"
+                    ],
+                    [
+                        "60%",
+                        "64%",
+                        "68%",
+                        "72%",
+                        "76%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "95%",
+                        "100%",
+                        "104%",
+                        "108%",
+                        "112%",
+                        "115%",
+                        "120%"
+                    ],
+                    [
+                        "60%",
+                        "64%",
+                        "68%",
+                        "72%",
+                        "76%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "95%",
+                        "100%",
+                        "104%",
+                        "108%",
+                        "112%",
+                        "115%",
+                        "120%"
+                    ],
+                    [
+                        "9.6%",
+                        "10.2%",
+                        "10.8%",
+                        "11.5%",
+                        "12.1%",
+                        "12.8%",
+                        "13.6%",
+                        "14.4%",
+                        "15.2%",
+                        "16%",
+                        "16.6%",
+                        "17.2%",
+                        "17.9%",
+                        "18.5%",
+                        "19.2%"
+                    ],
+                    [
+                        "24%",
+                        "25%",
+                        "27%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "41%",
+                        "43%",
+                        "44%",
+                        "46%",
+                        "48%"
+                    ],
+                    [
+                        "24%",
+                        "25%",
+                        "27%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "41%",
+                        "43%",
+                        "44%",
+                        "46%",
+                        "48%"
+                    ]
+                ]
+            },
+            "talent": {
+                "name": "Shuhu's Gift",
+                "description": "<span class=\"text-highlight\">[AoE]</span><br />When Blade sustains DMG or consumes his HP, he gains 1 stack of Charge, stacking up to 5 times. A max of 1 Charge stack can be gained every time he is attacked.<br />When Charge stack reaches maximum, immediately launches a follow-up attack on all enemies, dealing <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">22%</span> of Blade's ATK plus <span class=\"text-value\">55%</span> of his Max HP. At the same time, restores Blade's HP by 25% of his Max HP. After the follow-up attack, all Charges are consumed.",
+                "scaling": [
+                    [
+                        "22%",
+                        "24%",
+                        "26%",
+                        "28%",
+                        "30%",
+                        "33%",
+                        "35%",
+                        "38%",
+                        "41%",
+                        "44%",
+                        "46%",
+                        "48%",
+                        "50%",
+                        "52%",
+                        "55%"
+                    ],
+                    [
+                        "55%",
+                        "60%",
+                        "66%",
+                        "71%",
+                        "77%",
+                        "82%",
+                        "89%",
+                        "96%",
+                        "103%",
+                        "110%",
+                        "115%",
+                        "121%",
+                        "126%",
+                        "132%",
+                        "137%"
+                    ]
+                ]
+            },
+            "technique": {
+                "name": "Karma Wind",
+                "description": "Immediately attacks the enemy. After entering combat, consumes 20% of Blade's Max HP while dealing Wind DMG equal to 40% of his Max HP to all enemies.<br />If Blade's current HP is insufficient, his HP will be reduced to 1 when this Technique is used."
+            }
+        },
+        "traces": [
+            {
+                "name": "Vita Infinita",
+                "description": "When Blade's current HP is at 50% of Max HP or lower, Incoming Healing increases by 20%.",
+                "unlock": "A2",
+                "subTraces": [
+                    {
+                        "type": "CRIT Rate",
+                        "description": "CRIT Rate +2.7%",
+                        "unlock": "A2",
+                        "subTraces": [
+                            {
+                                "type": "HP",
+                                "description": "HP +4%",
+                                "unlock": "A3",
+                                "subTraces": [
+                                    {
+                                        "type": "Effect RES",
+                                        "description": "Effect RES +4%",
+                                        "unlock": "A3"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Neverending Deaths",
+                "description": "If Blade hits a Weakness Broken enemy after using Forest of Swords, he will restore HP equal to 5% of his Max HP plus 100.",
+                "unlock": "A4",
+                "subTraces": [
+                    {
+                        "type": "HP",
+                        "description": "HP +6%",
+                        "unlock": "A4",
+                        "subTraces": [
+                            {
+                                "type": "CRIT Rate",
+                                "description": "CRIT Rate +4%",
+                                "unlock": "A5",
+                                "subTraces": [
+                                    {
+                                        "type": "HP",
+                                        "description": "HP +6%",
+                                        "unlock": "A5"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cyclone of Destruction",
+                "description": "DMG dealt by Talent's follow-up attack increases by 20%.",
+                "unlock": "A6",
+                "subTraces": [
+                    {
+                        "type": "Effect RES",
+                        "description": "Effect RES +6%",
+                        "unlock": "A6",
+                        "subTraces": [
+                            {
+                                "type": "CRIT Rate",
+                                "description": "CRIT Rate +5.3%",
+                                "unlock": "Lv. 75"
+                            },
+                            {
+                                "type": "HP",
+                                "description": "HP +8%",
+                                "unlock": "Lv. 80"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "HP",
+                "description": "HP +4%",
+                "unlock": "Lv. 1"
+            }
+        ],
+        "eidolon": {
+            "e1": {
+                "name": "Blade Cuts the Deepest in Hell",
+                "description": "Blade's Ultimate deals additionally increased DMG to a single enemy target, with the increased amount equal to 150% of Blade's total HP loss in the current battle. The total HP Blade has lost in the current battle is capped at 90% of his Max HP. This value will be reset and re-accumulated after his Ultimate has been used."
+            },
+            "e2": {
+                "name": "Ten Thousand Sorrows From One Broken Dream",
+                "description": "When Blade is in the Hellscape state, his CRIT Rate increases by 15%."
+            },
+            "e3": {
+                "name": "Hardened Blade Bleeds Coldest Shade",
+                "description": "Ultimate Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "e4": {
+                "name": "Rejected by Death, Infected With Life",
+                "description": "When Blade's current HP drops to 50% or lower of his Max HP, increases his Max HP by 20%. Stacks up to 2 time(s)."
+            },
+            "e5": {
+                "name": "Death By Ten Lords' Gaze",
+                "description": "Skill Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "e6": {
+                "name": "Reborn Into an Empty Husk",
+                "description": "The maximum number of Charge stacks is reduced to 4. The DMG of the follow-up attack triggered by Blade's Talent additionally increases by 50% of his Max HP."
+            }
+        },
+        "stats": {
+            "hp": [
+                184,
+                360,
+                434,
+                526,
+                600,
+                693,
+                766,
+                859,
+                933,
+                1025,
+                1099,
+                1191,
+                1265,
+                1358
+            ],
+            "atk": [
+                73,
+                144,
+                173,
+                210,
+                240,
+                277,
+                306,
+                343,
+                373,
+                410,
+                439,
+                476,
+                506,
+                543
+            ],
+            "def": [
+                66,
+                128,
+                155,
+                188,
+                214,
+                247,
+                273,
+                306,
+                333,
+                366,
+                392,
+                425,
+                452,
+                485
+            ],
+            "speed": [
+                97,
+                97,
+                97,
+                97,
+                97,
+                97,
+                97,
+                97,
+                97,
+                97,
+                97,
+                97,
+                97,
+                97
+            ],
+            "taunt": [
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125
+            ]
+        },
+        "materials": {
+            "calyxMat": "Blade",
+            "commonMat": "Immortal",
+            "bossMat": "Ascendant Debris",
+            "weeklyBossMat": "Regret of Infinite Ochema"
+        },
+        "description": "A member of the Stellaron Hunters, and a swordsman who abandoned his blade. Pledges loyalty to Destiny's Slave, and possesses a terrifying self-healing ability.",
+        "gender": "Male",
+        "faction": "Stellaron Hunters",
+        "voiceActors": {
+            "en": "Daman Mills",
+            "jp": "Shin-ichiro Miki (三木眞一郎)"
+        },
+        "release": {
+            "date": "July 19, 2023",
+            "version": "1.2"
+        }
+    },
+    {
+        "id": 28,
+        "name": "Kafka",
+        "rarity": 5,
+        "element": "Lightning",
+        "path": "Nihility",
+        "skills": {
+            "attack": {
+                "name": "Midnight Tumult",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">50%</span> of Kafka's ATK to a single enemy.",
+                "scaling": [
+                    [
+                        "50%",
+                        "60%",
+                        "70%",
+                        "80%",
+                        "90%",
+                        "100%",
+                        "110%",
+                        "120%",
+                        "130%"
+                    ]
+                ]
+            },
+            "skill": {
+                "name": "Caressing Moonlight",
+                "description": "<span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">80%</span> of Kafka's ATK to a target enemy and <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">30%</span> of Kafka's ATK to enemies adjacent to it.<br />If the target enemy is currently receiving DoT, all DoTs currently placed on that enemy immediately produce DMG equal to <span class=\"text-value\">60%</span> of their original DMG.",
+                "scaling": [
+                    [
+                        "80%",
+                        "88%",
+                        "96%",
+                        "104%",
+                        "112%",
+                        "120%",
+                        "130%",
+                        "140%",
+                        "150%",
+                        "160%",
+                        "168%",
+                        "176%",
+                        "184%",
+                        "192%",
+                        "200%"
+                    ],
+                    [
+                        "30%",
+                        "33%",
+                        "36%",
+                        "39%",
+                        "42%",
+                        "45%",
+                        "48%",
+                        "52%",
+                        "56%",
+                        "60%",
+                        "63%",
+                        "66%",
+                        "69%",
+                        "72%",
+                        "75%"
+                    ],
+                    [
+                        "60%",
+                        "61%",
+                        "63%",
+                        "64%",
+                        "66%",
+                        "67%",
+                        "69%",
+                        "71%",
+                        "73%",
+                        "75%",
+                        "76%",
+                        "78%",
+                        "79%",
+                        "81%",
+                        "82%"
+                    ]
+                ]
+            },
+            "ultimate": {
+                "name": "Twilight Trill",
+                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 120</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">48%</span> of Kafka's ATK to all enemies, with a 100% base chance for enemies hit to become Shocked and immediately take DMG equal to <span class=\"text-value\">80%</span> of the DoT. Shock lasts for 2 turn(s).<br />While Shocked, enemies receive <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">115%</span> of Kafka's ATK at the beginning of each turn.",
+                "scaling": [
+                    [
+                        "48%",
+                        "51%",
+                        "54%",
+                        "57%",
+                        "60%",
+                        "64%",
+                        "68%",
+                        "72%",
+                        "76%",
+                        "80%",
+                        "83%",
+                        "86%",
+                        "89%",
+                        "92%",
+                        "96%"
+                    ],
+                    [
+                        "80%",
+                        "82%",
+                        "84%",
+                        "86%",
+                        "88%",
+                        "90%",
+                        "92%",
+                        "95%",
+                        "97%",
+                        "100%",
+                        "102%",
+                        "104%",
+                        "106%",
+                        "108%",
+                        "110%"
+                    ],
+                    [
+                        "115%",
+                        "126%",
+                        "137%",
+                        "148%",
+                        "159%",
+                        "175%",
+                        "197%",
+                        "224%",
+                        "257%",
+                        "290%",
+                        "304%",
+                        "318%",
+                        "332%",
+                        "346%",
+                        "360%"
+                    ]
+                ]
+            },
+            "talent": {
+                "name": "Gentle But Cruel",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />After an ally of Kafka's uses Basic ATK on an enemy target, Kafka immediately launches 1 follow-up attack and deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">42%</span> of her ATK to that target, with a 100% base chance to inflict Shock equivalent to that applied by her Ultimate to the attacked enemy target for 2 turns. This effect can only be triggered 1 time per turn.",
+                "scaling": [
+                    [
+                        "42%",
+                        "51%",
+                        "61%",
+                        "71%",
+                        "81%",
+                        "91%",
+                        "103%",
+                        "115%",
+                        "127%",
+                        "140%",
+                        "149%",
+                        "159%",
+                        "169%",
+                        "179%",
+                        "189%"
+                    ]
+                ]
+            },
+            "technique": {
+                "name": "Mercy Is Not Forgiveness",
+                "description": "Immediately attacks all enemies within a set range. After entering battle, deals <span class=\"text-lightning\">Lightning DMG</span> equal to 50% of Kafka's ATK to all enemies, with a 100% base chance to inflict Shock equivalent to that applied by her Ultimate on every enemy target for 2 turn(s)."
+            }
+        },
+        "traces": [
+            {
+                "name": "Torture",
+                "description": "When the Ultimate is used, enemy targets will now receive DMG immediately from all currently applied DoT sources instead of just receiving DMG immediately from the currently applied Shock state.",
+                "unlock": "A2",
+                "subTraces": [
+                    {
+                        "type": "Effect Hit Rate",
+                        "description": "Effect Hit Rate +4%",
+                        "unlock": "A2",
+                        "subTraces": [
+                            {
+                                "type": "ATK",
+                                "description": "ATK +4%",
+                                "unlock": "A3",
+                                "subTraces": [
+                                    {
+                                        "type": "HP",
+                                        "description": "HP +4%",
+                                        "unlock": "A3"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Plunder",
+                "description": "If an enemy is defeated while Shocked, Kafka additionally regenerates 5 Energy.",
+                "unlock": "A4",
+                "subTraces": [
+                    {
+                        "type": "ATK",
+                        "description": "ATK +6%",
+                        "unlock": "A4",
+                        "subTraces": [
+                            {
+                                "type": "Effect Hit Rate",
+                                "description": "Effect Hit Rate +6%",
+                                "unlock": "A5",
+                                "subTraces": [
+                                    {
+                                        "type": "ATK",
+                                        "description": "ATK +6%",
+                                        "unlock": "A5"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Thorns",
+                "description": "The base chance for Ultimate, Technique, or the follow-up attack triggered by the Talent to inflict Shock increases by 30%.",
+                "unlock": "A6",
+                "subTraces": [
+                    {
+                        "type": "HP",
+                        "description": "HP +6%",
+                        "unlock": "A6"
+                    },
+                    {
+                        "type": "Effect Hit Rate",
+                        "description": "Effect Hit Rate +8%",
+                        "unlock": "Lv. 75"
+                    }
+                ]
+            },
+            {
+                "type": "ATK",
+                "description": "ATK +4%",
+                "unlock": "Lv. 1",
+                "subTraces": [
+                    {
+                        "type": "ATK",
+                        "description": "ATK +8%",
+                        "unlock": "Lv. 80"
+                    }
+                ]
+            }
+        ],
+        "eidolon": {
+            "e1": {
+                "name": "Da Capo",
+                "description": "When the Talent triggers a follow-up attack, there is a 100% base chance to increase the DoT received by the target by 30% for 2 turn(s)."
+            },
+            "e2": {
+                "name": "Fortississimo",
+                "description": "While Kafka is on the field, DoT dealt by all allies increases by 25%."
+            },
+            "e3": {
+                "name": "Capriccio",
+                "description": "Skill Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "e4": {
+                "name": "Recitativo",
+                "description": "When an enemy target takes DMG from the Shock status inflicted by Kafka, Kafka additionally regenerates 2 Energy."
+            },
+            "e5": {
+                "name": "Doloroso",
+                "description": "Ultimate Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "e6": {
+                "name": "Leggiero",
+                "description": "The DMG multiplier for Shock DMG dealt by Ultimate, Technique, or the follow-up attack triggered by Talent increases by 156%, and extends the duration of Shock on the enemy target by 1 turn(s)."
+            }
+        },
+        "stats": {
+            "hp": [
+                147,
+                288,
+                347,
+                421,
+                480,
+                554,
+                613,
+                687,
+                746,
+                820,
+                879,
+                953,
+                1012,
+                1086
+            ],
+            "atk": [
+                92,
+                180,
+                217,
+                263,
+                300,
+                346,
+                383,
+                429,
+                466,
+                512,
+                549,
+                595,
+                632,
+                679
+            ],
+            "def": [
+                66,
+                128,
+                155,
+                188,
+                214,
+                247,
+                273,
+                306,
+                333,
+                366,
+                392,
+                425,
+                452,
+                485
+            ],
+            "speed": [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            "taunt": [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ]
+        },
+        "materials": {
+            "calyxMat": "Obsidian",
+            "commonMat": "Antimatter",
+            "bossMat": "Shape Shifter's Lightning Staff",
+            "weeklyBossMat": "Regret of Infinite Ochema"
+        },
+        "description": "A member of the Stellaron Hunters. A dashing, collected, and professional beauty. Used the enchantment of Spirit Whisper to set up Trailblazer to absorb the Stellaron. Her hobby is shopping for and organizing her collection of coats.",
+        "gender": "Female",
+        "faction": "Stellaron Hunters",
+        "voiceActors": {
+            "en": "Cheryl Texiera",
+            "jp": "Shizuka Itō (伊藤 静)"
+        },
+        "release": {
+            "date": "August 8, 2023",
+            "version": "1.2"
+        }
+    },
+    {
+        "id": 29,
+        "name": "Luka",
+        "rarity": 4,
+        "element": "Physical",
+        "path": "Nihility",
+        "skills": {
+            "attack": {
+                "name": "Direct Punch",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">50%</span> of Luka's ATK to a single enemy.<br /><br /><span style=\"font-size:2.125rem;\">Sky-Shatter Fist</span><br /><span class=\"text-highlight\">[Single Target]</span><br />Consumes 2 stacks of Fighting Will. First, uses Direct Punch to deal 3 hits, with each hit dealing <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">10%</span> of Luka's ATK to a single enemy target.<br />Then, uses Rising Uppercut to deal 1 hit, dealing <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">40%</span> of Luka's ATK to the single enemy target.",
+                "scaling": [
+                    [
+                        "50%",
+                        "60%",
+                        "70%",
+                        "80%",
+                        "90%",
+                        "100%",
+                        "110%",
+                        "120%",
+                        "130%"
+                    ],
+                    [
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%",
+                        "18%",
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%"
+                    ],
+                    [
+                        "40%",
+                        "48%",
+                        "56%",
+                        "64%",
+                        "72%",
+                        "80%",
+                        "88%",
+                        "96%",
+                        "104%"
+                    ]
+                ]
+            },
+            "skill": {
+                "name": "Lacerating Fist",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">60%</span> of Luka's ATK to a single enemy target. In addition, there is a 100% base chance to inflict Bleed on them, lasting for 3 turn(s).<br />While Bleeding, the enemy will take 24.0% of their Max HP as <span class=\"text-physical\">Physical DMG</span> at the start of each turn. This DMG will not exceed more than <span class=\"text-value\">130%</span> of Luka's ATK.",
+                "scaling": [
+                    [
+                        "60%",
+                        "66%",
+                        "72%",
+                        "78%",
+                        "84%",
+                        "90%",
+                        "97%",
+                        "105%",
+                        "112%",
+                        "120%",
+                        "126%",
+                        "132%",
+                        "138%",
+                        "144%",
+                        "150%"
+                    ],
+                    [
+                        "130%",
+                        "143%",
+                        "156%",
+                        "169%",
+                        "182%",
+                        "201%",
+                        "227%",
+                        "260%",
+                        "299%",
+                        "338%",
+                        "354%",
+                        "371%",
+                        "388%",
+                        "405%",
+                        "422%"
+                    ]
+                ]
+            },
+            "ultimate": {
+                "name": "Coup de Grâce",
+                "description": "<span class=\"text-highlight\">[Single Target] | Energy Cost: 130</span><br />Receives 2 stack(s) of Fighting Will, with a 100% base chance to increase a single enemy target's DMG received by <span class=\"text-value\">12%</span> for 3 turn(s). Then, deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">198%</span> of Luka's ATK to the target.",
+                "scaling": [
+                    [
+                        "12%",
+                        "12.8%",
+                        "13.6%",
+                        "14.4%",
+                        "15.2%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "19%",
+                        "20%",
+                        "20.8%",
+                        "21.6%",
+                        "22.4%",
+                        "23.2%",
+                        "24%"
+                    ],
+                    [
+                        "198%",
+                        "211%",
+                        "224%",
+                        "237%",
+                        "250%",
+                        "264%",
+                        "280%",
+                        "297%",
+                        "313%",
+                        "330%",
+                        "343%",
+                        "356%",
+                        "369%",
+                        "382%",
+                        "396%"
+                    ]
+                ]
+            },
+            "talent": {
+                "name": "Flying Sparks",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />After Luka uses his Basic ATK \"Direct Punch\" or Skill \"Lacerating Fist,\" he receives 1 stack(s) of Fighting Will, up to 4 stacks. When he has 2 or more stacks of Fighting Will, his Basic ATK \"Direct Punch\" is enhanced to \"Sky-Shatter Fist.\" After his Enhanced Basic ATK's \"Rising Uppercut\" hits a Bleeding enemy target, the Bleed status will immediately deal DMG for 1 time equal to <span class=\"text-value\">68%</span> of the original DMG to the target. At the start of battle, Luka will possess 1 stack of Fighting Will.",
+                "scaling": [
+                    [
+                        "68%",
+                        "69%",
+                        "71%",
+                        "73%",
+                        "74%",
+                        "76%",
+                        "78%",
+                        "80%",
+                        "82%",
+                        "85%",
+                        "86%",
+                        "88%",
+                        "90%",
+                        "91%",
+                        "93%"
+                    ]
+                ]
+            },
+            "technique": {
+                "name": "Anticipator",
+                "description": "Immediately attacks the enemy. Upon entering battle, Luka deals <span class=\"text-physical\">Physical DMG</span> equal to 50% of his ATK to a random single enemy with a 100% base chance to inflict his Skill's Bleed effect on the target. Then, Luka gains 1 additional stack of Fighting Will."
+            }
+        },
+        "traces": [
+            {
+                "name": "Kinetic Overload",
+                "description": "When the Skill is used, immediately dispels 1 buff from the enemy target.",
+                "unlock": "A2",
+                "subTraces": [
+                    {
+                        "type": "Effect Hit Rate",
+                        "description": "Effect Hit Rate +4%",
+                        "unlock": "A2",
+                        "subTraces": [
+                            {
+                                "type": "ATK",
+                                "description": "ATK +4%",
+                                "unlock": "A3",
+                                "subTraces": [
+                                    {
+                                        "type": "DEF",
+                                        "description": "DEF +5%",
+                                        "unlock": "A3"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cycle Braking",
+                "description": "For every stack of Fighting Will obtained, additionally regenerates 3 Energy.",
+                "unlock": "A4",
+                "subTraces": [
+                    {
+                        "type": "ATK",
+                        "description": "ATK +6%",
+                        "unlock": "A4",
+                        "subTraces": [
+                            {
+                                "type": "Effect Hit Rate",
+                                "description": "Effect Hit Rate +6%",
+                                "unlock": "A5",
+                                "subTraces": [
+                                    {
+                                        "type": "ATK",
+                                        "description": "ATK +6%",
+                                        "unlock": "A5"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Crush Fighting Will",
+                "description": "When using Enhanced Basic ATK, every hit Direct Punch deals has a 50% fixed chance for Luka to use 1 additional hit. This effect does not apply to additional hits generated in this way.",
+                "unlock": "A6",
+                "subTraces": [
+                    {
+                        "type": "DEF",
+                        "description": "DEF +7.5%",
+                        "unlock": "A6"
+                    },
+                    {
+                        "type": "Effect Hit Rate",
+                        "description": "Effect Hit Rate +8%",
+                        "unlock": "Lv. 75"
+                    }
+                ]
+            },
+            {
+                "type": "ATK",
+                "description": "ATK +4%",
+                "unlock": "Lv. 1",
+                "subTraces": [
+                    {
+                        "type": "ATK",
+                        "description": "ATK +8%",
+                        "unlock": "Lv. 80"
+                    }
+                ]
+            }
+        ],
+        "eidolon": {
+            "e1": {
+                "name": "Fighting Endlessly",
+                "description": "When Luka takes action, if the target enemy is Bleeding, increases DMG dealt by Luka by 15% for 2 turn(s)."
+            },
+            "e2": {
+                "name": "The Enemy is Weak, I am Strong",
+                "description": "If the Skill hits an enemy target with Physical Weakness, gain 1 stack(s) of Fighting Will."
+            },
+            "e3": {
+                "name": "Born for the Ring",
+                "description": "Skill Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "e4": {
+                "name": "Never Turning Back",
+                "description": "For every stack of Fighting Will obtained, increases ATK by 5%, stacking up to 4 time(s)."
+            },
+            "e5": {
+                "name": "The Spirit of Wildfire",
+                "description": "Ultimate Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "e6": {
+                "name": "A Champion's Applause",
+                "description": "After the Enhanced Basic ATK's \"Rising Uppercut\" hits a Bleeding enemy target, the Bleed status will immediately deal DMG 1 time equal to 8% of the original DMG for every hit of Direct Punch already unleashed during the current Enhanced Basic ATK."
+            }
+        },
+        "stats": {
+            "hp": [
+                124,
+                243,
+                293,
+                355,
+                405,
+                468,
+                517,
+                580,
+                630,
+                692,
+                742,
+                804,
+                854,
+                917
+            ],
+            "atk": [
+                79,
+                154,
+                186,
+                225,
+                257,
+                297,
+                328,
+                368,
+                399,
+                439,
+                471,
+                510,
+                542,
+                582
+            ],
+            "def": [
+                66,
+                128,
+                155,
+                188,
+                214,
+                247,
+                273,
+                306,
+                333,
+                366,
+                392,
+                425,
+                452,
+                485
+            ],
+            "speed": [
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103
+            ],
+            "taunt": [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ]
+        },
+        "materials": {
+            "calyxMat": "Obsidian",
+            "commonMat": "Engine",
+            "bossMat": "Broken Teeth of Iron Wolf",
+            "weeklyBossMat": "Regret of Infinite Ochema"
+        },
+        "description": "The boxing champion in Belobog's Underworld, and one of Wildfire's most capable fighters. The consecutive champion of the Fight Club, his enthusiasm inspires children of the Underworld who dare to dream.",
+        "gender": "Male",
+        "faction": "Belobog",
+        "voiceActors": {
+            "en": "Howard Wang",
+            "jp": "Gakuto Kajiwara (梶原 岳人)"
+        },
+        "release": {
+            "date": "August 8, 2023",
+            "version": "1.2"
+        }
     }
 ]

@@ -2584,5 +2584,97 @@
         "release": {
             "version": "1.1"
         }
+    },
+    {
+        "id": 69,
+        "name": "The Unreachable Side",
+        "rarity": 5,
+        "path": "Destruction",
+        "stats": {
+            "hp": 57,
+            "atk": 26,
+            "def": 15
+        },
+        "passive": {
+            "name": "Unfulfilled Yearning",
+            "effect": "Increases the wearer's CRIT rate by <span class=\"text-value\">18%</span> and increases their Max HP by <span class=\"text-value\">18%</span>. When the wearer is attacked or consumes their own HP, their DMG increases by <span class=\"text-value\">24%</span>. This effect is removed after the wearer uses an attack.",
+            "scaling": [
+                [
+                    "18%",
+                    "21%",
+                    "24%",
+                    "27%",
+                    "30%"
+                ],
+                [
+                    "18%",
+                    "21%",
+                    "24%",
+                    "27%",
+                    "30%"
+                ],
+                [
+                    "24%",
+                    "28%",
+                    "32%",
+                    "36%",
+                    "40%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Blade",
+            "commonMat": "Immortal"
+        },
+        "description": "He would come to this place every year, bringing new swords with him each time.<br />He had seen all the owners of the swords draw their last breath.<br />Every time he leaves, he would sorrowfully ponder...<br /><br />When would his own blade be brought here by someone else?",
+        "release": {
+            "version": "1.2"
+        }
+    },
+    {
+        "id": 70,
+        "name": "Patience Is All You Need",
+        "rarity": 5,
+        "path": "Nihility",
+        "stats": {
+            "hp": 48,
+            "atk": 26,
+            "def": 21
+        },
+        "passive": {
+            "name": "Spider Web",
+            "effect": "Increases DMG dealt by the wearer by <span class=\"text-value\">24%</span>. After every attack launched by wearer, their SPD increases by <span class=\"text-value\">4.8%</span>, stacking up to 3 times.<br />If the wearer hits an enemy target that is not afflicted by Erode, there is a 100% base chance to inflict Erode to the target. Enemies afflicted with Erode are also considered to be Shocked and will receive <span class=\"text-lightning\">Lightning DMG</span> at the start of each turn equal to <span class=\"text-value\">60%</span> of the wearer's ATK, lasting for 1 turn(s).",
+            "scaling": [
+                [
+                    "24%",
+                    "28%",
+                    "32%",
+                    "36%",
+                    "40%"
+                ],
+                [
+                    "4.8%",
+                    "5.6%",
+                    "6.4%",
+                    "7.2%",
+                    "8%"
+                ],
+                [
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%",
+                    "100%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Obsidian",
+            "commonMat": "Antimatter"
+        },
+        "description": "<i>\"Could it be that there's something you haven't told me?\"</i><br /><br />She watches as their neck stiffens, as if a lump is blocking their throat.<br />She knows she is feared, and that no further step is needed.<br />At this point, it no longer mattered what she said.<br />Any word she utters radiates horror...<br />They stand no chance against her, and have no choice but to blurt out what she wants to hear.<br /><br />Like a spider waiting in its web, patience is all she needs.",
+        "release": {
+            "version": "1.2"
+        }
     }
 ]
