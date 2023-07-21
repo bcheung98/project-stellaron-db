@@ -7150,7 +7150,7 @@
         "skills": {
             "attack": {
                 "name": "Frost Thorn",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">120%</span> of Yanqing's ATK to a single enemy.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">50%</span> of Yanqing's ATK to a single enemy.",
                 "scaling": [
                     [
                         "50%",
