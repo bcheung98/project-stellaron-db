@@ -232,6 +232,38 @@
     },
     {
         "id": 7,
+        "name": "Data Bank",
+        "rarity": 3,
+        "path": "Erudition",
+        "stats": {
+            "hp": 33,
+            "atk": 16,
+            "def": 12
+        },
+        "passive": {
+            "name": "Learned",
+            "effect": "Increases the wearer's Ultimate DMG by <span class=\"text-value\">28%</span>.",
+            "scaling": [
+                [
+                    "28%",
+                    "35%",
+                    "42%",
+                    "49%",
+                    "56%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Key",
+            "commonMat": "Core"
+        },
+        "description": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.<br /><br /><i>\"Human extinction is inevitable, but the library will live on: lonely, immobile, and hidden from the public. Its vast collection is useless, yet pure from corruption.\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 8,
         "name": "Defense",
         "rarity": 3,
         "path": "Preservation",
@@ -263,7 +295,7 @@
         }
     },
     {
-        "id": 8,
+        "id": 9,
         "name": "Fine Fruit",
         "rarity": 3,
         "path": "Abundance",
@@ -295,7 +327,7 @@
         }
     },
     {
-        "id": 9,
+        "id": 10,
         "name": "Hidden Shadow",
         "rarity": 3,
         "path": "Nihility",
@@ -327,7 +359,7 @@
         }
     },
     {
-        "id": 10,
+        "id": 11,
         "name": "Loop",
         "rarity": 3,
         "path": "Nihility",
@@ -359,7 +391,7 @@
         }
     },
     {
-        "id": 11,
+        "id": 12,
         "name": "Mediation",
         "rarity": 3,
         "path": "Harmony",
@@ -391,7 +423,7 @@
         }
     },
     {
-        "id": 12,
+        "id": 13,
         "name": "Meshing Cogs",
         "rarity": 3,
         "path": "Harmony",
@@ -423,7 +455,7 @@
         }
     },
     {
-        "id": 13,
+        "id": 14,
         "name": "Multiplication",
         "rarity": 3,
         "path": "Abundance",
@@ -455,7 +487,7 @@
         }
     },
     {
-        "id": 14,
+        "id": 15,
         "name": "Mutual Demise",
         "rarity": 3,
         "path": "Destruction",
@@ -487,7 +519,7 @@
         }
     },
     {
-        "id": 15,
+        "id": 16,
         "name": "Passkey",
         "rarity": 3,
         "path": "Erudition",
@@ -519,7 +551,7 @@
         }
     },
     {
-        "id": 16,
+        "id": 17,
         "name": "Pioneering",
         "rarity": 3,
         "path": "Preservation",
@@ -551,7 +583,7 @@
         }
     },
     {
-        "id": 17,
+        "id": 18,
         "name": "Sagacity",
         "rarity": 3,
         "path": "Erudition",
@@ -583,7 +615,7 @@
         }
     },
     {
-        "id": 18,
+        "id": 19,
         "name": "Shattered Home",
         "rarity": 3,
         "path": "Destruction",
@@ -615,7 +647,7 @@
         }
     },
     {
-        "id": 19,
+        "id": 20,
         "name": "Void",
         "rarity": 3,
         "path": "Nihility",
@@ -647,7 +679,7 @@
         }
     },
     {
-        "id": 20,
+        "id": 21,
         "name": "A Secret Vow",
         "rarity": 4,
         "path": "Destruction",
@@ -686,7 +718,7 @@
         }
     },
     {
-        "id": 21,
+        "id": 22,
         "name": "Carve the Moon, Weave the Clouds",
         "rarity": 4,
         "path": "Harmony",
@@ -732,7 +764,7 @@
         }
     },
     {
-        "id": 22,
+        "id": 23,
         "name": "Dance! Dance! Dance!",
         "rarity": 4,
         "path": "Harmony",
@@ -764,7 +796,7 @@
         }
     },
     {
-        "id": 23,
+        "id": 24,
         "name": "Day One of My New Life",
         "rarity": 4,
         "path": "Preservation",
@@ -803,7 +835,7 @@
         }
     },
     {
-        "id": 24,
+        "id": 25,
         "name": "Eyes of the Prey",
         "rarity": 4,
         "path": "Nihility",
@@ -842,7 +874,7 @@
         }
     },
     {
-        "id": 25,
+        "id": 26,
         "name": "Fermata",
         "rarity": 4,
         "path": "Nihility",
@@ -881,7 +913,7 @@
         }
     },
     {
-        "id": 26,
+        "id": 27,
         "name": "Geniuses' Repose",
         "rarity": 4,
         "path": "Erudition",
@@ -920,7 +952,7 @@
         }
     },
     {
-        "id": 27,
+        "id": 28,
         "name": "Good Night and Sleep Well",
         "rarity": 4,
         "path": "Nihility",
@@ -952,7 +984,7 @@
         }
     },
     {
-        "id": 28,
+        "id": 29,
         "name": "Landau's Choice",
         "rarity": 4,
         "path": "Preservation",
@@ -984,7 +1016,7 @@
         }
     },
     {
-        "id": 29,
+        "id": 30,
         "name": "Make the World Clamor",
         "rarity": 4,
         "path": "Erudition",
@@ -1023,7 +1055,7 @@
         }
     },
     {
-        "id": 30,
+        "id": 31,
         "name": "Memories of the Past",
         "rarity": 4,
         "path": "Harmony",
@@ -1062,7 +1094,7 @@
         }
     },
     {
-        "id": 31,
+        "id": 32,
         "name": "Nowhere to Run",
         "rarity": 4,
         "path": "Destruction",
@@ -1101,7 +1133,7 @@
         }
     },
     {
-        "id": 32,
+        "id": 33,
         "name": "Only Silence Remains",
         "rarity": 4,
         "path": "Hunt",
@@ -1140,7 +1172,7 @@
         }
     },
     {
-        "id": 33,
+        "id": 34,
         "name": "Past and Future",
         "rarity": 4,
         "path": "Harmony",
@@ -1172,7 +1204,7 @@
         }
     },
     {
-        "id": 34,
+        "id": 35,
         "name": "Perfect Timing",
         "rarity": 4,
         "path": "Abundance",
@@ -1218,7 +1250,7 @@
         }
     },
     {
-        "id": 35,
+        "id": 36,
         "name": "Planetary Rendezvous",
         "rarity": 4,
         "path": "Harmony",
@@ -1250,7 +1282,7 @@
         }
     },
     {
-        "id": 36,
+        "id": 37,
         "name": "Post-Op Conversation",
         "rarity": 4,
         "path": "Abundance",
@@ -1289,7 +1321,7 @@
         }
     },
     {
-        "id": 37,
+        "id": 38,
         "name": "Quid Pro Quo",
         "rarity": 4,
         "path": "Abundance",
@@ -1321,7 +1353,7 @@
         }
     },
     {
-        "id": 38,
+        "id": 39,
         "name": "Resolution Shines As Pearls of Sweat",
         "rarity": 4,
         "path": "Nihility",
@@ -1360,7 +1392,7 @@
         }
     },
     {
-        "id": 39,
+        "id": 40,
         "name": "Return to Darkness",
         "rarity": 4,
         "path": "Hunt",
@@ -1399,7 +1431,7 @@
         }
     },
     {
-        "id": 40,
+        "id": 41,
         "name": "River Flows in Spring",
         "rarity": 4,
         "path": "Hunt",
@@ -1438,7 +1470,7 @@
         }
     },
     {
-        "id": 41,
+        "id": 42,
         "name": "The Birth of the Self",
         "rarity": 4,
         "path": "Erudition",
@@ -1477,7 +1509,7 @@
         }
     },
     {
-        "id": 42,
+        "id": 43,
         "name": "The Seriousness of Breakfast",
         "rarity": 4,
         "path": "Erudition",
@@ -1516,7 +1548,7 @@
         }
     },
     {
-        "id": 43,
+        "id": 44,
         "name": "Shared Feeling",
         "rarity": 4,
         "path": "Abundance",
@@ -1555,7 +1587,7 @@
         }
     },
     {
-        "id": 44,
+        "id": 45,
         "name": "Subscribe for More!",
         "rarity": 4,
         "path": "Hunt",
@@ -1594,7 +1626,7 @@
         }
     },
     {
-        "id": 45,
+        "id": 46,
         "name": "Swordplay",
         "rarity": 4,
         "path": "Hunt",
@@ -1626,7 +1658,39 @@
         }
     },
     {
-        "id": 46,
+        "id": 47,
+        "name": "The Moles Welcome You",
+        "rarity": 4,
+        "path": "Destruction",
+        "stats": {
+            "hp": 48,
+            "atk": 21,
+            "def": 12
+        },
+        "passive": {
+            "name": "Fantastic Adventure",
+            "effect": "When the wearer uses Basic ATK, Skill, or Ultimate to attack enemies, the wearer gains one stack of Mischievous. Each stack increases the wearer's ATK by <span class=\"text-value\">12%</span>.",
+            "scaling": [
+                [
+                    "12%",
+                    "15%",
+                    "18%",
+                    "21%",
+                    "24%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Blade",
+            "commonMat": "Antimatter"
+        },
+        "description": "<i>\"Moles, moles,\"</i><br /><i>\"Leaving our holes,\"</i><br /><i>\"Smart moles fear naught foes,\"</i><br /><i>\"Moles, moles,\"</i><br /><i>\"Bite your toes!\"</i>",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 48,
         "name": "This Is Me!",
         "rarity": 4,
         "path": "Preservation",
@@ -1665,7 +1729,7 @@
         }
     },
     {
-        "id": 47,
+        "id": 49,
         "name": "Today Is Another Peaceful Day",
         "rarity": 4,
         "path": "Erudition",
@@ -1697,7 +1761,7 @@
         }
     },
     {
-        "id": 48,
+        "id": 50,
         "name": "Trend of the Universal Market",
         "rarity": 4,
         "path": "Preservation",
@@ -1743,7 +1807,7 @@
         }
     },
     {
-        "id": 49,
+        "id": 51,
         "name": "Under the Blue Sky",
         "rarity": 4,
         "path": "Destruction",
@@ -1782,7 +1846,7 @@
         }
     },
     {
-        "id": 50,
+        "id": 52,
         "name": "Warmth Shortens Cold Nights",
         "rarity": 4,
         "path": "Abundance",
@@ -1821,7 +1885,7 @@
         }
     },
     {
-        "id": 51,
+        "id": 53,
         "name": "We Are Wildfire",
         "rarity": 4,
         "path": "Preservation",
@@ -1860,7 +1924,7 @@
         }
     },
     {
-        "id": 52,
+        "id": 54,
         "name": "We Will Meet Again",
         "rarity": 4,
         "path": "Nihility",
@@ -1892,7 +1956,7 @@
         }
     },
     {
-        "id": 53,
+        "id": 55,
         "name": "Woof! Walk Time!",
         "rarity": 4,
         "path": "Destruction",
@@ -1931,7 +1995,7 @@
         }
     },
     {
-        "id": 54,
+        "id": 56,
         "name": "But the Battle Isn't Over",
         "rarity": 5,
         "path": "Harmony",
@@ -1970,7 +2034,7 @@
         }
     },
     {
-        "id": 55,
+        "id": 57,
         "name": "Cruising in the Stellar Sea",
         "rarity": 5,
         "path": "Hunt",
@@ -2016,7 +2080,7 @@
         }
     },
     {
-        "id": 56,
+        "id": 58,
         "name": "In the Name of the World",
         "rarity": 5,
         "path": "Nihility",
@@ -2062,7 +2126,7 @@
         }
     },
     {
-        "id": 57,
+        "id": 59,
         "name": "Moment of Victory",
         "rarity": 5,
         "path": "Preservation",
@@ -2108,7 +2172,7 @@
         }
     },
     {
-        "id": 58,
+        "id": 60,
         "name": "Night on the Milky Way",
         "rarity": 5,
         "path": "Erudition",
@@ -2147,7 +2211,7 @@
         }
     },
     {
-        "id": 59,
+        "id": 61,
         "name": "On the Fall of an Aeon",
         "rarity": 5,
         "path": "Destruction",
@@ -2186,7 +2250,7 @@
         }
     },
     {
-        "id": 60,
+        "id": 62,
         "name": "Sleep Like the Dead",
         "rarity": 5,
         "path": "Hunt",
@@ -2225,7 +2289,7 @@
         }
     },
     {
-        "id": 61,
+        "id": 63,
         "name": "Something Irreplaceable",
         "rarity": 5,
         "path": "Destruction",
@@ -2271,7 +2335,7 @@
         }
     },
     {
-        "id": 62,
+        "id": 64,
         "name": "Texture of Memories",
         "rarity": 5,
         "path": "Preservation",
@@ -2317,7 +2381,7 @@
         }
     },
     {
-        "id": 63,
+        "id": 65,
         "name": "Time Waits for No One",
         "rarity": 5,
         "path": "Abundance",
@@ -2363,7 +2427,7 @@
         }
     },
     {
-        "id": 64,
+        "id": 66,
         "name": "In the Night",
         "rarity": 5,
         "path": "Hunt",
@@ -2409,7 +2473,7 @@
         }
     },
     {
-        "id": 65,
+        "id": 67,
         "name": "Before Dawn",
         "rarity": 5,
         "path": "Erudition",
@@ -2455,7 +2519,7 @@
         }
     },
     {
-        "id": 66,
+        "id": 68,
         "name": "Before the Tutorial Mission Starts",
         "rarity": 4,
         "path": "Nihility",
@@ -2494,7 +2558,7 @@
         }
     },
     {
-        "id": 67,
+        "id": 69,
         "name": "Incessant Rain",
         "rarity": 5,
         "path": "Nihility",
@@ -2540,7 +2604,7 @@
         }
     },
     {
-        "id": 68,
+        "id": 70,
         "name": "Echoes of the Coffin",
         "rarity": 5,
         "path": "Abundance",
@@ -2586,7 +2650,7 @@
         }
     },
     {
-        "id": 69,
+        "id": 71,
         "name": "The Unreachable Side",
         "rarity": 5,
         "path": "Destruction",
@@ -2632,7 +2696,7 @@
         }
     },
     {
-        "id": 70,
+        "id": 72,
         "name": "Patience Is All You Need",
         "rarity": 5,
         "path": "Nihility",
