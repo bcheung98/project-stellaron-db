@@ -1,0 +1,71 @@
+[
+    {
+        "version": "1.0",
+        "phase1": {
+            "startDate": "April 26, 2023",
+            "endDate": "May 17, 2023",
+            "banner": [
+                "In the Night",
+                "Good Night and Sleep Well",
+                "Post-Op Conversation",
+                "The Moles Welcome You"
+            ]
+        },
+        "phase2": {
+            "startDate": "May 17, 2023",
+            "endDate": "June 6, 2023",
+            "banner": [
+                "Before Dawn",
+                "Day One of My New Life",
+                "Only Silence Remains",
+                "Planetary Rendezvous"
+            ]
+        }
+    },
+    {
+        "version": "1.1",
+        "phase1": {
+            "startDate": "June 7, 2023",
+            "endDate": "June 28, 2023",
+            "banner": [
+                "Incessant Rain",
+                "Make the World Clamor",
+                "Memories of the Past",
+                "Subscribe for More!"
+            ]
+        },
+        "phase2": {
+            "startDate": "June 28, 2023",
+            "endDate": "July 18, 2023",
+            "banner": [
+                "Echoes of the Coffin",
+                "Dance! Dance! Dance!",
+                "Geniuses' Repose",
+                "Good Night and Sleep Well"
+            ]
+        }
+    },
+    {
+        "version": "1.2",
+        "phase1": {
+            "startDate": "July 19, 2023",
+            "endDate": "August 9, 2023",
+            "banner": [
+                "The Unreachable Side",
+                "A Secret Vow",
+                "Shared Feeling",
+                "Swordplay"
+            ]
+        },
+        "phase2": {
+            "startDate": "August 9, 2023",
+            "endDate": "August 29, 2023",
+            "banner": [
+                "Patience Is All You Need",
+                "Eyes of the Prey",
+                "Resolution Shines As Pearls of Sweat",
+                "The Birth of the Self"
+            ]
+        }
+    }
+]

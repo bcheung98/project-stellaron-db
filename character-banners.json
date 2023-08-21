@@ -1,0 +1,71 @@
+[
+    {
+        "version": "1.0",
+        "phase1": {
+            "startDate": "April 26, 2023",
+            "endDate": "May 17, 2023",
+            "banner": [
+                "Seele",
+                "Hook",
+                "Natasha",
+                "Pela"
+            ]
+        },
+        "phase2": {
+            "startDate": "May 17, 2023",
+            "endDate": "June 6, 2023",
+            "banner": [
+                "Jing Yuan",
+                "March 7th",
+                "Sushang",
+                "Tingyun"
+            ]
+        }
+    },
+    {
+        "version": "1.1",
+        "phase1": {
+            "startDate": "June 7, 2023",
+            "endDate": "June 28, 2023",
+            "banner": [
+                "Silver Wolf",
+                "Asta",
+                "Dan Heng",
+                "Serval"
+            ]
+        },
+        "phase2": {
+            "startDate": "June 28, 2023",
+            "endDate": "July 18, 2023",
+            "banner": [
+                "Luocha",
+                "Pela",
+                "Qingque",
+                "Yukong"
+            ]
+        }
+    },
+    {
+        "version": "1.2",
+        "phase1": {
+            "startDate": "July 19, 2023",
+            "endDate": "August 9, 2023",
+            "banner": [
+                "Blade",
+                "Arlan",
+                "Natasha",
+                "Sushang"
+            ]
+        },
+        "phase2": {
+            "startDate": "August 9, 2023",
+            "endDate": "August 29, 2023",
+            "banner": [
+                "Kafka",
+                "Luka",
+                "Sampo",
+                "Serval"
+            ]
+        }
+    }
+]
