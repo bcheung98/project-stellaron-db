@@ -10427,5 +10427,1148 @@
             "date": "August 8, 2023",
             "version": "1.2"
         }
+    },
+    {
+        "id": 30,
+        "name": "Imbibitor Lunae",
+        "fullName": "Dan Heng • Imbibitor Lunae",
+        "rarity": 5,
+        "element": "Imaginary",
+        "path": "Destruction",
+        "skills": {
+            "attack": {
+                "name": "Beneficent Lotus",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Uses a 2-hit attack and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">50%</span> of Imbibitor Lunae's ATK to a single enemy target.<br /><br /><span style=\"font-size:2.125rem;\">Transcendence</span><br /><span class=\"text-highlight\">[Single Target]</span><br />Unleashes 3 hits in this attack and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">130%</span> of Imbibitor Lunae's ATK to a single enemy target.<br /><br /><span style=\"font-size:2.125rem;\">Divine Spear</span><br /><span class=\"text-highlight\">[Blast]</span><br />Uses a 5-hit attack, dealing <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">190%</span> of Imbibitor Lunae's ATK to a single enemy target. From the fourth hit onward, simultaneously deal <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">30%</span> of Imbibitor Lunae's ATK to adjacent targets.<br /><br /><span style=\"font-size:2.125rem;\">Fulgurant Leap</span><br /><span class=\"text-highlight\">[Blast]</span><br />Uses a 7-hit attack, dealing <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">250%</span> of Imbibitor Lunae's ATK to a single enemy target. From the fourth hit onward, simultaneously deal <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">90%</span> of Imbibitor Lunae's ATK to adjacent targets.",
+                "scaling": [
+                    [
+                        "50%",
+                        "60%",
+                        "70%",
+                        "80%",
+                        "90%",
+                        "100%",
+                        "110%",
+                        "120%",
+                        "130%"
+                    ],
+                    [
+                        "130%",
+                        "156%",
+                        "182%",
+                        "208%",
+                        "234%",
+                        "260%",
+                        "286%",
+                        "312%",
+                        "338%"
+                    ],
+                    [
+                        "190%",
+                        "227%",
+                        "266%",
+                        "304%",
+                        "342%",
+                        "380%",
+                        "418%",
+                        "455%",
+                        "494%"
+                    ],
+                    [
+                        "30%",
+                        "36%",
+                        "42%",
+                        "48%",
+                        "54%",
+                        "60%",
+                        "66%",
+                        "72%",
+                        "78%"
+                    ],
+                    [
+                        "250%",
+                        "300%",
+                        "350%",
+                        "400%",
+                        "450%",
+                        "500%",
+                        "550%",
+                        "600%",
+                        "650%"
+                    ],
+                    [
+                        "90%",
+                        "108%",
+                        "126%",
+                        "144%",
+                        "162%",
+                        "180%",
+                        "198%",
+                        "216%",
+                        "234%"
+                    ]
+                ]
+            },
+            "skill": {
+                "name": "Dracore Libre",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />Enhances Basic ATK. Enhancements may be applied up to 3 times consecutively. Using this ability does not consume Skill Points and is not considered as using a Skill.<br />Enhanced once, Beneficent Lotus becomes Transcendence.<br />Enhanced twice, Beneficent Lotus becomes Divine Spear.<br />Enhanced 3 times, Beneficent Lotus becomes Fulgurant Leap.<br />When using Divine Spear or Fulgurant Leap, starting from the fourth hit, 1 stack of \"Outroar\" is gained before every hit. Each stack of \"Outroar\" increases Imbibitor Lunae's CRIT DMG by <span class=\"text-value\">6%</span>, for a max of 4 stacks. These stacks last until the end of his turn.",
+                "scaling": [
+                    [
+                        "6%",
+                        "6.6%",
+                        "7.2%",
+                        "7.8%",
+                        "8.4%",
+                        "9%",
+                        "9.7%",
+                        "10.5%",
+                        "11.2%",
+                        "12%",
+                        "12.6%",
+                        "13.2%",
+                        "13.8%",
+                        "14.4%",
+                        "15%"
+                    ]
+                ]
+            },
+            "ultimate": {
+                "name": "Azure's Aqua Ablutes All",
+                "description": "<span class=\"text-highlight\">[Blast] | Energy Cost: 140</span><br />Uses a 3-hit attack and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">180%</span> of Imbibitor Lunae's ATK to a single enemy target. At the same time, deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">84%</span> of Imbibitor Lunae's ATK to adjacent targets. Then, obtains 2 Squama Sacrosancta.<br />It's possible to hold up to 3 Squama Sacrosancta, which can be used to offset the consumption of Imbibitor Lunae's skill points. Consuming Squama Sacrosancta is considered equivalent to consuming skill points.",
+                "scaling": [
+                    [
+                        "180%",
+                        "192%",
+                        "204%",
+                        "216%",
+                        "227%",
+                        "240%",
+                        "254%",
+                        "270%",
+                        "285%",
+                        "300%",
+                        "312%",
+                        "324%",
+                        "336%",
+                        "348%",
+                        "360%"
+                    ],
+                    [
+                        "84%",
+                        "89%",
+                        "95%",
+                        "100%",
+                        "106%",
+                        "112%",
+                        "119%",
+                        "126%",
+                        "133%",
+                        "140%",
+                        "145%",
+                        "151%",
+                        "156%",
+                        "162%",
+                        "168%"
+                    ]
+                ]
+            },
+            "talent": {
+                "name": "Righteous Heart",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />After each hit dealt during an attack, Imbibitor Lunae gains 1 stack of Righteous Heart, increasing his DMG by <span class=\"text-value\">5%</span>. This effect can stack up to 6 time(s), lasting until the end of his turn.",
+                "scaling": [
+                    [
+                        "5%",
+                        "5.5%",
+                        "6%",
+                        "6.5%",
+                        "7%",
+                        "7.5%",
+                        "8.1%",
+                        "8.7%",
+                        "9.3%",
+                        "10%",
+                        "10.5%",
+                        "11%",
+                        "11.5%",
+                        "12%",
+                        "12.5%"
+                    ]
+                ]
+            },
+            "technique": {
+                "name": "Heaven-Quelling Prismadrakon",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />After using his Technique, Imbibitor Lunae enters the Leaping Dragon state for 20 seconds. While in the Leaping Dragon state, using his attack enables him to move forward rapidly for a set distance, attacking all enemies he touches and blocking all incoming attacks. After entering combat via attacking enemies in the Leaping Dragon state, Imbibitor Lunae deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to 120% of his ATK to all enemies, and gains 1 Squama Sacrosancta."
+            }
+        },
+        "traces": [
+            {
+                "name": "Star Veil",
+                "description": "At the start of the battle, immediately regenerates 15 Energy.",
+                "unlock": "A2",
+                "subTraces": [
+                    {
+                        "type": "CRIT Rate",
+                        "description": "CRIT Rate +2.7%",
+                        "unlock": "A2",
+                        "subTraces": [
+                            {
+                                "type": "Imaginary DMG Boost",
+                                "description": "<span class=\"text-imaginary\">Imaginary DMG</span> +3.2%",
+                                "unlock": "A3",
+                                "subTraces": [
+                                    {
+                                        "type": "HP",
+                                        "description": "HP +4%",
+                                        "unlock": "A3"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Aqua Reign",
+                "description": "Increases the chance to resist Crowd Control debuffs by 35%.",
+                "unlock": "A4",
+                "subTraces": [
+                    {
+                        "type": "Imaginary DMG Boost",
+                        "description": "<span class=\"text-imaginary\">Imaginary DMG</span> +4.8%",
+                        "unlock": "A4",
+                        "subTraces": [
+                            {
+                                "type": "CRIT Rate",
+                                "description": "CRIT Rate +4%",
+                                "unlock": "A5",
+                                "subTraces": [
+                                    {
+                                        "type": "Imaginary DMG Boost",
+                                        "description": "<span class=\"text-imaginary\">Imaginary DMG</span> +4.8%",
+                                        "unlock": "A5"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Jolt Anew",
+                "description": "This character's CRIT DMG increases by 24% when dealing DMG to enemy targets with Imaginary Weakness.",
+                "unlock": "A6",
+                "subTraces": [
+                    {
+                        "type": "HP",
+                        "description": "HP +6%",
+                        "unlock": "A6",
+                        "subTraces": [
+                            {
+                                "type": "CRIT Rate",
+                                "description": "CRIT Rate +5.3%",
+                                "unlock": "Lv. 75"
+                            },
+                            {
+                                "type": "Imaginary DMG Boost",
+                                "description": "<span class=\"text-imaginary\">Imaginary DMG</span> +6.4%",
+                                "unlock": "Lv. 80"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Imaginary DMG Boost",
+                "description": "<span class=\"text-imaginary\">Imaginary DMG</span> +3.2%",
+                "unlock": "Lv. 1"
+            }
+        ],
+        "eidolon": {
+            "e1": {
+                "name": "Tethered to Sky",
+                "description": "Increase the stackable Righteous Heart count by 4, and gains 1 extra stack of Righteous Heart for each hit per attack."
+            },
+            "e2": {
+                "name": "Imperium On Cloud Nine",
+                "description": "After using his Ultimate, Imbibitor Lunae's action is Advanced Forward by 100% and gains 1 extra Squama Sacrosancta."
+            },
+            "e3": {
+                "name": "Clothed in Clouds",
+                "description": "Skill Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "e4": {
+                "name": "Zephyr's Bliss",
+                "description": "The buff effect granted by \"Outroar\" lasts until the end of this character's next turn."
+            },
+            "e5": {
+                "name": "Fall is the Pride",
+                "description": "Ultimate Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "e6": {
+                "name": "Reign, Returned",
+                "description": "After any other ally uses their Ultimate, the <span class=\"text-imaginary\">Imaginary RES</span> PEN of Imbibitor Lunae's next Fulgurant Leap attack increases by 20%. This effect can stack up to 3 time(s)."
+            }
+        },
+        "stats": {
+            "hp": [
+                168,
+                329,
+                397,
+                481,
+                549,
+                633,
+                701,
+                785,
+                853,
+                937,
+                1005,
+                1089,
+                1157,
+                1241
+            ],
+            "atk": [
+                95,
+                185,
+                223,
+                270,
+                308,
+                356,
+                394,
+                441,
+                479,
+                527,
+                565,
+                613,
+                651,
+                698
+            ],
+            "def": [
+                49,
+                96,
+                116,
+                141,
+                160,
+                185,
+                205,
+                230,
+                249,
+                274,
+                294,
+                319,
+                339,
+                363
+            ],
+            "speed": [
+                102,
+                102,
+                102,
+                102,
+                102,
+                102,
+                102,
+                102,
+                102,
+                102,
+                102,
+                102,
+                102,
+                102
+            ],
+            "taunt": [
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125
+            ]
+        },
+        "materials": {
+            "calyxMat": "Blade",
+            "commonMat": "Immortal",
+            "bossMat": "Suppressing Edict",
+            "weeklyBossMat": "Regret of Infinite Ochema"
+        },
+        "description": "Dan Heng's true form from his Vidyadhara lineage carries the residual power left behind by his past incarnation, the Imbibitor Lunae. Upon accepting the majestic horns atop his crown, he must accept all the merits and faults attributed to that sinner.",
+        "gender": "Male",
+        "faction": "Xianzhou Luofu",
+        "voiceActors": {
+            "en": "Nicholas Leung",
+            "jp": "Kent Itō (伊東 健人)"
+        },
+        "release": {
+            "date": "August 30, 2023",
+            "version": "1.3"
+        }
+    },
+    {
+        "id": 31,
+        "name": "Fu Xuan",
+        "rarity": 5,
+        "element": "Quantum",
+        "path": "Preservation",
+        "skills": {
+            "attack": {
+                "name": "Novaburst",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-value\">25%</span> of Fu Xuan's HP as <span class=\"text-quantum\">Quantum DMG</span> to a single enemy.",
+                "scaling": [
+                    [
+                        "25%",
+                        "30%",
+                        "35%",
+                        "40%",
+                        "45%",
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%"
+                    ]
+                ]
+            },
+            "skill": {
+                "name": "Known by Stars, Shown by Hearts",
+                "description": "<span class=\"text-highlight\">[Defense]</span><br />Activates Matrix of Prescience, via which other team members will Distribute 65% of the DMG they receive (before this DMG is mitigated by any Shields) to Fu Xuan for 3 turn(s).<br />While affected by Matrix of Prescience, all team members gain the Knowledge effect, which increases their respective Max HP by <span class=\"text-value\">3%</span> of Fu Xuan's Max HP, and increases CRIT Rate by <span class=\"text-value\">6%</span>.<br />When Fu Xuan is knocked down, the Matrix of Prescience will be dispelled.",
+                "scaling": [
+                    [
+                        "3%",
+                        "3.3%",
+                        "3.6%",
+                        "3.9%",
+                        "4.2%",
+                        "4.5%",
+                        "4.8%",
+                        "5.2%",
+                        "5.6%",
+                        "6%",
+                        "6.3%",
+                        "6.6%",
+                        "6.9%",
+                        "7.2%",
+                        "7.5%"
+                    ],
+                    [
+                        "6%",
+                        "6.6%",
+                        "7.2%",
+                        "7.8%",
+                        "8.4%",
+                        "9%",
+                        "9.7%",
+                        "10.5%",
+                        "11.2%",
+                        "12%",
+                        "12.6%",
+                        "13.2%",
+                        "13.8%",
+                        "14.4%",
+                        "15%"
+                    ]
+                ]
+            },
+            "ultimate": {
+                "name": "Woes of Many Morphed to One",
+                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 135</span><br />Deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">60%</span> of Fu Xuan's Max HP to all enemies and obtains 1 trigger count for the HP Restore effect granted by Fu Xuan's Talent.",
+                "scaling": [
+                    [
+                        "60%",
+                        "64%",
+                        "68%",
+                        "72%",
+                        "76%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "95%",
+                        "100%",
+                        "104%",
+                        "108%",
+                        "112%",
+                        "115%",
+                        "120%"
+                    ]
+                ]
+            },
+            "talent": {
+                "name": "Bleak Breeds Bliss",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br />While Fu Xuan has not been knocked down, \"Misfortune Avoidance\" is applied to the entire team. While affected by \"Misfortune Avoidance\", allies take <span class=\"text-value\">10%</span> less DMG.<br />HP Restore will be triggered for Fu Xuan when her HP falls to 50% of her Max HP or less. This effect will restore her HP by <span class=\"text-value\">80%</span> of the amount of HP she is currently missing. This effect cannot be triggered if she receives a killing blow. This effect possesses 1 trigger count by default, and can have a maximum of 2 trigger counts.",
+                "scaling": [
+                    [
+                        "10%",
+                        "10.8%",
+                        "11.6%",
+                        "12.4%",
+                        "13.2%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "18.8%",
+                        "19.6%",
+                        "20.4%",
+                        "21.2%",
+                        "22%"
+                    ],
+                    [
+                        "80%",
+                        "81%",
+                        "82%",
+                        "83%",
+                        "84%",
+                        "85%",
+                        "86%",
+                        "87%",
+                        "88%",
+                        "90%",
+                        "91%",
+                        "92%",
+                        "93%",
+                        "94%",
+                        "95%"
+                    ]
+                ]
+            },
+            "technique": {
+                "name": "Of Fortune Comes Fate",
+                "description": "<span class=\"text-highlight\">[Defense]</span><br />After the Technique is used, all team members receive a Barrier, lasting for 20 seconds. This Barrier can block all enemy attacks, and the team will not enter battle when attacked. Entering battle while the Barrier is active will have Fu Xuan automatically activate Matrix of Prescience at the start of the battle, lasting for 2 turn(s)."
+            }
+        },
+        "traces": [
+            {
+                "type": "CRIT Rate",
+                "description": "CRIT Rate +2.7%",
+                "unlock": "Lv. 1",
+                "subTraces": [
+                    {
+                        "name": "Taiyi, the Macrocosmic",
+                        "description": "When Matrix of Prescience is active, Fu Xuan will regenerate 20 extra Energy when she uses her Skill.",
+                        "unlock": "A2",
+                        "subTraces": [
+                            {
+                                "type": "HP",
+                                "description": "HP +4%",
+                                "unlock": "A2",
+                                "subTraces": [
+                                    {
+                                        "type": "CRIT Rate",
+                                        "description": "CRIT Rate +2.7%",
+                                        "unlock": "A3"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dunjia, the Metamystic",
+                        "description": "When Fu Xuan's Ultimate is used, heals all other allies by an amount equal to 5% of Fu Xuan's Max HP plus 133.",
+                        "unlock": "A4",
+                        "subTraces": [
+                            {
+                                "type": "CRIT Rate",
+                                "description": "CRIT Rate +4%",
+                                "unlock": "A4",
+                                "subTraces": [
+                                    {
+                                        "type": "HP",
+                                        "description": "HP +6%",
+                                        "unlock": "A5"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Liuren, the Sexagenary",
+                "description": "If a target enemy applies Crowd Control debuffs to allies while the Matrix of Prescience is active, all allies will resist all Crowd Control debuffs applied by the enemy target during the current action. This effect can only be triggered once. When Matrix of Prescience is activated again, the number of times this effect can be triggered will reset.",
+                "unlock": "A6",
+                "subTraces": [
+                    {
+                        "type": "Effect RES",
+                        "description": "Effect RES +6%",
+                        "unlock": "A6",
+                        "subTraces": [
+                            {
+                                "type": "HP",
+                                "description": "HP +8%",
+                                "unlock": "Lv. 75"
+                            },
+                            {
+                                "type": "CRIT Rate",
+                                "description": "CRIT Rate +5.3%",
+                                "unlock": "Lv. 80"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Effect RES",
+                "description": "Effect RES +4%",
+                "unlock": "A3"
+            },
+            {
+                "type": "CRIT Rate",
+                "description": "CRIT Rate +4%",
+                "unlock": "A5"
+            }
+        ],
+        "eidolon": {
+            "e1": {
+                "name": "Dominus Pacis",
+                "description": "All units with Knowledge increase their CRIT DMG by 30%."
+            },
+            "e2": {
+                "name": "Optimus Felix",
+                "description": "When Matrix of Prescience is active while any team member is struck by a killing blow, all allies who were struck by a killing blow during this action will not be knocked down and 70% of their Max HP is immediately restored. This effect can trigger 1 time per battle."
+            },
+            "e3": {
+                "name": "Apex Nexus",
+                "description": "Skill Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "e4": {
+                "name": "Fortuna Stellaris",
+                "description": "When other allies under Matrix of Prescience are attacked, Fu Xuan regenerates 5 Energy."
+            },
+            "e5": {
+                "name": "Arbiter Primus",
+                "description": "Ultimate Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "e6": {
+                "name": "Omnia Vita",
+                "description": "Once Matrix of Prescience is activated, it will accumulate the total HP lost by all team members in the current battle. Fu Xuan's Ultimate DMG will increase by 200% of the total HP lost by all team members in the current battle. The total HP lost by all team members in the current battle is capped at 120% of Fu Xuan's Max HP. This value will be reset and re-accumulated after her Ultimate has been used."
+            }
+        },
+        "stats": {
+            "hp": [
+                200,
+                391,
+                471,
+                571,
+                652,
+                752,
+                832,
+                932,
+                1013,
+                1113,
+                1193,
+                1294,
+                1374,
+                1474
+            ],
+            "atk": [
+                63,
+                123,
+                148,
+                180,
+                205,
+                237,
+                262,
+                294,
+                319,
+                351,
+                376,
+                408,
+                434,
+                465
+            ],
+            "def": [
+                82,
+                160,
+                193,
+                235,
+                268,
+                309,
+                342,
+                383,
+                416,
+                457,
+                490,
+                532,
+                565,
+                606
+            ],
+            "speed": [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            "taunt": [
+                150,
+                150,
+                150,
+                150,
+                150,
+                150,
+                150,
+                150,
+                150,
+                150,
+                150,
+                150,
+                150,
+                150
+            ]
+        },
+        "materials": {
+            "calyxMat": "Shield",
+            "commonMat": "Artifex",
+            "bossMat": "Nail of the Ape",
+            "weeklyBossMat": "Regret of Infinite Ochema"
+        },
+        "description": "Head of the Divination Commission on the Luofu. The person who uses the third eye and Matrix of Prescience to foretell the route of Xianzhou and the outcomes of events.",
+        "gender": "Female",
+        "faction": "Xianzhou Luofu",
+        "voiceActors": {
+            "en": "Sarah Wiedenheft",
+            "jp": "Miku Itō (伊藤 美来)"
+        },
+        "release": {
+            "date": "September 19, 2023",
+            "version": "1.3"
+        }
+    },
+    {
+        "id": 32,
+        "name": "Lynx",
+        "rarity": 4,
+        "element": "Quantum",
+        "path": "Abundance",
+        "skills": {
+            "attack": {
+                "name": "Ice Crampon Technique",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">25%</span> of Lynx's Max HP to a single enemy.",
+                "scaling": [
+                    [
+                        "25%",
+                        "30%",
+                        "35%",
+                        "40%",
+                        "45%",
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%"
+                    ]
+                ]
+            },
+            "skill": {
+                "name": "Salted Camping Cans",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br />Applies \"Survival Response\" to a single target ally and increases their Max HP by <span class=\"text-value\">5%</span> of Lynx's Max HP plus <span class=\"text-value\">50</span>. If the target ally is a character on the Path of Destruction or Preservation, the chance of them being attacked by enemies will greatly increase. \"Survival Response\" lasts for 2 turn(s).<br />Restores the target's HP by <span class=\"text-value\">8%</span> of Lynx's Max HP plus <span class=\"text-value\">80</span>.",
+                "scaling": [
+                    [
+                        "5%",
+                        "5.2%",
+                        "5.5%",
+                        "5.7%",
+                        "6%",
+                        "6.2%",
+                        "6.5%",
+                        "6.8%",
+                        "7.1%",
+                        "7.5%",
+                        "7.7%",
+                        "8%",
+                        "8.2%",
+                        "8.5%",
+                        "8.7%"
+                    ],
+                    [
+                        "50",
+                        "80",
+                        "102",
+                        "125",
+                        "140",
+                        "155",
+                        "166",
+                        "177",
+                        "188",
+                        "200",
+                        "211",
+                        "222",
+                        "233",
+                        "245",
+                        "256"
+                    ],
+                    [
+                        "8%",
+                        "8.5%",
+                        "9%",
+                        "9.5%",
+                        "10%",
+                        "10.4%",
+                        "10.8%",
+                        "11.2%",
+                        "11.6%",
+                        "12%",
+                        "12.4%",
+                        "12.8%",
+                        "13.2%",
+                        "13.6%",
+                        "14%"
+                    ],
+                    [
+                        "+80",
+                        "128",
+                        "164",
+                        "200",
+                        "224",
+                        "248",
+                        "266",
+                        "284",
+                        "302",
+                        "320",
+                        "338",
+                        "356",
+                        "374",
+                        "392",
+                        "410"
+                    ]
+                ]
+            },
+            "ultimate": {
+                "name": "Snowfield First Aid",
+                "description": "<span class=\"text-highlight\">[Restore] | Energy Cost: 100</span><br />Dispels 1 debuff(s) from all allies and immediately restores their respective HP by an amount equal to <span class=\"text-value\">9%</span> of Lynx's Max HP plus <span class=\"text-value\">90</span>.",
+                "scaling": [
+                    [
+                        "9%",
+                        "9.5%",
+                        "10.1%",
+                        "10.6%",
+                        "11.2%",
+                        "11.7%",
+                        "12.1%",
+                        "12.6%",
+                        "13%",
+                        "13.5%",
+                        "13.9%",
+                        "14.4%",
+                        "14.8%",
+                        "15.3%",
+                        "15.7%"
+                    ],
+                    [
+                        "90",
+                        "144",
+                        "184",
+                        "225",
+                        "252",
+                        "279",
+                        "299",
+                        "319",
+                        "339",
+                        "360",
+                        "380",
+                        "400",
+                        "420",
+                        "441",
+                        "461"
+                    ]
+                ]
+            },
+            "talent": {
+                "name": "Outdoor Survival Experience",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br />When using Lynx's Skill or Ultimate, applies continuous healing to the target ally for 2 turn(s), restoring HP by an amount equal to <span class=\"text-value\">2.4%</span> of Lynx's Max HP plus <span class=\"text-value\">24</span> at the start of each turn. If the target has \"Survival Response\", the continuous healing effect additionally restores HP by an amount equal to <span class=\"text-value\">3%</span> of Lynx's Max HP plus <span class=\"text-value\">30</span>.",
+                "scaling": [
+                    [
+                        "2.4%",
+                        "2.5%",
+                        "2.7%",
+                        "2.8%",
+                        "3%",
+                        "3.1%",
+                        "3.2%",
+                        "3.3%",
+                        "3.4%",
+                        "3.6%",
+                        "3.7%",
+                        "3.8%",
+                        "3.9%",
+                        "4%",
+                        "4.2%"
+                    ],
+                    [
+                        "24",
+                        "38",
+                        "49",
+                        "60",
+                        "67",
+                        "74",
+                        "79",
+                        "85",
+                        "90",
+                        "96",
+                        "101",
+                        "106",
+                        "112",
+                        "117",
+                        "123"
+                    ],
+                    [
+                        "3%",
+                        "3.1%",
+                        "3.3%",
+                        "3.5%",
+                        "3.7%",
+                        "3.9%",
+                        "4%",
+                        "4.2%",
+                        "4.3%",
+                        "4.5%",
+                        "4.6%",
+                        "4.8%",
+                        "4.9%",
+                        "5.1%",
+                        "5.2%"
+                    ],
+                    [
+                        "30",
+                        "48",
+                        "61",
+                        "75",
+                        "84",
+                        "93",
+                        "99",
+                        "106",
+                        "113",
+                        "120",
+                        "126",
+                        "133",
+                        "140",
+                        "147",
+                        "153"
+                    ]
+                ]
+            },
+            "technique": {
+                "name": "Chocolate Energy Bar",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br />After Lynx uses her Technique, at the start of the next battle, all allies are granted the continuous healing effect from her Talent for 2 turn(s)."
+            }
+        },
+        "traces": [
+            {
+                "name": "Advance Surveying",
+                "description": "After a target with \"Survival Response\" is hit, Lynx regenerates 2 Energy immediately.",
+                "unlock": "A2",
+                "subTraces": [
+                    {
+                        "type": "DEF",
+                        "description": "DEF +5%",
+                        "unlock": "A2",
+                        "subTraces": [
+                            {
+                                "type": "HP",
+                                "description": "HP +4%",
+                                "unlock": "A3",
+                                "subTraces": [
+                                    {
+                                        "type": "Effect RES",
+                                        "description": "Effect RES +4%",
+                                        "unlock": "A3"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Exploration Techniques",
+                "description": "The chance to resist Crowd Control debuffs increases by 35%.",
+                "unlock": "A4",
+                "subTraces": [
+                    {
+                        "type": "HP",
+                        "description": "HP +6%",
+                        "unlock": "A4",
+                        "subTraces": [
+                            {
+                                "type": "DEF",
+                                "description": "DEF +7.5%",
+                                "unlock": "A5",
+                                "subTraces": [
+                                    {
+                                        "type": "HP",
+                                        "description": "HP +6%",
+                                        "unlock": "A5"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Survival in the Extreme",
+                "description": "Extends the duration of the continuous healing effect granted by Talent for 1 turn(s).",
+                "unlock": "A6",
+                "subTraces": [
+                    {
+                        "type": "Effect RES",
+                        "description": "Effect RES +6%",
+                        "unlock": "A6"
+                    },
+                    {
+                        "type": "DEF",
+                        "description": "DEF +10%",
+                        "unlock": "Lv. 75"
+                    }
+                ]
+            },
+            {
+                "type": "HP",
+                "description": "HP +4%",
+                "unlock": "Lv. 1"
+            },
+            {
+                "type": "HP",
+                "description": "HP +8%",
+                "unlock": "Lv. 80"
+            }
+        ],
+        "eidolon": {
+            "e1": {
+                "name": "Morning of Snow Hike",
+                "description": "When healing allies with HP equal to or lower than 50%, Lynx's Outgoing Healing increases by 20%. This effect also works on continuous healing."
+            },
+            "e2": {
+                "name": "Noon of Portable Furnace",
+                "description": "A target with \"Survival Response\" can resist debuff application for 1 time(s)."
+            },
+            "e3": {
+                "name": "Afternoon of Avalanche Beacon",
+                "description": "Skill Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "e4": {
+                "name": "Dusk of Warm Campfire",
+                "description": "When \"Survival Response\" is gained, increases the target's ATK by an amount equal to 3% of Lynx's Max HP for 1 turn(s)."
+            },
+            "e5": {
+                "name": "Night of Aurora Tea",
+                "description": "Ultimate Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "e6": {
+                "name": "Dawn of Explorers' Chart",
+                "description": "Additionally boosts the Max HP increasing effect of \"Survival Response\" by an amount equal to 6.0% of Lynx's Max HP and increases Effect RES by 30%."
+            }
+        },
+        "stats": {
+            "hp": [
+                144,
+                280,
+                338,
+                410,
+                467,
+                539,
+                597,
+                669,
+                727,
+                799,
+                856,
+                928,
+                986,
+                1058
+            ],
+            "atk": [
+                67,
+                131,
+                157,
+                191,
+                218,
+                252,
+                278,
+                312,
+                339,
+                372,
+                399,
+                433,
+                460,
+                493
+            ],
+            "def": [
+                75,
+                146,
+                176,
+                213,
+                243,
+                281,
+                311,
+                348,
+                378,
+                416,
+                446,
+                483,
+                513,
+                551
+            ],
+            "speed": [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            "taunt": [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ]
+        },
+        "materials": {
+            "calyxMat": "Flower",
+            "commonMat": "Antimatter",
+            "bossMat": "Nail of the Ape",
+            "weeklyBossMat": "Regret of Infinite Ochema"
+        },
+        "description": "A Belobogian Snow Plains Explorer, and the youngest of the Landau siblings. Calm and collected, with a strong drive for action. Often embarks on solo adventures to explore the snowy wilderness.",
+        "gender": "Female",
+        "faction": "Belobog",
+        "voiceActors": {
+            "en": "Risa Mei",
+            "jp": "Haruka Terui (照井 春佳)"
+        },
+        "release": {
+            "date": "September 19, 2023",
+            "version": "1.3"
+        }
     }
 ]

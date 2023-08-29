@@ -2740,5 +2740,150 @@
         "release": {
             "version": "1.2"
         }
+    },
+    {
+        "id": 73,
+        "name": "Brighter Than the Sun",
+        "rarity": 5,
+        "path": "Destruction",
+        "stats": {
+            "hp": 48,
+            "atk": 28,
+            "def": 18
+        },
+        "passive": {
+            "name": "Defiant Till Death",
+            "effect": "Increases the wearer's CRIT Rate by <span class=\"text-value\">18%</span>. When the wearer uses their Basic ATK, they will gain 1 stack of Dragon's Call, lasting for 2 turns. Each stack of Dragon's Call increases the wearer's ATK by <span class=\"text-value\">18%</span> and Energy Regeneration Rate by <span class=\"text-value\">6%</span>. Dragon's Call can be stacked up to 2 times.",
+            "scaling": [
+                [
+                    "18%",
+                    "21%",
+                    "24%",
+                    "27%",
+                    "30%"
+                ],
+                [
+                    "18%",
+                    "21%",
+                    "24%",
+                    "27%",
+                    "30%"
+                ],
+                [
+                    "6%",
+                    "7%",
+                    "8%",
+                    "9%",
+                    "10%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Blade",
+            "commonMat": "Immortal"
+        },
+        "description": "From birth, all that ever lay before him was but a lightless dungeon.<br />To this darkness, irrelevant sins bound him... irrelevant memories engulfed him.<br />He writhed, gasping for breath with every fiber of his being,<br />attempting to clasp a sliver of light in this fathomless ocean.<br /><br />Until the day the general stepped into the lightless depths of this prison,<br />he beheld a radiance shining brighter than the sun — the gaze of a young man.",
+        "release": {
+            "version": "1.3"
+        }
+    },
+    {
+        "id": 74,
+        "name": "Solitary Healing",
+        "rarity": 5,
+        "path": "Nihility",
+        "stats": {
+            "hp": 48,
+            "atk": 24,
+            "def": 18
+        },
+        "passive": {
+            "name": "Chaos Elixir",
+            "effect": "Increases the wearer's Break Effect by <span class=\"text-value\">20%</span>. When the wearer uses their Ultimate, increases DoT dealt by the wearer by <span class=\"text-value\">24%</span>, lasting for 2 turn(s). When a target enemy suffering from DoT imposed by the wearer is defeated, regenerates <span class=\"text-value\">4</span> Energy for the wearer.",
+            "scaling": [
+                [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ],
+                [
+                    "24%",
+                    "30%",
+                    "36%",
+                    "42%",
+                    "48%"
+                ],
+                [
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Obsidian",
+            "commonMat": "Core"
+        },
+        "description": "Things molded by the hands of secrecy are shapeless and incorporeal.<br />In the totality of emptiness, there yet exists a sudden dreaming.<br />Those that court destruction will reap ruinous fruit, while those that clamor to live will survive.<br />That which is extinguished may yet spark, and that which has dried may yet be filled anew.<br />In compassion for the salvation of chaos, the elixir nurtures the shadows.<br />With back faced to the darkness between the stars, the encapsulation of this vessel can only be done in vain.<br /><br /><i>\"Paradoxical these knowings are, in them shine the fullness of our pride.\"</i>",
+        "release": {
+            "version": "1.3"
+        }
+    },
+    {
+        "id": 75,
+        "name": "She Already Shut Her Eyes",
+        "rarity": 5,
+        "path": "Preservation",
+        "stats": {
+            "hp": 57,
+            "atk": 19,
+            "def": 24
+        },
+        "passive": {
+            "name": "Visioscape",
+            "effect": "Increases the wearer's Max HP by <span class=\"text-value\">24%</span> and Energy Regeneration Rate by <span class=\"text-value\">12%</span>. When the wearer's HP is reduced, all allies' DMG dealt increases by <span class=\"text-value\">9%</span>, for 2 turn(s).<br />At the start of every wave, restores HP to all allies by an amount equal to <span class=\"text-value\">80%</span> of their respective lost HP.",
+            "scaling": [
+                [
+                    "24%",
+                    "28%",
+                    "32%",
+                    "36%",
+                    "40%"
+                ],
+                [
+                    "12%",
+                    "14%",
+                    "16%",
+                    "18%",
+                    "20%"
+                ],
+                [
+                    "9%",
+                    "10.5%",
+                    "12%",
+                    "13.5%",
+                    "15%"
+                ],
+                [
+                    "80%",
+                    "85%",
+                    "90%",
+                    "95%",
+                    "100%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Shield",
+            "commonMat": "Artifex"
+        },
+        "description": "The ache in the middle of her forehead will accompany her for the rest of her life, but it is only a fraction of what she had experienced in the past.<br />She thought herself prescient until the departure of those for whom she cared.<br />She now <i>\"sees<i>\" the world ever-changing, the times ever-shifting...<br />But she already shut her eyes, because the future has already been determined<br />...inside <i>\"the third eye.\"</i>",
+        "release": {
+            "version": "1.3"
+        }
     }
 ]

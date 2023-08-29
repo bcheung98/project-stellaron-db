@@ -67,5 +67,18 @@
                 "Serval"
             ]
         }
+    },
+    {
+        "version": "1.3",
+        "phase1": {
+            "startDate": "August 30, 2023",
+            "endDate": "September 20, 2023",
+            "banner": [
+                "Imbibitor Lunae",
+                "Asta",
+                "March 7th",
+                "Yukong"
+            ]
+        }
     }
 ]
