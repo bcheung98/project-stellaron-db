@@ -10438,7 +10438,7 @@
         "skills": {
             "attack": {
                 "name": "Beneficent Lotus",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Uses a 2-hit attack and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">50%</span> of Imbibitor Lunae's ATK to a single enemy target.<br /><br /><span style=\"font-size:2.125rem;\">Transcendence</span><br /><span class=\"text-highlight\">[Single Target]</span><br />Unleashes 3 hits in this attack and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">130%</span> of Imbibitor Lunae's ATK to a single enemy target.<br /><br /><span style=\"font-size:2.125rem;\">Divine Spear</span><br /><span class=\"text-highlight\">[Blast]</span><br />Uses a 5-hit attack, dealing <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">190%</span> of Imbibitor Lunae's ATK to a single enemy target. From the fourth hit onward, simultaneously deal <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">30%</span> of Imbibitor Lunae's ATK to adjacent targets.<br /><br /><span style=\"font-size:2.125rem;\">Fulgurant Leap</span><br /><span class=\"text-highlight\">[Blast]</span><br />Uses a 7-hit attack, dealing <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">250%</span> of Imbibitor Lunae's ATK to a single enemy target. From the fourth hit onward, simultaneously deal <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">90%</span> of Imbibitor Lunae's ATK to adjacent targets.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Uses a 2-hit attack and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">50%</span> of Imbibitor Lunae's ATK to a single enemy target.<br /><br /><span style=\"font-size:2.125rem;\">Transcendence</span><br /><span class=\"text-highlight\">[Single Target]</span><br />Uses a 3-hit attack and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">130%</span> of Imbibitor Lunae's ATK to a single enemy target.<br /><br /><span style=\"font-size:2.125rem;\">Divine Spear</span><br /><span class=\"text-highlight\">[Blast]</span><br />Uses a 5-hit attack, dealing <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">190%</span> of Imbibitor Lunae's ATK to a single enemy target. From the fourth hit onward, simultaneously deal <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">30%</span> of Imbibitor Lunae's ATK to adjacent targets.<br /><br /><span style=\"font-size:2.125rem;\">Fulgurant Leap</span><br /><span class=\"text-highlight\">[Blast]</span><br />Uses a 7-hit attack, dealing <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">250%</span> of Imbibitor Lunae's ATK to a single enemy target. From the fourth hit onward, simultaneously deal <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">90%</span> of Imbibitor Lunae's ATK to adjacent targets.",
                 "scaling": [
                     [
                         "50%",
@@ -10510,7 +10510,7 @@
             },
             "skill": {
                 "name": "Dracore Libre",
-                "description": "<span class=\"text-highlight\">[Enhance]</span><br />Enhances Basic ATK. Enhancements may be applied up to 3 times consecutively. Using this ability does not consume Skill Points and is not considered as using a Skill.<br />Enhanced once, Beneficent Lotus becomes Transcendence.<br />Enhanced twice, Beneficent Lotus becomes Divine Spear.<br />Enhanced 3 times, Beneficent Lotus becomes Fulgurant Leap.<br />When using Divine Spear or Fulgurant Leap, starting from the fourth hit, 1 stack of \"Outroar\" is gained before every hit. Each stack of \"Outroar\" increases Imbibitor Lunae's CRIT DMG by <span class=\"text-value\">6%</span>, for a max of 4 stacks. These stacks last until the end of his turn.",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />Enhances Basic ATK. Enhancements may be applied up to 3 times consecutively. Using this ability does not consume Skill Points and is not considered as using a Skill.<br />Enhanced once, Beneficent Lotus becomes Transcendence.<br />Enhanced twice, Beneficent Lotus becomes Divine Spear.<br />Enhanced 3 times, Beneficent Lotus becomes Fulgurant Leap.<br />When using Divine Spear or Fulgurant Leap, starting from the fourth hit, 1 stack of Outroar is gained before every hit. Each stack of Outroar increases Imbibitor Lunae's CRIT DMG by <span class=\"text-value\">6%</span>, for a max of 4 stacks. These stacks last until the end of his turn.",
                 "scaling": [
                     [
                         "6%",
@@ -10697,7 +10697,7 @@
             },
             "e4": {
                 "name": "Zephyr's Bliss",
-                "description": "The buff effect granted by \"Outroar\" lasts until the end of this character's next turn."
+                "description": "The buff effect granted by Outroar lasts until the end of this character's next turn."
             },
             "e5": {
                 "name": "Fall is the Pride",
@@ -10897,7 +10897,7 @@
             },
             "talent": {
                 "name": "Bleak Breeds Bliss",
-                "description": "<span class=\"text-highlight\">[Restore]</span><br />While Fu Xuan has not been knocked down, \"Misfortune Avoidance\" is applied to the entire team. While affected by \"Misfortune Avoidance\", allies take <span class=\"text-value\">10%</span> less DMG.<br />HP Restore will be triggered for Fu Xuan when her HP falls to 50% of her Max HP or less. This effect will restore her HP by <span class=\"text-value\">80%</span> of the amount of HP she is currently missing. This effect cannot be triggered if she receives a killing blow. This effect possesses 1 trigger count by default, and can have a maximum of 2 trigger counts.",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br />While Fu Xuan has not been knocked down, Misfortune Avoidance is applied to the entire team. While affected by Misfortune Avoidance, allies take <span class=\"text-value\">10%</span> less DMG.<br />HP Restore will be triggered for Fu Xuan when her HP falls to 50% of her Max HP or less. This effect will restore her HP by <span class=\"text-value\">80%</span> of the amount of HP she is currently missing. This effect cannot be triggered if she receives a killing blow. This effect possesses 1 trigger count by default, and can have a maximum of 2 trigger counts.",
                 "scaling": [
                     [
                         "10%",
@@ -11173,7 +11173,7 @@
             },
             "skill": {
                 "name": "Salted Camping Cans",
-                "description": "<span class=\"text-highlight\">[Restore]</span><br />Applies \"Survival Response\" to a single target ally and increases their Max HP by <span class=\"text-value\">5%</span> of Lynx's Max HP plus <span class=\"text-value\">50</span>. If the target ally is a character on the Path of Destruction or Preservation, the chance of them being attacked by enemies will greatly increase. \"Survival Response\" lasts for 2 turn(s).<br />Restores the target's HP by <span class=\"text-value\">8%</span> of Lynx's Max HP plus <span class=\"text-value\">80</span>.",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br />Applies Survival Response to a single target ally and increases their Max HP by <span class=\"text-value\">5%</span> of Lynx's Max HP plus <span class=\"text-value\">50</span>. If the target ally is a character on the Path of Destruction or Preservation, the chance of them being attacked by enemies will greatly increase. Survival Response lasts for 2 turn(s).<br />Restores the target's HP by <span class=\"text-value\">8%</span> of Lynx's Max HP plus <span class=\"text-value\">80</span>.",
                 "scaling": [
                     [
                         "5%",
@@ -11287,7 +11287,7 @@
             },
             "talent": {
                 "name": "Outdoor Survival Experience",
-                "description": "<span class=\"text-highlight\">[Restore]</span><br />When using Lynx's Skill or Ultimate, applies continuous healing to the target ally for 2 turn(s), restoring HP by an amount equal to <span class=\"text-value\">2.4%</span> of Lynx's Max HP plus <span class=\"text-value\">24</span> at the start of each turn. If the target has \"Survival Response\", the continuous healing effect additionally restores HP by an amount equal to <span class=\"text-value\">3%</span> of Lynx's Max HP plus <span class=\"text-value\">30</span>.",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br />When using Lynx's Skill or Ultimate, applies continuous healing to the target ally for 2 turn(s), restoring HP by an amount equal to <span class=\"text-value\">2.4%</span> of Lynx's Max HP plus <span class=\"text-value\">24</span> at the start of each turn. If the target has Survival Response, the continuous healing effect additionally restores HP by an amount equal to <span class=\"text-value\">3%</span> of Lynx's Max HP plus <span class=\"text-value\">30</span>.",
                 "scaling": [
                     [
                         "2.4%",
@@ -11367,7 +11367,7 @@
         "traces": [
             {
                 "name": "Advance Surveying",
-                "description": "After a target with \"Survival Response\" is hit, Lynx regenerates 2 Energy immediately.",
+                "description": "After a target with Survival Response is hit, Lynx regenerates 2 Energy immediately.",
                 "unlock": "A2",
                 "subTraces": [
                     {
@@ -11452,7 +11452,7 @@
             },
             "e2": {
                 "name": "Noon of Portable Furnace",
-                "description": "A target with \"Survival Response\" can resist debuff application for 1 time(s)."
+                "description": "A target with Survival Response can resist debuff application for 1 time(s)."
             },
             "e3": {
                 "name": "Afternoon of Avalanche Beacon",
@@ -11460,7 +11460,7 @@
             },
             "e4": {
                 "name": "Dusk of Warm Campfire",
-                "description": "When \"Survival Response\" is gained, increases the target's ATK by an amount equal to 3% of Lynx's Max HP for 1 turn(s)."
+                "description": "When Survival Response is gained, increases the target's ATK by an amount equal to 3% of Lynx's Max HP for 1 turn(s)."
             },
             "e5": {
                 "name": "Night of Aurora Tea",
@@ -11468,7 +11468,7 @@
             },
             "e6": {
                 "name": "Dawn of Explorers' Chart",
-                "description": "Additionally boosts the Max HP increasing effect of \"Survival Response\" by an amount equal to 6.0% of Lynx's Max HP and increases Effect RES by 30%."
+                "description": "Additionally boosts the Max HP increasing effect of Survival Response by an amount equal to 6.0% of Lynx's Max HP and increases Effect RES by 30%."
             }
         },
         "stats": {
