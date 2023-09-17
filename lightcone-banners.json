@@ -79,6 +79,16 @@
                 "Landau's Choice",
                 "Planetary Rendezvous"
             ]
+        },
+        "phase2": {
+            "startDate": "September 20, 2023",
+            "endDate": "October 9, 2023",
+            "banner": [
+                "She Already Shut Her Eyes",
+                "Perfect Timing",
+                "Trend of the Universal Market",
+                "Under the Blue Sky"
+            ]
         }
     }
 ]
