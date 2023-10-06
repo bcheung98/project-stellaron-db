@@ -671,7 +671,7 @@
             },
             "skill": {
                 "name": "Singing Among Clouds",
-                "description": "<span class=\"text-highlight\">[Restore]</span><br />Heals a single ally for <span class=\"text-value\">7.8%</span> of Bailu's Max HP plus <span class=\"text-value\">78</span>.75. Bailu then heals random allies 2 time(s). After each healing, HP restored from the next healing is reduced by 15%.",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br />Heals a single ally for <span class=\"text-value\">7.8%</span> of Bailu's Max HP plus <span class=\"text-value\">78</span>. Bailu then heals random allies 2 time(s). After each healing, HP restored from the next healing is reduced by 15%.",
                 "scaling": [
                     [
                         "7.8%",
