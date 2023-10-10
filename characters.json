@@ -12098,7 +12098,7 @@
         "traces": [
             {
                 "name": "High Poles",
-                "description": "",
+                "description": "Basic ATK has a 80% base chance of inflicting an enemy with a Burn, equivalent to that of Skill.",
                 "unlock": "A2",
                 "subTraces": [
                     {
