@@ -2885,5 +2885,97 @@
         "release": {
             "version": "1.3"
         }
+    },
+    {
+        "id": 76,
+        "name": "I Shall Be My Own Sword",
+        "rarity": 5,
+        "path": "Destruction",
+        "stats": {
+            "hp": 52,
+            "atk": 28,
+            "def": 15
+        },
+        "passive": {
+            "name": "With This Evening Jade",
+            "effect": "Increases the wearer's CRIT DMG by <span class=\"text-value\">20%</span>. When an ally gets attacked or loses HP, the wearer gains 1 stack of Eclipse, up to a max of 3 stack(s). Each stack of Eclipse increases the DMG of the wearer's next attack by <span class=\"text-value\">14%</span>. When 3 stack(s) are reached, additionally enables the attack to ignore <span class=\"text-value\">12%</span> of the enemy's DEF. This effect will be removed after the wearer uses an attack.",
+            "scaling": [
+                [
+                    "20%",
+                    "23%",
+                    "26%",
+                    "28%",
+                    "32%"
+                ],
+                [
+                    "14%",
+                    "16.5%",
+                    "19%",
+                    "21.5%",
+                    "24%"
+                ],
+                [
+                    "12%",
+                    "14%",
+                    "16%",
+                    "18%",
+                    "20%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Blade",
+            "commonMat": "Immortal"
+        },
+        "description": "The blade shattered, plunging into the bone-chilling cold.<br />All earthly instruments are mere futilities, their worth discernible with a single glance.<br /><i>\"What use do I have of swords?\"</i><br />She holds no attachment, nor does her gaze accommodate anything within.<br /><br /><i>\"From now on, I shall be my own sword.\"</i><br />To transcend perceived precipices and achieve unprecedented breakthroughs,<br />one must regard themselves as <i>\"kindling<i>\" to fuel their own fire.",
+        "release": {
+            "version": "1.4"
+        }
+    },
+    {
+        "id": 77,
+        "name": "Worrisome, Blissful",
+        "rarity": 5,
+        "path": "Hunt",
+        "stats": {
+            "hp": 48,
+            "atk": 26,
+            "def": 21
+        },
+        "passive": {
+            "name": "One At A Time",
+            "effect": "Increase the wearer's CRIT Rate by <span class=\"text-value\">18%</span> and their follow-up attacks' DMG by <span class=\"text-value\">30%</span>. After the wearer uses a follow-up attack, apply the Tame state to the target, stacking up to 2 stacks. When allies hit enemy targets under the Tame state, every Tame stack increases the CRIT DMG dealt by <span class=\"text-value\">12%</span>.",
+            "scaling": [
+                [
+                    "18%",
+                    "21%",
+                    "24%",
+                    "27%",
+                    "30%"
+                ],
+                [
+                    "30%",
+                    "35%",
+                    "40%",
+                    "45%",
+                    "50%"
+                ],
+                [
+                    "12%",
+                    "14%",
+                    "16%",
+                    "18%",
+                    "20%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Arrow",
+            "commonMat": "Silvermane"
+        },
+        "description": "For a competent IPC professional, <i>\"feeling overwhelmed\"</i> is absolutely not allowed.<br />Stand tall and take on whatever comes your way, be it burnout or overwork! <br />Unless... it's being overwhelmed by <i>\"them.<i>\"<br /><br /><i>\"Oh, don't get so antsy! I only have two hands!\"</i><br />A girl who just returned home from working overtime is pinned down by a group of fluffy creatures.<br />They may not fully understand her words, simply nuzzling their round heads closer to her palm.<br />The feeling of exhaustion gradually fades from her body, replaced by the warmth and comfort brought by stroking their fur.",
+        "release": {
+            "version": "1.4"
+        }
     }
 ]
