@@ -90,5 +90,18 @@
                 "Pela"
             ]
         }
+    },
+    {
+        "version": "1.4",
+        "phase1": {
+            "startDate": "October 10, 2023",
+            "endDate": "November 1, 2023",
+            "banner": [
+                "Jingliu",
+                "Qingque",
+                "Sampo",
+                "Tingyun"
+            ]
+        }
     }
 ]
