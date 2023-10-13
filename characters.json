@@ -11734,7 +11734,7 @@
             },
             "technique": {
                 "name": "Innermost Nature",
-                "description": "<span class=\"text-highlight\">[Impair]</span><br />After using this Technique, creates a dimension around Jingliu that lasts for 20 seconds, and all enemies in this dimension will become Frozen. After entering combat with enemies in the dimension, Jingliu immediately regenerates 15 Energy and obtains 1 stack(s) of Syzygy, with a 100% base chance of Freezing enemy targets for 1 turn(s). While Frozen, enemy targets cannot take action, and receive <span class=\"text-ice\">Ice</span Additional DMG equal to 80% of Jingliu's ATK at the start of every turn. Only 1 dimension created by allies can exist at the same time."
+                "description": "<span class=\"text-highlight\">[Impair]</span><br />After using this Technique, creates a dimension around Jingliu that lasts for 20 seconds, and all enemies in this dimension will become Frozen. After entering combat with enemies in the dimension, Jingliu immediately regenerates 15 Energy and obtains 1 stack(s) of Syzygy, with a 100% base chance of Freezing enemy targets for 1 turn(s). While Frozen, enemy targets cannot take action, and receive <span class=\"text-ice\">Ice</span> Additional DMG equal to 80% of Jingliu's ATK at the start of every turn. Only 1 dimension created by allies can exist at the same time."
             }
         },
         "traces": [
