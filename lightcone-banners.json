@@ -102,6 +102,17 @@
                 "Make the World Clamor",
                 "Memories of the Past"
             ]
+        },
+        "phase2": {
+            "startDate": "October 27, 2023",
+            "endDate": "November 14, 2023",
+            "banner": [
+                "Worrisome, Blissful",
+                "In the Night",
+                "Only Silence Remains",
+                "Resolution Shines As Pearls of Sweat",
+                "The Moles Welcome You"
+            ]
         }
     }
 ]
