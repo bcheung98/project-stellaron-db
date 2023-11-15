@@ -13136,7 +13136,7 @@
                 ]
             },
             "talent": {
-                "name": "",
+                "name": "Sublime Object",
                 "description": "<span class=\"text-highlight\">[Enhance]</span><br />For every enemy hit when Argenti uses his Basic Attack, Skill, or Ultimate, regenerates Argenti's Energy by 3, and grants him a stack of Apotheosis, increasing his CRIT Rate by <span class=\"text-value\">1%</span>. This effect can stack up to 10 time(s).",
                 "scaling": [
                     [
