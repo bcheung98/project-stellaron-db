@@ -13478,7 +13478,7 @@
             },
             "technique": {
                 "name": "Netherworld Judgment",
-                "description": "<span class=\"text-highlight\">[TEXT]</span><br />Immediately attacks the enemy. After entering battle, applies Burden equivalent to that applied by the Skill to a random enemy."
+                "description": "Immediately attacks the enemy. After entering battle, applies Burden equivalent to that applied by the Skill to a random enemy."
             }
         },
         "traces": [
