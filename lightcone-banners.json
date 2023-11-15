@@ -114,5 +114,18 @@
                 "The Moles Welcome You"
             ]
         }
+    },
+    {
+        "version": "1.5",
+        "phase1": {
+            "startDate": "November 15, 2023",
+            "endDate": "December 5, 2023",
+            "banner": [
+                "Night of Fright",
+                "Shared Feeling",
+                "Subscribe for More!",
+                "Trend of the Universal Market"
+            ]
+        }
     }
 ]

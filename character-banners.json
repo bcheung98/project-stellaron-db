@@ -114,5 +114,18 @@
                 "Sushang"
             ]
         }
+    },
+    {
+        "version": "1.5",
+        "phase1": {
+            "startDate": "November 15, 2023",
+            "endDate": "December 5, 2023",
+            "banner": [
+                "Huohuo",
+                "Arlan",
+                "Dan Heng",
+                "Serval"
+            ]
+        }
     }
 ]

@@ -2977,5 +2977,129 @@
         "release": {
             "version": "1.4"
         }
+    },
+    {
+        "id": 78,
+        "name": "Hey, Over Here",
+        "rarity": 4,
+        "path": "Abundance",
+        "stats": {
+            "hp": 43,
+            "atk": 19,
+            "def": 18
+        },
+        "passive": {
+            "name": "I'm Not Afraid!",
+            "effect": "Increases the wearer's Max HP by <span class=\"text-value\">8%</span>. When the wearer uses Skill, increases Outgoing Healing by <span class=\"text-value\">16%</span>, lasting for 2 turn(s).",
+            "scaling": [
+                [
+                    "8%",
+                    "9%",
+                    "10%",
+                    "11%",
+                    "12%"
+                ],
+                [
+                    "16%",
+                    "19%",
+                    "22%",
+                    "25%",
+                    "28%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Flower",
+            "commonMat": "Artifex"
+        },
+        "description": "Three girls stroll in the darkness, and the surroundings seem to gain a hint of eeriness.<br /><i>\"Huohuo, hurry up or we won't wait for you!\"</i><br />She steps forward confidently with her phone lifted, seemingly unaffected by the supernatural ambiance.<br /><i>\"Iâ€”I'm over here!\"</i><br />The girl standing ahead responds timidly.<br /><i>\"Huh? So you were in the front all along, then who is following Shangshang and me...\"</i><br /><br />The perfect end for this scene would defnitely be a girlish scream.",
+        "release": {
+            "version": "1.5"
+        }
+    },
+    {
+        "id": 79,
+        "name": "Night of Fright",
+        "rarity": 5,
+        "path": "Abundance",
+        "stats": {
+            "hp": 52,
+            "atk": 21,
+            "def": 24
+        },
+        "passive": {
+            "name": "Deep, Deep Breaths",
+            "effect": "Increases the wearer's Energy Regeneration Rate by <span class=\"text-value\">12%</span>. When any ally uses their Ultimate, the wearer restores HP for the ally currently with the lowest HP percentage by an amount equal to <span class=\"text-value\">10%</span> of the healed ally's Max HP. When the wearer provides healing for an ally, increases the healed ally's ATK by <span class=\"text-value\">2.4%</span>. This effect can stack up to 5 times and lasts for 2 turn(s).",
+            "scaling": [
+                [
+                    "12%",
+                    "14%",
+                    "16%",
+                    "18%",
+                    "20%"
+                ],
+                [
+                    "10%",
+                    "11%",
+                    "12%",
+                    "13%",
+                    "14%"
+                ],
+                [
+                    "2.4%",
+                    "2.8%",
+                    "3.2%",
+                    "3.6%",
+                    "4%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Flower",
+            "commonMat": "Immortal"
+        },
+        "description": "The girl hides behind the door and dares not move one step closer. <br />Perhaps due to the fact that tonight's objective is already within her reach, her heart is actually beating faster.<br /><i>\"I'm not scared, not scared, not scared...\"</i><br />In darkness, silence lets out a piercing scream.<br /><br />The girl is shivering and grasps the <i>\"weapon<i>\" in her hands tight, but still does not dare to approach the \"</i>target.\"</i><br /><i>\"There is nothing to be sâ€”sâ€”scared of!\"</i><br /><br />The tail behind her has finally had enough and suddenly lights up.<br /><i>\"Hurry up. You're just picking up a delivery!\"</i>",
+        "release": {
+            "version": "1.5"
+        }
+    },
+    {
+        "id": 80,
+        "name": "An Instance Before A Gaze",
+        "rarity": 5,
+        "path": "Erudition",
+        "stats": {
+            "hp": 48,
+            "atk": 26,
+            "def": 21
+        },
+        "passive": {
+            "name": "A Knight's Pilgrimage",
+            "effect": "Increases the wearer's CRIT DMG by <span class=\"text-value\">36%</span>. When the wearer uses Ultimate, increases the wearer's Ultimate DMG based on their Max Energy. Each point of Energy increases the Ultimate DMG by <span class=\"text-value\">0.36%</span>, up to 180 points of Energy.",
+            "scaling": [
+                [
+                    "36%",
+                    "42%",
+                    "48%",
+                    "54%",
+                    "60%"
+                ],
+                [
+                    "0.36%",
+                    "0.42%",
+                    "0.48%",
+                    "0.54%",
+                    "0.6%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Key",
+            "commonMat": "Core"
+        },
+        "description": "He once heard a ballad, singing in praise of that sliver of light:<br />Rose blooms, to answer THEIR smile.<br />Dawn shines, to illuminate THEIR visage.<br />Melody plays, to banish THEIR fatigue.<br /><br />But, light, once gone, never returns. Yet, he still gallops to the far beyond.<br />All that is needed is to wait for, to believe in, and to preach about everything that is of the Beauty in this cosmos.<br />Even if everything is but a fleeting instant before a gaze, he has already found the answer he sought.",
+        "release": {
+            "version": "1.5"
+        }
     }
 ]

@@ -12640,5 +12640,1052 @@
             "date": "October 31, 2023",
             "version": "1.4"
         }
+    },
+    {
+        "id": 36,
+        "name": "Huohuo",
+        "rarity": 5,
+        "element": "Wind",
+        "path": "Abundance",
+        "skills": {
+            "attack": {
+                "name": "Banner: Stormcaller",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">25%</span> of Huohuo's Max HP to a target enemy.",
+                "scaling": [
+                    [
+                        "25%",
+                        "30%",
+                        "35%",
+                        "40%",
+                        "45%",
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%"
+                    ]
+                ]
+            },
+            "skill": {
+                "name": "Talisman: Protection",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br />Dispels 1 debuff(s) from a single target ally and immediately restores this ally's HP by an amount equal to <span class=\"text-value\">14%</span> of Huohuo's Max HP plus <span class=\"text-value\">140</span>. At the same time, restores HP for allies that are adjacent to this target ally by an amount equal to <span class=\"text-value\">11.2%</span> of Huohuo's Max HP plus <span class=\"text-value\">112</span>.",
+                "scaling": [
+                    [
+                        "14%",
+                        "14.8%",
+                        "15.7%",
+                        "16.6%",
+                        "17.5%",
+                        "18.2%",
+                        "18.9%",
+                        "19.6%",
+                        "20.3%",
+                        "21%",
+                        "21.7%",
+                        "22.4%",
+                        "23.1%",
+                        "23.7%",
+                        "24.5%"
+                    ],
+                    [
+                        "140",
+                        "224",
+                        "287",
+                        "350",
+                        "392",
+                        "434",
+                        "465",
+                        "497",
+                        "528",
+                        "560",
+                        "591",
+                        "623",
+                        "654",
+                        "686",
+                        "717"
+                    ],
+                    [
+                        "11.2%",
+                        "11.8%",
+                        "12.6%",
+                        "13.3%",
+                        "14%",
+                        "14.5%",
+                        "15.1%",
+                        "15.6%",
+                        "16.2%",
+                        "16.8%",
+                        "17.3%",
+                        "17.9%",
+                        "18.4%",
+                        "19%",
+                        "19.6%"
+                    ],
+                    [
+                        "112",
+                        "179",
+                        "229",
+                        "280",
+                        "313",
+                        "347",
+                        "372",
+                        "397",
+                        "422",
+                        "448",
+                        "473",
+                        "498",
+                        "523",
+                        "548",
+                        "574"
+                    ]
+                ]
+            },
+            "ultimate": {
+                "name": "Tail: Spiritual Domination",
+                "description": "<span class=\"text-highlight\">[Support] | Energy Cost: 140</span><br />Regenerates Energy for all allies (excluding this character) by an amount equal to <span class=\"text-value\">15%</span> of their respective Max Energy. At the same time, increases their ATK by <span class=\"text-value\">24%</span> for 2 turn(s).",
+                "scaling": [
+                    [
+                        "15%",
+                        "15.5%",
+                        "16%",
+                        "16.5%",
+                        "17%",
+                        "17.5%",
+                        "18.1%",
+                        "18.7%",
+                        "19.3%",
+                        "20%",
+                        "20.5%",
+                        "21%",
+                        "21.5%",
+                        "22%",
+                        "22.5%"
+                    ],
+                    [
+                        "24%",
+                        "25.6%",
+                        "27.2%",
+                        "28.8%",
+                        "30.4%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "41.6%",
+                        "43.2%",
+                        "44.8%",
+                        "46.4%",
+                        "48%"
+                    ]
+                ]
+            },
+            "talent": {
+                "name": "Possession: Ethereal Metaflow",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br />After using her Skill, Huohuo gains Divine Provision, lasting for 2 turn(s). This duration decreases by 1 turn at the start of each Huohuo's turn. If Huohuo has Divine Provision when an ally's turn starts or when an ally uses their Ultimate, restores HP for that ally by an amount equal to <span class=\"text-value\">3%</span> of Huohuo's Max HP plus <span class=\"text-value\">30</span>. At the same time, every ally with 50% HP or lower receives healing once.<br />When Divine Provision is triggered to heal an ally, dispel 1 debuff(s) from that ally. This effect can be triggered up to 6 time(s). Using the skill again resets the effect's trigger count.",
+                "scaling": [
+                    [
+                        "3%",
+                        "3.1%",
+                        "3.3%",
+                        "3.5%",
+                        "3.7%",
+                        "3.9%",
+                        "4%",
+                        "4.2%",
+                        "4.3%",
+                        "4.5%",
+                        "4.6%",
+                        "4.8%",
+                        "4.9%",
+                        "5.1%",
+                        "5.2%"
+                    ],
+                    [
+                        "30",
+                        "48",
+                        "61",
+                        "75",
+                        "84",
+                        "93",
+                        "99",
+                        "106",
+                        "113",
+                        "120",
+                        "126",
+                        "133",
+                        "140",
+                        "147",
+                        "153"
+                    ]
+                ]
+            },
+            "technique": {
+                "name": "Fiend: Impeachment of Evil",
+                "description": "<span class=\"text-highlight\">[Impair]</span><br />Huohuo terrorizes surrounding enemies, afflicting Horror-Struck on them. Enemies in Horror-Struck will flee away from Huohuo for 10 second(s). When entering battle with enemies in Horror-Struck, there is a 100% base chance of reducing every single enemy's ATK by 25% for 2 turn(s)."
+            }
+        },
+        "traces": [
+            {
+                "name": "Fearful to Act",
+                "description": "When battle starts, Huohuo gains Divine Provision, lasting for 1 turn(s).",
+                "unlock": "A2",
+                "subTraces": [
+                    {
+                        "type": "Effect RES",
+                        "description": "Effect RES +4%",
+                        "unlock": "A2",
+                        "subTraces": [
+                            {
+                                "type": "HP",
+                                "description": "HP +4%",
+                                "unlock": "A3",
+                                "subTraces": [
+                                    {
+                                        "type": "SPD",
+                                        "description": "SPD +2",
+                                        "unlock": "A3"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "The Cursed One",
+                "description": "The chance to resist Crowd Control Debuffs increases by 35%.",
+                "unlock": "A4",
+                "subTraces": [
+                    {
+                        "type": "HP",
+                        "description": "HP +6%",
+                        "unlock": "A4",
+                        "subTraces": [
+                            {
+                                "type": "Effect RES",
+                                "description": "Effect RES +6%",
+                                "unlock": "A5",
+                                "subTraces": [
+                                    {
+                                        "type": "HP",
+                                        "description": "HP +6%",
+                                        "unlock": "A5"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Stress Reaction to Horror",
+                "description": "When her Talent is triggered to heal allies, Huohuo regenerates 1 Energy.",
+                "unlock": "A6",
+                "subTraces": [
+                    {
+                        "type": "SPD",
+                        "description": "SPD +3",
+                        "unlock": "A6"
+                    },
+                    {
+                        "type": "Effect RES",
+                        "description": "Effect RES +8%",
+                        "unlock": "Lv. 75"
+                    }
+                ]
+            },
+            {
+                "type": "HP",
+                "description": "HP +4%",
+                "unlock": "Lv. 1"
+            },
+            {
+                "type": "HP",
+                "description": "HP +8%",
+                "unlock": "Lv. 80"
+            }
+        ],
+        "eidolon": {
+            "e1": {
+                "name": "Anchored to Vessel, Specters Nestled",
+                "description": "The duration of Divine Provision produced by the Talent is extended by 1 turn(s). When Huohuo possesses Divine Provision, all allies' SPD increases by 12%."
+            },
+            "e2": {
+                "name": "Sealed in Tail, Wraith Subdued",
+                "description": "If Huohuo possesses Divine Provision when an ally is struck by a killing blow, the ally will not be knocked down, and their HP will immediately be restored by an amount equal to 50% of their Max HP. This reduces the duration of Divine Provision by 1 turn. This effect can only be triggered 2 time(s) per battle."
+            },
+            "e3": {
+                "name": "Cursed by Fate, Moths to Flame",
+                "description": "Ultimate Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "e4": {
+                "name": "Tied in Life, Bound to Strife",
+                "description": "When healing a target ally via Skill or Talent, the less HP the target ally currently has, the higher the amount of healing they will receive. The maximum increase in healing provided by Huohuo is 80%."
+            },
+            "e5": {
+                "name": "Mandated by Edict, Evils Evicted",
+                "description": "Skill Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "e6": {
+                "name": "Woven Together, Cohere Forever",
+                "description": "When healing a target ally, increases the target ally's DMG dealt by 50% for 2 turn(s)."
+            }
+        },
+        "stats": {
+            "hp": [
+                184,
+                360,
+                434,
+                526,
+                600,
+                693,
+                766,
+                859,
+                933,
+                1025,
+                1099,
+                1191,
+                1265,
+                1358
+            ],
+            "atk": [
+                81,
+                159,
+                192,
+                233,
+                265,
+                306,
+                339,
+                380,
+                413,
+                454,
+                486,
+                527,
+                560,
+                601
+            ],
+            "def": [
+                69,
+                135,
+                162,
+                197,
+                225,
+                259,
+                287,
+                322,
+                349,
+                384,
+                412,
+                446,
+                474,
+                509
+            ],
+            "speed": [
+                98,
+                98,
+                98,
+                98,
+                98,
+                98,
+                98,
+                98,
+                98,
+                98,
+                98,
+                98,
+                98,
+                98
+            ],
+            "taunt": [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ]
+        },
+        "materials": {
+            "calyxMat": "Flower",
+            "commonMat": "Immortal",
+            "bossMat": "Ascendant Debris",
+            "weeklyBossMat": "Regret of Infinite Ochema"
+        },
+        "description": "A trainee Ten-Lords Commission Judge of the Xianzhou Luofu, she is a young Foxian girl possessed by a heliobus. She is a timid and weak girl who is afraid of all kinds of strange things, but is responsible for luring and subduing evil spirits.",
+        "gender": "Female",
+        "faction": "Xianzhou Luofu",
+        "voiceActors": {
+            "en": "Courtney Lin & Adam Michael Gold",
+            "jp": "Maria Naganawa (長縄 まりあ) & Takeshi Hirabayashi (平林 剛)"
+        },
+        "release": {
+            "date": "November 15, 2023",
+            "version": "1.5"
+        }
+    },
+    {
+        "id": 37,
+        "name": "Argenti",
+        "rarity": 5,
+        "element": "Physical",
+        "path": "Erudition",
+        "skills": {
+            "attack": {
+                "name": "Fleeting Fragrance",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">50%</span> of Argenti's ATK to a single enemy.",
+                "scaling": [
+                    [
+                        "50%",
+                        "60%",
+                        "70%",
+                        "80%",
+                        "90%",
+                        "100%",
+                        "110%",
+                        "120%",
+                        "130%"
+                    ]
+                ]
+            },
+            "skill": {
+                "name": "Justice, Hereby Blooms",
+                "description": "<span class=\"text-highlight\">[AoE]</span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">60%</span> of Argenti's ATK to all enemies.",
+                "scaling": [
+                    [
+                        "60%",
+                        "66%",
+                        "72%",
+                        "78%",
+                        "84%",
+                        "90%",
+                        "97%",
+                        "105%",
+                        "112%",
+                        "120%",
+                        "126%",
+                        "132%",
+                        "138%",
+                        "144%",
+                        "150%"
+                    ]
+                ]
+            },
+            "ultimate": {
+                "name": "For In This Garden Supreme Beauty Bestows",
+                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 90</span><br />Consumes 90 Energy and deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">96%</span> of Argenti's ATK to all enemies.<br /><br /><span style=\"font-size:2.125rem;\">Merit Bestowed in \"My\" Garden</span><br /><span class=\"text-highlight\">[AoE] | Energy Cost: 180</span><br />Consumes 180 Energy and deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">168%</span> of Argenti's ATK to all enemies. And further deals DMG for 6 extra time(s), with each time dealing <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">56%</span> of Argenti's ATK to a random enemy.",
+                "scaling": [
+                    [
+                        "96%",
+                        "102%",
+                        "108%",
+                        "115%",
+                        "121%",
+                        "128%",
+                        "136%",
+                        "144%",
+                        "152%",
+                        "160%",
+                        "166%",
+                        "172%",
+                        "179%",
+                        "185%",
+                        "192%"
+                    ],
+                    [
+                        "168%",
+                        "179%",
+                        "190%",
+                        "201%",
+                        "212%",
+                        "224%",
+                        "238%",
+                        "252%",
+                        "266%",
+                        "280%",
+                        "291%",
+                        "302%",
+                        "313%",
+                        "324%",
+                        "336%"
+                    ],
+                    [
+                        "56%",
+                        "60%",
+                        "64%",
+                        "68%",
+                        "72%",
+                        "76%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "95%",
+                        "98%",
+                        "102%",
+                        "106%",
+                        "110%",
+                        "113%"
+                    ]
+                ]
+            },
+            "talent": {
+                "name": "",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />For every enemy hit when Argenti uses his Basic Attack, Skill, or Ultimate, regenerates Argenti's Energy by 3, and grants him a stack of Apotheosis, increasing his CRIT Rate by <span class=\"text-value\">1%</span>. This effect can stack up to 10 time(s).",
+                "scaling": [
+                    [
+                        "1%",
+                        "1.1%",
+                        "1.3%",
+                        "1.4%",
+                        "1.6%",
+                        "1.7%",
+                        "1.9%",
+                        "2.1%",
+                        "2.3%",
+                        "2.5%",
+                        "2.6%",
+                        "2.8%",
+                        "2.9%",
+                        "3.1%",
+                        "3.2%"
+                    ]
+                ]
+            },
+            "technique": {
+                "name": "Manifesto of Purest Virtue",
+                "description": "<span class=\"text-highlight\">[Impair]</span><br />After using the Technique, enemies in a set area are inflicted with Daze for 10 second(s). Dazed enemies will not actively attack the team.<br />When attacking a Dazed enemy to enter combat, deals <span class=\"text-physical\">Physical DMG</span> to all enemies equal to 80% of Argenti's ATK and regenerates his Energy by 15."
+            }
+        },
+        "traces": [
+            {
+                "name": "Piety",
+                "description": "At the start of a turn, immediately gains 1 stack(s) of Apotheosis.",
+                "unlock": "A2",
+                "subTraces": [
+                    {
+                        "type": "Physical DMG Boost",
+                        "description": "<span class=\"text-physical\">Physical DMG</span> +3.2%",
+                        "unlock": "A2",
+                        "subTraces": [
+                            {
+                                "type": "ATK",
+                                "description": "ATK +4%",
+                                "unlock": "A3"
+                            },
+                            {
+                                "type": "HP",
+                                "description": "HP +4%",
+                                "unlock": "A3"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Generosity",
+                "description": "When enemy targets enter battle, immediately regenerates 2 Energy for self.",
+                "unlock": "A4",
+                "subTraces": [
+                    {
+                        "type": "ATK",
+                        "description": "ATK +6%",
+                        "unlock": "A4",
+                        "subTraces": [
+                            {
+                                "type": "Physical DMG Boost",
+                                "description": "<span class=\"text-physical\">Physical DMG</span> +4.8%",
+                                "unlock": "A5"
+                            },
+                            {
+                                "type": "ATK",
+                                "description": "ATK +6%",
+                                "unlock": "A5"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Courage",
+                "description": "Deals 15% more DMG to enemies whose HP percentage is 50% or less.",
+                "unlock": "A6",
+                "subTraces": [
+                    {
+                        "type": "HP",
+                        "description": "HP +6%",
+                        "unlock": "A6"
+                    },
+                    {
+                        "type": "Physical DMG Boost",
+                        "description": "<span class=\"text-physical\">Physical DMG</span> +6.4%",
+                        "unlock": "Lv. 75"
+                    }
+                ]
+            },
+            {
+                "type": "ATK",
+                "description": "ATK +4%",
+                "unlock": "Lv. 1"
+            },
+            {
+                "type": "ATK",
+                "description": "ATK +8%",
+                "unlock": "Lv. 80"
+            }
+        ],
+        "eidolon": {
+            "e1": {
+                "name": "A Lacuna in Kingdom of Aesthetics",
+                "description": "Each stack of Apotheosis additionally increases CRIT DMG by 4%."
+            },
+            "e2": {
+                "name": "Agate's Humility",
+                "description": "If the number of enemies on the field equals to 3 or more when the Ultimate is used, ATK increases by 40% for 1 turn(s)."
+            },
+            "e3": {
+                "name": "Thorny Road's Glory",
+                "description": "Skill Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "e4": {
+                "name": "Trumpet's Dedication",
+                "description": "At the start of battle, gains 2 stack(s) of Apotheosis and increases the maximum stack limit of the Talent's effect by 2."
+            },
+            "e5": {
+                "name": "Snow, From Somewhere in Cosmos",
+                "description": "Ultimate Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "e6": {
+                "name": "\"Your\" Resplendence",
+                "description": "When using Ultimate, ignores 30% of enemy targets' DEF."
+            }
+        },
+        "stats": {
+            "hp": [
+                142,
+                277,
+                335,
+                406,
+                463,
+                534,
+                591,
+                662,
+                719,
+                791,
+                848,
+                919,
+                976,
+                1047
+            ],
+            "atk": [
+                100,
+                195,
+                235,
+                285,
+                326,
+                376,
+                416,
+                466,
+                506,
+                556,
+                596,
+                647,
+                687,
+                737
+            ],
+            "def": [
+                49,
+                96,
+                116,
+                141,
+                160,
+                185,
+                205,
+                230,
+                249,
+                274,
+                294,
+                319,
+                339,
+                363
+            ],
+            "speed": [
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103
+            ],
+            "taunt": [
+                75,
+                75,
+                75,
+                75,
+                75,
+                75,
+                75,
+                75,
+                75,
+                75,
+                75,
+                75,
+                75,
+                75
+            ]
+        },
+        "materials": {
+            "calyxMat": "Key",
+            "commonMat": "Core",
+            "bossMat": "Netherworld Pass",
+            "weeklyBossMat": "Regret of Infinite Ochema"
+        },
+        "description": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\" Forthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name.",
+        "gender": "Male",
+        "faction": "Knights of Beauty",
+        "voiceActors": {
+            "en": "Adam Michael Gold",
+            "jp": "Shinnosuke Tachibana (立花 慎之介)"
+        },
+        "release": {
+            "date": "December 5, 2023",
+            "version": "1.5"
+        }
+    },
+    {
+        "id": 38,
+        "name": "Hanya",
+        "rarity": 4,
+        "element": "Physical",
+        "path": "Harmony",
+        "skills": {
+            "attack": {
+                "name": "Oracle Brush",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">50%</span> of Hanya's ATK to a single enemy.",
+                "scaling": [
+                    [
+                        "50%",
+                        "60%",
+                        "70%",
+                        "80%",
+                        "90%",
+                        "100%",
+                        "110%",
+                        "120%",
+                        "130%"
+                    ]
+                ]
+            },
+            "skill": {
+                "name": "Samsara, Locked",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">120%</span> of Hanya's ATK to a single enemy, then applies Burden to them.<br />For every 2 Basic ATKs, Skills, or Ultimates allies use on an enemy with Burden, allies will immediately recover 1 Skill Point. Burden is only active on the latest target it is applied to, and will be dispelled automatically after the Skill Point recovery effect has been triggered 2 times.",
+                "scaling": [
+                    [
+                        "120%",
+                        "132%",
+                        "144%",
+                        "156%",
+                        "168%",
+                        "180%",
+                        "195%",
+                        "210%",
+                        "225%",
+                        "240%",
+                        "252%",
+                        "264%",
+                        "276%",
+                        "288%",
+                        "300%"
+                    ]
+                ]
+            },
+            "ultimate": {
+                "name": "Ten-Lords' Decree, All Shall Obey",
+                "description": "<span class=\"text-highlight\">[Enhance] | Energy Cost: 140</span><br />Increases the SPD of a target ally by <span class=\"text-value\">15%</span> of Hanya's SPD and increases the same target ally's ATK by <span class=\"text-value\">36%</span>, lasting for 2 turn(s).",
+                "scaling": [
+                    [
+                        "15%",
+                        "15.5%",
+                        "16%",
+                        "16.5%",
+                        "17%",
+                        "17.5%",
+                        "18.1%",
+                        "18.7%",
+                        "19.3%",
+                        "20%",
+                        "20.5%",
+                        "21%",
+                        "21.5%",
+                        "22%",
+                        "22.5%"
+                    ],
+                    [
+                        "36%",
+                        "38%",
+                        "40%",
+                        "43%",
+                        "45%",
+                        "48%",
+                        "51%",
+                        "54%",
+                        "56%",
+                        "60%",
+                        "62%",
+                        "64%",
+                        "67%",
+                        "69%",
+                        "72%"
+                    ]
+                ]
+            },
+            "talent": {
+                "name": "Sanction",
+                "description": "<span class=\"text-highlight\">[Support]</span><br />When an ally uses a Basic ATK, Skill, or Ultimate on an enemy inflicted with Burden, the DMG dealt increases by <span class=\"text-value\">15%</span>, lasting for 2 turn(s).",
+                "scaling": [
+                    [
+                        "15%",
+                        "16%",
+                        "18%",
+                        "19%",
+                        "21%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "28%",
+                        "30%",
+                        "31%",
+                        "33%",
+                        "34%",
+                        "36%",
+                        "37%"
+                    ]
+                ]
+            },
+            "technique": {
+                "name": "Netherworld Judgment",
+                "description": "<span class=\"text-highlight\">[TEXT]</span><br />Immediately attacks the enemy. After entering battle, applies Burden equivalent to that applied by the Skill to a random enemy."
+            }
+        },
+        "traces": [
+            {
+                "name": "Scrivener",
+                "description": "Allies triggering Burden's Skill Point recovery effect have their ATK increased by 10% for 1 turn(s).",
+                "unlock": "A2",
+                "subTraces": [
+                    {
+                        "type": "SPD",
+                        "description": "SPD +2",
+                        "unlock": "A3",
+                        "subTraces": [
+                            {
+                                "type": "ATK",
+                                "description": "ATK +4%",
+                                "unlock": "A3"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Netherworld",
+                "description": "If the trigger count for the Burden's Skill Point recovery effect is 1 or lower when an enemy with Burden is defeated, then additionally recovers 1 Skill Point(s).",
+                "unlock": "A4",
+                "subTraces": [
+                    {
+                        "type": "ATK",
+                        "description": "ATK +6%",
+                        "unlock": "A4",
+                        "subTraces": [
+                            {
+                                "type": "SPD",
+                                "description": "SPD +3",
+                                "unlock": "A5"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Reanimated",
+                "description": "When Burden's Skill Point recovery effect is triggered, this character regenerates 2 Energy.",
+                "unlock": "A6",
+                "subTraces": [
+                    {
+                        "type": "HP",
+                        "description": "HP +6%",
+                        "unlock": "A6",
+                        "subTraces": [
+                            {
+                                "type": "SPD",
+                                "description": "SPD +4",
+                                "unlock": "Lv. 75"
+                            },
+                            {
+                                "type": "ATK",
+                                "description": "ATK +8%",
+                                "unlock": "Lv. 80"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "ATK",
+                "description": "ATK +4%",
+                "unlock": "Lv. 1",
+                "subTraces": [
+                    {
+                        "type": "HP",
+                        "description": "HP +4%",
+                        "unlock": "A3"
+                    },
+                    {
+                        "type": "ATK",
+                        "description": "ATK +6%",
+                        "unlock": "A5"
+                    }
+                ]
+            }
+        ],
+        "eidolon": {
+            "e1": {
+                "name": "One Heart",
+                "description": "When an ally with Hanya's Ultimate's effect defeats an enemy, Hanya's action is Advanced Forward by 15%. This effect can only be triggered 1 time(s) per turn."
+            },
+            "e2": {
+                "name": "Two Views",
+                "description": "After using the Skill, this character's SPD increases by 20% for 1 turn(s)."
+            },
+            "e3": {
+                "name": "Three Temptations",
+                "description": "Skill Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "e4": {
+                "name": "Four Truths",
+                "description": "The Ultimate's duration is additionally extended for 1 turn(s)."
+            },
+            "e5": {
+                "name": "Five Skandhas",
+                "description": "Ultimate Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "e6": {
+                "name": "Six Reverences",
+                "description": "Increase the DMG Boost effect of the Talent by an additional 10%."
+            }
+        },
+        "stats": {
+            "hp": [
+                124,
+                243,
+                293,
+                355,
+                405,
+                468,
+                517,
+                580,
+                630,
+                692,
+                742,
+                804,
+                854,
+                917
+            ],
+            "atk": [
+                76,
+                149,
+                180,
+                218,
+                249,
+                287,
+                318,
+                357,
+                387,
+                426,
+                456,
+                495,
+                526,
+                564
+            ],
+            "def": [
+                48,
+                93,
+                112,
+                136,
+                156,
+                180,
+                199,
+                223,
+                242,
+                266,
+                285,
+                309,
+                328,
+                352
+            ],
+            "speed": [
+                110,
+                110,
+                110,
+                110,
+                110,
+                110,
+                110,
+                110,
+                110,
+                110,
+                110,
+                110,
+                110,
+                110
+            ],
+            "taunt": [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ]
+        },
+        "materials": {
+            "calyxMat": "Music Box",
+            "commonMat": "Artifex",
+            "bossMat": "Netherworld Pass",
+            "weeklyBossMat": "Regret of Infinite Ochema"
+        },
+        "description": "One of the judges of the Xianzhou Luofu's Ten-Lords Commission. Ordained by the Ten-Lords and wielding the authority of the Oracle Brush, she reads the multitudes of human sins and transgressions, then issues punishments and karmic retribution.",
+        "gender": "Female",
+        "faction": "Xianzhou Luofu",
+        "voiceActors": {
+            "en": "Suzie Yeung",
+            "jp": "Sayumi Suzushiro (鈴代 紗弓)"
+        },
+        "release": {
+            "date": "December 5, 2023",
+            "version": "1.5"
+        }
     }
 ]
