@@ -119,12 +119,23 @@
         "version": "1.5",
         "phase1": {
             "startDate": "November 15, 2023",
-            "endDate": "December 5, 2023",
+            "endDate": "December 6, 2023",
             "banner": [
                 "Huohuo",
                 "Arlan",
                 "Dan Heng",
                 "Serval"
+            ]
+        },
+        "phase2": {
+            "startDate": "December 6, 2023",
+            "endDate": "December 26, 2023",
+            "banner": [
+                "Argenti",
+                "Silver Wolf",
+                "Asta",
+                "Hanya",
+                "Lynx"
             ]
         }
     }
