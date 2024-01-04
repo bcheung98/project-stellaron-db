@@ -3101,5 +3101,57 @@
         "release": {
             "version": "1.5"
         }
+    },
+    {
+        "id": 81,
+        "name": "Past Self in Mirror",
+        "rarity": 5,
+        "path": "Harmony",
+        "stats": {
+            "hp": 48,
+            "atk": 24,
+            "def": 24
+        },
+        "passive": {
+            "name": "The Plum Fragrance In My Bones",
+            "effect": "Increases the wearer's Break Effect by <span class=\"text-value\">60%</span>. When the wearer uses their Ultimate, increases all allies' DMG by <span class=\"text-value\">24%</span>, lasting for 3 turn(s). Should the wearer's Break Effect exceed or equal 150%, 1 Skill Point will be recovered. At the start of each wave, all allies regenerate <span class=\"text-value\">10.0</span> Energy immediately. Effects of the same type cannot stack.",
+            "scaling": [
+                ["60%", "70%", "80%", "90%", "100%"], ["24%", "28%", "32%", "36%", "40%"], ["10.0", "12.5", "15.0", "17.5", "20.0"]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Music Box",
+            "commonMat": "Immortal"
+        },
+        "description": "She once loved to seal the moment when plum blossoms were on the verge of wilting and keep them close to her.<br />It has been many years since then. Many lifeforms â€” rambunctious, sweet, and everything in between â€” have bloomed from her hands, but the plum blossoms still wilt at their preordained times.<br />It has been many years since then. Her visage in the mirror seems untouched by time. But, in the grand scheme of the cosmos, is she too destined to last for but a fleeting moment?<br /><br /><i>\"If all is set for eventual demise, what purpose, then, does creation serve?\"</i><br />After a silence that seems to stretch to eternity, the winds blow, the petals fall, and the reflection in the mirror tenders the same answer as always.<br /><i>\"For the day when plum blossoms are no longer kept.\"</i><br />She deftly caresses the icy surface of the mirror. Such soliloquies have happened too many times for her to count.",
+        "release": {
+            "version": "1.6"
+        }
+    },
+    {
+        "id": 82,
+        "name": "Baptism of Pure Thought",
+        "rarity": 5,
+        "path": "Hunt",
+        "stats": {
+            "hp": 43,
+            "atk": 26,
+            "def": 24
+        },
+        "passive": {
+            "name": "Mental Training",
+            "effect": "Increases the wearer's CRIT DMG by <span class=\"text-value\">20%</span>. For every debuff on the enemy target, the wearer's CRIT DMG dealt against this target increases by <span class=\"text-value\">8%</span>, stacking up to 3 times. When using Ultimate to attack the enemy target, the wearer receives the Disputation effect, which increases DMG dealt by <span class=\"text-value\">36%</span> and enables their follow-up attacks to ignore <span class=\"text-value\">24%</span> of the target's DEF. This effect lasts for 2 turns.",
+            "scaling": [
+                ["20%", "23%", "26%", "28%", "32%"], ["8%", "9%", "10%", "11%", "12%"], ["36%", "42%", "48%", "54%", "60%"], ["24%", "28%", "32%", "36%", "40%"]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Arrow",
+            "commonMat": "Antimatter"
+        },
+        "description": "The afternoon sunshine is just right, and the floral scents fill the air.<br />Though he tries to keep his thoughts pure, cognitive stagnancy inevitably attracts particulates of mind like gathered dust.<br /><br /><i>\"Healing one's thoughts is just as vital as the maintenance of one's health.\"</i><br />The fools' clamoring fades alongside fatigue as he sinks into the water, letting all thoughts loose, his mind elucidated and ordered.<br /><br /><i>\"Truth eludes all filths, accepting only those of pure thoughts.\"</i>",
+        "release": {
+            "version": "1.6"
+        }
     }
 ]

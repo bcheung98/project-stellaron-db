@@ -13687,5 +13687,988 @@
             "date": "December 5, 2023",
             "version": "1.5"
         }
+    },
+    {
+        "id": 39,
+        "name": "Ruan Mei",
+        "rarity": 5,
+        "element": "Ice",
+        "path": "Harmony",
+        "skills": {
+            "attack": {
+                "name": "Threading Fragrance",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">50%</span> of Ruan Mei's ATK to a single enemy.",
+                "scaling": [
+                    [
+                        "50%",
+                        "60%",
+                        "70%",
+                        "80%",
+                        "90%",
+                        "100%",
+                        "110%",
+                        "120%",
+                        "130%"
+                    ]
+                ]
+            },
+            "skill": {
+                "name": "String Sings Slow Swirls",
+                "description": "<span class=\"text-highlight\">[Support]</span><br />After using her Skill, Ruan Mei gains Overtone, lasting for 3 turn(s). This duration decreases by 1 at the start of Ruan Mei's turn. When Ruan Mei has Overtone, all allies' DMG increases by <span class=\"text-value\">16%</span> and Weakness Break Efficiency increases by 50%.",
+                "scaling": [
+                    [
+                        "16%",
+                        "17.5%",
+                        "19.2%",
+                        "20.8%",
+                        "22.4%",
+                        "24%",
+                        "26%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "33.6%",
+                        "35.1%",
+                        "36.8%",
+                        "38.4%",
+                        "40%"
+                    ]
+                ]
+            },
+            "ultimate": {
+                "name": "Petals to Stream, Repose in Dream",
+                "description": "<span class=\"text-highlight\">[Support] | Energy Cost: 130</span><br />Ruan Mei deploys a field that lasts for 2 turns. The field's duration decreases by 1 at the start of her turn.<br />While inside the field, all allies' All-Type RES PEN increases by <span class=\"text-value\">15%</span> and their attacks apply Thanatoplum Rebloom to the enemies hit.<br />When these enemies attempt to recover from Weakness Break, Thanatoplum Rebloom is triggered, extending the duration of their Weakness Break, delaying their action by an amount equal to 20% of Ruan Mei's Break Effect plus 10%, and dealing Break DMG equal to <span class=\"text-value\">30%</span> of Ruan Mei's <span class=\"text-ice\">Ice Break</span> DMG.<br />Enemy targets cannot have Thanatoplum Rebloom re-applied to them until they recover from Weakness Break.",
+                "scaling": [
+                    [
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "19%",
+                        "20%",
+                        "21.2%",
+                        "22.5%",
+                        "23.7%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "28.9%",
+                        "30%"
+                    ],
+                    [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "45%",
+                        "47%",
+                        "50%",
+                        "52%",
+                        "54%",
+                        "56%",
+                        "57%",
+                        "60%"
+                    ]
+                ]
+            },
+            "talent": {
+                "name": "Somatotypical Helix",
+                "description": "<span class=\"text-highlight\">[Support]</span><br />Increases SPD by <span class=\"text-value\">8%</span> for the team (excluding this character). When allies Break an enemy target's Weakness, Ruan Mei deals to this enemy target Break DMG equal to <span class=\"text-value\">60%</span> of her <span class=\"text-ice\">Ice Break</span> DMG.",
+                "scaling": [
+                    [
+                        "8%",
+                        "8.2%",
+                        "8.4%",
+                        "8.6%",
+                        "8.7%",
+                        "9%",
+                        "9.2%",
+                        "9.5%",
+                        "9.7%",
+                        "10%",
+                        "10.2%",
+                        "10.4%",
+                        "10.6%",
+                        "10.8%",
+                        "11%"
+                    ],
+                    [
+                        "60%",
+                        "66%",
+                        "72%",
+                        "78%",
+                        "84%",
+                        "90%",
+                        "97.5%",
+                        "105%",
+                        "112.5%",
+                        "120%",
+                        "126%",
+                        "132%",
+                        "138%",
+                        "144%",
+                        "150%"
+                    ]
+                ]
+            },
+            "technique": {
+                "name": "Silken Serenade",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />After using the Technique, gains Silken Serenade. At the start of the next battle, automatically triggers the Skill for 1 time(s) without consuming Skill Points.<br />In Simulated Universe, when Ruan Mei has Silken Serenade, the team actively attacking enemies will always be regarded as attacking their Weakness to enter battle, and this attack can reduce all enemies' Toughness regardless of Weakness types. When breaking Weakness, triggers Weakness Break Effect corresponding to the attacker's Type. For every Blessing in possession up to 20 Blessing(s), additionally increases the Toughness-Reducing DMG of this attack by 100%. After breaking an enemy target's Weakness, additionally deals to the enemy target Break DMG equal to 100% of Ruan Mei's <span class=\"text-ice\">Ice Break</span> DMG."
+            }
+        },
+        "traces": [
+            {
+                "name": "Inert Respiration",
+                "description": "Increases Break Effect by 20% for all allies.",
+                "unlock": "A2",
+                "subTraces": [
+                    {
+                        "type": "DEF",
+                        "description": "DEF +5%",
+                        "unlock": "A2",
+                        "subTraces": [
+                            {
+                                "type": "Break Effect",
+                                "description": "Break Effect +5.3%",
+                                "unlock": "A3"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Days Wane, Thoughts Wax",
+                "description": "Ruan Mei regenerates 5 Energy at the start of her turn.",
+                "unlock": "A4",
+                "subTraces": [
+                    {
+                        "type": "Break Effect",
+                        "description": "Break Effect +8%",
+                        "unlock": "A4",
+                        "subTraces": [
+                            {
+                                "type": "DEF",
+                                "description": "DEF +7.5%",
+                                "unlock": "A5"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Candle Lights on Still Waters",
+                "description": "In battle, for every 10% of Ruan Mei's Break Effect that exceeds 120%, her Skill additionally increases allies' DMG by 6%, up to a maximum of 36%.",
+                "unlock": "A6",
+                "subTraces": [
+                    {
+                        "type": "SPD",
+                        "description": "SPD +3",
+                        "unlock": "A6",
+                        "subTraces": [
+                            {
+                                "type": "DEF",
+                                "description": "DEF +10%",
+                                "unlock": "Lv. 75"
+                            },
+                            {
+                                "type": "Break Effect",
+                                "description": "Break Effect +10.7%",
+                                "unlock": "Lv. 80"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Break Effect",
+                "description": "Break Effect +5.3%",
+                "unlock": "Lv. 1",
+                "subTraces": [
+                    {
+                        "type": "SPD",
+                        "description": "SPD +2",
+                        "unlock": "A3"
+                    },
+                    {
+                        "type": "Break Effect",
+                        "description": "Break Effect +8%",
+                        "unlock": "A5"
+                    }
+                ]
+            }
+        ],
+        "eidolon": {
+            "e1": {
+                "name": "Neuronic Embroidery",
+                "description": "While the Ultimate's field is deployed, the DMG dealt by all allies ignores 20% of the target's DEF."
+            },
+            "e2": {
+                "name": "Reedside Promenade",
+                "description": "With Ruan Mei on the field, all allies increase their ATK by 40% when dealing DMG to enemies with Weakness Break."
+            },
+            "e3": {
+                "name": "Viridescent Pirouette",
+                "description": "Ultimate Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "e4": {
+                "name": "Chatoyant Éclat",
+                "description": "When an enemy target's Weakness is Broken, Ruan Mei's Break Effect increases by 100% for 3 turn(s)."
+            },
+            "e5": {
+                "name": "Languid Barrette",
+                "description": "Skill Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "e6": {
+                "name": "Sash Cascade",
+                "description": "Extends the duration of the Ultimate's field by 1 turn(s). The Talent's Break DMG multiplier additionally increases by 200%."
+            }
+        },
+        "stats": {
+            "hp": [
+                147,
+                288,
+                347,
+                421,
+                480,
+                554,
+                613,
+                687,
+                746,
+                820,
+                879,
+                953,
+                1012,
+                1086
+            ],
+            "atk": [
+                89,
+                175,
+                210,
+                255,
+                291,
+                336,
+                372,
+                417,
+                453,
+                498,
+                534,
+                578,
+                614,
+                659
+            ],
+            "def": [
+                66,
+                128,
+                155,
+                188,
+                214,
+                247,
+                273,
+                306,
+                333,
+                366,
+                392,
+                425,
+                452,
+                485
+            ],
+            "speed": [
+                104,
+                104,
+                104,
+                104,
+                104,
+                104,
+                104,
+                104,
+                104,
+                104,
+                104,
+                104,
+                104,
+                104
+            ],
+            "taunt": [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ]
+        },
+        "materials": {
+            "calyxMat": "Music Box",
+            "commonMat": "Immortal",
+            "bossMat": "Gelid Chitin",
+            "weeklyBossMat": "Past Evils of the Borehole Planet Disaster"
+        },
+        "description": "A member of the Genius Society and an expert in life sciences. She teamed up with Herta and the others to develop the Simulated Universe.",
+        "gender": "Female",
+        "faction": "Herta Space Station",
+        "voiceActors": {
+            "en": "Emi Lo",
+            "jp": "Saori Ōnishi (大西 沙織)"
+        },
+        "release": {
+            "date": "December 27, 2023",
+            "version": "1.6"
+        }
+    },
+    {
+        "id": 40,
+        "name": "Dr. Ratio",
+        "rarity": 5,
+        "element": "Imaginary",
+        "path": "Hunt",
+        "skills": {
+            "attack": {
+                "name": "Mind is Might",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">50%</span> of Dr. Ratio's ATK to a single enemy.",
+                "scaling": [
+                    [
+                        "50%",
+                        "60%",
+                        "70%",
+                        "80%",
+                        "90%",
+                        "100%",
+                        "110%",
+                        "120%",
+                        "130%"
+                    ]
+                ]
+            },
+            "skill": {
+                "name": "Intellectual Midwifery",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">75%</span> of Dr. Ratio's ATK to a single target enemy.",
+                "scaling": [
+                    [
+                        "75%",
+                        "82%",
+                        "90%",
+                        "97%",
+                        "105%",
+                        "112%",
+                        "121%",
+                        "131%",
+                        "140%",
+                        "150%",
+                        "157%",
+                        "165%",
+                        "172%",
+                        "180%",
+                        "187%"
+                    ]
+                ]
+            },
+            "ultimate": {
+                "name": "Syllogistic Paradox",
+                "description": "<span class=\"text-highlight\">[Single Target] | Energy Cost: 140</span><br />Deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">144%</span> of Dr. Ratio's ATK to a single target enemy and applies Wiseman's Folly. When Dr. Ratio's allies attack a target afflicted with Wiseman's Folly, Dr. Ratio launches his Talent's follow-up attack for 1 time against this target.<br />Wiseman's Folly can be triggered for up to 2 times and only affects the most recent target of Dr. Ratio's Ultimate. This trigger count resets after Dr. Ratio's Ultimate is used.",
+                "scaling": [
+                    [
+                        "144%",
+                        "153%",
+                        "163%",
+                        "172%",
+                        "182%",
+                        "192%",
+                        "204%",
+                        "216%",
+                        "227%",
+                        "240%",
+                        "249%",
+                        "259%",
+                        "268%",
+                        "278%",
+                        "288%"
+                    ]
+                ]
+            },
+            "talent": {
+                "name": "Cogito, Ergo Sum",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />When using his Skill, Dr. Ratio has a 40% fixed chance of launching a follow-up attack against his target for 1 time, dealing <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">135%</span> of Dr. Ratio's ATK. For each debuff the target enemy has, the fixed chance of launching follow-up attack increases by 20%. If the target enemy is defeated before the follow-up attack triggers, the follow-up attack will be directed at a single random enemy instead.",
+                "scaling": [
+                    [
+                        "135%",
+                        "148%",
+                        "162%",
+                        "175%",
+                        "189%",
+                        "202%",
+                        "219%",
+                        "236%",
+                        "253%",
+                        "270%",
+                        "283%",
+                        "297%",
+                        "310%",
+                        "324%",
+                        "337%"
+                    ]
+                ]
+            },
+            "technique": {
+                "name": "Mold of Idolatry",
+                "description": "<span class=\"text-highlight\">[Impair]</span><br />After using Technique, creates a special dimension that Taunts nearby enemies, lasting for 10 second(s). After entering battle with enemies in this special dimension, there is a 100% base chance to reduce each single enemy target's SPD by 15% for 2 turn(s). Only 1 dimension created by allies can exist at the same time."
+            }
+        },
+        "traces": [
+            {
+                "name": "Summation",
+                "description": "When Dr. Ratio uses his Skill, for every debuff on the target, his CRIT Rate increases by 2.5% and CRIT DMG by 5%. This effect can stack up to 6 time(s).",
+                "unlock": "A2",
+                "subTraces": [
+                    {
+                        "type": "CRIT Rate",
+                        "description": "CRIT Rate +2.7%",
+                        "unlock": "A2",
+                        "subTraces": [
+                            {
+                                "type": "ATK",
+                                "description": "ATK +4%",
+                                "unlock": "A3"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Inference",
+                "description": "When Skill is used to attack an enemy target, there is a 100% base chance to reduce the attacked target's Effect RES by 10% for 2 turn(s).",
+                "unlock": "A4",
+                "subTraces": [
+                    {
+                        "type": "ATK",
+                        "description": "ATK +6%",
+                        "unlock": "A4",
+                        "subTraces": [
+                            {
+                                "type": "CRIT Rate",
+                                "description": "CRIT Rate +4%",
+                                "unlock": "A5"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Deduction",
+                "description": "When dealing DMG to a target that has 3 or more debuff(s), for each debuff the target has, the DMG dealt by Dr. Ratio to this target increases by 10%, up to a maximum increase of 50%.",
+                "unlock": "A6",
+                "subTraces": [
+                    {
+                        "type": "DEF",
+                        "description": "DEF +7.5%",
+                        "unlock": "A6",
+                        "subTraces": [
+                            {
+                                "type": "ATK",
+                                "description": "ATK +8%",
+                                "unlock": "Lv. 80"
+                            },
+                            {
+                                "type": "CRIT Rate",
+                                "description": "CRIT Rate +5.3%",
+                                "unlock": "Lv. 75"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "ATK",
+                "description": "ATK +4%",
+                "unlock": "Lv. 1"
+            },
+            {
+                "type": "DEF",
+                "description": "DEF +5%",
+                "unlock": "A3"
+            },
+            {
+                "type": "ATK",
+                "description": "ATK +6%",
+                "unlock": "A5"
+            }
+        ],
+        "eidolon": {
+            "e1": {
+                "name": "Pride Comes Before a Fall",
+                "description": "The maximum stackable count for the Trace \"Summation\" increases by 4. When a battle begins, immediately obtains 4 stacks of Summation. Needs to unlock Summation first."
+            },
+            "e2": {
+                "name": "The Divine Is in the Details",
+                "description": "When his Talent's follow-up attack hits a target, for every debuff the target has, additionally deals Imaginary Additional DMG equal to 20% of Dr. Ratio's ATK. This effect can be triggered for a maximum of 4 time(s) during each follow-up attack."
+            },
+            "e3": {
+                "name": "Know Thyself",
+                "description": "Ultimate Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "e4": {
+                "name": "Ignorance Is Blight",
+                "description": "When triggering the Talent, additionally regenerates 15 Energy for Dr. Ratio."
+            },
+            "e5": {
+                "name": "Sic Itur Ad Astra",
+                "description": "Skill Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "e6": {
+                "name": "Vincit Omnia Veritas",
+                "description": "Increases the trigger count for Wiseman's Folly by 1. The DMG dealt by the Talent's follow-up attack increases by 50%."
+            }
+        },
+        "stats": {
+            "hp": [
+                142,
+                277,
+                335,
+                406,
+                463,
+                534,
+                591,
+                662,
+                719,
+                791,
+                848,
+                919,
+                976,
+                1047
+            ],
+            "atk": [
+                105,
+                205,
+                248,
+                300,
+                343,
+                395,
+                438,
+                491,
+                533,
+                586,
+                628,
+                681,
+                723,
+                776
+            ],
+            "def": [
+                62,
+                122,
+                147,
+                178,
+                203,
+                235,
+                260,
+                291,
+                316,
+                347,
+                373,
+                404,
+                429,
+                460
+            ],
+            "speed": [
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103
+            ],
+            "taunt": [
+                75,
+                75,
+                75,
+                75,
+                75,
+                75,
+                75,
+                75,
+                75,
+                75,
+                75,
+                75,
+                75,
+                75
+            ]
+        },
+        "materials": {
+            "calyxMat": "Arrow",
+            "commonMat": "Antimatter",
+            "bossMat": "Suppressing Edict",
+            "weeklyBossMat": "Past Evils of the Borehole Planet Disaster"
+        },
+        "description": "Member of the Intelligentsia Guild. Eccentric temperament, sharp-tongued but with an elegant demeanor. The face under the strange plaster head sculpture is apparently unexpectedly handsome.",
+        "gender": "Male",
+        "faction": "Intelligentsia Guild",
+        "voiceActors": {
+            "en": "Jordan Paul Haro",
+            "jp": "Shunsuke Takeuchi (武内 駿輔)"
+        },
+        "release": {
+            "date": "January 16, 2024",
+            "version": "1.6"
+        }
+    },
+    {
+        "id": 41,
+        "name": "Xueyi",
+        "rarity": 4,
+        "element": "Quantum",
+        "path": "Destruction",
+        "skills": {
+            "attack": {
+                "name": "Mara-Sunder Awl",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-value\">50%</span> of Xueyi's ATK as <span class=\"text-quantum\">Quantum DMG</span> to a single target enemy.",
+                "scaling": [
+                    [
+                        "50%",
+                        "60%",
+                        "70%",
+                        "80%",
+                        "90%",
+                        "100%",
+                        "110%",
+                        "120%",
+                        "130%"
+                    ]
+                ]
+            },
+            "skill": {
+                "name": "Iniquity Obliteration",
+                "description": "<span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">70%</span> of Xueyi's ATK to a single enemy, and <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">35%</span> of Xueyi's ATK to any adjacent enemies.",
+                "scaling": [
+                    [
+                        "70%",
+                        "77%",
+                        "84%",
+                        "91%",
+                        "98%",
+                        "105%",
+                        "113%",
+                        "122%",
+                        "131%",
+                        "140%",
+                        "147%",
+                        "154%",
+                        "161%",
+                        "168%",
+                        "175%"
+                    ],
+                    [
+                        "35%",
+                        "38%",
+                        "42%",
+                        "45%",
+                        "49%",
+                        "52%",
+                        "56%",
+                        "61%",
+                        "65%",
+                        "70%",
+                        "73%",
+                        "77%",
+                        "80%",
+                        "84%",
+                        "87%"
+                    ]
+                ]
+            },
+            "ultimate": {
+                "name": "Divine Castigation",
+                "description": "<span class=\"text-highlight\">[Single Target] | Energy Cost: 120</span><br />Deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">150%</span> of Xueyi's ATK to a single target enemy. This attack ignores Weakness Types and reduces the enemy's Toughness. When the enemy's Weakness is Broken, the <span class=\"text-quantum\">Quantum DMG</span> Break effect is triggered.<br />In this attack, the more Toughness is reduced, the higher the DMG will be dealt, up to a max of <span class=\"text-value\">36%</span> increase.",
+                "scaling": [
+                    [
+                        "150%",
+                        "160%",
+                        "170%",
+                        "180%",
+                        "190%",
+                        "200%",
+                        "212%",
+                        "225%",
+                        "237%",
+                        "250%",
+                        "260%",
+                        "270%",
+                        "280%",
+                        "290%",
+                        "300%"
+                    ],
+                    [
+                        "36%",
+                        "38.4%",
+                        "40.8%",
+                        "43.2%",
+                        "45.6%",
+                        "48%",
+                        "51%",
+                        "54%",
+                        "56.9%",
+                        "60%",
+                        "62.4%",
+                        "64.8%",
+                        "67.2%",
+                        "69.6%",
+                        "72%"
+                    ]
+                ]
+            },
+            "talent": {
+                "name": "Karmic Perpetuation",
+                "description": "<span class=\"text-highlight\">[Bounce]</span><br />When Xueyi reduces enemy Toughness with attacks, Karma will be stacked. The more Toughness is reduced, the more stacks of Karma are added, up to 8 stacks.<br />When Xueyi's allies reduce enemy Toughness with attacks, Xueyi gains 1 stacks of Karma.<br />When Karma reaches the max number of stacks, consumes all current Karma stacks and immediately launches a follow-up attack against an enemy target, dealing DMG for 3 times, with each time dealing <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">45%</span> of Xueyi's ATK to a single random enemy. This follow-up attack will not add Karma stacks.",
+                "scaling": [
+                    [
+                        "45%",
+                        "49%",
+                        "54%",
+                        "58%",
+                        "63%",
+                        "67%",
+                        "73%",
+                        "78%",
+                        "84%",
+                        "90%",
+                        "94%",
+                        "99%",
+                        "103%",
+                        "108%",
+                        "112%"
+                    ]
+                ]
+            },
+            "technique": {
+                "name": "Summary Execution",
+                "description": "Immediately attacks the enemy. After entering combat, deals 80% of Xueyi's ATK as <span class=\"text-quantum\">Quantum DMG</span> to all enemies."
+            }
+        },
+        "traces": [
+            {
+                "name": "Clairvoyant Loom",
+                "description": "Increases DMG dealt by this unit by an amount equal to 100% of Break Effect, up to a maximum DMG increase of 240%.",
+                "unlock": "A2",
+                "subTraces": [
+                    {
+                        "type": "HP",
+                        "description": "HP +4%",
+                        "unlock": "A2",
+                        "subTraces": [
+                            {
+                                "type": "Break Effect",
+                                "description": "Break Effect +5.3%",
+                                "unlock": "A3",
+                                "subTraces": [
+                                    {
+                                        "type": "Quantum DMG Boost",
+                                        "description": "<span class=\"text-quantum\">Quantum DMG</span> +3.2%",
+                                        "unlock": "A3"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Intrepid Rollerbearings",
+                "description": "If the enemy target's Toughness is equal to or higher than 50% of their Max Toughness, deals 10% more DMG when using Ultimate.",
+                "unlock": "A4",
+                "subTraces": [
+                    {
+                        "type": "Break Effect",
+                        "description": "Break Effect +8%",
+                        "unlock": "A4",
+                        "subTraces": [
+                            {
+                                "type": "HP",
+                                "description": "HP +6%",
+                                "unlock": "A5",
+                                "subTraces": [
+                                    {
+                                        "type": "Break Effect",
+                                        "description": "Break Effect +8%",
+                                        "unlock": "A5"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Perspicacious Mainframe",
+                "description": "Xueyi will keep a tally of the number of Karma stacks that exceed the max stack limit, up to 6 stacks in the tally. After Xueyi's Talent is triggered, she will gain a corresponding number of tallied Karma stacks.",
+                "unlock": "A6",
+                "subTraces": [
+                    {
+                        "type": "Quantum DMG Boost",
+                        "description": "<span class=\"text-quantum\">Quantum DMG</span> +4.8%",
+                        "unlock": "A6",
+                        "subTraces": [
+                            {
+                                "type": "HP",
+                                "description": "HP +8%",
+                                "unlock": "Lv. 75"
+                            },
+                            {
+                                "type": "Break Effect",
+                                "description": "Break Effect +10.7%",
+                                "unlock": "Lv. 80"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Break Effect",
+                "description": "Break Effect +5.3%",
+                "unlock": "Lv. 1"
+            }
+        ],
+        "eidolon": {
+            "e1": {
+                "name": "Dvesha, Inhibited",
+                "description": "Increases the DMG dealt by the Talent's follow-up attack by 40%."
+            },
+            "e2": {
+                "name": "Klesha, Breached",
+                "description": "Talent's follow-up attack reduces enemy Toughness regardless of Weakness types. At the same time, restores Xueyi's HP by an amount equal to 5% of her Max HP. When breaking Weakness, triggers the Quantum Break Effect."
+            },
+            "e3": {
+                "name": "Duḥkha, Ceased",
+                "description": "Skill Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "e4": {
+                "name": "Karma, Severed",
+                "description": "When using Ultimate, increases Break Effect by 40% for 2 turn(s)."
+            },
+            "e5": {
+                "name": "Deva, Enthralled",
+                "description": "Ultimate Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "e6": {
+                "name": "Saṃsāra, Mastered",
+                "description": "The max stack limit for Karma decreases to 6."
+            }
+        },
+        "stats": {
+            "hp": [
+                144,
+                280,
+                338,
+                410,
+                467,
+                539,
+                597,
+                669,
+                727,
+                799,
+                856,
+                928,
+                986,
+                1058
+            ],
+            "atk": [
+                81,
+                159,
+                191,
+                232,
+                265,
+                306,
+                338,
+                379,
+                412,
+                452,
+                485,
+                526,
+                558,
+                599
+            ],
+            "def": [
+                54,
+                105,
+                126,
+                153,
+                175,
+                202,
+                224,
+                251,
+                272,
+                299,
+                321,
+                348,
+                369,
+                396
+            ],
+            "speed": [
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103,
+                103
+            ],
+            "taunt": [
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125
+            ]
+        },
+        "materials": {
+            "calyxMat": "Blade",
+            "commonMat": "Core",
+            "bossMat": "Nail of the Ape",
+            "weeklyBossMat": "Past Evils of the Borehole Planet Disaster"
+        },
+        "description": "Judge of the Ten-Lords Commission, which controls life and death on the Luofu. For years after her death, she inhabited a puppet body and returned to the world to fulfill her mission.",
+        "gender": "Female",
+        "faction": "Xianzhou Luofu",
+        "voiceActors": {
+            "en": "Jenny Yokobori",
+            "jp": "Maki Kawase (河瀬 茉希)"
+        },
+        "release": {
+            "date": "January 16, 2024",
+            "version": "1.6"
+        }
     }
 ]

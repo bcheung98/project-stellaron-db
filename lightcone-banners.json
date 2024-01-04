@@ -138,5 +138,30 @@
                 "Under the Blue Sky"
             ]
         }
+    },
+    {
+        "version": "1.6",
+        "phase1": {
+            "startDate": "December 27, 2023",
+            "endDate": "January 16, 2024",
+            "banner": [
+                "Past Self in Mirror",
+                "The Unreachable Side",
+                "A Secret Vow",
+                "Day One of My New Life",
+                "Planetary Rendezvous"
+            ]
+        },
+        "phase2": {
+            "startDate": "January 16, 2024",
+            "endDate": "February 6, 2024",
+            "banner": [
+                "Baptism of Pure Thought",
+                "Patience Is All You Need",
+                "Landau's Choice",
+                "Only Silence Remains",
+                "Perfect Timing"
+            ]
+        }
     }
 ]
