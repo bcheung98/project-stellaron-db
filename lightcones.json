@@ -3012,7 +3012,7 @@
             "calyxMat": "Flower",
             "commonMat": "Artifex"
         },
-        "description": "Three girls stroll in the darkness, and the surroundings seem to gain a hint of eeriness.<br /><i>\"Huohuo, hurry up or we won't wait for you!\"</i><br />She steps forward confidently with her phone lifted, seemingly unaffected by the supernatural ambiance.<br /><i>\"Iâ€”I'm over here!\"</i><br />The girl standing ahead responds timidly.<br /><i>\"Huh? So you were in the front all along, then who is following Shangshang and me...\"</i><br /><br />The perfect end for this scene would defnitely be a girlish scream.",
+        "description": "Three girls stroll in the darkness, and the surroundings seem to gain a hint of eeriness.<br /><i>\"Huohuo, hurry up or we won't wait for you!\"</i><br />She steps forward confidently with her phone lifted, seemingly unaffected by the supernatural ambiance.<br /><i>\"I—I'm over here!\"</i><br />The girl standing ahead responds timidly.<br /><i>\"Huh? So you were in the front all along, then who is following Shangshang and me...\"</i><br /><br />The perfect end for this scene would defnitely be a girlish scream.",
         "release": {
             "version": "1.5"
         }
@@ -3058,7 +3058,7 @@
             "calyxMat": "Flower",
             "commonMat": "Immortal"
         },
-        "description": "The girl hides behind the door and dares not move one step closer. <br />Perhaps due to the fact that tonight's objective is already within her reach, her heart is actually beating faster.<br /><i>\"I'm not scared, not scared, not scared...\"</i><br />In darkness, silence lets out a piercing scream.<br /><br />The girl is shivering and grasps the <i>\"weapon<i>\" in her hands tight, but still does not dare to approach the \"</i>target.\"</i><br /><i>\"There is nothing to be sâ€”sâ€”scared of!\"</i><br /><br />The tail behind her has finally had enough and suddenly lights up.<br /><i>\"Hurry up. You're just picking up a delivery!\"</i>",
+        "description": "The girl hides behind the door and dares not move one step closer. <br />Perhaps due to the fact that tonight's objective is already within her reach, her heart is actually beating faster.<br /><i>\"I'm not scared, not scared, not scared...\"</i><br />In darkness, silence lets out a piercing scream.<br /><br />The girl is shivering and grasps the <i>\"weapon<i>\" in her hands tight, but still does not dare to approach the \"</i>target.\"</i><br /><i>\"There is nothing to be s—s—scared of!\"</i><br /><br />The tail behind her has finally had enough and suddenly lights up.<br /><i>\"Hurry up. You're just picking up a delivery!\"</i>",
         "release": {
             "version": "1.5"
         }
@@ -3116,14 +3116,34 @@
             "name": "The Plum Fragrance In My Bones",
             "effect": "Increases the wearer's Break Effect by <span class=\"text-value\">60%</span>. When the wearer uses their Ultimate, increases all allies' DMG by <span class=\"text-value\">24%</span>, lasting for 3 turn(s). Should the wearer's Break Effect exceed or equal 150%, 1 Skill Point will be recovered. At the start of each wave, all allies regenerate <span class=\"text-value\">10.0</span> Energy immediately. Effects of the same type cannot stack.",
             "scaling": [
-                ["60%", "70%", "80%", "90%", "100%"], ["24%", "28%", "32%", "36%", "40%"], ["10.0", "12.5", "15.0", "17.5", "20.0"]
+                [
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%",
+                    "100%"
+                ],
+                [
+                    "24%",
+                    "28%",
+                    "32%",
+                    "36%",
+                    "40%"
+                ],
+                [
+                    "10.0",
+                    "12.5",
+                    "15.0",
+                    "17.5",
+                    "20.0"
+                ]
             ]
         },
         "materials": {
             "calyxMat": "Music Box",
             "commonMat": "Immortal"
         },
-        "description": "She once loved to seal the moment when plum blossoms were on the verge of wilting and keep them close to her.<br />It has been many years since then. Many lifeforms â€” rambunctious, sweet, and everything in between â€” have bloomed from her hands, but the plum blossoms still wilt at their preordained times.<br />It has been many years since then. Her visage in the mirror seems untouched by time. But, in the grand scheme of the cosmos, is she too destined to last for but a fleeting moment?<br /><br /><i>\"If all is set for eventual demise, what purpose, then, does creation serve?\"</i><br />After a silence that seems to stretch to eternity, the winds blow, the petals fall, and the reflection in the mirror tenders the same answer as always.<br /><i>\"For the day when plum blossoms are no longer kept.\"</i><br />She deftly caresses the icy surface of the mirror. Such soliloquies have happened too many times for her to count.",
+        "description": "She once loved to seal the moment when plum blossoms were on the verge of wilting and keep them close to her.<br />It has been many years since then. Many lifeforms — rambunctious, sweet, and everything in between — have bloomed from her hands, but the plum blossoms still wilt at their preordained times.<br />It has been many years since then. Her visage in the mirror seems untouched by time. But, in the grand scheme of the cosmos, is she too destined to last for but a fleeting moment?<br /><br /><i>\"If all is set for eventual demise, what purpose, then, does creation serve?\"</i><br />After a silence that seems to stretch to eternity, the winds blow, the petals fall, and the reflection in the mirror tenders the same answer as always.<br /><i>\"For the day when plum blossoms are no longer kept.\"</i><br />She deftly caresses the icy surface of the mirror. Such soliloquies have happened too many times for her to count.",
         "release": {
             "version": "1.6"
         }
@@ -3142,7 +3162,34 @@
             "name": "Mental Training",
             "effect": "Increases the wearer's CRIT DMG by <span class=\"text-value\">20%</span>. For every debuff on the enemy target, the wearer's CRIT DMG dealt against this target increases by <span class=\"text-value\">8%</span>, stacking up to 3 times. When using Ultimate to attack the enemy target, the wearer receives the Disputation effect, which increases DMG dealt by <span class=\"text-value\">36%</span> and enables their follow-up attacks to ignore <span class=\"text-value\">24%</span> of the target's DEF. This effect lasts for 2 turns.",
             "scaling": [
-                ["20%", "23%", "26%", "28%", "32%"], ["8%", "9%", "10%", "11%", "12%"], ["36%", "42%", "48%", "54%", "60%"], ["24%", "28%", "32%", "36%", "40%"]
+                [
+                    "20%",
+                    "23%",
+                    "26%",
+                    "28%",
+                    "32%"
+                ],
+                [
+                    "8%",
+                    "9%",
+                    "10%",
+                    "11%",
+                    "12%"
+                ],
+                [
+                    "36%",
+                    "42%",
+                    "48%",
+                    "54%",
+                    "60%"
+                ],
+                [
+                    "24%",
+                    "28%",
+                    "32%",
+                    "36%",
+                    "40%"
+                ]
             ]
         },
         "materials": {
@@ -3152,6 +3199,404 @@
         "description": "The afternoon sunshine is just right, and the floral scents fill the air.<br />Though he tries to keep his thoughts pure, cognitive stagnancy inevitably attracts particulates of mind like gathered dust.<br /><br /><i>\"Healing one's thoughts is just as vital as the maintenance of one's health.\"</i><br />The fools' clamoring fades alongside fatigue as he sinks into the water, letting all thoughts loose, his mind elucidated and ordered.<br /><br /><i>\"Truth eludes all filths, accepting only those of pure thoughts.\"</i>",
         "release": {
             "version": "1.6"
+        }
+    },
+    {
+        "id": 83,
+        "name": "Reforged Remembrance",
+        "rarity": 5,
+        "path": "Nihility",
+        "stats": {
+            "hp": 48,
+            "atk": 26,
+            "def": 21
+        },
+        "passive": {
+            "name": "Crystallize",
+            "effect": "Increases the wearer's Effect Hit Rate by <span class=\"text-value\">40%</span>. When the wearer deals DMG to an enemy inflicted with Wind Sheer, Burn, Shock, or Bleed, each respectively grants 1 stack of Prophet, stacking up to 4 time(s). In a single battle, only 1 stack of Prophet can be granted for each type of DoT. Every stack of Prophet increases wearer's ATK by <span class=\"text-value\">5%</span> and enables the DoT dealt to ignore <span class=\"text-value\">7.2%</span> of the target's DEF.",
+            "scaling": [
+                [
+                    "40%",
+                    "45%",
+                    "50%",
+                    "55%",
+                    "60%"
+                ],
+                [
+                    "5%",
+                    "6%",
+                    "7%",
+                    "8%",
+                    "9%"
+                ],
+                [
+                    "7.2%",
+                    "7.9%",
+                    "8.6%",
+                    "9.3%",
+                    "10%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Heliobus",
+            "commonMat": "Core"
+        },
+        "description": "Light the candles, spread the cards, breathe in the fragrance...<br />These broken memories become faces in the dancing light.<br />The apparitions that emerge from flames tell her of pasts fondly recalled.<br />Time is shorn. The moment is frozen. She turns these most precious instants into crystallizations of eternity.<br /><br /><i>\"There is too much lost, and too little that remains... We nurture remembrance against the cruelties of time.\"</i>",
+        "release": {
+            "version": "2.0"
+        }
+    },
+    {
+        "id": 84,
+        "name": "Earthly Escapade",
+        "rarity": 5,
+        "path": "Nihility",
+        "stats": {
+            "hp": 52,
+            "atk": 24,
+            "def": 21
+        },
+        "passive": {
+            "name": "Capriciousness",
+            "effect": "Increases the wearer's CRIT DMG by <span class=\"text-value\">32%</span>. At the start of the battle, the wearer gains Mask, lasting for 3 turn(s). While the wearer has Mask, the wearer's allies have their CRIT Rate increased by <span class=\"text-value\">10%</span> and their CRIT DMG increased by <span class=\"text-value\">28%</span>. For every 1 Skill Point the wearer recovers (including Skill Points that exceed the limit), they gain 1 stack of Radiant Flame. And when the wearer has 4 stacks of Radiant Flame, all the stacks are removed, and they gain Mask for 4 turn(s).",
+            "scaling": [
+                [
+                    "32%",
+                    "39%",
+                    "46%",
+                    "53%",
+                    "60%"
+                ],
+                [
+                    "10%",
+                    "11%",
+                    "12%",
+                    "13%",
+                    "14%"
+                ],
+                [
+                    "28%",
+                    "35%",
+                    "42%",
+                    "49%",
+                    "56%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Melody",
+            "commonMat": "Memoria"
+        },
+        "description": "Just as fireworks can flicker, she too can shift between ten different colors in a minute.<br /><br />When the light show nears its end, she sits high above, regarding the bustling masses beneath her feet with boredom.<br />Thoughts flow and vanish, and slyness circulates across myriad eyes like a dancing kaleidoscope.<br /><i>\"I've made my decision. This is how we're going to have fun today!\"</i><br /><br />Bouncing and hopping, she glides through the crowds, her golden-red tail flitting in and out of sight.<br /><i>\"Keep up! The brightest fireworks are just about to begin!\"</i>",
+        "release": {
+            "version": "2.0"
+        }
+    },
+    {
+        "id": 85,
+        "name": "What is Real",
+        "displayName": "What is Real?",
+        "rarity": 4,
+        "path": "Abundance",
+        "stats": {
+            "hp": 48,
+            "atk": 19,
+            "def": 15
+        },
+        "passive": {
+            "name": "Hypothesis",
+            "effect": "Increases the wearer's Break Effect by <span class=\"text-value\">24%</span>. After using Basic ATK, restores HP for the wearer by an amount equal to <span class=\"text-value\">2%</span> of Max HP plus 800.",
+            "scaling": [
+                [
+                    "24%",
+                    "30%",
+                    "36%",
+                    "42%",
+                    "48%"
+                ],
+                [
+                    "2%",
+                    "2.5%",
+                    "3%",
+                    "3.5%",
+                    "4%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Flower",
+            "commonMat": "Dreamjolt"
+        },
+        "description": "<i>\"Suppose if all the clocks are displaying the wrong time...\"</i><br /><i>\"If those bound to promises fulfilled their vows through betrayal...\"</i><br /><i>\"If those who sink into the realm of dreams never truly fell asleep...\"</i><br /><i>\"If the dead return to life, only to discover their names have been stripped...\"</i><br /><br /><i>\"If... if...\"</i><br />He blows out the flame, and in darkness, there is but the eternal ticking of the timepiece.",
+        "release": {
+            "version": "2.0"
+        }
+    },
+    {
+        "id": 86,
+        "name": "Dreamville Adventure",
+        "rarity": 4,
+        "path": "Harmony",
+        "stats": {
+            "hp": 43,
+            "atk": 19,
+            "def": 18
+        },
+        "passive": {
+            "name": "Solidarity",
+            "effect": "After the wearer uses a certain type of ability such as Basic ATK, Skill, or Ultimate, all allies gain Childishness, which increases allies' DMG for the same type of ability as used by the wearer by <span class=\"text-value\">12%</span>. Childishness only takes effect for the most recent type of ability the wearer used and cannot be stacked.",
+            "scaling": [
+                [
+                    "12%",
+                    "14%",
+                    "16%",
+                    "18%",
+                    "20%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Melody",
+            "commonMat": "Dreamjolt"
+        },
+        "description": "<i>\"Hello, dear viewers! Clockie and his pals have come to see you all again!\"</i><br /><br /><i>\"In the previous episode, Boss Stone discovered that Dreamville was sitting on a wealth of natural resources, and moved to seize control over the city. In response, Clockie joined forces with Brother Hanu and Origami Bird, and together, they sent Boss Stone and his goons running from Dreamville.\"</i><br /><br /><i>\"But Boss Stone isn't going to be defeated that easily, and this time, he's gathered a legion of thugs to fulfill his oath of turning Dreamville into a crater. In this episode, Clockie might just be standing against the greatest threat he ever faced!\"</i><br /><br /><i>\"What scheme will Clockie employ to escape from this crisis? And what new friends will join his party? Stay tuned for the latest episode of 'Dreamville Adventure'!\"</i>",
+        "release": {
+            "version": "2.0"
+        }
+    },
+    {
+        "id": 87,
+        "name": "Final Victor",
+        "rarity": 4,
+        "path": "Hunt",
+        "stats": {
+            "hp": 43,
+            "atk": 21,
+            "def": 15
+        },
+        "passive": {
+            "name": "All In",
+            "effect": "Increases the wearer's ATK by <span class=\"text-value\">12%</span>. When the wearer lands a CRIT hit on enemies, gains a stack of Good Fortune, stacking up to 4 time(s). Every stack of Good Fortune the wearer has will increase their CRIT DMG by <span class=\"text-value\">8%</span>. Good Fortune will be removed at the end of the wearer's turn.",
+            "scaling": [
+                [
+                    "12%",
+                    "14%",
+                    "16%",
+                    "18%",
+                    "20%"
+                ],
+                [
+                    "8%",
+                    "9%",
+                    "10%",
+                    "11%",
+                    "12%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Arrow",
+            "commonMat": "Memoria"
+        },
+        "description": "<i>\"You don't believe me?\"</i><br />He provocatively looks at the man before him, then draws out a revolver, empties its cylinder, and leaves a single shot in the chamber.<br /><br /><i>\"Seems like I'll need to get you up to speed on how I do things if our cooperation were to remain amicable.\"</i><br />He pushes the gun into his opponent's hand, spins the cylinder, and points the barrel to his own chest.<br /><br />He pulls the trigger repeatedly, and the smile on his face remains the same after three empty clicks.<br /><i>\"Life is a grand gamble, and I'll always be the final victor.\"</i>",
+        "release": {
+            "version": "2.0"
+        }
+    },
+    {
+        "id": 88,
+        "name": "Flames Afar",
+        "rarity": 4,
+        "path": "Destruction",
+        "stats": {
+            "hp": 48,
+            "atk": 21,
+            "def": 12
+        },
+        "passive": {
+            "name": "Deflagration",
+            "effect": "When the cumulative HP loss of the wearer during a single attack exceeds 25% of their Max HP, or if the amount of their own HP they consume at one time is greater than 25% of their Max HP, immediately heals the wearer for 15% of their Max HP, and at the same time, increases the DMG they deal by <span class=\"text-value\">25%</span> for 2 turn(s). This effect can only be triggered once every 3 turn(s).",
+            "scaling": [
+                [
+                    "25%",
+                    "31%",
+                    "37%",
+                    "43%",
+                    "50%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Fang",
+            "commonMat": "Dreamjolt"
+        },
+        "description": "<i>\"Package secured. I'll leave covering our retreat to you.\"</i><br />Their comrade's voice comes through the communicator.<br /><br />They glance around the surroundings, watching as the savaged remnants of their enemies continue to pass through the complex architecture inside the vast and abandoned structure. They are drawing ever closer.<br /><i>\"Please hold.\"</i><br /><br />After a beat of quietude, a series of apocalyptic explosions rocket up into the sky. Waves of displaced air cast clouds of dust high across the battlefield, and smoke scatter in all directions, the blinding white cleaving light into the night.<br /><i>\"You know they purposely planted loads of gunpowder in there, right?\"</i><br /><br />With a rustle, they flung open the cape as if they just finished a leisurely stroll.<br /><i>\"Of course.\"</i><br /><i>\"So, let's light it up. All I need to do is play the part of the match.\"</i>",
+        "release": {
+            "version": "2.0"
+        }
+    },
+    {
+        "id": 89,
+        "name": "Destiny's Threads Forewoven",
+        "rarity": 4,
+        "path": "Preservation",
+        "stats": {
+            "hp": 43,
+            "atk": 16,
+            "def": 21
+        },
+        "passive": {
+            "name": "Insight",
+            "effect": "Increases the wearer's Effect RES by <span class=\"text-value\">12%</span>. For every 100 of DEF the wearer has, increases the wearer's DMG dealt by <span class=\"text-value\">0.8%</span>, up to a maximum DMG increase of <span class=\"text-value\">32%</span>.",
+            "scaling": [
+                [
+                    "12%",
+                    "14%",
+                    "16%",
+                    "18%",
+                    "20%"
+                ],
+                [
+                    "0.8%",
+                    "0.9%",
+                    "1%",
+                    "1%",
+                    "1.2%"
+                ],
+                [
+                    "32%",
+                    "36%",
+                    "40%",
+                    "44%",
+                    "48%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Shield",
+            "commonMat": "Memoria"
+        },
+        "description": "Destiny always tows the masses onward without reason, and she lurks within the darkness, waiting to inscribe the most crucial of instants.<br /><br />Sorting, matching, shuffling, drawing... She simulates fate's hand in how it manipulates all variables for the masses, seeking the trajectory of truth beneath the visage of a disorderly exterior.<br /><br />Finally, when all the characters are in their place, she brushes over the card faces that are in stasis, and assembles the unfathomable truth.<br /><i>\"Still missing a card... So, I'll add one in.\"</i>",
+        "release": {
+            "version": "2.0"
+        }
+    },
+    {
+        "id": 90,
+        "name": "The Day The Cosmos Fell",
+        "rarity": 4,
+        "path": "Erudition",
+        "stats": {
+            "hp": 43,
+            "atk": 21,
+            "def": 15
+        },
+        "passive": {
+            "name": "Stratagem",
+            "effect": "Increases the wearer's ATK by <span class=\"text-value\">16%</span>. When the wearer uses an attack and at least 2 attacked enemies have the corresponding Weakness, the wearer's CRIT DMG increases by <span class=\"text-value\">20%</span> for 2 turn(s).",
+            "scaling": [
+                [
+                    "16%",
+                    "18%",
+                    "20%",
+                    "22%",
+                    "24%"
+                ],
+                [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Key",
+            "commonMat": "Dreamjolt"
+        },
+        "description": "Molten Cheese Tart! You are in charge of disarming the planet's lookouts with your charm!<i>\"<br /><i>\"Gray Bean Paste! You will be in charge of breaching the planet's line of defense!\"</i><br /><i>\"Salty Rimeplume! Bring us the head of the planet's leader!\"</i><br /><i>\"My lord, what are you going to do!\"</i><br /><i>\"I shall pretend to be an adorable kitten to befuddle these stupid humans!\"</i><br /><br />That day, the Cosmos remembered... the terror of being ruled by them.",
+        "release": {
+            "version": "2.0"
+        }
+    },
+    {
+        "id": 91,
+        "name": "It's Showtime",
+        "rarity": 4,
+        "path": "Nihility",
+        "stats": {
+            "hp": 48,
+            "atk": 21,
+            "def": 12
+        },
+        "passive": {
+            "name": "Self-Amusement",
+            "effect": "When the wearer inflicts a debuff on an enemy, gains a stack of Trick. Every stack of Trick increases the wearer's DMG dealt by <span class=\"text-value\">6%</span>, stacking up to 3 time(s). This effect lasts for 1 turn(s). When the wearer's Effect Hit Rate is 80% or higher, increases ATK by <span class=\"text-value\">20%</span>.",
+            "scaling": [
+                [
+                    "6%",
+                    "7%",
+                    "8%",
+                    "9%",
+                    "10%"
+                ],
+                [
+                    "20%",
+                    "24%",
+                    "28%",
+                    "32%",
+                    "36%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Heliobus",
+            "commonMat": "Core"
+        },
+        "description": "—Who witnessed his death?<br />—Me! I spied it with my little eyes!<br />—Who took his blood?<br />—Me! I used my little saucer!<br />—Who dug his grave?<br />—Me! Using my chisel and shovel!<br /><br />The wise uses all techniques in their arsenal, the sovereign soothes their heart with power, the hero views themselves to be righteous, and the Fool laughs ceaselessly—<br /><i>\"Now, let us welcome Ms. Sparkle to bring us the performance of the year — Penacony's Night of Fright!\"</i>",
+        "release": {
+            "version": "2.0"
+        }
+    },
+    {
+        "id": 92,
+        "name": "Indelible Promise",
+        "rarity": 4,
+        "path": "Destruction",
+        "stats": {
+            "hp": 43,
+            "atk": 21,
+            "def": 15
+        },
+        "passive": {
+            "name": "Inheritance",
+            "effect": "Increases the wearer's Break Effect by <span class=\"text-value\">28%</span>. When the wearer uses their Ultimate, increases CRIT Rate by <span class=\"text-value\">15%</span>, lasting for 2 turn(s).",
+            "scaling": [
+                [
+                    "28%",
+                    "35%",
+                    "42%",
+                    "49%",
+                    "56%"
+                ],
+                [
+                    "15%",
+                    "18%",
+                    "22%",
+                    "26%",
+                    "30%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Fang",
+            "commonMat": "Dreamjolt"
+        },
+        "description": "A weathered past. A sworn duty to defend home. A dream to blaze a trail across the worldâ€”<br />These were entrusted to the unworldly youth by a pair of rough, calloused hands.<br /><br /><i>\"Soon, we'll be able to go to a larger world.\"</i> <br />The boy happily accepted his inheritance. Guarded by youth, he could not yet feel the weight born by the object's significance.<br /><br /><i>\"Of course. Before that time comes, however, guard this place well, Misha.\"</i> <br /><br />He thus engraved that promise deep inside his heart, holding to it forever and always.",
+        "release": {
+            "version": "2.0"
         }
     }
 ]

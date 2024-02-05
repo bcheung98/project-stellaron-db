@@ -14670,5 +14670,1133 @@
             "date": "January 16, 2024",
             "version": "1.6"
         }
+    },
+    {
+        "id": 42,
+        "name": "Black Swan",
+        "rarity": 5,
+        "element": "Wind",
+        "path": "Nihility",
+        "skills": {
+            "attack": {
+                "name": "Basic ATK: Percipience, Silent Dawn",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">30%</span> of Black Swan's ATK to a single target enemy, with a <span class=\"text-value\">50%</span> base chance of inflicting 1 stack of Arcana. And if the hit target currently has <span class=\"text-wind\">Wind DMG</span> Bleed, Burn, or Shock applied to them, each respectively has a <span class=\"text-value\">50%</span> base chance of inflicting 1 extra stack of Arcana onto the enemy.",
+                "scaling": [
+                    [
+                        "30%",
+                        "36%",
+                        "42%",
+                        "48%",
+                        "54%",
+                        "60%",
+                        "66%",
+                        "72%",
+                        "78%"
+                    ],
+                    [
+                        "50%",
+                        "53%",
+                        "56%",
+                        "59%",
+                        "62%",
+                        "65%",
+                        "68%",
+                        "71%",
+                        "74%"
+                    ],
+                    [
+                        "50%",
+                        "53%",
+                        "56%",
+                        "59%",
+                        "62%",
+                        "65%",
+                        "68%",
+                        "71%",
+                        "74%"
+                    ]
+                ]
+            },
+            "skill": {
+                "name": "Decadence, False Twilight",
+                "description": "<span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">45%</span> of Black Swan's ATK to a single target enemy and any adjacent targets. At the same time, there is a 100% base chance of inflicting 1 stack of Arcana on the target enemy and the adjacent targets. And there is a 100% base chance of reducing the DEF of the target enemy and the adjacent targets by <span class=\"text-value\">14.8%</span>, lasting for 3 turn(s).",
+                "scaling": [
+                    [
+                        "45%",
+                        "49%",
+                        "54%",
+                        "58%",
+                        "63%",
+                        "67%",
+                        "73%",
+                        "78%",
+                        "84%",
+                        "90%",
+                        "94%",
+                        "99%",
+                        "103%",
+                        "108%",
+                        "112%"
+                    ],
+                    [
+                        "14.8%",
+                        "15.4%",
+                        "16%",
+                        "16.6%",
+                        "17.2%",
+                        "17.8%",
+                        "18.5%",
+                        "19.3%",
+                        "20%",
+                        "20.8%",
+                        "21.4%",
+                        "22%",
+                        "22.6%",
+                        "23.2%",
+                        "23.7%"
+                    ]
+                ]
+            },
+            "ultimate": {
+                "name": "Bliss of Otherworld's Embrace",
+                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 120</span><br />Inflicts Epiphany on all enemies for 2 turn(s).<br />Enemies affected by Epiphany take <span class=\"text-value\">15%</span> more DMG in their turn, and their Arcana effect is regarded as Wind Shear, Bleed, Burn, and Shock effects. In addition, when their Arcana effect is triggered at the beginning of the next turn, the Arcana stacks are not reset. The stack non-reset effect can be triggered up to 1 time(s) in Epiphany's duration, and its charges are replenished when Epiphany is applied again.<br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">72%</span> of Black Swan's ATK to all enemies.",
+                "scaling": [
+                    [
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "19%",
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "28%",
+                        "30%"
+                    ],
+                    [
+                        "72%",
+                        "76%",
+                        "81%",
+                        "86%",
+                        "91%",
+                        "96%",
+                        "102%",
+                        "108%",
+                        "113%",
+                        "120%",
+                        "124%",
+                        "129%",
+                        "134%",
+                        "139%",
+                        "144%"
+                    ]
+                ]
+            },
+            "talent": {
+                "name": "Loom of Fate's Caprice",
+                "description": "<span class=\"text-highlight\">[Impair]</span><br />Every time an enemy target receives DoT at the start of each turn, there is a <span class=\"text-value\">50%</span> base chance for it to be inflicted with Arcana.<br />While afflicted with Arcana, enemy targets receive <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">96%</span> of Black Swan's ATK at the start of each turn. Each stack of Arcana increases this DoT DMG multiplier by <span class=\"text-value\">4.8%</span>. Then Arcana resets to 1 stack. Arcana can stack up to 50 times.<br />Only when Arcana causes DMG at the start of an enemy target's turn, Black Swan triggers additional effects based on the number of Arcana stacks inflicted on the target:<br />When there are 3 or more Arcana stacks, deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">72%</span> of Black Swan's ATK to adjacent targets, with a <span class=\"text-value\">50%</span> base chance of inflicting 1 stack of Arcana on adjacent targets.<br />When there are 7 or more Arcana stacks, enables the current DoT dealt this time to ignore 20% of the target's and adjacent targets' DEF.",
+                "scaling": [
+                    [
+                        "50%",
+                        "51%",
+                        "53%",
+                        "54%",
+                        "56%",
+                        "57%",
+                        "59%",
+                        "61%",
+                        "63%",
+                        "65%",
+                        "66%",
+                        "68%",
+                        "69%",
+                        "71%",
+                        "72%"
+                    ],
+                    [
+                        "96%",
+                        "111%",
+                        "127%",
+                        "143%",
+                        "159%",
+                        "175%",
+                        "189%",
+                        "204%",
+                        "222%",
+                        "240%",
+                        "252%",
+                        "264%",
+                        "276%",
+                        "288%",
+                        "300%"
+                    ],
+                    [
+                        "4.8%",
+                        "5.5%",
+                        "6.3%",
+                        "7.1%",
+                        "7.9%",
+                        "8.7%",
+                        "9.4%",
+                        "10.2%",
+                        "11.1%",
+                        "12%",
+                        "12.6%",
+                        "13.2%",
+                        "13.8%",
+                        "14.4%",
+                        "15%"
+                    ],
+                    [
+                        "72%",
+                        "83%",
+                        "95%",
+                        "107%",
+                        "119%",
+                        "131%",
+                        "142%",
+                        "153%",
+                        "166%",
+                        "180%",
+                        "189%",
+                        "198%",
+                        "206%",
+                        "216%",
+                        "225%"
+                    ],
+                    [
+                        "50%",
+                        "51%",
+                        "53%",
+                        "54%",
+                        "56%",
+                        "57%",
+                        "59%",
+                        "61%",
+                        "63%",
+                        "65%",
+                        "66%",
+                        "68%",
+                        "69%",
+                        "71%",
+                        "72%"
+                    ]
+                ]
+            },
+            "technique": {
+                "name": "From Façade to Vérité",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />After this Technique is used, there is a 150% base chance for each enemy to be inflicted with 1 stack of Arcana at the start of the next battle. For each successful application of Arcana on a target, inflicts another stack of Arcana on the same target. This process repeats until Arcana fails to be inflicted on this target. For each successive application of Arcana on a target, its base chance of success is equal to 50% of the base chance of the previous successful infliction of Arcana on that target."
+            }
+        },
+        "traces": [
+            {
+                "name": "Viscera's Disquiet",
+                "description": "After using the Skill to hit an enemy that has Wind Shear, Bleed, Burn, or Shock, each of these debuffs respectively has a 65% base chance of inflicting 1 extra stack of Arcana.",
+                "unlock": "A2",
+                "subTraces": [
+                    {
+                        "type": "Wind DMG Boost",
+                        "description": "<span class=\"text-wind\">Wind DMG</span> +3.2%",
+                        "unlock": "A2",
+                        "subTraces": [
+                            {
+                                "type": "ATK",
+                                "description": "ATK +4%",
+                                "unlock": "A3",
+                                "subTraces": [
+                                    {
+                                        "type": "Effect Hit Rate",
+                                        "description": "Effect Hit Rate +4%",
+                                        "unlock": "A3"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Goblet's Dredges",
+                "description": "There is a 65% base chance to inflict 1 stack of Arcana when a target enters battle. Every time an enemy target receives DoT during a single attack by an ally, there is a 65% base chance for the target to be inflicted with 1 stack of Arcana, stacking up to 3 time(s) during 1 single attack.",
+                "unlock": "A4",
+                "subTraces": [
+                    {
+                        "type": "ATK",
+                        "description": "ATK +6%",
+                        "unlock": "A4",
+                        "subTraces": [
+                            {
+                                "type": "Wind DMG Boost",
+                                "description": "<span class=\"text-wind\">Wind DMG</span> +4.8%",
+                                "unlock": "A5",
+                                "subTraces": [
+                                    {
+                                        "type": "ATK",
+                                        "description": "ATK +6%",
+                                        "unlock": "A5"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Candleflame's Portent",
+                "description": "Increases this unit's DMG by an amount equal to 60% of Effect Hit Rate, up to a maximum DMG increase of 72%.",
+                "unlock": "A6",
+                "subTraces": [
+                    {
+                        "type": "Effect Hit Rate",
+                        "description": "Effect Hit Rate +6%",
+                        "unlock": "A6"
+                    },
+                    {
+                        "type": "Wind DMG Boost",
+                        "description": "<span class=\"text-wind\">Wind DMG</span> +6.4%",
+                        "unlock": "Lv. 75"
+                    }
+                ]
+            },
+            {
+                "type": "ATK",
+                "description": "ATK +4%",
+                "unlock": "Lv. 1",
+                "subTraces": [
+                    {
+                        "type": "ATK",
+                        "description": "ATK +8%",
+                        "unlock": "Lv. 80"
+                    }
+                ]
+            }
+        ],
+        "eidolon": {
+            "e1": {
+                "name": "Seven Pillars of Wisdom",
+                "description": "While Black Swan is active in battle, enemies afflicted with Wind Shear, Bleed, Burn, or Shock will have their corresponding Wind, Physical, Fire, or Lightning RES respectively reduced by 25%."
+            },
+            "e2": {
+                "name": "Weep Not For Me, My Lamb",
+                "description": "When an enemy target afflicted with Arcana is defeated, there is a 100% base chance of inflicting 6 stack(s) of Arcana on adjacent targets."
+            },
+            "e3": {
+                "name": "As Above, So Below",
+                "description": "Skill Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "e4": {
+                "name": "In Tears We Gift",
+                "description": "While in the Epiphany state, enemy targets have their Effect RES reduced by 10%. And at the start of their turn or when they get defeated, Black Swan regenerates 8 Energy. This Energy Regeneration effect can only trigger up to 1 time while Epiphany lasts. And this trigger count resets after the enemy gets inflicted with Epiphany again."
+            },
+            "e5": {
+                "name": "Linnutee Flyway",
+                "description": "Ultimate Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "e6": {
+                "name": "Pantheon Merciful, Masses Pitiful",
+                "description": "When enemy targets get attacked by Black Swan's allies, Black Swan has a 65% base chance of inflicting 1 stack of Arcana on the target. Each time Black Swan inflicts Arcana on an enemy target, there is a 50% fixed chance to additionally increase the number of Arcana stacks afflicted this time by 1."
+            }
+        },
+        "stats": {
+            "hp": [
+                147,
+                288,
+                347,
+                421,
+                480,
+                554,
+                613,
+                687,
+                746,
+                820,
+                879,
+                953,
+                1012,
+                1086
+            ],
+            "atk": [
+                89,
+                175,
+                210,
+                255,
+                291,
+                336,
+                372,
+                417,
+                453,
+                498,
+                534,
+                578,
+                614,
+                659
+            ],
+            "def": [
+                66,
+                128,
+                155,
+                188,
+                214,
+                247,
+                273,
+                306,
+                333,
+                366,
+                392,
+                425,
+                452,
+                485
+            ],
+            "speed": [
+                102,
+                102,
+                102,
+                102,
+                102,
+                102,
+                102,
+                102,
+                102,
+                102,
+                102,
+                102,
+                102,
+                102
+            ],
+            "taunt": [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ]
+        },
+        "materials": {
+            "calyxMat": "Heliobus",
+            "commonMat": "Core",
+            "bossMat": "Ascendant Debris",
+            "weeklyBossMat": "Past Evils of the Borehole Planet Disaster"
+        },
+        "description": "A Memokeeper of the Garden of Recollection. An indolent and mysterious soothsayer. \"Remembrance\" of men are hers to heed, threads of fate are hers to tug.",
+        "gender": "Female",
+        "faction": "",
+        "voiceActors": {
+            "en": "Arryn Zech",
+            "jp": "Hitomi Nabatame (生天目 仁美)"
+        },
+        "release": {
+            "date": "February 7, 2024",
+            "version": "2.0"
+        }
+    },
+    {
+        "id": 43,
+        "name": "Misha",
+        "rarity": 4,
+        "element": "Ice",
+        "path": "Destruction",
+        "skills": {
+            "attack": {
+                "name": "E—Excuse Me, Please!",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">50%</span> of Misha's ATK to a single enemy.",
+                "scaling": [
+                    [
+                        "50%",
+                        "60%",
+                        "70%",
+                        "80%",
+                        "90%",
+                        "100%",
+                        "110%",
+                        "120%",
+                        "130%"
+                    ]
+                ]
+            },
+            "skill": {
+                "name": "R—Room Service",
+                "description": "<span class=\"text-highlight\">[Blast]</span><br />Increases the Hits Per Action for Misha's next Ultimate by 1 hit(s). Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">100%</span> of Misha's ATK to a single target enemy, and <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">40%</span> of Misha's ATK to adjacent targets.",
+                "scaling": [
+                    [
+                        "100%",
+                        "110%",
+                        "120%",
+                        "130%",
+                        "140%",
+                        "150%",
+                        "162%",
+                        "175%",
+                        "187%",
+                        "200%",
+                        "210%",
+                        "220%",
+                        "229%",
+                        "240%",
+                        "250%"
+                    ],
+                    [
+                        "40%",
+                        "44%",
+                        "48%",
+                        "52%",
+                        "56%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "84%",
+                        "88%",
+                        "92%",
+                        "96%",
+                        "100%"
+                    ]
+                ]
+            },
+            "ultimate": {
+                "name": "G—Gonna Be Late!",
+                "description": "<span class=\"text-highlight\">[Bounce] | Energy Cost: 100</span><br />Has 3 Hits Per Action by default. First, uses 1 hit to deal <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">36%</span> of Misha's ATK to a single target enemy. Then, the rest of the hits each deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">36%</span> of Misha's ATK to a single random enemy. Just before each hit lands, there is a <span class=\"text-value\">12%</span> base chance to Freeze the target, lasting for 1 turn.<br />While Frozen, enemy targets cannot take any actions, and at the start of their turn, they receive Additional <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">18%</span> of Misha's ATK.<br />This Ultimate can possess up to 10 Hits Per Action. After the Ultimate is used, its Hits Per Action will be reset to the default level.",
+                "scaling": [
+                    [
+                        "36%",
+                        "38%",
+                        "40%",
+                        "43%",
+                        "45%",
+                        "48%",
+                        "51%",
+                        "54%",
+                        "56%",
+                        "60%",
+                        "62%",
+                        "64%",
+                        "67%",
+                        "69%",
+                        "72%"
+                    ],
+                    [
+                        "36%",
+                        "38%",
+                        "40%",
+                        "43%",
+                        "45%",
+                        "48%",
+                        "51%",
+                        "54%",
+                        "56%",
+                        "60%",
+                        "62%",
+                        "64%",
+                        "67%",
+                        "69%",
+                        "72%"
+                    ],
+                    [
+                        "12%",
+                        "12.8%",
+                        "13.6%",
+                        "14.4%",
+                        "15.2%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "19%",
+                        "20%",
+                        "20.8%",
+                        "21.6%",
+                        "22.4%",
+                        "23.2%",
+                        "24%"
+                    ],
+                    [
+                        "18%",
+                        "19%",
+                        "20%",
+                        "21%",
+                        "22%",
+                        "24%",
+                        "25%",
+                        "27%",
+                        "28%",
+                        "30%",
+                        "31%",
+                        "32%",
+                        "33%",
+                        "34%",
+                        "36%"
+                    ]
+                ]
+            },
+            "talent": {
+                "name": "Horological Escapement",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />Whenever any ally consumes 1 Skill Point, Misha's next Ultimate delivers 1 more Hit(s) Per Action and Misha regenerates <span class=\"text-value\">1.0</span> Energy.",
+                "scaling": [
+                    [
+                        "1.0",
+                        "1.1",
+                        "1.2",
+                        "1.3",
+                        "1.4",
+                        "1.5",
+                        "1.6",
+                        "1.8",
+                        "1.9",
+                        "2.0",
+                        "2.1",
+                        "2.2",
+                        "2.3",
+                        "2.4",
+                        "2.5"
+                    ]
+                ]
+            },
+            "technique": {
+                "name": "Wait, You Are So Beautiful!",
+                "description": "<span class=\"text-highlight\">[Impair]</span><br />After using the Technique, creates a dimension that lasts for 15 seconds. Enemies caught in the dimension are inflicted with Dream Prison and stop all their actions. Upon entering battle against enemies afflicted with Dream Prison, increases the Hits Per Action for Misha's next Ultimate by 2 hit(s). Only 1 dimension created by allies can exist at the same time."
+            }
+        },
+        "traces": [
+            {
+                "name": "Release",
+                "description": "Before the Ultimate's first hit lands, increases the base chance of Freezing the target by 80%.",
+                "unlock": "A2",
+                "subTraces": [
+                    {
+                        "type": "DEF",
+                        "description": "DEF +5%",
+                        "unlock": "A2",
+                        "subTraces": [
+                            {
+                                "type": "Ice DMG Boost",
+                                "description": "<span class=\"text-ice\">Ice DMG</span> +3.2%",
+                                "unlock": "A3",
+                                "subTraces": [
+                                    {
+                                        "type": "CRIT Rate",
+                                        "description": "CRIT Rate +2.7%",
+                                        "unlock": "A3"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Interlock",
+                "description": "When using the Ultimate, increases the Effect Hit Rate by 60%, lasting until the end of the Ultimate's current action.",
+                "unlock": "A4",
+                "subTraces": [
+                    {
+                        "type": "Ice DMG Boost",
+                        "description": "<span class=\"text-ice\">Ice DMG</span> +4.8%",
+                        "unlock": "A4",
+                        "subTraces": [
+                            {
+                                "type": "DEF",
+                                "description": "DEF +7.5%",
+                                "unlock": "A5",
+                                "subTraces": [
+                                    {
+                                        "type": "Ice DMG Boost",
+                                        "description": "<span class=\"text-ice\">Ice DMG</span> +4.8%",
+                                        "unlock": "A5"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Transmission",
+                "description": "When dealing DMG to Frozen enemies, increases CRIT DMG by 30%.",
+                "unlock": "A6",
+                "subTraces": [
+                    {
+                        "type": "CRIT Rate",
+                        "description": "CRIT Rate +4%",
+                        "unlock": "A6",
+                        "subTraces": [
+                            {
+                                "type": "DEF",
+                                "description": "DEF +10%",
+                                "unlock": "Lv. 75"
+                            },
+                            {
+                                "type": "Ice DMG Boost",
+                                "description": "<span class=\"text-ice\">Ice DMG</span> +6.4%",
+                                "unlock": "Lv. 80"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Ice DMG Boost",
+                "description": "<span class=\"text-ice\">Ice DMG</span> +3.2%",
+                "unlock": "Lv. 1"
+            }
+        ],
+        "eidolon": {
+            "e1": {
+                "name": "Whimsicality of Fancy",
+                "description": "When using the Ultimate, for every enemy on the field, additionally increases the Hits Per Action for the Ultimate by 1 hit(s), up to a maximum increase of 5 hit(s)."
+            },
+            "e2": {
+                "name": "Yearning of Youth",
+                "description": "Before each hit of the Ultimate lands, there is a 24% base chance of reducing the target's DEF by 16% for 3 turn(s)."
+            },
+            "e3": {
+                "name": "Vestige of Happiness",
+                "description": "Ultimate Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "e4": {
+                "name": "Visage of Kinship",
+                "description": "Increases the DMG multiplier for each hit of the Ultimate by 6%."
+            },
+            "e5": {
+                "name": "Genesis of First Love",
+                "description": "Skill Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "e6": {
+                "name": "Estrangement of Dream",
+                "description": "When using the Ultimate, increases own DMG by 30%, lasting until the end of the turn. In addition, the next time the Skill is used, recovers 1 Skill Point(s) for the team."
+            }
+        },
+        "stats": {
+            "hp": [
+                172,
+                336,
+                406,
+                492,
+                561,
+                647,
+                717,
+                803,
+                872,
+                959,
+                1028,
+                1114,
+                1183,
+                1270
+            ],
+            "atk": [
+                81,
+                159,
+                191,
+                232,
+                265,
+                306,
+                338,
+                379,
+                412,
+                452,
+                485,
+                526,
+                558,
+                599
+            ],
+            "def": [
+                54,
+                105,
+                126,
+                153,
+                175,
+                202,
+                224,
+                251,
+                272,
+                299,
+                321,
+                348,
+                369,
+                396
+            ],
+            "speed": [
+                96,
+                96,
+                96,
+                96,
+                96,
+                96,
+                96,
+                96,
+                96,
+                96,
+                96,
+                96,
+                96,
+                96
+            ],
+            "taunt": [
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125,
+                125
+            ]
+        },
+        "materials": {
+            "calyxMat": "Fang",
+            "commonMat": "Dreamjolt",
+            "bossMat": "Dream Fridge",
+            "weeklyBossMat": "Past Evils of the Borehole Planet Disaster"
+        },
+        "description": "A well-behaved young man serving as a hotel bellboy in Penacony. Misha has a great longing for the Nameless and dreams of one day embarking on a journey of his own.",
+        "gender": "Male",
+        "faction": "",
+        "voiceActors": {
+            "en": "Cat Protano",
+            "jp": "Eriko Matsui (松井 恵理子)"
+        },
+        "release": {
+            "date": "February 28, 2024",
+            "version": "2.0"
+        }
+    },
+    {
+        "id": 44,
+        "name": "Sparkle",
+        "rarity": 5,
+        "element": "Quantum",
+        "path": "Harmony",
+        "skills": {
+            "attack": {
+                "name": "Monodrama",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">50%</span> of Sparkle's ATK to a single enemy.",
+                "scaling": [
+                    [
+                        "50%",
+                        "60%",
+                        "70%",
+                        "80%",
+                        "90%",
+                        "100%",
+                        "110%",
+                        "120%",
+                        "130%"
+                    ]
+                ]
+            },
+            "skill": {
+                "name": "Dreamdiver",
+                "description": "<span class=\"text-highlight\">[Support]</span><br />Increases the CRIT DMG of a single ally by <span class=\"text-value\">12%</span> of Sparkle's CRIT DMG plus <span class=\"text-value\">27%</span>, lasting for 1 turn(s). And at the same time, Advances Forward this ally's action by 50%.<br />When Sparkle uses this ability on herself, the Action Advance effect will not trigger.",
+                "scaling": [
+                    [
+                        "12%",
+                        "13.2%",
+                        "14.4%",
+                        "15.6%",
+                        "16.8%",
+                        "18%",
+                        "19.5%",
+                        "21%",
+                        "22.5%",
+                        "24%",
+                        "25.2%",
+                        "26.4%",
+                        "27.6%",
+                        "28.8%",
+                        "30%"
+                    ],
+                    [
+                        "27%",
+                        "28.8%",
+                        "30.6%",
+                        "32.4%",
+                        "34.2%",
+                        "36%",
+                        "38.2%",
+                        "40.5%",
+                        "42.7%",
+                        "45%",
+                        "46.8%",
+                        "48.6%",
+                        "50.4%",
+                        "52.2%",
+                        "54%"
+                    ]
+                ]
+            },
+            "ultimate": {
+                "name": "The Hero with a Thousand Faces",
+                "description": "<span class=\"text-highlight\">[Support] | Energy Cost: 110</span><br />Recovers 4 Skill Points for the team and grants all allies Cipher. When allies with Cipher trigger the DMG Boost effect provided by Sparkle's Talent, each stack additionally increases its effect by <span class=\"text-value\">6%</span>, lasting for 2 turns.",
+                "scaling": [
+                    [
+                        "6%",
+                        "6.4%",
+                        "6.8%",
+                        "7.2%",
+                        "7.6%",
+                        "8%",
+                        "8.5%",
+                        "9%",
+                        "9.5%",
+                        "10%",
+                        "10.4%",
+                        "10.8%",
+                        "11.2%",
+                        "11.6%",
+                        "12%"
+                    ]
+                ]
+            },
+            "talent": {
+                "name": "Red Herring",
+                "description": "<span class=\"text-highlight\">[Support]</span><br />While Sparkle is on the battlefield, additionally increases the max number of Skill Points by 2. Whenever an ally consumes 1 Skill Point, all allies' DMG increases by <span class=\"text-value\">3%</span>. This effect lasts for 2 turn(s) and can stack up to 3 time(s).",
+                "scaling": [
+                    [
+                        "3%",
+                        "3.3%",
+                        "3.6%",
+                        "3.9%",
+                        "4.2%",
+                        "4.5%",
+                        "4.8%",
+                        "5.2%",
+                        "5.6%",
+                        "6%",
+                        "6.3%",
+                        "6.6%",
+                        "6.9%",
+                        "7.2%",
+                        "7.5%"
+                    ]
+                ]
+            },
+            "technique": {
+                "name": "Unreliable Narrator",
+                "description": "<span class=\"text-highlight\">[Support]</span><br />Using the Technique grants all allies Misdirect for 20 seconds. Characters with Misdirect will not be detected by enemies, and entering battle in the Misdirect state recovers 3 Skill Point(s) for the team."
+            }
+        },
+        "traces": [
+            {
+                "name": "Almanac",
+                "description": "When using Basic ATK, additionally regenerates 10 Energy.",
+                "unlock": "A2",
+                "subTraces": [
+                    {
+                        "type": "CRIT DMG",
+                        "description": "CRIT DMG +5.3%",
+                        "unlock": "A2",
+                        "subTraces": [
+                            {
+                                "type": "HP",
+                                "description": "HP +4%",
+                                "unlock": "A3"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Artificial Flower",
+                "description": "The CRIT DMG Boost effect provided by the Skill will extend to last until the start of the target's next turn.",
+                "unlock": "A4",
+                "subTraces": [
+                    {
+                        "type": "HP",
+                        "description": "HP +6%",
+                        "unlock": "A4",
+                        "subTraces": [
+                            {
+                                "type": "CRIT DMG",
+                                "description": "CRIT DMG +8%",
+                                "unlock": "A5"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nocturne",
+                "description": "Increases all allies' ATK by 15%. When there are 1/2/3 Quantum allies in your team, increases Quantum-Type allies' ATK by 5%/15%/30%.",
+                "unlock": "A6",
+                "subTraces": [
+                    {
+                        "type": "Effect RES",
+                        "description": "Effect RES +6%",
+                        "unlock": "A6",
+                        "subTraces": [
+                            {
+                                "type": "CRIT DMG",
+                                "description": "CRIT DMG +10.7%",
+                                "unlock": "Lv. 75"
+                            },
+                            {
+                                "type": "HP",
+                                "description": "HP +8%",
+                                "unlock": "Lv. 80"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "HP",
+                "description": "HP +4%",
+                "unlock": "Lv. 1",
+                "subTraces": [
+                    {
+                        "type": "Effect RES",
+                        "description": "Effect RES +4%",
+                        "unlock": "A3"
+                    },
+                    {
+                        "type": "HP",
+                        "description": "HP +6%",
+                        "unlock": "A5"
+                    }
+                ]
+            }
+        ],
+        "eidolon": {
+            "e1": {
+                "name": "Suspension of Disbelief",
+                "description": "The Cipher effect applied by the Ultimate lasts for 1 extra turn. All allies affected by Cipher have their ATK increased by 40%."
+            },
+            "e2": {
+                "name": "Purely Fictitious",
+                "description": "Each Talent stack allows allies to ignore 8% of the enemy target's DEF when dealing DMG to enemies."
+            },
+            "e3": {
+                "name": "Pipedream",
+                "description": "Skill Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "e4": {
+                "name": "Life Is a Gamble",
+                "description": "The Ultimate recovers 1 more Skill Point. The Talent additionally increases Max Skill Points by 1."
+            },
+            "e5": {
+                "name": "Parallax Truth",
+                "description": "Ultimate Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "e6": {
+                "name": "Narrative Polysemy",
+                "description": "The CRIT DMG Boost effect of Sparkle's Skill additionally increases by 30% of Sparkle's CRIT DMG, and when she uses her Skill, the CRIT DMG Boost effect will apply to all allies currently with Cipher. When Sparkle uses her Ultimate, this effect will spread to all allies with Cipher should the allied target have the CRIT DMG increase effect provided by the Skill active on them."
+            }
+        },
+        "stats": {
+            "hp": [
+                190,
+                370,
+                446,
+                541,
+                617,
+                712,
+                788,
+                883,
+                959,
+                1054,
+                1130,
+                1226,
+                1302,
+                1397
+            ],
+            "atk": [
+                71,
+                138,
+                167,
+                203,
+                231,
+                267,
+                295,
+                331,
+                359,
+                395,
+                424,
+                459,
+                488,
+                523
+            ],
+            "def": [
+                66,
+                128,
+                155,
+                188,
+                214,
+                247,
+                273,
+                306,
+                333,
+                366,
+                392,
+                425,
+                452,
+                485
+            ],
+            "speed": [
+                101,
+                101,
+                101,
+                101,
+                101,
+                101,
+                101,
+                101,
+                101,
+                101,
+                101,
+                101,
+                101,
+                101
+            ],
+            "taunt": [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ]
+        },
+        "materials": {
+            "calyxMat": "Melody",
+            "commonMat": "Memoria",
+            "bossMat": "Dream Flamer",
+            "weeklyBossMat": "Past Evils of the Borehole Planet Disaster"
+        },
+        "description": "A member of the Masked Fools. Inscrutable and unscrupulous. A dangerous maestro of theatrics, utterly engrossed in the art of performance. Adorned with innumerable masks, she is the hero with a thousand faces. Wealth, status, power... None of this matters to Sparkle. The only thing that can get her attention is \"amusement.\"",
+        "gender": "Female",
+        "faction": "",
+        "voiceActors": {
+            "en": "Lizzie Freeman",
+            "jp": "Reina Ueda (上田 麗奈)"
+        },
+        "release": {
+            "date": "February 28, 2024",
+            "version": "2.0"
+        }
     }
 ]

@@ -154,13 +154,27 @@
         },
         "phase2": {
             "startDate": "January 17, 2024",
-            "endDate": "February 6, 2024",
+            "endDate": "February 5, 2024",
             "banner": [
                 "Baptism of Pure Thought",
                 "Patience Is All You Need",
                 "Landau's Choice",
                 "Only Silence Remains",
                 "Perfect Timing"
+            ]
+        }
+    },
+    {
+        "version": "2.0",
+        "phase1": {
+            "startDate": "February 6, 2024",
+            "endDate": "?",
+            "banner": [
+                "Reforged Remembrance",
+                "Brighter Than the Sun",
+                "Dance! Dance! Dance!",
+                "Indelible Promise",
+                "Resolution Shines As Pearls of Sweat"
             ]
         }
     }
