@@ -168,13 +168,24 @@
         "version": "2.0",
         "phase1": {
             "startDate": "February 6, 2024",
-            "endDate": "?",
+            "endDate": "February 29, 2024",
             "banner": [
                 "Black Swan",
                 "Imbibitor Lunae",
                 "Guinaifen",
                 "Misha",
                 "Tingyun"
+            ]
+        },
+        "phase2": {
+            "startDate": "February 29, 2024",
+            "endDate": "March 26, 2024",
+            "banner": [
+                "Sparkle",
+                "Jing Yuan",
+                "Hanya",
+                "Qingque",
+                "Sampo"
             ]
         }
     }

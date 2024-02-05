@@ -168,13 +168,24 @@
         "version": "2.0",
         "phase1": {
             "startDate": "February 6, 2024",
-            "endDate": "?",
+            "endDate": "February 29, 2024",
             "banner": [
                 "Reforged Remembrance",
                 "Brighter Than the Sun",
                 "Dance! Dance! Dance!",
                 "Indelible Promise",
                 "Resolution Shines As Pearls of Sweat"
+            ]
+        },
+        "phase2": {
+            "startDate": "February 29, 2024",
+            "endDate": "March 26, 2024",
+            "banner": [
+                "Earthly Escapade",
+                "Before Dawn",
+                "Geniuses' Repose",
+                "Planetary Rendezvous",
+                "Under the Blue Sky"
             ]
         }
     }
