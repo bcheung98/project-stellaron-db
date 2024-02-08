@@ -14680,7 +14680,7 @@
         "skills": {
             "attack": {
                 "name": "Basic ATK: Percipience, Silent Dawn",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">30%</span> of Black Swan's ATK to a single target enemy, with a <span class=\"text-value\">50%</span> base chance of inflicting 1 stack of Arcana. And if the hit target currently has <span class=\"text-wind\">Wind DMG</span> Bleed, Burn, or Shock applied to them, each respectively has a <span class=\"text-value\">50%</span> base chance of inflicting 1 extra stack of Arcana onto the enemy.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">30%</span> of Black Swan's ATK to a single target enemy, with a <span class=\"text-value\">50%</span> base chance of inflicting 1 stack of Arcana. And if the hit target currently has Wind Sheer, Bleed, Burn, or Shock applied to them, each respectively has a <span class=\"text-value\">50%</span> base chance of inflicting 1 extra stack of Arcana onto the enemy.",
                 "scaling": [
                     [
                         "30%",
