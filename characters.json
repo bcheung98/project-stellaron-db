@@ -5094,7 +5094,7 @@
             },
             "skill": {
                 "name": "Lightning Flash",
-                "description": "<span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">70%</span> of Serval's ATK to a single enemy and <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">30%</span> of Serval's ATK to enemies adjacent to it, with a 80% base chance for enemies hit to become Shocked for 2 turn(s).<br />While Shocked, enemies take Lightning DoT equal to <span class=\"text-value\">40%</span> of Serval's ATK at the beginning of each turn.",
+                "description": "<span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">70%</span> of Serval's ATK to a single enemy and <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">30%</span> of Serval's ATK to enemies adjacent to it, with a 80% base chance for enemies hit to become Shocked for 2 turn(s).<br />While Shocked, enemies take <span class=\"text-lightning\">Lightning DoT</span> equal to <span class=\"text-value\">40%</span> of Serval's ATK at the beginning of each turn.",
                 "scaling": [
                     [
                         "70%",
@@ -5197,7 +5197,7 @@
             },
             "technique": {
                 "name": "Good Night, Belobog",
-                "description": "Immediately attacks the enemy. After entering battle, deals <span class=\"text-lightning\">Lightning DMG</span> equal to 50% of Serval's ATK to a random enemy, with a 100% base chance for all enemies to become Shocked for 3 turn(s).<br />While Shocked, enemies will take Lightning DoT equal to 50% of Serval's ATK at the beginning of each turn."
+                "description": "Immediately attacks the enemy. After entering battle, deals <span class=\"text-lightning\">Lightning DMG</span> equal to 50% of Serval's ATK to a random enemy, with a 100% base chance for all enemies to become Shocked for 3 turn(s).<br />While Shocked, enemies will take <span class=\"text-lightning\">Lightning DoT</span> equal to 50% of Serval's ATK at the beginning of each turn."
             }
         },
         "traces": [
@@ -11972,7 +11972,7 @@
             },
             "skill": {
                 "name": "Blazing Welcome",
-                "description": "<span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">60%</span> of Guinaifen's ATK to a single enemy and deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">20%</span> of Guinaifen's ATK to any adjacent enemies with a 100% base chance to Burn the target and adjacent targets. When Burned, enemies will take a <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">83%</span> of Guinaifen's ATK at the beginning of each turn, lasting for 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">60%</span> of Guinaifen's ATK to a single enemy and deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">20%</span> of Guinaifen's ATK to any adjacent enemies with a 100% base chance to Burn the target and adjacent targets. When Burned, enemies will take a <span class=\"text-fire\">Fire DoT</span> equal to <span class=\"text-value\">83%</span> of Guinaifen's ATK at the beginning of each turn, lasting for 2 turn(s).",
                 "scaling": [
                     [
                         "60%",
