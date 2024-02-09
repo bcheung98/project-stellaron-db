@@ -14396,7 +14396,7 @@
             },
             "ultimate": {
                 "name": "Divine Castigation",
-                "description": "<span class=\"text-highlight\">[Single Target] | Energy Cost: 120</span><br />Deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">150%</span> of Xueyi's ATK to a single target enemy. This attack ignores Weakness Types and reduces the enemy's Toughness. When the enemy's Weakness is Broken, the <span class=\"text-quantum\">Quantum DMG</span> Break effect is triggered.<br />In this attack, the more Toughness is reduced, the higher the DMG will be dealt, up to a max of <span class=\"text-value\">36%</span> increase.",
+                "description": "<span class=\"text-highlight\">[Single Target] | Energy Cost: 120</span><br />Deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">150%</span> of Xueyi's ATK to a single target enemy. This attack ignores Weakness Types and reduces the enemy's Toughness. When the enemy's Weakness is Broken, the Quantum Weakness Break effect is triggered.<br />In this attack, the more Toughness is reduced, the higher the DMG will be dealt, up to a max of <span class=\"text-value\">36%</span> increase.",
                 "scaling": [
                     [
                         "150%",
