@@ -441,7 +441,7 @@
         "traces": [
             {
                 "name": "Sparks",
-                "description": "Asta's Basic ATK has a 80% base chance to Burn enemies for 3 turn(s).<br />Burned enemies take <span class=\"text-fire\">Fire</span> DoT equal to 50% of DMG dealt by Asta's Basic ATK at the start of each turn.",
+                "description": "Asta's Basic ATK has a 80% <span class=\"tooltip-base chance\">base chance</span> to Burn enemies for 3 turn(s).<br />Burned enemies take <span class=\"text-fire\">Fire</span> DoT equal to 50% of DMG dealt by Asta's Basic ATK at the start of each turn.",
                 "unlock": "A2",
                 "subTraces": [
                     {
@@ -751,7 +751,7 @@
             },
             "talent": {
                 "name": "Gourdful of Elixir",
-                "description": "<span class=\"text-highlight\">[Restore]</span><br />After an ally with Invigoration is hit, restores the ally's HP for <span class=\"text-value\">3.6%</span> of Bailu's Max HP plus <span class=\"text-value\">36</span>. This effect can trigger 2 time(s). When an ally receives a killing blow, they will not be knocked down. Bailu immediately heals the ally for <span class=\"text-value\">12%</span> of Bailu's Max HP plus <span class=\"text-value\">120</span> HP. This effect can be triggered 1 time per battle.",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br />After an ally with Invigoration is hit, restores the ally's HP for <span class=\"text-value\">3.6%</span> of Bailu's Max HP plus <span class=\"text-value\">36</span>. This effect can trigger 2 time(s). When an ally receives a killing blow, they will not be <span class=\"tooltip-downed state\">knocked down</span>. Bailu immediately heals the ally for <span class=\"text-value\">12%</span> of Bailu's Max HP plus <span class=\"text-value\">120</span> HP. This effect can be triggered 1 time per battle.",
                 "scaling": [
                     [
                         "3.6%",
@@ -1061,7 +1061,7 @@
             },
             "skill": {
                 "name": "Combat Redeployment",
-                "description": "<span class=\"text-highlight\">[Support]</span><br />Dispels a debuff from a single ally, allows them to immediately take action, and increases their DMG by <span class=\"text-value\">33%</span> for 1 turn(s).<br />When this Skill is used on Bronya herself, she cannot immediately take action again.",
+                "description": "<span class=\"text-highlight\">[Support]</span><br />Dispels a <span class=\"tooltip-debuff\">debuff</span> from a single ally, allows them to immediately take action, and increases their DMG by <span class=\"text-value\">33%</span> for 1 turn(s).<br />When this Skill is used on Bronya herself, she cannot immediately take action again.",
                 "scaling": [
                     [
                         "33%",
@@ -1141,7 +1141,7 @@
             },
             "talent": {
                 "name": "Leading the Way",
-                "description": "<span class=\"text-highlight\">[Enhance]</span><br />After using her Basic ATK, Bronya's next action will be Advanced Forward by <span class=\"text-value\">15%</span>.",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />After using her Basic ATK, Bronya's next action will be <span class=\"tooltip-action advanced\">Advanced Forward</span> by <span class=\"text-value\">15%</span>.",
                 "scaling": [
                     [
                         "15%",
@@ -1263,7 +1263,7 @@
             },
             "e4": {
                 "name": "Take by Surprise",
-                "description": "After an ally other than Bronya uses Basic ATK on an enemy with Wind Weakness, Bronya immediately launches a follow-up attack on the target, dealing Wind DMG equal to 80% of Bronya's Basic ATK DMG. This effect can only be triggered 1 time per turn."
+                "description": "After an ally other than Bronya uses Basic ATK on an enemy with Wind Weakness, Bronya immediately launches a <span class=\"tooltip-follow up attack\">follow-up attack</span> on the target, dealing <span class=\"text-wind\">Wind DMG</span> equal to 80% of Bronya's Basic ATK DMG. This effect can only be triggered 1 time per turn."
             },
             "e5": {
                 "name": "Unstoppable",
@@ -1440,7 +1440,7 @@
             },
             "ultimate": {
                 "name": "Promise, Not Command",
-                "description": "<span class=\"text-highlight\">[Enhance] | Energy Cost: 110</span><br />After Clara uses Ultimate, DMG dealt to her is reduced by an extra <span class=\"text-value\">15%</span>, and she has greatly increased chances of being attacked by enemies for 2 turn(s).<br />In addition, Svarog's Counter is enhanced. When an ally is attacked, Svarog immediately launches a Counter, and its DMG multiplier against the enemy increases by <span class=\"text-value\">96%</span>. Enemies adjacent to it take 50% of the DMG dealt to the target enemy. Enhanced Counter(s) can take effect 2 time(s).",
+                "description": "<span class=\"text-highlight\">[Enhance] | Energy Cost: 110</span><br />After Clara uses Ultimate, DMG dealt to her is reduced by an extra <span class=\"text-value\">15%</span>, and she has greatly increased chances of being attacked by enemies for 2 turn(s).<br />In addition, Svarog's <span class=\"tooltip-counter\">Counter</span> is enhanced. When an ally is attacked, Svarog immediately launches a <span class=\"tooltip-counter\">Counter</span>, and its DMG multiplier against the enemy increases by <span class=\"text-value\">96%</span>. Enemies adjacent to it take 50% of the DMG dealt to the target enemy. Enhanced <span class=\"tooltip-counter\">Counter(s)</span> can take effect 2 time(s).",
                 "scaling": [
                     [
                         "15%",
@@ -1480,7 +1480,7 @@
             },
             "talent": {
                 "name": "Because We're Family",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Under the protection of Svarog, DMG taken by Clara when hit by enemy attacks is reduced by 10%. Svarog will mark enemies who attack Clara with his Mark of Counter and retaliate with a Counter, dealing <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">80%</span> of Clara's ATK.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Under the protection of Svarog, DMG taken by Clara when hit by enemy attacks is reduced by 10%. Svarog will mark enemies who attack Clara with his Mark of Counter and retaliate with a <span class=\"tooltip-counter\">Counter</span>, dealing <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">80%</span> of Clara's ATK.",
                 "scaling": [
                     [
                         "80%",
@@ -1741,7 +1741,7 @@
             },
             "skill": {
                 "name": "Cloudlancer Art: Torrent",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">130%</span> of Dan Heng's ATK to a single enemy.<br />On a CRIT Hit, there is a 100% base chance to reduce the target's SPD by 12% for 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">130%</span> of Dan Heng's ATK to a single enemy.<br />On a CRIT Hit, there is a 100% <span class=\"tooltip-base chance\">base chance</span> to reduce the target's SPD by 12% for 2 turn(s).",
                 "scaling": [
                     [
                         "130%",
@@ -1804,7 +1804,7 @@
             },
             "talent": {
                 "name": "Superiority of Reach",
-                "description": "<span class=\"text-highlight\">[Enhance]</span><br />When Dan Heng is the target of an ally's Ability, his next attack's <span class=\"text-wind\">Wind RES</span> PEN increases by <span class=\"text-value\">18%</span>. This effect can be triggered again after 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />When Dan Heng is the target of an ally's Ability, his next attack's <span class=\"text-wind\">Wind</span> <span class=\"tooltip-res pen\">RES PEN</span> increases by <span class=\"text-value\">18%</span>. This effect can be triggered again after 2 turn(s).",
                 "scaling": [
                     [
                         "18%",
@@ -2061,7 +2061,7 @@
             },
             "skill": {
                 "name": "Daunting Smite",
-                "description": "<span class=\"text-highlight\">[Impair]</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">100%</span> of Gepard's ATK to a single enemy, with a 65% base chance to Freeze the enemy for 1 turn(s).<br />While Frozen, the enemy cannot take action and will take Additional <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">30%</span> of Gepard's ATK at the beginning of each turn.",
+                "description": "<span class=\"text-highlight\">[Impair]</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">100%</span> of Gepard's ATK to a single enemy, with a 65% <span class=\"tooltip-base chance\">base chance</span> to Freeze the enemy for 1 turn(s).<br />While Frozen, the enemy cannot take action and will take <span class=\"tooltip-additional dmg\">Additional</span> <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">30%</span> of Gepard's ATK at the beginning of each turn.",
                 "scaling": [
                     [
                         "100%",
@@ -2141,7 +2141,7 @@
             },
             "talent": {
                 "name": "Unyielding Will",
-                "description": "<span class=\"text-highlight\">[Restore]</span><br />When struck with a killing blow, instead of becoming knocked down, Gepard's HP immediately restores to <span class=\"text-value\">25%</span> of his Max HP. This effect can only trigger once per battle.",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br />When struck with a killing blow, instead of becoming <span class=\"tooltip-downed state\">knocked down</span>, Gepard's HP immediately restores to <span class=\"text-value\">25%</span> of his Max HP. This effect can only trigger once per battle.",
                 "scaling": [
                     [
                         "25%",
@@ -2251,7 +2251,7 @@
         "eidolon": {
             "e1": {
                 "name": "Due Diligence",
-                "description": "When using Skill, increases the base chance to Freeze enemies by 35%."
+                "description": "When using Skill, increases the <span class=\"tooltip-base chance\">base chance</span> to Freeze enemies by 35%."
             },
             "e2": {
                 "name": "Lingering Cold",
@@ -2446,7 +2446,7 @@
             },
             "talent": {
                 "name": "Fine, I'll Do It Myself",
-                "description": "<span class=\"text-highlight\">[AoE]</span><br />When an ally's attack causes an enemy's HP percentage to fall to 50% or lower, Herta will launch a follow-up attack, dealing <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">25%</span> of Herta's ATK to all enemies.",
+                "description": "<span class=\"text-highlight\">[AoE]</span><br />When an ally's attack causes an enemy's HP percentage to fall to 50% or lower, Herta will launch a <span class=\"tooltip-follow up attack\">follow-up attack</span>, dealing <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">25%</span> of Herta's ATK to all enemies.",
                 "scaling": [
                     [
                         "25%",
@@ -2764,7 +2764,7 @@
             },
             "talent": {
                 "name": "Victory Rush",
-                "description": "<span class=\"text-highlight\">[AoE]</span><br />When an enemy is inflicted with Weakness Break, Himeko gains 1 point of Charge (max 3 points).<br />If Himeko is fully Charged when an ally performs an attack, Himeko immediately performs 1 follow-up attack and deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">70%</span> of her ATK to all enemies, consuming all Charge points.<br />At the start of the battle, Himeko gains 1 point of Charge.",
+                "description": "<span class=\"text-highlight\">[AoE]</span><br />When an enemy is inflicted with Weakness Break, Himeko gains 1 point of Charge (max 3 points).<br />If Himeko is fully Charged when an ally performs an attack, Himeko immediately performs 1 <span class=\"tooltip-follow up attack\">follow-up attack</span> and deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">70%</span> of her ATK to all enemies, consuming all Charge points.<br />At the start of the battle, Himeko gains 1 point of Charge.",
                 "scaling": [
                     [
                         "70%",
@@ -2787,13 +2787,13 @@
             },
             "technique": {
                 "name": "Incomplete Combustion",
-                "description": "<span class=\"text-highlight\">[Impair]</span><br />After using Technique, creates a dimension that lasts for 15 second(s). After entering battle with enemies in the dimension, there is a 100% base chance to increase <span class=\"text-fire\">Fire DMG</span> taken by enemies by 10% for 2 turn(s). Only 1 dimension created by allies can exist at the same time."
+                "description": "<span class=\"text-highlight\">[Impair]</span><br />After using Technique, creates a dimension that lasts for 15 second(s). After entering battle with enemies in the dimension, there is a 100% <span class=\"tooltip-base chance\">base chance</span> to increase <span class=\"text-fire\">Fire DMG</span> taken by enemies by 10% for 2 turn(s). Only 1 dimension created by allies can exist at the same time."
             }
         },
         "traces": [
             {
                 "name": "Starfire",
-                "description": "After using an attack, there is a 50% base chance to inflict Burn on enemies for 2 turn(s).<br />When afflicted with Burn, enemies take <span class=\"text-fire\">Fire DoT</span> equal to 30% of Himeko's ATK at the start of each turn.",
+                "description": "After using an attack, there is a 50% <span class=\"tooltip-base chance\">base chance</span> to inflict Burn on enemies for 2 turn(s).<br />When afflicted with Burn, enemies take <span class=\"text-fire\">Fire DoT</span> equal to 30% of Himeko's ATK at the start of each turn.",
                 "unlock": "A2",
                 "subTraces": [
                     {
@@ -3019,7 +3019,7 @@
             },
             "skill": {
                 "name": "Hey! Remember Hook?",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">120%</span> of Hook's ATK to a single enemy. In addition, there is a 100% base chance to inflict Burn for 2 turn(s).<br />When afflicted with Burn, enemies will take <span class=\"text-fire\">Fire DoT</span> equal to <span class=\"text-value\">25%</span> of Hook's ATK at the beginning of each turn.<br /><br /><span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">140%</span> of Hook's ATK to a single enemy, with a 100% base chance to Burn them for 2 turn(s). Additionally, deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">40%</span> of Hook's ATK to enemies adjacent to it.<br />When afflicted with Burn, enemies will take <span class=\"text-fire\">Fire DoT</span> equal to <span class=\"text-value\">25%</span> of Hook's ATK at the beginning of each turn.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">120%</span> of Hook's ATK to a single enemy. In addition, there is a 100% <span class=\"tooltip-base chance\">base chance</span> to inflict Burn for 2 turn(s).<br />When afflicted with Burn, enemies will take <span class=\"text-fire\">Fire DoT</span> equal to <span class=\"text-value\">25%</span> of Hook's ATK at the beginning of each turn.<br /><br /><span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">140%</span> of Hook's ATK to a single enemy, with a 100% <span class=\"tooltip-base chance\">base chance</span> to Burn them for 2 turn(s). Additionally, deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">40%</span> of Hook's ATK to enemies adjacent to it.<br />When afflicted with Burn, enemies will take <span class=\"text-fire\">Fire DoT</span> equal to <span class=\"text-value\">25%</span> of Hook's ATK at the beginning of each turn.",
                 "scaling": [
                     [
                         "120%",
@@ -3133,7 +3133,7 @@
             },
             "talent": {
                 "name": "Ha! Oil to the Flames!",
-                "description": "<span class=\"text-highlight\">[Enhance]</span><br />When attacking a target afflicted with Burn, deals Additional <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">50%</span> of Hook's ATK and regenerates 5 extra Energy.",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />When attacking a target afflicted with Burn, deals <span class=\"tooltip-additional dmg\">Additional</span> <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">50%</span> of Hook's ATK and regenerates 5 extra Energy.",
                 "scaling": [
                     [
                         "50%",
@@ -3156,7 +3156,7 @@
             },
             "technique": {
                 "name": "Ack! Look at This Mess!",
-                "description": "Immediately attacks the enemy. Upon entering battle, Hook deals <span class=\"text-fire\">Fire DMG</span> equal to 50% of her ATK to a random enemy. In addition, there is a 100% base chance to inflict Burn on every enemy for 3 turn(s).<br />When afflicted with Burn, enemies will take <span class=\"text-fire\">Fire DoT</span> equal to 50% of Hook's ATK at the beginning of each turn."
+                "description": "Immediately attacks the enemy. Upon entering battle, Hook deals <span class=\"text-fire\">Fire DMG</span> equal to 50% of her ATK to a random enemy. In addition, there is a 100% <span class=\"tooltip-base chance\">base chance</span> to inflict Burn on every enemy for 3 turn(s).<br />When afflicted with Burn, enemies will take <span class=\"text-fire\">Fire DoT</span> equal to 50% of Hook's ATK at the beginning of each turn."
             }
         },
         "traces": [
@@ -3257,7 +3257,7 @@
             },
             "e4": {
                 "name": "It's Okay to Not Know",
-                "description": "When Talent is triggered, there is a 100% base chance to Burn enemies adjacent to the target enemy, equivalent to that of Skill."
+                "description": "When Talent is triggered, there is a 100% <span class=\"tooltip-base chance\">base chance</span> to Burn enemies adjacent to the target enemy, equivalent to that of Skill."
             },
             "e5": {
                 "name": "Let the Moles' Deeds Be Known",
@@ -3434,7 +3434,7 @@
             },
             "ultimate": {
                 "name": "Glacial Cascade",
-                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 120</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">90%</span> of March 7th's ATK to all enemies. Hit enemies have a 50% base chance to be Frozen for 1 turn(s).<br />While Frozen, enemies cannot take action and will receive Additional <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">30%</span> of March 7th's ATK at the beginning of each turn.",
+                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 120</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">90%</span> of March 7th's ATK to all enemies. Hit enemies have a 50% <span class=\"tooltip-base chance\">base chance</span> to be Frozen for 1 turn(s).<br />While Frozen, enemies cannot take action and will receive <span class=\"tooltip-additional dmg\">Additional</span> <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">30%</span> of March 7th's ATK at the beginning of each turn.",
                 "scaling": [
                     [
                         "90%",
@@ -3474,7 +3474,7 @@
             },
             "talent": {
                 "name": "Girl Power",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />After a Shielded ally is attacked by an enemy, March 7th immediately Counters, dealing <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">50%</span> of her ATK. This effect can be triggered 2 time(s) each turn.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />After a Shielded ally is attacked by an enemy, March 7th immediately <span class=\"tooltip-counter\">Counters</span>, dealing <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">50%</span> of her ATK. This effect can be triggered 2 time(s) each turn.",
                 "scaling": [
                     [
                         "50%",
@@ -3497,7 +3497,7 @@
             },
             "technique": {
                 "name": "Freezing Beauty",
-                "description": "Immediately attacks the enemy. After entering battle, there is a 100% base chance to Freeze a random enemy for 1 turn(s).<br />While Frozen, the enemy cannot take action and will take Additional <span class=\"text-ice\">Ice DMG</span> equal to 50% of March 7th's ATK at the beginning of each turn."
+                "description": "Immediately attacks the enemy. After entering battle, there is a 100% <span class=\"tooltip-base chance\">base chance</span> to Freeze a random enemy for 1 turn(s).<br />While Frozen, the enemy cannot take action and will take <span class=\"tooltip-additional dmg\">Additional</span> <span class=\"text-ice\">Ice DMG</span> equal to 50% of March 7th's ATK at the beginning of each turn."
             }
         },
         "traces": [
@@ -3548,7 +3548,7 @@
             },
             {
                 "name": "Ice Spell",
-                "description": "Increases Ultimate's base chance to Freeze enemies by 15%.",
+                "description": "Increases Ultimate's <span class=\"tooltip-base chance\">base chance</span> to Freeze enemies by 15%.",
                 "unlock": "A6",
                 "subTraces": [
                     {
@@ -3870,7 +3870,7 @@
             },
             "technique": {
                 "name": "Hypnosis Research",
-                "description": "Immediately attacks the enemy. After entering battle, deals Physical DMG equal to 80% of Natasha's ATK to a random enemy, with a 100% base chance to Weaken all enemies.<br />While Weakened, enemies deal 30% less DMG to allies for 1 turn(s)."
+                "description": "Immediately attacks the enemy. After entering battle, deals <span class=\"text-physical\">Physical DMG</span> equal to 80% of Natasha's ATK to a random enemy, with a 100% <span class=\"tooltip-base chance\">base chance</span> to Weaken all enemies.<br />While Weakened, enemies deal 30% less DMG to allies for 1 turn(s)."
             }
         },
         "traces": [
@@ -4106,7 +4106,7 @@
             },
             "skill": {
                 "name": "Frostbite",
-                "description": "<span class=\"text-highlight\">[Impair]</span><br />Removes 1 buff(s) and deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">105%</span> of Pela's ATK as to a single enemy.",
+                "description": "<span class=\"text-highlight\">[Impair]</span><br />Removes 1 <span class=\"tooltip-buff\">buff(s)</span> and deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">105%</span> of Pela's ATK as to a single enemy.",
                 "scaling": [
                     [
                         "105%",
@@ -4129,7 +4129,7 @@
             },
             "ultimate": {
                 "name": "Zone Suppression",
-                "description": "<span class=\"text-highlight\">[Impair] | Energy Cost: 110</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">60%</span> of Pela's ATK to all enemies, with a 100% base chance to inflict Exposed on all enemies.<br />When Exposed, enemies' DEF is reduced by <span class=\"text-value\">30%</span> for 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[Impair] | Energy Cost: 110</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">60%</span> of Pela's ATK to all enemies, with a 100% <span class=\"tooltip-base chance\">base chance</span> to inflict Exposed on all enemies.<br />When Exposed, enemies' DEF is reduced by <span class=\"text-value\">30%</span> for 2 turn(s).",
                 "scaling": [
                     [
                         "60%",
@@ -4169,7 +4169,7 @@
             },
             "talent": {
                 "name": "Data Collecting",
-                "description": "<span class=\"text-highlight\">[Support]</span><br />If the enemy is debuffed after Pela's attack, Pela will restore <span class=\"text-value\">5</span> extra Energy. This effect can only be triggered 1 time per attack.",
+                "description": "<span class=\"text-highlight\">[Support]</span><br />If the enemy is <span class=\"tooltip-debuff\">debuffed</span> after Pela's attack, Pela will restore <span class=\"text-value\">5</span> extra Energy. This effect can only be triggered 1 time per attack.",
                 "scaling": [
                     [
                         "5",
@@ -4192,7 +4192,7 @@
             },
             "technique": {
                 "name": "Preemptive Strike",
-                "description": "Immediately attacks the enemy. Upon entering battle, Pela deals <span class=\"text-ice\">Ice DMG</span> equal to 80% of her ATK to a random enemy, with a 100% base chance of lowering the DEF of all enemies by 20% for 2 turn(s)."
+                "description": "Immediately attacks the enemy. Upon entering battle, Pela deals <span class=\"text-ice\">Ice DMG</span> equal to 80% of her ATK to a random enemy, with a 100% <span class=\"tooltip-base chance\">base chance</span> of lowering the DEF of all enemies by 20% for 2 turn(s)."
             }
         },
         "traces": [
@@ -4293,7 +4293,7 @@
             },
             "e4": {
                 "name": "Full Analysis",
-                "description": "When using Skill, there is a 100% base chance to reduce the target enemy's <span class=\"text-ice\">Ice RES</span> by 12% for 2 turn(s)."
+                "description": "When using Skill, there is a 100% <span class=\"tooltip-base chance\">base chance</span> to reduce the target enemy's <span class=\"text-ice\">Ice RES</span> by 12% for 2 turn(s)."
             },
             "e5": {
                 "name": "Absolute Jeopardy",
@@ -4616,7 +4616,7 @@
             },
             "e4": {
                 "name": "Right on the Tiles",
-                "description": "After this character's Skill is used, there is a 24% fixed chance to gain Autarky, which lasts until the end of the current turn.<br />With Autarky, using Basic ATK or Enhanced Basic ATK immediately launches 1 follow-up attack on the same target, dealing <span class=\"text-quantum\">Quantum DMG</span> equal to 100% of the previous Basic ATK (or Enhanced Basic ATK)'s DMG."
+                "description": "After this character's Skill is used, there is a 24% fixed chance to gain Autarky, which lasts until the end of the current turn.<br />With Autarky, using Basic ATK or Enhanced Basic ATK immediately launches 1 <span class=\"tooltip-follow up attack\">follow-up attack</span> on the same target, dealing <span class=\"text-quantum\">Quantum DMG</span> equal to 100% of the previous Basic ATK (or Enhanced Basic ATK)'s DMG."
             },
             "e5": {
                 "name": "Gambit for the Tiles",
@@ -4793,7 +4793,7 @@
             },
             "ultimate": {
                 "name": "Surprise Present",
-                "description": "<span class=\"text-highlight\">[Impair] | Energy Cost: 120</span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">96%</span> of Sampo's ATK to all enemies, with a 100% base chance to increase the targets' DoT taken by <span class=\"text-value\">20%</span> for 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[Impair] | Energy Cost: 120</span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">96%</span> of Sampo's ATK to all enemies, with a 100% <span class=\"tooltip-base chance\">base chance</span> to increase the targets' DoT taken by <span class=\"text-value\">20%</span> for 2 turn(s).",
                 "scaling": [
                     [
                         "96%",
@@ -4833,7 +4833,7 @@
             },
             "talent": {
                 "name": "Windtorn Dagger",
-                "description": "<span class=\"text-highlight\">[Enhance]</span><br />Sampo's attacks have a 65% base chance to inflict Wind Shear for 3 turn(s).<br />Enemies inflicted with Wind Shear will take <span class=\"text-wind\">Wind DoT</span> equal to <span class=\"text-value\">20%</span> of Sampo's ATK at the beginning of each turn. Wind Shear can stack up to 5 time(s).",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />Sampo's attacks have a 65% <span class=\"tooltip-base chance\">base chance</span> to inflict Wind Shear for 3 turn(s).<br />Enemies inflicted with Wind Shear will take <span class=\"text-wind\">Wind DoT</span> equal to <span class=\"text-value\">20%</span> of Sampo's ATK at the beginning of each turn. Wind Shear can stack up to 5 time(s).",
                 "scaling": [
                     [
                         "20%",
@@ -4856,7 +4856,7 @@
             },
             "technique": {
                 "name": "Shining Bright",
-                "description": "<span class=\"text-highlight\">[Impair]</span><br />After Sampo uses Technique, enemies in a set area are inflicted with Blind for 10 second(s). Blinded enemies cannot detect your team.<br />When initiating combat against a Blinded enemy, there is a 100% fixed chance to delay all enemies' action by 25%."
+                "description": "<span class=\"text-highlight\">[Impair]</span><br />After Sampo uses Technique, enemies in a set area are inflicted with Blind for 10 second(s). Blinded enemies cannot detect your team.<br />When initiating combat against a Blinded enemy, there is a 100% <span class=\"tooltip-fixed chance\">fixed chance</span> to delay all enemies' action by 25%."
             }
         },
         "traces": [
@@ -4949,7 +4949,7 @@
             },
             "e2": {
                 "name": "Infectious Enthusiasm",
-                "description": "Defeating an enemy with Wind Shear has a 100% base chance to inflict all enemies with 1 stack(s) of Wind Shear, equivalent to the Talent's Wind Shear."
+                "description": "Defeating an enemy with Wind Shear has a 100% <span class=\"tooltip-base chance\">base chance</span> to inflict all enemies with 1 stack(s) of Wind Shear, equivalent to the Talent's Wind Shear."
             },
             "e3": {
                 "name": "Big Money!",
@@ -5094,7 +5094,7 @@
             },
             "skill": {
                 "name": "Lightning Flash",
-                "description": "<span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">70%</span> of Serval's ATK to a single enemy and <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">30%</span> of Serval's ATK to enemies adjacent to it, with a 80% base chance for enemies hit to become Shocked for 2 turn(s).<br />While Shocked, enemies take <span class=\"text-lightning\">Lightning DoT</span> equal to <span class=\"text-value\">40%</span> of Serval's ATK at the beginning of each turn.",
+                "description": "<span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">70%</span> of Serval's ATK to a single enemy and <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">30%</span> of Serval's ATK to enemies adjacent to it, with a 80% <span class=\"tooltip-base chance\">base chance</span> for enemies hit to become Shocked for 2 turn(s).<br />While Shocked, enemies take <span class=\"text-lightning\">Lightning DoT</span> equal to <span class=\"text-value\">40%</span> of Serval's ATK at the beginning of each turn.",
                 "scaling": [
                     [
                         "70%",
@@ -5174,7 +5174,7 @@
             },
             "talent": {
                 "name": "Galvanic Chords",
-                "description": "<span class=\"text-highlight\">[Enhance]</span><br />After Serval attacks, deals Additional <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">36%</span> of Serval's ATK to all Shocked enemies.",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />After Serval attacks, deals <span class=\"tooltip-additional dmg\">Additional</span> <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">36%</span> of Serval's ATK to all Shocked enemies.",
                 "scaling": [
                     [
                         "36%",
@@ -5197,13 +5197,13 @@
             },
             "technique": {
                 "name": "Good Night, Belobog",
-                "description": "Immediately attacks the enemy. After entering battle, deals <span class=\"text-lightning\">Lightning DMG</span> equal to 50% of Serval's ATK to a random enemy, with a 100% base chance for all enemies to become Shocked for 3 turn(s).<br />While Shocked, enemies will take <span class=\"text-lightning\">Lightning DoT</span> equal to 50% of Serval's ATK at the beginning of each turn."
+                "description": "Immediately attacks the enemy. After entering battle, deals <span class=\"text-lightning\">Lightning DMG</span> equal to 50% of Serval's ATK to a random enemy, with a 100% <span class=\"tooltip-base chance\">base chance</span> for all enemies to become Shocked for 3 turn(s).<br />While Shocked, enemies will take <span class=\"text-lightning\">Lightning DoT</span> equal to 50% of Serval's ATK at the beginning of each turn."
             }
         },
         "traces": [
             {
                 "name": "Rock 'n' Roll",
-                "description": "Skill has a 20% increased base chance to Shock enemies.",
+                "description": "Skill has a 20% increased <span class=\"tooltip-base chance\">base chance</span> to Shock enemies.",
                 "unlock": "A2",
                 "subTraces": [
                     {
@@ -5292,7 +5292,7 @@
             },
             "e4": {
                 "name": "Make Some Noise!",
-                "description": "Ultimate has a 100% base chance to apply Shock to any enemies not currently Shocked. This Shock has the same effects as the one applied by Skill."
+                "description": "Ultimate has a 100% <span class=\"tooltip-base chance\">base chance</span> to apply Shock to any enemies not currently Shocked. This Shock has the same effects as the one applied by Skill."
             },
             "e5": {
                 "name": "Belobog's Loudest Roar!",
@@ -5391,7 +5391,7 @@
             "bossMat": "Lightning Crown of the Past Shadow",
             "weeklyBossMat": "Guardian's Lament"
         },
-        "description": "A Belobog mechanic who used to be a researcher for the Technology Division of the Architects.<br />As Gepard Landau's elder sister, her personality stands in stark contrast to her brother's.<br />She loves an ancient form of music known as \"rock 'n' roll\" that was popular before the Eternal Freeze.",
+        "description": "A Belobog mechanic who used to be a researcher for the Technology Division of the Architects.<br />As Gepard Landau's elder sister, her personality stands in stark contrast to her brother's. She loves an ancient form of music known as \"rock 'n' roll\" that was popular before the Eternal Freeze.",
         "gender": "Female",
         "faction": "Belobog",
         "voiceActors": {
@@ -5429,7 +5429,7 @@
             },
             "skill": {
                 "name": "Cloudfencer Art: Mountainfall",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">105%</span> of Sushang's ATK to a single enemy. In addition, there is a 33% chance to trigger Sword Stance on the final hit, dealing Additional <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">50%</span> of Sushang's ATK to the enemy.<br />If the enemy is inflicted with Weakness Break, Sword Stance is guaranteed to trigger.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">105%</span> of Sushang's ATK to a single enemy. In addition, there is a 33% chance to trigger Sword Stance on the final hit, dealing <span class=\"tooltip-additional dmg\">Additional</span> <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">50%</span> of Sushang's ATK to the enemy.<br />If the enemy is inflicted with <span class=\"tooltip-weakness break state\">Weakness Break</span>, Sword Stance is guaranteed to trigger.",
                 "scaling": [
                     [
                         "105%",
@@ -5766,7 +5766,7 @@
             },
             "skill": {
                 "name": "Soothing Melody",
-                "description": "<span class=\"text-highlight\">[Support]</span><br />Grants a single ally with Benediction to increase their ATK by <span class=\"text-value\">25%</span>, up to <span class=\"text-value\">15%</span> of Tingyun's current ATK.<br />When the ally with Benediction attacks, they will deal Additional <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">20%</span> of that ally's ATK for 1 time.<br />Benediction lasts for 3 turn(s) and is only effective on the most recent receiver of Tingyun's Skill.",
+                "description": "<span class=\"text-highlight\">[Support]</span><br />Grants a single ally with Benediction to increase their ATK by <span class=\"text-value\">25%</span>, up to <span class=\"text-value\">15%</span> of Tingyun's current ATK.<br />When the ally with Benediction attacks, they will deal <span class=\"tooltip-additional dmg\">Additional</span> <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">20%</span> of that ally's ATK for 1 time.<br />Benediction lasts for 3 turn(s) and is only effective on the most recent receiver of Tingyun's Skill.",
                 "scaling": [
                     [
                         "25%",
@@ -5846,7 +5846,7 @@
             },
             "talent": {
                 "name": "Violet Sparknado",
-                "description": "<span class=\"text-highlight\">[Enhance]</span><br />When an enemy is attacked by Tingyun, the ally with Benediction immediately deals Additional <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">30%</span> of that ally's ATK to the same enemy.",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />When an enemy is attacked by Tingyun, the ally with Benediction immediately deals <span class=\"tooltip-additional dmg\">Additional</span> <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">30%</span> of that ally's ATK to the same enemy.",
                 "scaling": [
                     [
                         "30%",
@@ -6186,7 +6186,7 @@
             },
             "talent": {
                 "name": "Perfect Pickoff",
-                "description": "<span class=\"text-highlight\">[Enhance]</span><br />Each time after this character inflicts Weakness Break on an enemy, ATK increases by <span class=\"text-value\">10%</span>. This effect stacks up to 2 time(s).",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />Each time after this character inflicts <span class=\"tooltip-weakness break state\">Weakness Break</span> on an enemy, ATK increases by <span class=\"text-value\">10%</span>. This effect stacks up to 2 time(s).",
                 "scaling": [
                     [
                         "10%",
@@ -6470,7 +6470,7 @@
             },
             "skill": {
                 "name": "Ever-Burning Amber",
-                "description": "<span class=\"text-highlight\">[Defense]</span><br />Increases the Trailblazer's DMG Reduction by <span class=\"text-value\">40%</span> and gains 1 stack of Magma Will, with a 100% base chance to Taunt all enemies for 1 turn(s).",
+                "description": "<span class=\"text-highlight\">[Defense]</span><br />Increases the Trailblazer's DMG Reduction by <span class=\"text-value\">40%</span> and gains 1 stack of Magma Will, with a 100% <span class=\"tooltip-base chance\">base chance</span> to Taunt all enemies for 1 turn(s).",
                 "scaling": [
                     [
                         "40%",
@@ -6809,7 +6809,7 @@
             },
             "skill": {
                 "name": "Edge of the Void",
-                "description": "<span class=\"text-highlight\">[Bounce]</span><br />Deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">36%</span> of Welt's ATK to a single enemy and further deals DMG 2 extra times, with each time dealing <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">36%</span> of Welt's ATK to a random enemy. On hit, there is a <span class=\"text-value\">65%</span> base chance to reduce the enemy's SPD by 10% for 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[Bounce]</span><br />Deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">36%</span> of Welt's ATK to a single enemy and further deals DMG 2 extra times, with each time dealing <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">36%</span> of Welt's ATK to a random enemy. On hit, there is a <span class=\"text-value\">65%</span> <span class=\"tooltip-base chance\">base chance</span> to reduce the enemy's SPD by 10% for 2 turn(s).",
                 "scaling": [
                     [
                         "36%",
@@ -6866,7 +6866,7 @@
             },
             "ultimate": {
                 "name": "Synthetic Black Hole",
-                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 120</span><br />Deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">90%</span> of Welt's ATK to all enemies, with a 100% base chance for enemies hit by this ability to be Imprisoned for 1 turn.<br />Imprisoned enemies have their actions delayed by <span class=\"text-value\">32%</span> and SPD reduced by 10%.",
+                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 120</span><br />Deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">90%</span> of Welt's ATK to all enemies, with a 100% <span class=\"tooltip-base chance\">base chance</span> for enemies hit by this ability to be Imprisoned for 1 turn.<br />Imprisoned enemies have their <span class=\"tooltip-action delayed\">actions delayed</span> by <span class=\"text-value\">32%</span> and SPD reduced by 10%.",
                 "scaling": [
                     [
                         "90%",
@@ -6906,7 +6906,7 @@
             },
             "talent": {
                 "name": "Time Distortion",
-                "description": "<span class=\"text-highlight\">[Enhance]</span><br />When hitting an enemy that is already Slowed, Welt deals Additional <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">30%</span> of his ATK to the enemy.",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />When hitting an enemy that is already Slowed, Welt deals <span class=\"tooltip-additional dmg\">Additional</span> <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">30%</span> of his ATK to the enemy.",
                 "scaling": [
                     [
                         "30%",
@@ -6929,13 +6929,13 @@
             },
             "technique": {
                 "name": "Gravitational Imprisonment",
-                "description": "<span class=\"text-highlight\">[Impair]</span><br />After using Welt's Technique, create a dimension that lasts for 15 second(s). Enemies in this dimension have their Movement SPD reduced by 50%. After entering battle with enemies in the dimension, there is a 100% base chance to Imprison the enemies for 1 turn.<br />Imprisoned enemies have their actions delayed by 20% and SPD reduced by 10%. Only 1 dimension created by allies can exist at the same time."
+                "description": "<span class=\"text-highlight\">[Impair]</span><br />After using Welt's Technique, create a dimension that lasts for 15 second(s). Enemies in this dimension have their Movement SPD reduced by 50%. After entering battle with enemies in the dimension, there is a 100% <span class=\"tooltip-base chance\">base chance</span> to Imprison the enemies for 1 turn.<br />Imprisoned enemies have their <span class=\"tooltip-action delayed\">actions delayed</span> by 20% and SPD reduced by 10%. Only 1 dimension created by allies can exist at the same time."
             }
         },
         "traces": [
             {
                 "name": "Retribution",
-                "description": "When using Ultimate, there is a 100% base chance to increase the DMG received by the targets by 12% for 2 turn(s).",
+                "description": "When using Ultimate, there is a 100% <span class=\"tooltip-base chance\">base chance</span> to increase the DMG received by the targets by 12% for 2 turn(s).",
                 "unlock": "A2",
                 "subTraces": [
                     {
@@ -7190,7 +7190,7 @@
             },
             "ultimate": {
                 "name": "Amidst the Raining Bliss",
-                "description": "<span class=\"text-highlight\">[Single Target] | Energy Cost: 140</span><br />Increases Yanqing's CRIT Rate by 60%. When Soulsteel Sync is active, increases Yanqing's CRIT DMG by an extra <span class=\"text-value\">30%</span>. This buff lasts for one turn. Afterwards, deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">210%</span> of Yanqing's ATK to a single enemy.",
+                "description": "<span class=\"text-highlight\">[Single Target] | Energy Cost: 140</span><br />Increases Yanqing's CRIT Rate by 60%. When Soulsteel Sync is active, increases Yanqing's CRIT DMG by an extra <span class=\"text-value\">30%</span>. This <span class=\"tooltip-buff\">buff</span> lasts for one turn. Afterwards, deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">210%</span> of Yanqing's ATK to a single enemy.",
                 "scaling": [
                     [
                         "30%",
@@ -7230,7 +7230,7 @@
             },
             "talent": {
                 "name": "One With the Sword",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />When Soulsteel Sync is active, Yanqing is less likely to be attacked by enemies. Yanqing's CRIT Rate increases by <span class=\"text-value\">15%</span> and his CRIT DMG increases by <span class=\"text-value\">15%</span>. After Yanqing attacks an enemy, there is a <span class=\"text-value\">50%</span> fixed chance to perform a follow-up attack, dealing <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">25%</span> of Yanqing's ATK to the enemy, which has a 65% base chance to Freeze the enemy for 1 turn.<br />The Frozen target cannot take action and receives Additional <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">25%</span> of Yanqing's ATK at the beginning of each turn.<br />When Yanqing receives DMG, the Soulsteel Sync effect will disappear.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />When Soulsteel Sync is active, Yanqing is less likely to be attacked by enemies. Yanqing's CRIT Rate increases by <span class=\"text-value\">15%</span> and his CRIT DMG increases by <span class=\"text-value\">15%</span>. After Yanqing attacks an enemy, there is a <span class=\"text-value\">50%</span> <span class=\"tooltip-fixed chance\">fixed chance</span> to perform a <span class=\"tooltip-follow up attack\">follow-up attack</span>, dealing <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">25%</span> of Yanqing's ATK to the enemy, which has a 65% <span class=\"tooltip-base chance\">base chance</span> to Freeze the enemy for 1 turn.<br />The Frozen target cannot take action and receives <span class=\"tooltip-additional dmg\">Additional</span> <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">25%</span> of Yanqing's ATK at the beginning of each turn.<br />When Yanqing receives DMG, the Soulsteel Sync effect will disappear.",
                 "scaling": [
                     [
                         "15%",
@@ -7601,7 +7601,7 @@
             },
             "talent": {
                 "name": "Resurgence",
-                "description": "<span class=\"text-highlight\">[Enhance]</span><br />Enters the buffed state upon defeating an enemy with Basic ATK, Skill, or Ultimate, and receives an extra turn. While in the buffed state, the DMG of Seele's attacks increases by <span class=\"text-value\">40%</span> for 1 turn(s).<br />Enemies defeated in the extra turn provided by \"Resurgence\" will not trigger another \"Resurgence.\"",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />Enters the buffed state upon defeating an enemy with Basic ATK, Skill, or Ultimate, and receives an <span class=\"tooltip-extra turn\">extra turn</span>. While in the buffed state, the DMG of Seele's attacks increases by <span class=\"text-value\">40%</span> for 1 turn(s).<br />Enemies defeated in the <span class=\"tooltip-extra turn\">extra turn</span> provided by \"Resurgence\" will not trigger another \"Resurgence.\"",
                 "scaling": [
                     [
                         "40%",
@@ -7649,7 +7649,7 @@
             },
             {
                 "name": "Lacerate",
-                "description": "While Seele is in the buffed state, her <span class=\"text-quantum\">Quantum RES</span> PEN increases by 20%.",
+                "description": "While Seele is in the buffed state, her <span class=\"text-quantum\">Quantum</span> RES PEN increases by 20%.",
                 "unlock": "A4",
                 "subTraces": [
                     {
@@ -7904,7 +7904,7 @@
             },
             "talent": {
                 "name": "Prana Extirpated",
-                "description": "<span class=\"text-highlight\">[Bounce]</span><br />Summons Lightning-Lord at the start of the battle. Lightning-Lord has 60 base SPD and 3 base Hits Per Action. When the Lightning-Lord takes action, its hits are considered as follow-up attacks, with each hit dealing <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">33%</span> of Jing Yuan's ATK to a random single enemy, and enemies adjacent to it also receive <span class=\"text-lightning\">Lightning DMG</span> equal to 25% of the DMG dealt to the target enemy.<br />The Lightning-Lord's Hits Per Action can reach a max of 10. Every time Lightning-Lord's Hits Per Action increases by 1, its SPD increases by 10. After the Lightning-Lord's action ends, its SPD and Hits Per Action return to their base values.<br />When Jing Yuan is knocked down, the Lightning-Lord will disappear.<br />When Jing Yuan is affected by Crowd Control debuff, the Lightning-Lord is unable to take action.",
+                "description": "<span class=\"text-highlight\">[Bounce]</span><br />Summons Lightning-Lord at the start of the battle. Lightning-Lord has 60 base SPD and 3 base Hits Per Action. When the Lightning-Lord takes action, its hits are considered as <span class=\"tooltip-follow up attack\">follow-up attacks</span>, with each hit dealing <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">33%</span> of Jing Yuan's ATK to a random single enemy, and enemies adjacent to it also receive <span class=\"text-lightning\">Lightning DMG</span> equal to 25% of the DMG dealt to the target enemy.<br />The Lightning-Lord's Hits Per Action can reach a max of 10. Every time Lightning-Lord's Hits Per Action increases by 1, its SPD increases by 10. After the Lightning-Lord's action ends, its SPD and Hits Per Action return to their base values.<br />When Jing Yuan is <span class=\"tooltip-downed state\">knocked down</span>, the Lightning-Lord will disappear.<br />When Jing Yuan is affected by <span class=\"tooltip-crowd control debuff\">Crowd Control debuff</span>, the Lightning-Lord is unable to take action.",
                 "scaling": [
                     [
                         "33%",
@@ -8121,7 +8121,7 @@
             "bossMat": "Shape Shifter's Lightning Staff",
             "weeklyBossMat": "Destroyer's Final Road"
         },
-        "description": "The Divine Foresight, one of the Seven Arbiter-Generals of the Xianzhou Alliance, leads the Cloud Knights of the Xianzhou Luofu.<br />A student of the Luofu's previous Sword Champion, though not known for his martial prowess.",
+        "description": "The Divine Foresight, one of the Seven Arbiter-Generals of the Xianzhou Alliance, leads the Cloud Knights of the Xianzhou Luofu. A student of the Luofu's previous Sword Champion, though not known for his martial prowess.",
         "gender": "Male",
         "faction": "Xianzhou Luofu",
         "voiceActors": {
@@ -8159,7 +8159,7 @@
             },
             "skill": {
                 "name": "Allow Changes?",
-                "description": "<span class=\"text-highlight\">[Impair]</span><br />There is a <span class=\"text-value\">75%</span> base chance to add 1 Weakness of an on-field ally's Type to the target enemy. This also reduces the enemy's DMG RES to that Weakness Type by 20% for 2 turn(s). If the enemy already has that Type Weakness, the effect of DMG RES reduction to that Weakness Type will not be triggered.<br />Each enemy can only have 1 Weakness implanted by Silver Wolf. When Silver Wolf implants another Weakness to the target, only the most recent implanted Weakness will be kept.<br />In addition, there is a 100% base chance to reduce the All-Type RES of the enemy further by <span class=\"text-value\">7.50%</span> for 2 turn(s).<br />Deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">98%</span> of Silver Wolf's ATK to this enemy.",
+                "description": "<span class=\"text-highlight\">[Impair]</span><br />There is a <span class=\"text-value\">75%</span> <span class=\"tooltip-base chance\">base chance</span> to add 1 Weakness of an on-field ally's Type to the target enemy. This also reduces the enemy's DMG RES to that Weakness Type by 20% for 2 turn(s). If the enemy already has that Type Weakness, the effect of DMG RES reduction to that Weakness Type will not be triggered.<br />Each enemy can only have 1 Weakness implanted by Silver Wolf. When Silver Wolf implants another Weakness to the target, only the most recent implanted Weakness will be kept.<br />In addition, there is a 100% <span class=\"tooltip-base chance\">base chance</span> to reduce the All-Type RES of the enemy further by <span class=\"text-value\">7.50%</span> for 2 turn(s).<br />Deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">98%</span> of Silver Wolf's ATK to this enemy.",
                 "scaling": [
                     [
                         "75%",
@@ -8216,7 +8216,7 @@
             },
             "ultimate": {
                 "name": "User Banned",
-                "description": "<span class=\"text-highlight\">[Impair] | Energy Cost: 110</span><br />There's a <span class=\"text-value\">85%</span> base chance to decrease the target enemy's DEF by <span class=\"text-value\">36%</span> for 3 turn(s). And at the same time, deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">228%</span> of Silver Wolf's ATK to the target enemy.",
+                "description": "<span class=\"text-highlight\">[Impair] | Energy Cost: 110</span><br />There's a <span class=\"text-value\">85%</span> <span class=\"tooltip-base chance\">base chance</span> to decrease the target enemy's DEF by <span class=\"text-value\">36%</span> for 3 turn(s). And at the same time, deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">228%</span> of Silver Wolf's ATK to the target enemy.",
                 "scaling": [
                     [
                         "85%",
@@ -8273,7 +8273,7 @@
             },
             "talent": {
                 "name": "Awaiting System Response...",
-                "description": "<span class=\"text-highlight\">[Impair]</span><br />Silver Wolf can create three types of Bugs: reduce ATK by <span class=\"text-value\">5%</span>, reduce DEF by <span class=\"text-value\">4%</span>, and reduce SPD by <span class=\"text-value\">3%</span>.<br />Every time Silver Wolf attacks, she has a <span class=\"text-value\">60%</span> base chance to implant a random Bug that lasts for 3 turn(s) in the enemy target.",
+                "description": "<span class=\"text-highlight\">[Impair]</span><br />Silver Wolf can create three types of Bugs: reduce ATK by <span class=\"text-value\">5%</span>, reduce DEF by <span class=\"text-value\">4%</span>, and reduce SPD by <span class=\"text-value\">3%</span>.<br />Every time Silver Wolf attacks, she has a <span class=\"text-value\">60%</span> <span class=\"tooltip-base chance\">base chance</span> to implant a random Bug that lasts for 3 turn(s) in the enemy target.",
                 "scaling": [
                     [
                         "5%",
@@ -8353,7 +8353,7 @@
         "traces": [
             {
                 "name": "Generate",
-                "description": "Bug's duration is extended for 1 turn(s). Every time an enemy is inflicted with Weakness Break, Silver Wolf has a 65% base chance of implanting a random Bug in the enemy.",
+                "description": "Bug's duration is extended for 1 turn(s). Every time an enemy is inflicted with Weakness Break, Silver Wolf has a 65% <span class=\"tooltip-base chance\">base chance</span> of implanting a random Bug in the enemy.",
                 "unlock": "A2",
                 "subTraces": [
                     {
@@ -8625,7 +8625,7 @@
             },
             "ultimate": {
                 "name": "Death Wish",
-                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 100</span><br />Removes 1 buff(s) from all enemies and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">120%</span> of Luocha's ATK to all enemies. Luocha gains 1 stack of Abyss Flower.",
+                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 100</span><br />Removes 1 <span class=\"tooltip-buff\">buff(s)</span> from all enemies and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">120%</span> of Luocha's ATK to all enemies. Luocha gains 1 stack of Abyss Flower.",
                 "scaling": [
                     [
                         "120%",
@@ -8648,7 +8648,7 @@
             },
             "talent": {
                 "name": "Cycle of Life",
-                "description": "<span class=\"text-highlight\">[Restore]</span><br />When Abyss Flower reaches 2 stacks, Luocha consumes all stacks of Abyss Flower to deploy a Field against the enemy.<br />When any enemy in the Field is attacked by an ally, the attacking ally's HP is immediately restored by an amount equal to <span class=\"text-value\">12%</span> of Luocha's ATK plus <span class=\"text-value\">60</span>.<br />The Field's effect lasts for 2 turns. When Luocha is knocked down, the Field will be dispelled.",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br />When Abyss Flower reaches 2 stacks, Luocha consumes all stacks of Abyss Flower to deploy a Field against the enemy.<br />When any enemy in the Field is attacked by an ally, the attacking ally's HP is immediately restored by an amount equal to <span class=\"text-value\">12%</span> of Luocha's ATK plus <span class=\"text-value\">60</span>.<br />The Field's effect lasts for 2 turns. When Luocha is <span class=\"tooltip-downed state\">knocked down</span>, the Field will be dispelled.",
                 "scaling": [
                     [
                         "12%",
@@ -9438,7 +9438,7 @@
             },
             "talent": {
                 "name": "Shuhu's Gift",
-                "description": "<span class=\"text-highlight\">[AoE]</span><br />When Blade sustains DMG or consumes his HP, he gains 1 stack of Charge, stacking up to 5 times. A max of 1 Charge stack can be gained every time he is attacked.<br />When Charge stack reaches maximum, immediately launches a follow-up attack on all enemies, dealing <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">22%</span> of Blade's ATK plus <span class=\"text-value\">55%</span> of his Max HP. At the same time, restores Blade's HP by 25% of his Max HP. After the follow-up attack, all Charges are consumed.",
+                "description": "<span class=\"text-highlight\">[AoE]</span><br />When Blade sustains DMG or consumes his HP, he gains 1 stack of Charge, stacking up to 5 times. A max of 1 Charge stack can be gained every time he is attacked.<br />When Charge stack reaches maximum, immediately launches a <span class=\"tooltip-follow up attack\">follow-up attack</span> on all enemies, dealing <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">22%</span> of Blade's ATK plus <span class=\"text-value\">55%</span> of his Max HP. At the same time, restores Blade's HP by 25% of his Max HP. After the follow-up attack, all Charges are consumed.",
                 "scaling": [
                     [
                         "22%",
@@ -9536,7 +9536,7 @@
             },
             {
                 "name": "Cyclone of Destruction",
-                "description": "DMG dealt by Talent's follow-up attack increases by 20%.",
+                "description": "DMG dealt by Talent's <span class=\"tooltip-follow up attack\">follow-up attack</span> increases by 20%.",
                 "unlock": "A6",
                 "subTraces": [
                     {
@@ -9587,7 +9587,7 @@
             },
             "e6": {
                 "name": "Reborn Into an Empty Husk",
-                "description": "The maximum number of Charge stacks is reduced to 4. The DMG of the follow-up attack triggered by Blade's Talent additionally increases by 50% of his Max HP."
+                "description": "The maximum number of Charge stacks is reduced to 4. The DMG of the <span class=\"tooltip-follow up attack\">follow-up attack</span> triggered by Blade's Talent additionally increases by 50% of his Max HP."
             }
         },
         "stats": {
@@ -9678,7 +9678,7 @@
             "bossMat": "Ascendant Debris",
             "weeklyBossMat": "Regret of Infinite Ochema"
         },
-        "description": "A member of the Stellaron Hunters, and a swordsman who abandoned his blade. Pledges loyalty to Destiny's Slave, and possesses a terrifying self-healing ability.",
+        "description": "A member of the Stellaron Hunters, and a swordsman who abandoned his blade. Pledges loyalty to \"Destiny's Slave\", and possesses a terrifying self-healing ability.",
         "gender": "Male",
         "faction": "Stellaron Hunters",
         "voiceActors": {
@@ -9773,7 +9773,7 @@
             },
             "ultimate": {
                 "name": "Twilight Trill",
-                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 120</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">48%</span> of Kafka's ATK to all enemies, with a 100% base chance for enemies hit to become Shocked and immediately take DMG equal to <span class=\"text-value\">80%</span> of the DoT. Shock lasts for 2 turn(s).<br />While Shocked, enemies receive <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">115%</span> of Kafka's ATK at the beginning of each turn.",
+                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 120</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">48%</span> of Kafka's ATK to all enemies, with a 100% <span class=\"tooltip-base chance\">base chance</span> for enemies hit to become Shocked and immediately take DMG equal to <span class=\"text-value\">80%</span> of the DoT. Shock lasts for 2 turn(s).<br />While Shocked, enemies receive <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">115%</span> of Kafka's ATK at the beginning of each turn.",
                 "scaling": [
                     [
                         "48%",
@@ -9830,7 +9830,7 @@
             },
             "talent": {
                 "name": "Gentle But Cruel",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />After an ally of Kafka's uses Basic ATK on an enemy target, Kafka immediately launches 1 follow-up attack and deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">42%</span> of her ATK to that target, with a 100% base chance to inflict Shock equivalent to that applied by her Ultimate to the attacked enemy target for 2 turns. This effect can only be triggered 1 time per turn.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />After an ally of Kafka's uses Basic ATK on an enemy target, Kafka immediately launches 1 <span class=\"tooltip-follow up attack\">follow-up attack</span> and deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">42%</span> of her ATK to that target, with a 100% <span class=\"tooltip-base chance\">base chance</span> to inflict Shock equivalent to that applied by her Ultimate to the attacked enemy target for 2 turns. This effect can only be triggered 1 time per turn.",
                 "scaling": [
                     [
                         "42%",
@@ -9853,7 +9853,7 @@
             },
             "technique": {
                 "name": "Mercy Is Not Forgiveness",
-                "description": "Immediately attacks all enemies within a set range. After entering battle, deals <span class=\"text-lightning\">Lightning DMG</span> equal to 50% of Kafka's ATK to all enemies, with a 100% base chance to inflict Shock equivalent to that applied by her Ultimate on every enemy target for 2 turn(s)."
+                "description": "Immediately attacks all enemies within a set range. After entering battle, deals <span class=\"text-lightning\">Lightning DMG</span> equal to 50% of Kafka's ATK to all enemies, with a 100% <span class=\"tooltip-base chance\">base chance</span> to inflict Shock equivalent to that applied by her Ultimate on every enemy target for 2 turn(s)."
             }
         },
         "traces": [
@@ -9911,7 +9911,7 @@
             },
             {
                 "name": "Thorns",
-                "description": "The base chance for Ultimate, Technique, or the follow-up attack triggered by the Talent to inflict Shock increases by 30%.",
+                "description": "The <span class=\"tooltip-base chance\">base chance</span> for Ultimate, Technique, or the <span class=\"tooltip-follow up attack\">follow-up attack</span> triggered by the Talent to inflict Shock increases by 30%.",
                 "unlock": "A6",
                 "subTraces": [
                     {
@@ -9942,7 +9942,7 @@
         "eidolon": {
             "e1": {
                 "name": "Da Capo",
-                "description": "When the Talent triggers a follow-up attack, there is a 100% base chance to increase the DoT received by the target by 30% for 2 turn(s)."
+                "description": "When the Talent triggers a <span class=\"tooltip-follow up attack\">follow-up attack</span>, there is a 100% <span class=\"tooltip-base chance\">base chance</span> to increase the DoT received by the target by 30% for 2 turn(s)."
             },
             "e2": {
                 "name": "Fortississimo",
@@ -9962,7 +9962,7 @@
             },
             "e6": {
                 "name": "Leggiero",
-                "description": "The DMG multiplier for Shock DMG dealt by Ultimate, Technique, or the follow-up attack triggered by Talent increases by 156%, and extends the duration of Shock on the enemy target by 1 turn(s)."
+                "description": "The DMG multiplier for Shock DMG dealt by Ultimate, Technique, or the <span class=\"tooltip-follow up attack\">follow-up attack</span> triggered by Talent increases by 156%, and extends the duration of Shock on the enemy target by 1 turn(s)."
             }
         },
         "stats": {
@@ -10113,7 +10113,7 @@
             },
             "skill": {
                 "name": "Lacerating Fist",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">60%</span> of Luka's ATK to a single enemy target. In addition, there is a 100% base chance to inflict Bleed on them, lasting for 3 turn(s).<br />While Bleeding, the enemy will take 24.0% of their Max HP as <span class=\"text-physical\">Physical DMG</span> at the start of each turn. This DMG will not exceed more than <span class=\"text-value\">130%</span> of Luka's ATK.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">60%</span> of Luka's ATK to a single enemy target. In addition, there is a 100% <span class=\"tooltip-base chance\">base chance</span> to inflict Bleed on them, lasting for 3 turn(s).<br />While Bleeding, the enemy will take 24.0% of their Max HP as <span class=\"text-physical\">Physical DMG</span> at the start of each turn. This DMG will not exceed more than <span class=\"text-value\">130%</span> of Luka's ATK.",
                 "scaling": [
                     [
                         "60%",
@@ -10153,7 +10153,7 @@
             },
             "ultimate": {
                 "name": "Coup de Grâce",
-                "description": "<span class=\"text-highlight\">[Single Target] | Energy Cost: 130</span><br />Receives 2 stack(s) of Fighting Will, with a 100% base chance to increase a single enemy target's DMG received by <span class=\"text-value\">12%</span> for 3 turn(s). Then, deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">198%</span> of Luka's ATK to the target.",
+                "description": "<span class=\"text-highlight\">[Single Target] | Energy Cost: 130</span><br />Receives 2 stack(s) of Fighting Will, with a 100% <span class=\"tooltip-base chance\">base chance</span> to increase a single enemy target's DMG received by <span class=\"text-value\">12%</span> for 3 turn(s). Then, deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">198%</span> of Luka's ATK to the target.",
                 "scaling": [
                     [
                         "12%",
@@ -10216,7 +10216,7 @@
             },
             "technique": {
                 "name": "Anticipator",
-                "description": "Immediately attacks the enemy. Upon entering battle, Luka deals <span class=\"text-physical\">Physical DMG</span> equal to 50% of his ATK to a random single enemy with a 100% base chance to inflict his Skill's Bleed effect on the target. Then, Luka gains 1 additional stack of Fighting Will."
+                "description": "Immediately attacks the enemy. Upon entering battle, Luka deals <span class=\"text-physical\">Physical DMG</span> equal to 50% of his ATK to a random single enemy with a 100% <span class=\"tooltip-base chance\">base chance</span> to inflict his Skill's Bleed effect on the target. Then, Luka gains 1 additional stack of Fighting Will."
             }
         },
         "traces": [
@@ -10834,7 +10834,7 @@
             },
             "skill": {
                 "name": "Known by Stars, Shown by Hearts",
-                "description": "<span class=\"text-highlight\">[Defense]</span><br />Activates Matrix of Prescience, via which other team members will Distribute 65% of the DMG they receive (before this DMG is mitigated by any Shields) to Fu Xuan for 3 turn(s).<br />While affected by Matrix of Prescience, all team members gain the Knowledge effect, which increases their respective Max HP by <span class=\"text-value\">3%</span> of Fu Xuan's Max HP, and increases CRIT Rate by <span class=\"text-value\">6%</span>.<br />When Fu Xuan is knocked down, the Matrix of Prescience will be dispelled.",
+                "description": "<span class=\"text-highlight\">[Defense]</span><br />Activates Matrix of Prescience, via which other team members will <span class=\"tooltip-distribute\">Distribute</span> 65% of the DMG they receive (before this DMG is mitigated by any Shields) to Fu Xuan for 3 turn(s).<br />While affected by Matrix of Prescience, all team members gain the Knowledge effect, which increases their respective Max HP by <span class=\"text-value\">3%</span> of Fu Xuan's Max HP, and increases CRIT Rate by <span class=\"text-value\">6%</span>.<br />When Fu Xuan is <span class=\"tooltip-downed state\">knocked down</span>, the Matrix of Prescience will be dispelled.",
                 "scaling": [
                     [
                         "3%",
@@ -11734,7 +11734,7 @@
             },
             "technique": {
                 "name": "Innermost Nature",
-                "description": "<span class=\"text-highlight\">[Impair]</span><br />After using this Technique, creates a dimension around Jingliu that lasts for 20 seconds, and all enemies in this dimension will become Frozen. After entering combat with enemies in the dimension, Jingliu immediately regenerates 15 Energy and obtains 1 stack(s) of Syzygy, with a 100% base chance of Freezing enemy targets for 1 turn(s). While Frozen, enemy targets cannot take action, and receive <span class=\"text-ice\">Ice</span> Additional DMG equal to 80% of Jingliu's ATK at the start of every turn. Only 1 dimension created by allies can exist at the same time."
+                "description": "<span class=\"text-highlight\">[Impair]</span><br />After using this Technique, creates a dimension around Jingliu that lasts for 20 seconds, and all enemies in this dimension will become Frozen. After entering combat with enemies in the dimension, Jingliu immediately regenerates 15 Energy and obtains 1 stack(s) of Syzygy, with a 100% <span class=\"tooltip-base chance\">base chance</span> of Freezing enemy targets for 1 turn(s). While Frozen, enemy targets cannot take action, and receive <span class=\"text-ice\">Ice</span> <span class=\"tooltip-additional dmg\">Additional DMG</span> equal to 80% of Jingliu's ATK at the start of every turn. Only 1 dimension created by allies can exist at the same time."
             }
         },
         "traces": [
@@ -11942,7 +11942,7 @@
             "jp": "Houko Kuwashima (桑島 法子)"
         },
         "release": {
-            "date": "October 10, 2023",
+            "date": "October 11, 2023",
             "version": "1.4"
         }
     },
@@ -11972,7 +11972,7 @@
             },
             "skill": {
                 "name": "Blazing Welcome",
-                "description": "<span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">60%</span> of Guinaifen's ATK to a single enemy and deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">20%</span> of Guinaifen's ATK to any adjacent enemies with a 100% base chance to Burn the target and adjacent targets. When Burned, enemies will take a <span class=\"text-fire\">Fire DoT</span> equal to <span class=\"text-value\">83%</span> of Guinaifen's ATK at the beginning of each turn, lasting for 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">60%</span> of Guinaifen's ATK to a single enemy and deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">20%</span> of Guinaifen's ATK to any adjacent enemies with a 100% <span class=\"tooltip-base chance\">base chance</span> to Burn the target and adjacent targets. When Burned, enemies will take a <span class=\"text-fire\">Fire DoT</span> equal to <span class=\"text-value\">83%</span> of Guinaifen's ATK at the beginning of each turn, lasting for 2 turn(s).",
                 "scaling": [
                     [
                         "60%",
@@ -12069,7 +12069,7 @@
             },
             "talent": {
                 "name": "PatrAeon Benefits",
-                "description": "<span class=\"text-highlight\">[Impair]</span><br />When Guinaifen is on the field, there is a 100% base chance to apply Firekiss to an enemy after their Burn status causes DMG. While inflicted with Firekiss, the enemy receives <span class=\"text-value\">4%</span> increased DMG, which lasts for 3 turn(s) and can stack up to 3 time(s).",
+                "description": "<span class=\"text-highlight\">[Impair]</span><br />When Guinaifen is on the field, there is a 100% <span class=\"tooltip-base chance\">base chance</span> to apply Firekiss to an enemy after their Burn status causes DMG. While inflicted with Firekiss, the enemy receives <span class=\"text-value\">4%</span> increased DMG, which lasts for 3 turn(s) and can stack up to 3 time(s).",
                 "scaling": [
                     [
                         "4%",
@@ -12092,13 +12092,13 @@
             },
             "technique": {
                 "name": "Skill Showcase",
-                "description": "Immediately attacks the enemy. After entering battle, deals DMG for 4 time(s), dealing <span class=\"text-fire\">Fire DMG</span> equal to 50% of Guinaifen's ATK to a random single enemy target each time, with a 100% base chance of inflicting Firekiss on them."
+                "description": "Immediately attacks the enemy. After entering battle, deals DMG for 4 time(s), dealing <span class=\"text-fire\">Fire DMG</span> equal to 50% of Guinaifen's ATK to a random single enemy target each time, with a 100% <span class=\"tooltip-base chance\">base chance</span> of inflicting Firekiss on them."
             }
         },
         "traces": [
             {
                 "name": "High Poles",
-                "description": "Basic ATK has a 80% base chance of inflicting an enemy with a Burn, equivalent to that of Skill.",
+                "description": "Basic ATK has a 80% <span class=\"tooltip-base chance\">base chance</span> of inflicting an enemy with a Burn, equivalent to that of Skill.",
                 "unlock": "A2",
                 "subTraces": [
                     {
@@ -12181,7 +12181,7 @@
         "eidolon": {
             "e1": {
                 "name": "Slurping Noodles During Handstand",
-                "description": "When Skill is used, there is a 100% base chance to reduce the attacked target enemy's Effect RES by 10% for 2 turn(s)."
+                "description": "When Skill is used, there is a 100% <span class=\"tooltip-base chance\">base chance</span> to reduce the attacked target enemy's Effect RES by 10% for 2 turn(s)."
             },
             "e2": {
                 "name": "Brushing Teeth While Whistling",
@@ -12330,7 +12330,7 @@
             },
             "skill": {
                 "name": "Difficulty Paying?",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Inflicts a single target enemy with a Proof of Debt status, increasing the DMG it takes from follow-up attacks by <span class=\"text-value\">25%</span>. Proof of Debt only takes effect on the most recent target it is applied to. If there are no enemies inflicted with Proof of Debt on the field when an ally's turn starts or when an ally takes action, Topaz will inflict a random enemy with Proof of Debt.<br />Numby deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">75%</span> of Topaz's ATK to this target. Using this Skill to deal DMG is considered as launching a follow-up attack.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Inflicts a single target enemy with a Proof of Debt status, increasing the DMG it takes from <span class=\"tooltip-follow up attack\">follow-up attacks</span> by <span class=\"text-value\">25%</span>. Proof of Debt only takes effect on the most recent target it is applied to. If there are no enemies inflicted with Proof of Debt on the field when an ally's turn starts or when an ally takes action, Topaz will inflict a random enemy with Proof of Debt.<br />Numby deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">75%</span> of Topaz's ATK to this target. Using this Skill to deal DMG is considered as launching a <span class=\"tooltip-follow up attack\">follow-up attack</span>.",
                 "scaling": [
                     [
                         "25%",
@@ -12410,7 +12410,7 @@
             },
             "talent": {
                 "name": "Trotter Market!?",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Summons Numby at the start of battle. Numby has 80 SPD by default. When taking action, Numby launches follow-up attacks on a single enemy target afflicted with Proof of Debt, dealing <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">75%</span> of Topaz's ATK.<br />When enemies afflicted with Proof of Debt receive an ally's follow-up attacks, Numby's action is Advanced Forward by 50%. The action Advance Forward effect cannot be triggered during Numby's own turn.<br />When Topaz is downed, Numby disappears.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Summons Numby at the start of battle. Numby has 80 SPD by default. When taking action, Numby launches <span class=\"tooltip-follow up attack\">follow-up attacks</span> on a single enemy target afflicted with Proof of Debt, dealing <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">75%</span> of Topaz's ATK.<br />When enemies afflicted with Proof of Debt receive an ally's follow-up attacks, Numby's action is Advanced Forward by 50%. The action Advance Forward effect cannot be triggered during Numby's own turn.<br />When Topaz is <span class=\"tooltip-downed state\">downed</span>, Numby disappears.",
                 "scaling": [
                     [
                         "75%",
@@ -12439,7 +12439,7 @@
         "traces": [
             {
                 "name": "Overdraft",
-                "description": "When Topaz uses Basic ATK to deal DMG, it will be considered as a follow-up attack.",
+                "description": "When Topaz uses Basic ATK to deal DMG, it will be considered as a <span class=\"tooltip-follow up attack\">follow-up attack</span>.",
                 "unlock": "A2",
                 "subTraces": [
                     {
@@ -12518,7 +12518,7 @@
         "eidolon": {
             "e1": {
                 "name": "Future Market",
-                "description": "When enemies afflicted with Proof of Debt receive follow-up attacks, they will enter the Debtor state. This can take effect only once within a single action. The Debtor state increases the CRIT DMG of follow-up attacks inflicted on the target enemies by 25%, stacking up to 2 time(s). When Proof of Debt is removed, the Debtor state is also removed."
+                "description": "When enemies afflicted with Proof of Debt receive <span class=\"tooltip-follow up attack\">follow-up attack</span>s, they will enter the Debtor state. This can take effect only once within a single action. The Debtor state increases the CRIT DMG of <span class=\"tooltip-follow up attack\">follow-up attack</span>s inflicted on the target enemies by 25%, stacking up to 2 time(s). When Proof of Debt is removed, the Debtor state is also removed."
             },
             "e2": {
                 "name": "Bona Fide Acquisition",
@@ -12667,7 +12667,7 @@
             },
             "skill": {
                 "name": "Talisman: Protection",
-                "description": "<span class=\"text-highlight\">[Restore]</span><br />Dispels 1 debuff(s) from a single target ally and immediately restores this ally's HP by an amount equal to <span class=\"text-value\">14%</span> of Huohuo's Max HP plus <span class=\"text-value\">140</span>. At the same time, restores HP for allies that are adjacent to this target ally by an amount equal to <span class=\"text-value\">11.2%</span> of Huohuo's Max HP plus <span class=\"text-value\">112</span>.",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br />Dispels 1 <span class=\"tooltip-debuff\">debuff(s)</span> from a single target ally and immediately restores this ally's HP by an amount equal to <span class=\"text-value\">14%</span> of Huohuo's Max HP plus <span class=\"text-value\">140</span>. At the same time, restores HP for allies that are adjacent to this target ally by an amount equal to <span class=\"text-value\">11.2%</span> of Huohuo's Max HP plus <span class=\"text-value\">112</span>.",
                 "scaling": [
                     [
                         "14%",
@@ -12781,7 +12781,7 @@
             },
             "talent": {
                 "name": "Possession: Ethereal Metaflow",
-                "description": "<span class=\"text-highlight\">[Restore]</span><br />After using her Skill, Huohuo gains Divine Provision, lasting for 2 turn(s). This duration decreases by 1 turn at the start of each Huohuo's turn. If Huohuo has Divine Provision when an ally's turn starts or when an ally uses their Ultimate, restores HP for that ally by an amount equal to <span class=\"text-value\">3%</span> of Huohuo's Max HP plus <span class=\"text-value\">30</span>. At the same time, every ally with 50% HP or lower receives healing once.<br />When Divine Provision is triggered to heal an ally, dispel 1 debuff(s) from that ally. This effect can be triggered up to 6 time(s). Using the skill again resets the effect's trigger count.",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br />After using her Skill, Huohuo gains Divine Provision, lasting for 2 turn(s). This duration decreases by 1 turn at the start of each Huohuo's turn. If Huohuo has Divine Provision when an ally's turn starts or when an ally uses their Ultimate, restores HP for that ally by an amount equal to <span class=\"text-value\">3%</span> of Huohuo's Max HP plus <span class=\"text-value\">30</span>. At the same time, every ally with 50% HP or lower receives healing once.<br />When Divine Provision is triggered to heal an ally, dispel 1 <span class=\"tooltip-debuff\">debuff(s)</span> from that ally. This effect can be triggered up to 6 time(s). Using the skill again resets the effect's trigger count.",
                 "scaling": [
                     [
                         "3%",
@@ -12821,7 +12821,7 @@
             },
             "technique": {
                 "name": "Fiend: Impeachment of Evil",
-                "description": "<span class=\"text-highlight\">[Impair]</span><br />Huohuo terrorizes surrounding enemies, afflicting Horror-Struck on them. Enemies in Horror-Struck will flee away from Huohuo for 10 second(s). When entering battle with enemies in Horror-Struck, there is a 100% base chance of reducing every single enemy's ATK by 25% for 2 turn(s)."
+                "description": "<span class=\"text-highlight\">[Impair]</span><br />Huohuo terrorizes surrounding enemies, afflicting Horror-Struck on them. Enemies in Horror-Struck will flee away from Huohuo for 10 second(s). When entering battle with enemies in Horror-Struck, there is a 100% <span class=\"tooltip-base chance\">base chance</span> of reducing every single enemy's ATK by 25% for 2 turn(s)."
             }
         },
         "traces": [
@@ -14076,7 +14076,7 @@
             },
             "ultimate": {
                 "name": "Syllogistic Paradox",
-                "description": "<span class=\"text-highlight\">[Single Target] | Energy Cost: 140</span><br />Deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">144%</span> of Dr. Ratio's ATK to a single target enemy and applies Wiseman's Folly. When Dr. Ratio's allies attack a target afflicted with Wiseman's Folly, Dr. Ratio launches his Talent's follow-up attack for 1 time against this target.<br />Wiseman's Folly can be triggered for up to 2 times and only affects the most recent target of Dr. Ratio's Ultimate. This trigger count resets after Dr. Ratio's Ultimate is used.",
+                "description": "<span class=\"text-highlight\">[Single Target] | Energy Cost: 140</span><br />Deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">144%</span> of Dr. Ratio's ATK to a single target enemy and applies Wiseman's Folly. When Dr. Ratio's allies attack a target afflicted with Wiseman's Folly, Dr. Ratio launches his Talent's <span class=\"tooltip-follow up attack\">follow-up attack</span> for 1 time against this target.<br />Wiseman's Folly can be triggered for up to 2 times and only affects the most recent target of Dr. Ratio's Ultimate. This trigger count resets after Dr. Ratio's Ultimate is used.",
                 "scaling": [
                     [
                         "144%",
@@ -14099,7 +14099,7 @@
             },
             "talent": {
                 "name": "Cogito, Ergo Sum",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />When using his Skill, Dr. Ratio has a 40% fixed chance of launching a follow-up attack against his target for 1 time, dealing <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">135%</span> of Dr. Ratio's ATK. For each debuff the target enemy has, the fixed chance of launching follow-up attack increases by 20%. If the target enemy is defeated before the follow-up attack triggers, the follow-up attack will be directed at a single random enemy instead.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />When using his Skill, Dr. Ratio has a 40% <span class=\"tooltip-fixed chance\">fixed chance</span> of launching a <span class=\"tooltip-follow up attack\">follow-up attack</span> against his target for 1 time, dealing <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">135%</span> of Dr. Ratio's ATK. For each debuff the target enemy has, the <span class=\"tooltip-fixed chance\">fixed chance</span> of launching <span class=\"tooltip-follow up attack\">follow-up attack</span> increases by 20%. If the target enemy is defeated before the <span class=\"tooltip-follow up attack\">follow-up attack</span> triggers, the <span class=\"tooltip-follow up attack\">follow-up attack</span> will be directed at a single random enemy instead.",
                 "scaling": [
                     [
                         "135%",
@@ -14122,7 +14122,7 @@
             },
             "technique": {
                 "name": "Mold of Idolatry",
-                "description": "<span class=\"text-highlight\">[Impair]</span><br />After using Technique, creates a special dimension that Taunts nearby enemies, lasting for 10 second(s). After entering battle with enemies in this special dimension, there is a 100% base chance to reduce each single enemy target's SPD by 15% for 2 turn(s). Only 1 dimension created by allies can exist at the same time."
+                "description": "<span class=\"text-highlight\">[Impair]</span><br />After using Technique, creates a special dimension that Taunts nearby enemies, lasting for 10 second(s). After entering battle with enemies in this special dimension, there is a 100% <span class=\"tooltip-base chance\">base chance</span> to reduce each single enemy target's SPD by 15% for 2 turn(s). Only 1 dimension created by allies can exist at the same time."
             }
         },
         "traces": [
@@ -14147,7 +14147,7 @@
             },
             {
                 "name": "Inference",
-                "description": "When Skill is used to attack an enemy target, there is a 100% base chance to reduce the attacked target's Effect RES by 10% for 2 turn(s).",
+                "description": "When Skill is used to attack an enemy target, there is a 100% <span class=\"tooltip-base chance\">base chance</span> to reduce the attacked target's Effect RES by 10% for 2 turn(s).",
                 "unlock": "A4",
                 "subTraces": [
                     {
@@ -14211,7 +14211,7 @@
             },
             "e2": {
                 "name": "The Divine Is in the Details",
-                "description": "When his Talent's follow-up attack hits a target, for every debuff the target has, additionally deals Imaginary Additional DMG equal to 20% of Dr. Ratio's ATK. This effect can be triggered for a maximum of 4 time(s) during each follow-up attack."
+                "description": "When his Talent's <span class=\"tooltip-follow up attack\">follow-up attack</span> hits a target, for every debuff the target has, additionally deals Imaginary Additional DMG equal to 20% of Dr. Ratio's ATK. This effect can be triggered for a maximum of 4 time(s) during each <span class=\"tooltip-follow up attack\">follow-up attack</span>."
             },
             "e3": {
                 "name": "Know Thyself",
@@ -14227,7 +14227,7 @@
             },
             "e6": {
                 "name": "Vincit Omnia Veritas",
-                "description": "Increases the trigger count for Wiseman's Folly by 1. The DMG dealt by the Talent's follow-up attack increases by 50%."
+                "description": "Increases the trigger count for Wiseman's Folly by 1. The DMG dealt by the Talent's <span class=\"tooltip-follow up attack\">follow-up attack</span> increases by 50%."
             }
         },
         "stats": {
@@ -14436,7 +14436,7 @@
             },
             "talent": {
                 "name": "Karmic Perpetuation",
-                "description": "<span class=\"text-highlight\">[Bounce]</span><br />When Xueyi reduces enemy Toughness with attacks, Karma will be stacked. The more Toughness is reduced, the more stacks of Karma are added, up to 8 stacks.<br />When Xueyi's allies reduce enemy Toughness with attacks, Xueyi gains 1 stacks of Karma.<br />When Karma reaches the max number of stacks, consumes all current Karma stacks and immediately launches a follow-up attack against an enemy target, dealing DMG for 3 times, with each time dealing <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">45%</span> of Xueyi's ATK to a single random enemy. This follow-up attack will not add Karma stacks.",
+                "description": "<span class=\"text-highlight\">[Bounce]</span><br />When Xueyi reduces enemy Toughness with attacks, Karma will be stacked. The more Toughness is reduced, the more stacks of Karma are added, up to 8 stacks.<br />When Xueyi's allies reduce enemy Toughness with attacks, Xueyi gains 1 stacks of Karma.<br />When Karma reaches the max number of stacks, consumes all current Karma stacks and immediately launches a <span class=\"tooltip-follow up attack\">follow-up attack</span> against an enemy target, dealing DMG for 3 times, with each time dealing <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">45%</span> of Xueyi's ATK to a single random enemy. This follow-up attack will not add Karma stacks.",
                 "scaling": [
                     [
                         "45%",
@@ -14548,11 +14548,11 @@
         "eidolon": {
             "e1": {
                 "name": "Dvesha, Inhibited",
-                "description": "Increases the DMG dealt by the Talent's follow-up attack by 40%."
+                "description": "Increases the DMG dealt by the Talent's <span class=\"tooltip-follow up attack\">follow-up attack</span> by 40%."
             },
             "e2": {
                 "name": "Klesha, Breached",
-                "description": "Talent's follow-up attack reduces enemy Toughness regardless of Weakness types. At the same time, restores Xueyi's HP by an amount equal to 5% of her Max HP. When breaking Weakness, triggers the Quantum Break Effect."
+                "description": "Talent's <span class=\"tooltip-follow up attack\">follow-up attack</span> reduces enemy Toughness regardless of Weakness types. At the same time, restores Xueyi's HP by an amount equal to 5% of her Max HP. When breaking Weakness, triggers the Quantum Break Effect."
             },
             "e3": {
                 "name": "Duḥkha, Ceased",
@@ -14680,7 +14680,7 @@
         "skills": {
             "attack": {
                 "name": "Percipience, Silent Dawn",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">30%</span> of Black Swan's ATK to a single target enemy, with a <span class=\"text-value\">50%</span> base chance of inflicting 1 stack of Arcana. And if the hit target currently has Wind Sheer, Bleed, Burn, or Shock applied to them, each respectively has a <span class=\"text-value\">50%</span> base chance of inflicting 1 extra stack of Arcana onto the enemy.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">30%</span> of Black Swan's ATK to a single target enemy, with a <span class=\"text-value\">50%</span> <span class=\"tooltip-base chance\">base chance</span> of inflicting 1 stack of <span class=\"tooltip-arcana\">Arcana</span>. And if the hit target currently has Wind Sheer, Bleed, Burn, or Shock applied to them, each respectively has a <span class=\"text-value\">50%</span> <span class=\"tooltip-base chance\">base chance</span> of inflicting 1 extra stack of <span class=\"tooltip-arcana\">Arcana</span> onto the enemy.",
                 "scaling": [
                     [
                         "30%",
@@ -14719,7 +14719,7 @@
             },
             "skill": {
                 "name": "Decadence, False Twilight",
-                "description": "<span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">45%</span> of Black Swan's ATK to a single target enemy and any adjacent targets. At the same time, there is a 100% base chance of inflicting 1 stack of Arcana on the target enemy and the adjacent targets. And there is a 100% base chance of reducing the DEF of the target enemy and the adjacent targets by <span class=\"text-value\">14.8%</span>, lasting for 3 turn(s).",
+                "description": "<span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">45%</span> of Black Swan's ATK to a single target enemy and any adjacent targets. At the same time, there is a 100% <span class=\"tooltip-base chance\">base chance</span> of inflicting 1 stack of <span class=\"tooltip-arcana\">Arcana</span> on the target enemy and the adjacent targets. And there is a 100% <span class=\"tooltip-base chance\">base chance</span> of reducing the DEF of the target enemy and the adjacent targets by <span class=\"text-value\">14.8%</span>, lasting for 3 turn(s).",
                 "scaling": [
                     [
                         "45%",
@@ -14759,7 +14759,7 @@
             },
             "ultimate": {
                 "name": "Bliss of Otherworld's Embrace",
-                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 120</span><br />Inflicts Epiphany on all enemies for 2 turn(s).<br />Enemies affected by Epiphany take <span class=\"text-value\">15%</span> more DMG in their turn, and their Arcana effect is regarded as Wind Shear, Bleed, Burn, and Shock effects. In addition, when their Arcana effect is triggered at the beginning of the next turn, the Arcana stacks are not reset. The stack non-reset effect can be triggered up to 1 time(s) in Epiphany's duration, and its charges are replenished when Epiphany is applied again.<br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">72%</span> of Black Swan's ATK to all enemies.",
+                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 120</span><br />Inflicts Epiphany on all enemies for 2 turn(s).<br />Enemies affected by Epiphany take <span class=\"text-value\">15%</span> more DMG in their turn, and their <span class=\"tooltip-arcana\">Arcana</span> effect is regarded as Wind Shear, Bleed, Burn, and Shock effects. In addition, when their <span class=\"tooltip-arcana\">Arcana</span> effect is triggered at the beginning of the next turn, the <span class=\"tooltip-arcana\">Arcana</span> stacks are not reset. The stack non-reset effect can be triggered up to 1 time(s) in Epiphany's duration, and its charges are replenished when Epiphany is applied again.<br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">72%</span> of Black Swan's ATK to all enemies.",
                 "scaling": [
                     [
                         "15%",
@@ -14799,7 +14799,7 @@
             },
             "talent": {
                 "name": "Loom of Fate's Caprice",
-                "description": "<span class=\"text-highlight\">[Impair]</span><br />Every time an enemy target receives DoT at the start of each turn, there is a <span class=\"text-value\">50%</span> base chance for it to be inflicted with Arcana.<br />While afflicted with Arcana, enemy targets receive <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">96%</span> of Black Swan's ATK at the start of each turn. Each stack of Arcana increases this DoT DMG multiplier by <span class=\"text-value\">4.8%</span>. Then Arcana resets to 1 stack. Arcana can stack up to 50 times.<br />Only when Arcana causes DMG at the start of an enemy target's turn, Black Swan triggers additional effects based on the number of Arcana stacks inflicted on the target:<br />When there are 3 or more Arcana stacks, deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">72%</span> of Black Swan's ATK to adjacent targets, with a <span class=\"text-value\">50%</span> base chance of inflicting 1 stack of Arcana on adjacent targets.<br />When there are 7 or more Arcana stacks, enables the current DoT dealt this time to ignore 20% of the target's and adjacent targets' DEF.",
+                "description": "<span class=\"text-highlight\">[Impair]</span><br />Every time an enemy target receives DoT at the start of each turn, there is a <span class=\"text-value\">50%</span> <span class=\"tooltip-base chance\">base chance</span> for it to be inflicted with <span class=\"tooltip-arcana\">Arcana</span>.<br />While afflicted with <span class=\"tooltip-arcana\">Arcana</span>, enemy targets receive <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">96%</span> of Black Swan's ATK at the start of each turn. Each stack of <span class=\"tooltip-arcana\">Arcana</span> increases this DoT DMG multiplier by <span class=\"text-value\">4.8%</span>. Then <span class=\"tooltip-arcana\">Arcana</span> resets to 1 stack. <span class=\"tooltip-arcana\">Arcana</span> can stack up to 50 times.<br />Only when <span class=\"tooltip-arcana\">Arcana</span> causes DMG at the start of an enemy target's turn, Black Swan triggers additional effects based on the number of <span class=\"tooltip-arcana\">Arcana</span> stacks inflicted on the target:<br />When there are 3 or more <span class=\"tooltip-arcana\">Arcana</span> stacks, deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">72%</span> of Black Swan's ATK to adjacent targets, with a <span class=\"text-value\">50%</span> <span class=\"tooltip-base chance\">base chance</span> of inflicting 1 stack of <span class=\"tooltip-arcana\">Arcana</span> on adjacent targets.<br />When there are 7 or more <span class=\"tooltip-arcana\">Arcana</span> stacks, enables the current DoT dealt this time to ignore 20% of the target's and adjacent targets' DEF.",
                 "scaling": [
                     [
                         "50%",
@@ -14890,13 +14890,13 @@
             },
             "technique": {
                 "name": "From Façade to Vérité",
-                "description": "<span class=\"text-highlight\">[Enhance]</span><br />After this Technique is used, there is a 150% base chance for each enemy to be inflicted with 1 stack of Arcana at the start of the next battle. For each successful application of Arcana on a target, inflicts another stack of Arcana on the same target. This process repeats until Arcana fails to be inflicted on this target. For each successive application of Arcana on a target, its base chance of success is equal to 50% of the base chance of the previous successful infliction of Arcana on that target."
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />After this Technique is used, there is a 150% <span class=\"tooltip-base chance\">base chance</span> for each enemy to be inflicted with 1 stack of <span class=\"tooltip-arcana\">Arcana</span> at the start of the next battle. For each successful application of <span class=\"tooltip-arcana\">Arcana</span> on a target, inflicts another stack of <span class=\"tooltip-arcana\">Arcana</span> on the same target. This process repeats until <span class=\"tooltip-arcana\">Arcana</span> fails to be inflicted on this target. For each successive application of <span class=\"tooltip-arcana\">Arcana</span> on a target, its <span class=\"tooltip-base chance\">base chance</span> of success is equal to 50% of the <span class=\"tooltip-base chance\">base chance</span> of the previous successful infliction of <span class=\"tooltip-arcana\">Arcana</span> on that target."
             }
         },
         "traces": [
             {
                 "name": "Viscera's Disquiet",
-                "description": "After using the Skill to hit an enemy that has Wind Shear, Bleed, Burn, or Shock, each of these debuffs respectively has a 65% base chance of inflicting 1 extra stack of Arcana.",
+                "description": "After using the Skill to hit an enemy that has Wind Shear, Bleed, Burn, or Shock, each of these debuffs respectively has a 65% <span class=\"tooltip-base chance\">base chance</span> of inflicting 1 extra stack of <span class=\"tooltip-arcana\">Arcana</span>.",
                 "unlock": "A2",
                 "subTraces": [
                     {
@@ -14922,7 +14922,7 @@
             },
             {
                 "name": "Goblet's Dredges",
-                "description": "There is a 65% base chance to inflict 1 stack of Arcana when a target enters battle. Every time an enemy target receives DoT during a single attack by an ally, there is a 65% base chance for the target to be inflicted with 1 stack of Arcana, stacking up to 3 time(s) during 1 single attack.",
+                "description": "There is a 65% <span class=\"tooltip-base chance\">base chance</span> to inflict 1 stack of <span class=\"tooltip-arcana\">Arcana</span> when a target enters battle. Every time an enemy target receives DoT during a single attack by an ally, there is a 65% <span class=\"tooltip-base chance\">base chance</span> for the target to be inflicted with 1 stack of <span class=\"tooltip-arcana\">Arcana</span>, stacking up to 3 time(s) during 1 single attack.",
                 "unlock": "A4",
                 "subTraces": [
                     {
@@ -14983,7 +14983,7 @@
             },
             "e2": {
                 "name": "Weep Not For Me, My Lamb",
-                "description": "When an enemy target afflicted with Arcana is defeated, there is a 100% base chance of inflicting 6 stack(s) of Arcana on adjacent targets."
+                "description": "When an enemy target afflicted with <span class=\"tooltip-arcana\">Arcana</span> is defeated, there is a 100% <span class=\"tooltip-base chance\">base chance</span> of inflicting 6 stack(s) of <span class=\"tooltip-arcana\">Arcana</span> on adjacent targets."
             },
             "e3": {
                 "name": "As Above, So Below",
@@ -14999,8 +14999,13 @@
             },
             "e6": {
                 "name": "Pantheon Merciful, Masses Pitiful",
-                "description": "When enemy targets get attacked by Black Swan's allies, Black Swan has a 65% base chance of inflicting 1 stack of Arcana on the target. Each time Black Swan inflicts Arcana on an enemy target, there is a 50% fixed chance to additionally increase the number of Arcana stacks afflicted this time by 1."
+                "description": "When enemy targets get attacked by Black Swan's allies, Black Swan has a 65% <span class=\"tooltip-base chance\">base chance</span> of inflicting 1 stack of <span class=\"tooltip-arcana\">Arcana</span> on the target. Each time Black Swan inflicts <span class=\"tooltip-arcana\">Arcana</span> on an enemy target, there is a 50% fixed chance to additionally increase the number of <span class=\"tooltip-arcana\">Arcana</span> stacks afflicted this time by 1."
             }
+        },
+        "keywords": {
+            "tag": "arcana",
+            "name": "Arcana",
+            "description": "Arcana is a debuff that deals DMG over time. This debuff cannot be dispelled.<br />While in the Arcana state, the unit is also considered to be in the Wind Shear state and takes Wind DoT at the start of each turn.<br />The infliction of Arcana ignores the target's Wind Shear RES, Bleed RES, Burn RES, and Shock RES."
         },
         "stats": {
             "hp": [
@@ -15168,7 +15173,7 @@
             },
             "ultimate": {
                 "name": "G—Gonna Be Late!",
-                "description": "<span class=\"text-highlight\">[Bounce] | Energy Cost: 100</span><br />Has 3 Hits Per Action by default. First, uses 1 hit to deal <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">36%</span> of Misha's ATK to a single target enemy. Then, the rest of the hits each deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">36%</span> of Misha's ATK to a single random enemy. Just before each hit lands, there is a <span class=\"text-value\">12%</span> base chance to Freeze the target, lasting for 1 turn.<br />While Frozen, enemy targets cannot take any actions, and at the start of their turn, they receive Additional <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">18%</span> of Misha's ATK.<br />This Ultimate can possess up to 10 Hits Per Action. After the Ultimate is used, its Hits Per Action will be reset to the default level.",
+                "description": "<span class=\"text-highlight\">[Bounce] | Energy Cost: 100</span><br />Has 3 Hits Per Action by default. First, uses 1 hit to deal <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">36%</span> of Misha's ATK to a single target enemy. Then, the rest of the hits each deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">36%</span> of Misha's ATK to a single random enemy. Just before each hit lands, there is a <span class=\"text-value\">12%</span> <span class=\"tooltip-base chance\">base chance</span> to Freeze the target, lasting for 1 turn.<br />While Frozen, enemy targets cannot take any actions, and at the start of their turn, they receive <span class=\"tooltip-additional dmg\">Additional</span> <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">18%</span> of Misha's ATK.<br />This Ultimate can possess up to 10 Hits Per Action. After the Ultimate is used, its Hits Per Action will be reset to the default level.",
                 "scaling": [
                     [
                         "36%",
@@ -15271,7 +15276,7 @@
         "traces": [
             {
                 "name": "Release",
-                "description": "Before the Ultimate's first hit lands, increases the base chance of Freezing the target by 80%.",
+                "description": "Before the Ultimate's first hit lands, increases the <span class=\"tooltip-base chance\">base chance</span> of Freezing the target by 80%.",
                 "unlock": "A2",
                 "subTraces": [
                     {
@@ -15358,7 +15363,7 @@
             },
             "e2": {
                 "name": "Yearning of Youth",
-                "description": "Before each hit of the Ultimate lands, there is a 24% base chance of reducing the target's DEF by 16% for 3 turn(s)."
+                "description": "Before each hit of the Ultimate lands, there is a 24% <span class=\"tooltip-base chance\">base chance</span> of reducing the target's DEF by 16% for 3 turn(s)."
             },
             "e3": {
                 "name": "Vestige of Happiness",
@@ -15503,7 +15508,7 @@
             },
             "skill": {
                 "name": "Dreamdiver",
-                "description": "<span class=\"text-highlight\">[Support]</span><br />Increases the CRIT DMG of a single ally by <span class=\"text-value\">12%</span> of Sparkle's CRIT DMG plus <span class=\"text-value\">27%</span>, lasting for 1 turn(s). And at the same time, Advances Forward this ally's action by 50%.<br />When Sparkle uses this ability on herself, the Action Advance effect will not trigger.",
+                "description": "<span class=\"text-highlight\">[Support]</span><br />Increases the CRIT DMG of a single ally by <span class=\"text-value\">12%</span> of Sparkle's CRIT DMG plus <span class=\"text-value\">27%</span>, lasting for 1 turn(s). And at the same time, <span class=\"tooltip-action advanced\">Advances Forward</span> this ally's action by 50%.<br />When Sparkle uses this ability on herself, the Action Advance effect will not trigger.",
                 "scaling": [
                     [
                         "12%",
