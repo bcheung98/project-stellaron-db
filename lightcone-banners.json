@@ -188,5 +188,19 @@
                 "Under the Blue Sky"
             ]
         }
+    },
+    {
+        "version": "2.1",
+        "phase1": {
+            "startDate": "March 27, 2024",
+            "endDate": "April 17, 2024",
+            "banner": [
+                "Along the Passing Shore",
+                "Echoes of the Coffin",
+                "Good Night and Sleep Well",
+                "Post-Op Conversation",
+                "Subscribe for More!"
+            ]
+        }
     }
 ]

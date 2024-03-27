@@ -3594,9 +3594,147 @@
             "calyxMat": "Fang",
             "commonMat": "Dreamjolt"
         },
-        "description": "A weathered past. A sworn duty to defend home. A dream to blaze a trail across the worldâ€”<br />These were entrusted to the unworldly youth by a pair of rough, calloused hands.<br /><br /><i>\"Soon, we'll be able to go to a larger world.\"</i> <br />The boy happily accepted his inheritance. Guarded by youth, he could not yet feel the weight born by the object's significance.<br /><br /><i>\"Of course. Before that time comes, however, guard this place well, Misha.\"</i> <br /><br />He thus engraved that promise deep inside his heart, holding to it forever and always.",
+        "description": "A weathered past. A sworn duty to defend home. A dream to blaze a trail across the world—<br />These were entrusted to the unworldly youth by a pair of rough, calloused hands.<br /><br /><i>\"Soon, we'll be able to go to a larger world.\"</i> <br />The boy happily accepted his inheritance. Guarded by youth, he could not yet feel the weight born by the object's significance.<br /><br /><i>\"Of course. Before that time comes, however, guard this place well, Misha.\"</i> <br /><br />He thus engraved that promise deep inside his heart, holding to it forever and always.",
         "release": {
             "version": "2.0"
+        }
+    },
+    {
+        "id": 93,
+        "name": "Along the Passing Shore",
+        "rarity": 5,
+        "path": "Nihility",
+        "stats": {
+            "hp": 48,
+            "atk": 28,
+            "def": 18
+        },
+        "passive": {
+            "name": "Steerer",
+            "effect": "Increases the wearer's CRIT DMG by <span class=\"text-value\">36%</span>. When the wearer hits an enemy target, inflicts Mirage Fizzle on the enemy, lasting for 1 turn. Each time the wearer attacks, this effect can only trigger 1 time on each target. The wearer deals <span class=\"text-value\">24%</span> increased DMG to targets afflicted with Mirage Fizzle, and the DMG dealt by the wearer's Ultimate additionally increases by <span class=\"text-value\">24%</span>.",
+            "scaling": [
+                [
+                    "36%",
+                    "42%",
+                    "48%",
+                    "54%",
+                    "60%"
+                ],
+                [
+                    "24%",
+                    "28%",
+                    "32%",
+                    "36%",
+                    "40%"
+                ],
+                [
+                    "24%",
+                    "28%",
+                    "32%",
+                    "36%",
+                    "40%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Heliobus",
+            "commonMat": "Dreamjolt"
+        },
+        "description": "Flowing in the narrow border between <i>\"existence<i>\" and \"</i>nothingness,\"</i> the ice-cold tides eternally lap against the shores and bring all things to their final end.<br /><br />In this place, the drowned ask for help, lament with songs, find their happiness, enjoy sweet moments, and suffer great agony... All these are reflected in the water. She cannot experience these, but she can feel them —<br />There are still many roads to walk, many sounds to listen to, and many things to change before she arrives at the end.<br /><br />She reaches out and saves the drowning from the temptations of Nihility, and one mirage after another bursts apart behind her figure.<br />She keeps walking in this boundless world, all for an end that does not exist.<br /><br />— And it's always raining here.",
+        "release": {
+            "version": "2.1"
+        }
+    },
+    {
+        "id": 94,
+        "name": "Inherently Unjust Destiny",
+        "rarity": 5,
+        "path": "Preservation",
+        "stats": {
+            "hp": 48,
+            "atk": 19,
+            "def": 30
+        },
+        "passive": {
+            "name": "All-In",
+            "effect": "Increases the wearer's DEF by <span class=\"text-value\">40%</span>. When the wearer provides a Shield to an ally, the wearer's CRIT DMG increases by <span class=\"text-value\">40%</span>, lasting for 2 turn(s). When the wearer's follow-up attack hits an enemy target, there is a <span class=\"text-value\">100%</span> base chance to increase the DMG taken by the attacked enemy target by <span class=\"text-value\">10%</span>, lasting for 2 turn(s).",
+            "scaling": [
+                [
+                    "40%",
+                    "46%",
+                    "52%",
+                    "57%",
+                    "64%"
+                ],
+                [
+                    "40%",
+                    "46%",
+                    "52%",
+                    "57%",
+                    "64%"
+                ],
+                [
+                    "100%",
+                    "114%",
+                    "130%",
+                    "145%",
+                    "160%"
+                ],
+                [
+                    "10%",
+                    "11.5%",
+                    "13%",
+                    "14.4%",
+                    "16%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Amber",
+            "commonMat": "Memoria"
+        },
+        "description": "With the final card revealed, despondency, rage, acceptance, and sangfroid... A cascade of emotions drops onto the faces of his opponents.<br /><i>\"Now that we're all here, why don't we spice things up a bit?\"</i><br />He puts in all his chips. Those who have cut their losses leave the table, cursing profanities and secretly hoping that he would lose.<br /><br />Victories, reputation, fortune... He cares not for any of that. Instead, he's enthralled only by those moments that make his very life quiver —<br />After all, hell is but one choice away from heaven.<br /><br />The chips are cast, sorrow fills the air, and the illusory sense of satisfaction dissipates in an instant when the dust finally settles.<br /><i>\"All or nothing, I have not the luxury of choice...\"</i>",
+        "release": {
+            "version": "2.1"
+        }
+    },
+    {
+        "id": 95,
+        "name": "Concert for Two",
+        "rarity": 4,
+        "path": "Preservation",
+        "stats": {
+            "hp": 38,
+            "atk": 16,
+            "def": 24
+        },
+        "passive": {
+            "name": "Inspire",
+            "effect": "Increases the wearer's DEF by <span class=\"text-value\">16%</span>. For every on-field character that has a Shield, the DMG dealt by the wearer increases by <span class=\"text-value\">4%</span>.",
+            "scaling": [
+                [
+                    "16%",
+                    "20%",
+                    "24%",
+                    "28%",
+                    "32%"
+                ],
+                [
+                    "4%",
+                    "5%",
+                    "6%",
+                    "7%",
+                    "8%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Amber",
+            "commonMat": "Memoria"
+        },
+        "description": "<i>\"Big brother, what's this...\"</i><br /><i>\"It's been so long since you sang with joy... I've built a stage for you, though it's... a bit rudimentary.\"</i><br /><i>\"But the teacher thinks I'm not cut out for this...\"</i><br /><i>\"Nonsense, I think you sound amazing! And your dreams will definitely come true. You deserve to sing on a bigger stage...\"</i><br />...<br /><br />Many years later, she stood on a dazzling stage, looking at the surging fans below, but lost herself for a moment...<br />On the long journey of chasing dreams, she would always remember that trusting gaze and her first <i>\"concert.<i>\"<br />No glamorous lights, no elaborate makeup, just a child building a stage to encourage another child to pursue their dreams.<br /><br /><i>\"Now, our dreams have come true. But... are they still 'our' dreams?\"</i><br />She tightened her grip on the microphone. Before the next song began, she didn't even have time to feel sad.",
+        "release": {
+            "version": "2.1"
         }
     }
 ]

@@ -188,5 +188,19 @@
                 "Sampo"
             ]
         }
+    },
+    {
+        "version": "2.1",
+        "phase1": {
+            "startDate": "March 27, 2024",
+            "endDate": "April 17, 2024",
+            "banner": [
+                "Acheron",
+                "Luocha",
+                "Dan Heng",
+                "Gallagher",
+                "Pela"
+            ]
+        }
     }
 ]
