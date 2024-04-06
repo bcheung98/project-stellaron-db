@@ -25,7 +25,7 @@
             },
             "skill": {
                 "name": "Shackle Breaker",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Consumes Arlan's HP equal to 15% of his Max HP to deal <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">120%</span> of Arlan's ATK to a single enemy. If Arlan does not have sufficient HP, his HP will be reduced to 1 after using his Skill.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Consumes Arlan's HP equal to 15% of his Max HP to deal <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">120%</span> of Arlan's ATK to a single enemy. If Arlan does not have sufficient HP, his HP will be reduced to 1 after using his Skill.",
                 "scaling": [
                     [
                         "120%",
@@ -48,7 +48,7 @@
             },
             "ultimate": {
                 "name": "Frenzied Punishment",
-                "description": "<span class=\"text-highlight\">[Blast] | Energy Cost: 110</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">192%</span> of Arlan's ATK to a single enemy and <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">96%</span> of Arlan's ATK to enemies adjacent to it.",
+                "description": "<span class=\"text-highlight\">[Blast]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">110</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">192%</span> of Arlan's ATK to a single enemy and <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">96%</span> of Arlan's ATK to enemies adjacent to it.",
                 "scaling": [
                     [
                         "192%",
@@ -349,7 +349,7 @@
             },
             "skill": {
                 "name": "Meteor Storm",
-                "description": "<span class=\"text-highlight\">[Bounce]</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">25%</span> of Asta's ATK to a single enemy and further deals DMG for 4 extra times, with each time dealing <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">25%</span> of Asta's ATK to a random enemy.",
+                "description": "<span class=\"text-highlight\">[Bounce]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">25%</span> of Asta's ATK to a single enemy and further deals DMG for 4 extra times, with each time dealing <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">25%</span> of Asta's ATK to a random enemy.",
                 "scaling": [
                     [
                         "25%",
@@ -389,7 +389,7 @@
             },
             "ultimate": {
                 "name": "Astral Blessing",
-                "description": "<span class=\"text-highlight\">[Support] | Energy Cost: 120</span><br />Increases SPD of all allies by <span class=\"text-value\">36</span> for 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[Support]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">120</span><br />Increases SPD of all allies by <span class=\"text-value\">36</span> for 2 turn(s).",
                 "scaling": [
                     [
                         "36",
@@ -671,7 +671,7 @@
             },
             "skill": {
                 "name": "Singing Among Clouds",
-                "description": "<span class=\"text-highlight\">[Restore]</span><br />Heals a single ally for <span class=\"text-value\">7.8%</span> of Bailu's Max HP plus <span class=\"text-value\">78</span>. Bailu then heals random allies 2 time(s). After each healing, HP restored from the next healing is reduced by 15%.",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Heals a single ally for <span class=\"text-value\">7.8%</span> of Bailu's Max HP plus <span class=\"text-value\">78</span>. Bailu then heals random allies 2 time(s). After each healing, HP restored from the next healing is reduced by 15%.",
                 "scaling": [
                     [
                         "7.8%",
@@ -711,7 +711,7 @@
             },
             "ultimate": {
                 "name": "Felicitous Thunderleap",
-                "description": "<span class=\"text-highlight\">[Restore] | Energy Cost: 100</span><br />Heals all allies for <span class=\"text-value\">9%</span> of Bailu's Max HP plus <span class=\"text-value\">90</span>. Bailu applies Invigoration to allies that are not already Invigorated. For those already Invigorated, Bailu extends the duration of their Invigoration by 1 turn. The effect of Invigoration can last for 2 turn(s). This effect cannot stack.",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">100</span><br />Heals all allies for <span class=\"text-value\">9%</span> of Bailu's Max HP plus <span class=\"text-value\">90</span>. Bailu applies Invigoration to allies that are not already Invigorated. For those already Invigorated, Bailu extends the duration of their Invigoration by 1 turn. The effect of Invigoration can last for 2 turn(s). This effect cannot stack.",
                 "scaling": [
                     [
                         "9%",
@@ -1061,7 +1061,7 @@
             },
             "skill": {
                 "name": "Combat Redeployment",
-                "description": "<span class=\"text-highlight\">[Support]</span><br />Dispels a <span class=\"tooltip-debuff\">debuff</span> from a single ally, allows them to immediately take action, and increases their DMG by <span class=\"text-value\">33%</span> for 1 turn(s).<br />When this Skill is used on Bronya herself, she cannot immediately take action again.",
+                "description": "<span class=\"text-highlight\">[Support]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Dispels a <span class=\"tooltip-debuff\">debuff</span> from a single ally, allows them to immediately take action, and increases their DMG by <span class=\"text-value\">33%</span> for 1 turn(s).<br />When this Skill is used on Bronya herself, she cannot immediately take action again.",
                 "scaling": [
                     [
                         "33%",
@@ -1084,7 +1084,7 @@
             },
             "ultimate": {
                 "name": "The Belobog March",
-                "description": "<span class=\"text-highlight\">[Support] | Energy Cost: 120</span><br />Increases the ATK of all allies by <span class=\"text-value\">33%</span>, and increases their CRIT DMG equal to <span class=\"text-value\">12%</span> of Bronya's CRIT DMG plus <span class=\"text-value\">12%</span> for 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[Support]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">120</span><br />Increases the ATK of all allies by <span class=\"text-value\">33%</span>, and increases their CRIT DMG equal to <span class=\"text-value\">12%</span> of Bronya's CRIT DMG plus <span class=\"text-value\">12%</span> for 2 turn(s).",
                 "scaling": [
                     [
                         "33%",
@@ -1400,7 +1400,7 @@
             },
             "skill": {
                 "name": "Svarog Watches Over You",
-                "description": "<span class=\"text-highlight\">[AoE]</span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">60%</span> of Clara's ATK to all enemies, and additionally deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">60%</span> of Clara's ATK to enemies marked by Svarog with a Mark of Counter.<br />All Marks of Counter will be removed after this Skill is used.",
+                "description": "<span class=\"text-highlight\">[AoE]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">60%</span> of Clara's ATK to all enemies, and additionally deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">60%</span> of Clara's ATK to enemies marked by Svarog with a Mark of Counter.<br />All Marks of Counter will be removed after this Skill is used.",
                 "scaling": [
                     [
                         "60%",
@@ -1440,7 +1440,7 @@
             },
             "ultimate": {
                 "name": "Promise, Not Command",
-                "description": "<span class=\"text-highlight\">[Enhance] | Energy Cost: 110</span><br />After Clara uses Ultimate, DMG dealt to her is reduced by an extra <span class=\"text-value\">15%</span>, and she has greatly increased chances of being attacked by enemies for 2 turn(s).<br />In addition, Svarog's <span class=\"tooltip-counter\">Counter</span> is enhanced. When an ally is attacked, Svarog immediately launches a <span class=\"tooltip-counter\">Counter</span>, and its DMG multiplier against the enemy increases by <span class=\"text-value\">96%</span>. Enemies adjacent to it take 50% of the DMG dealt to the target enemy. Enhanced <span class=\"tooltip-counter\">Counter(s)</span> can take effect 2 time(s).",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">110</span><br />After Clara uses Ultimate, DMG dealt to her is reduced by an extra <span class=\"text-value\">15%</span>, and she has greatly increased chances of being attacked by enemies for 2 turn(s).<br />In addition, Svarog's <span class=\"tooltip-counter\">Counter</span> is enhanced. When an ally is attacked, Svarog immediately launches a <span class=\"tooltip-counter\">Counter</span>, and its DMG multiplier against the enemy increases by <span class=\"text-value\">96%</span>. Enemies adjacent to it take 50% of the DMG dealt to the target enemy. Enhanced <span class=\"tooltip-counter\">Counter(s)</span> can take effect 2 time(s).",
                 "scaling": [
                     [
                         "15%",
@@ -1741,7 +1741,7 @@
             },
             "skill": {
                 "name": "Cloudlancer Art: Torrent",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">130%</span> of Dan Heng's ATK to a single enemy.<br />On a CRIT Hit, there is a 100% <span class=\"tooltip-base chance\">base chance</span> to reduce the target's SPD by 12% for 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">130%</span> of Dan Heng's ATK to a single enemy.<br />On a CRIT Hit, there is a 100% <span class=\"tooltip-base chance\">base chance</span> to reduce the target's SPD by 12% for 2 turn(s).",
                 "scaling": [
                     [
                         "130%",
@@ -1764,7 +1764,7 @@
             },
             "ultimate": {
                 "name": "Ethereal Dream",
-                "description": "<span class=\"text-highlight\">[Single Target] | Energy Cost: 100</span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">240%</span> of Dan Heng's ATK to a single enemy.<br />If the enemy is Slowed, the Ultimate's multiplier increases by <span class=\"text-value\">72%</span>.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">100</span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">240%</span> of Dan Heng's ATK to a single enemy.<br />If the enemy is Slowed, the Ultimate's multiplier increases by <span class=\"text-value\">72%</span>.",
                 "scaling": [
                     [
                         "240%",
@@ -2061,7 +2061,7 @@
             },
             "skill": {
                 "name": "Daunting Smite",
-                "description": "<span class=\"text-highlight\">[Impair]</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">100%</span> of Gepard's ATK to a single enemy, with a 65% <span class=\"tooltip-base chance\">base chance</span> to Freeze the enemy for 1 turn(s).<br />While Frozen, the enemy cannot take action and will take <span class=\"tooltip-additional dmg\">Additional</span> <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">30%</span> of Gepard's ATK at the beginning of each turn.",
+                "description": "<span class=\"text-highlight\">[Impair]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">100%</span> of Gepard's ATK to a single enemy, with a 65% <span class=\"tooltip-base chance\">base chance</span> to Freeze the enemy for 1 turn(s).<br />While Frozen, the enemy cannot take action and will take <span class=\"tooltip-additional dmg\">Additional</span> <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">30%</span> of Gepard's ATK at the beginning of each turn.",
                 "scaling": [
                     [
                         "100%",
@@ -2101,7 +2101,7 @@
             },
             "ultimate": {
                 "name": "Enduring Bulwark",
-                "description": "<span class=\"text-highlight\">[Defense] | Energy Cost: 100</span><br />Applies a Shield to all allies, absorbing DMG equal to <span class=\"text-value\">30%</span> of Gepard's DEF plus <span class=\"text-value\">150</span> for 3 turn(s).",
+                "description": "<span class=\"text-highlight\">[Defense]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">100</span><br />Applies a Shield to all allies, absorbing DMG equal to <span class=\"text-value\">30%</span> of Gepard's DEF plus <span class=\"text-value\">150</span> for 3 turn(s).",
                 "scaling": [
                     [
                         "30%",
@@ -2400,7 +2400,7 @@
             },
             "skill": {
                 "name": "One-Time Offer",
-                "description": "<span class=\"text-highlight\">[AoE]</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">50%</span> of Herta's ATK to all enemies. If the enemy's HP percentage is 50% or higher, DMG dealt to this target increases by 20%.",
+                "description": "<span class=\"text-highlight\">[AoE]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">50%</span> of Herta's ATK to all enemies. If the enemy's HP percentage is 50% or higher, DMG dealt to this target increases by 20%.",
                 "scaling": [
                     [
                         "50%",
@@ -2423,7 +2423,7 @@
             },
             "ultimate": {
                 "name": "It's Magic, I Added Some Magic",
-                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 110</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">120%</span> of Herta's ATK to all enemies.",
+                "description": "<span class=\"text-highlight\">[AoE]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">110</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">120%</span> of Herta's ATK to all enemies.",
                 "scaling": [
                     [
                         "120%",
@@ -2701,7 +2701,7 @@
             },
             "skill": {
                 "name": "Molten Detonation",
-                "description": "<span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">100%</span> of Himeko's ATK to a single enemy and <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">40%</span> of Himeko's ATK to enemies adjacent to it.",
+                "description": "<span class=\"text-highlight\">[Blast]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">100%</span> of Himeko's ATK to a single enemy and <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">40%</span> of Himeko's ATK to enemies adjacent to it.",
                 "scaling": [
                     [
                         "100%",
@@ -2741,7 +2741,7 @@
             },
             "ultimate": {
                 "name": "Heavenly Flare",
-                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 120</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">138%</span> of Himeko's ATK to all enemies. Himeko regenerates 5 extra Energy for each enemy defeated.",
+                "description": "<span class=\"text-highlight\">[AoE]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">120</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">138%</span> of Himeko's ATK to all enemies. Himeko regenerates 5 extra Energy for each enemy defeated.",
                 "scaling": [
                     [
                         "138%",
@@ -3019,7 +3019,7 @@
             },
             "skill": {
                 "name": "Hey! Remember Hook?",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">120%</span> of Hook's ATK to a single enemy. In addition, there is a 100% <span class=\"tooltip-base chance\">base chance</span> to inflict Burn for 2 turn(s).<br />When afflicted with Burn, enemies will take <span class=\"text-fire\">Fire DoT</span> equal to <span class=\"text-value\">25%</span> of Hook's ATK at the beginning of each turn.<br /><br /><span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">140%</span> of Hook's ATK to a single enemy, with a 100% <span class=\"tooltip-base chance\">base chance</span> to Burn them for 2 turn(s). Additionally, deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">40%</span> of Hook's ATK to enemies adjacent to it.<br />When afflicted with Burn, enemies will take <span class=\"text-fire\">Fire DoT</span> equal to <span class=\"text-value\">25%</span> of Hook's ATK at the beginning of each turn.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">120%</span> of Hook's ATK to a single enemy. In addition, there is a 100% <span class=\"tooltip-base chance\">base chance</span> to inflict Burn for 2 turn(s).<br />When afflicted with Burn, enemies will take <span class=\"text-fire\">Fire DoT</span> equal to <span class=\"text-value\">25%</span> of Hook's ATK at the beginning of each turn.<br /><br /><span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">140%</span> of Hook's ATK to a single enemy, with a 100% <span class=\"tooltip-base chance\">base chance</span> to Burn them for 2 turn(s). Additionally, deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">40%</span> of Hook's ATK to enemies adjacent to it.<br />When afflicted with Burn, enemies will take <span class=\"text-fire\">Fire DoT</span> equal to <span class=\"text-value\">25%</span> of Hook's ATK at the beginning of each turn.",
                 "scaling": [
                     [
                         "120%",
@@ -3394,7 +3394,7 @@
             },
             "skill": {
                 "name": "The Power of Cuteness",
-                "description": "<span class=\"text-highlight\">[Defense]</span><br />Provides a single ally with a Shield that can absorb DMG equal to <span class=\"text-value\">38%</span> of March 7th's DEF plus <span class=\"text-value\">190</span> for 3 turn(s).<br />If the ally's current HP percentage is 30% or higher, greatly increases the chance of enemies attacking that ally.",
+                "description": "<span class=\"text-highlight\">[Defense]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Provides a single ally with a Shield that can absorb DMG equal to <span class=\"text-value\">38%</span> of March 7th's DEF plus <span class=\"text-value\">190</span> for 3 turn(s).<br />If the ally's current HP percentage is 30% or higher, greatly increases the chance of enemies attacking that ally.",
                 "scaling": [
                     [
                         "38%",
@@ -3434,7 +3434,7 @@
             },
             "ultimate": {
                 "name": "Glacial Cascade",
-                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 120</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">90%</span> of March 7th's ATK to all enemies. Hit enemies have a 50% <span class=\"tooltip-base chance\">base chance</span> to be Frozen for 1 turn(s).<br />While Frozen, enemies cannot take action and will receive <span class=\"tooltip-additional dmg\">Additional</span> <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">30%</span> of March 7th's ATK at the beginning of each turn.",
+                "description": "<span class=\"text-highlight\">[AoE]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">120</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">90%</span> of March 7th's ATK to all enemies. Hit enemies have a 50% <span class=\"tooltip-base chance\">base chance</span> to be Frozen for 1 turn(s).<br />While Frozen, enemies cannot take action and will receive <span class=\"tooltip-additional dmg\">Additional</span> <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">30%</span> of March 7th's ATK at the beginning of each turn.",
                 "scaling": [
                     [
                         "90%",
@@ -3733,7 +3733,7 @@
             },
             "skill": {
                 "name": "Love, Heal, and Choose",
-                "description": "<span class=\"text-highlight\">[Restore]</span><br />Restores a single ally for <span class=\"text-value\">7%</span> of Natasha's Max HP plus <span class=\"text-value\">70</span>. Restores the ally for another <span class=\"text-value\">4.8%</span> of Natasha's Max HP plus <span class=\"text-value\">48</span> at the beginning of each turn for 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Restores a single ally for <span class=\"text-value\">7%</span> of Natasha's Max HP plus <span class=\"text-value\">70</span>. Restores the ally for another <span class=\"text-value\">4.8%</span> of Natasha's Max HP plus <span class=\"text-value\">48</span> at the beginning of each turn for 2 turn(s).",
                 "scaling": [
                     [
                         "7%",
@@ -3807,7 +3807,7 @@
             },
             "ultimate": {
                 "name": "Gift of Rebirth",
-                "description": "<span class=\"text-highlight\">[Restore] | Energy Cost: 90</span><br />Heals all allies for <span class=\"text-value\">9.2%</span> of Natasha's Max HP plus <span class=\"text-value\">92</span>.",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">90</span><br />Heals all allies for <span class=\"text-value\">9.2%</span> of Natasha's Max HP plus <span class=\"text-value\">92</span>.",
                 "scaling": [
                     [
                         "9.2%",
@@ -4106,7 +4106,7 @@
             },
             "skill": {
                 "name": "Frostbite",
-                "description": "<span class=\"text-highlight\">[Impair]</span><br />Removes 1 <span class=\"tooltip-buff\">buff(s)</span> and deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">105%</span> of Pela's ATK as to a single enemy.",
+                "description": "<span class=\"text-highlight\">[Impair]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Removes 1 <span class=\"tooltip-buff\">buff(s)</span> and deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">105%</span> of Pela's ATK as to a single enemy.",
                 "scaling": [
                     [
                         "105%",
@@ -4129,7 +4129,7 @@
             },
             "ultimate": {
                 "name": "Zone Suppression",
-                "description": "<span class=\"text-highlight\">[Impair] | Energy Cost: 110</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">60%</span> of Pela's ATK to all enemies, with a 100% <span class=\"tooltip-base chance\">base chance</span> to inflict Exposed on all enemies.<br />When Exposed, enemies' DEF is reduced by <span class=\"text-value\">30%</span> for 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[Impair]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">110</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">60%</span> of Pela's ATK to all enemies, with a 100% <span class=\"tooltip-base chance\">base chance</span> to inflict Exposed on all enemies.<br />When Exposed, enemies' DEF is reduced by <span class=\"text-value\">30%</span> for 2 turn(s).",
                 "scaling": [
                     [
                         "60%",
@@ -4452,7 +4452,7 @@
             },
             "skill": {
                 "name": "A Scoop of Moon",
-                "description": "<span class=\"text-highlight\">[Enhance]</span><br />Immediately draws 2 jade tile(s) and increases DMG by <span class=\"text-value\">14%</span> until the end of the current turn. This effect can stack up to 4 time(s). The turn will not end after this Skill is used.",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Immediately draws 2 jade tile(s) and increases DMG by <span class=\"text-value\">14%</span> until the end of the current turn. This effect can stack up to 4 time(s). The turn will not end after this Skill is used.",
                 "scaling": [
                     [
                         "14%",
@@ -4475,7 +4475,7 @@
             },
             "ultimate": {
                 "name": "A Quartet? Woo-hoo!",
-                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 140</span><br />Deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">120%</span> of Qingque's ATK to all enemies, and obtain 4 jade tiles of the same suit.",
+                "description": "<span class=\"text-highlight\">[AoE]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">140</span><br />Deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">120%</span> of Qingque's ATK to all enemies, and obtain 4 jade tiles of the same suit.",
                 "scaling": [
                     [
                         "120%",
@@ -4753,7 +4753,7 @@
             },
             "skill": {
                 "name": "Ricochet Love",
-                "description": "<span class=\"text-highlight\">[Bounce]</span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">28%</span> of Sampo's ATK to a single enemy, and further deals DMG for 4 extra time(s), with each time dealing <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">28%</span> of Sampo's ATK to a random enemy.",
+                "description": "<span class=\"text-highlight\">[Bounce]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">28%</span> of Sampo's ATK to a single enemy, and further deals DMG for 4 extra time(s), with each time dealing <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">28%</span> of Sampo's ATK to a random enemy.",
                 "scaling": [
                     [
                         "28%",
@@ -4793,7 +4793,7 @@
             },
             "ultimate": {
                 "name": "Surprise Present",
-                "description": "<span class=\"text-highlight\">[Impair] | Energy Cost: 120</span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">96%</span> of Sampo's ATK to all enemies, with a 100% <span class=\"tooltip-base chance\">base chance</span> to increase the targets' DoT taken by <span class=\"text-value\">20%</span> for 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[Impair]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">120</span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">96%</span> of Sampo's ATK to all enemies, with a 100% <span class=\"tooltip-base chance\">base chance</span> to increase the targets' DoT taken by <span class=\"text-value\">20%</span> for 2 turn(s).",
                 "scaling": [
                     [
                         "96%",
@@ -5094,7 +5094,7 @@
             },
             "skill": {
                 "name": "Lightning Flash",
-                "description": "<span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">70%</span> of Serval's ATK to a single enemy and <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">30%</span> of Serval's ATK to enemies adjacent to it, with a 80% <span class=\"tooltip-base chance\">base chance</span> for enemies hit to become Shocked for 2 turn(s).<br />While Shocked, enemies take <span class=\"text-lightning\">Lightning DoT</span> equal to <span class=\"text-value\">40%</span> of Serval's ATK at the beginning of each turn.",
+                "description": "<span class=\"text-highlight\">[Blast]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">70%</span> of Serval's ATK to a single enemy and <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">30%</span> of Serval's ATK to enemies adjacent to it, with a 80% <span class=\"tooltip-base chance\">base chance</span> for enemies hit to become Shocked for 2 turn(s).<br />While Shocked, enemies take <span class=\"text-lightning\">Lightning DoT</span> equal to <span class=\"text-value\">40%</span> of Serval's ATK at the beginning of each turn.",
                 "scaling": [
                     [
                         "70%",
@@ -5151,7 +5151,7 @@
             },
             "ultimate": {
                 "name": "Here Comes the Mechanical Fever",
-                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 100</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">108%</span> of Serval's ATK to all enemies. Enemies already Shocked will extend the duration of their Shock state by 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[AoE]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">100</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">108%</span> of Serval's ATK to all enemies. Enemies already Shocked will extend the duration of their Shock state by 2 turn(s).",
                 "scaling": [
                     [
                         "108%",
@@ -5429,7 +5429,7 @@
             },
             "skill": {
                 "name": "Cloudfencer Art: Mountainfall",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">105%</span> of Sushang's ATK to a single enemy. In addition, there is a 33% chance to trigger Sword Stance on the final hit, dealing <span class=\"tooltip-additional dmg\">Additional</span> <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">50%</span> of Sushang's ATK to the enemy.<br />If the enemy is inflicted with <span class=\"tooltip-weakness break state\">Weakness Break</span>, Sword Stance is guaranteed to trigger.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">105%</span> of Sushang's ATK to a single enemy. In addition, there is a 33% chance to trigger Sword Stance on the final hit, dealing <span class=\"tooltip-additional dmg\">Additional</span> <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">50%</span> of Sushang's ATK to the enemy.<br />If the enemy is inflicted with <span class=\"tooltip-weakness break state\">Weakness Break</span>, Sword Stance is guaranteed to trigger.",
                 "scaling": [
                     [
                         "105%",
@@ -5469,7 +5469,7 @@
             },
             "ultimate": {
                 "name": "Shape of Taixu: Dawn Herald",
-                "description": "<span class=\"text-highlight\">[Single Target] | Energy Cost: 120</span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">192%</span> of Sushang's ATK to a single enemy target, and she immediately takes action again. In addition, Sushang's ATK increases by <span class=\"text-value\">18%</span> and using her Skill has 2 extra chances to trigger Sword Stance for 2 turn(s).<br />Sword Stance triggered from the extra chances deals 50% of the original DMG.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">120</span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">192%</span> of Sushang's ATK to a single enemy target, and she immediately takes action again. In addition, Sushang's ATK increases by <span class=\"text-value\">18%</span> and using her Skill has 2 extra chances to trigger Sword Stance for 2 turn(s).<br />Sword Stance triggered from the extra chances deals 50% of the original DMG.",
                 "scaling": [
                     [
                         "192%",
@@ -5766,7 +5766,7 @@
             },
             "skill": {
                 "name": "Soothing Melody",
-                "description": "<span class=\"text-highlight\">[Support]</span><br />Grants a single ally with Benediction to increase their ATK by <span class=\"text-value\">25%</span>, up to <span class=\"text-value\">15%</span> of Tingyun's current ATK.<br />When the ally with Benediction attacks, they will deal <span class=\"tooltip-additional dmg\">Additional</span> <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">20%</span> of that ally's ATK for 1 time.<br />Benediction lasts for 3 turn(s) and is only effective on the most recent receiver of Tingyun's Skill.",
+                "description": "<span class=\"text-highlight\">[Support]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Grants a single ally with Benediction to increase their ATK by <span class=\"text-value\">25%</span>, up to <span class=\"text-value\">15%</span> of Tingyun's current ATK.<br />When the ally with Benediction attacks, they will deal <span class=\"tooltip-additional dmg\">Additional</span> <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">20%</span> of that ally's ATK for 1 time.<br />Benediction lasts for 3 turn(s) and is only effective on the most recent receiver of Tingyun's Skill.",
                 "scaling": [
                     [
                         "25%",
@@ -5823,7 +5823,7 @@
             },
             "ultimate": {
                 "name": "Amidst the Rejoicing Clouds",
-                "description": "<span class=\"text-highlight\">[Support] | Energy Cost: 130</span><br />Regenerates 50 Energy for a single ally and increases the target's DMG by <span class=\"text-value\">20%</span> for 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[Support]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">130</span><br />Regenerates 50 Energy for a single ally and increases the target's DMG by <span class=\"text-value\">20%</span> for 2 turn(s).",
                 "scaling": [
                     [
                         "20%",
@@ -6106,7 +6106,7 @@
             },
             "skill": {
                 "name": "RIP Home Run",
-                "description": "<span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">62.5%</span> of the Trailblazer's ATK to a single enemy and enemies adjacent to it.",
+                "description": "<span class=\"text-highlight\">[Blast]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">62.5%</span> of the Trailblazer's ATK to a single enemy and enemies adjacent to it.",
                 "scaling": [
                     [
                         "62%",
@@ -6129,7 +6129,7 @@
             },
             "ultimate": {
                 "name": "Stardust Ace",
-                "description": "<span class=\"text-highlight\">[Enhance] | Energy Cost: 120</span><br />Choose between two attack modes to deliver a full strike.<br />Blowout: Farewell Hit deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">300%</span> of the Trailblazer's ATK to a single enemy.<br />Blowout: RIP Home Run deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">180%</span> of the Trailblazer's ATK to a single enemy, and <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">108%</span> of the Trailblazer's ATK to enemies adjacent to it.",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">120</span><br />Choose between two attack modes to deliver a full strike.<br />Blowout: Farewell Hit deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">300%</span> of the Trailblazer's ATK to a single enemy.<br />Blowout: RIP Home Run deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">180%</span> of the Trailblazer's ATK to a single enemy, and <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">108%</span> of the Trailblazer's ATK to enemies adjacent to it.",
                 "scaling": [
                     [
                         "300%",
@@ -6470,7 +6470,7 @@
             },
             "skill": {
                 "name": "Ever-Burning Amber",
-                "description": "<span class=\"text-highlight\">[Defense]</span><br />Increases the Trailblazer's DMG Reduction by <span class=\"text-value\">40%</span> and gains 1 stack of Magma Will, with a 100% <span class=\"tooltip-base chance\">base chance</span> to Taunt all enemies for 1 turn(s).",
+                "description": "<span class=\"text-highlight\">[Defense]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Increases the Trailblazer's DMG Reduction by <span class=\"text-value\">40%</span> and gains 1 stack of Magma Will, with a 100% <span class=\"tooltip-base chance\">base chance</span> to Taunt all enemies for 1 turn(s).",
                 "scaling": [
                     [
                         "40%",
@@ -6493,7 +6493,7 @@
             },
             "ultimate": {
                 "name": "War-Flaming Lance",
-                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 120</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">50%</span> of the Trailblazer's ATK plus <span class=\"text-value\">75%</span> of the Trailblazer's DEF to all enemies. The next Basic ATK will be automatically enhanced and does not cost Magma Will.",
+                "description": "<span class=\"text-highlight\">[AoE]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">120</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">50%</span> of the Trailblazer's ATK plus <span class=\"text-value\">75%</span> of the Trailblazer's DEF to all enemies. The next Basic ATK will be automatically enhanced and does not cost Magma Will.",
                 "scaling": [
                     [
                         "50%",
@@ -6809,7 +6809,7 @@
             },
             "skill": {
                 "name": "Edge of the Void",
-                "description": "<span class=\"text-highlight\">[Bounce]</span><br />Deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">36%</span> of Welt's ATK to a single enemy and further deals DMG 2 extra times, with each time dealing <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">36%</span> of Welt's ATK to a random enemy. On hit, there is a <span class=\"text-value\">65%</span> <span class=\"tooltip-base chance\">base chance</span> to reduce the enemy's SPD by 10% for 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[Bounce]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">36%</span> of Welt's ATK to a single enemy and further deals DMG 2 extra times, with each time dealing <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">36%</span> of Welt's ATK to a random enemy. On hit, there is a <span class=\"text-value\">65%</span> <span class=\"tooltip-base chance\">base chance</span> to reduce the enemy's SPD by 10% for 2 turn(s).",
                 "scaling": [
                     [
                         "36%",
@@ -6866,7 +6866,7 @@
             },
             "ultimate": {
                 "name": "Synthetic Black Hole",
-                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 120</span><br />Deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">90%</span> of Welt's ATK to all enemies, with a 100% <span class=\"tooltip-base chance\">base chance</span> for enemies hit by this ability to be Imprisoned for 1 turn.<br />Imprisoned enemies have their <span class=\"tooltip-action delayed\">actions delayed</span> by <span class=\"text-value\">32%</span> and SPD reduced by 10%.",
+                "description": "<span class=\"text-highlight\">[AoE]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">120</span><br />Deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">90%</span> of Welt's ATK to all enemies, with a 100% <span class=\"tooltip-base chance\">base chance</span> for enemies hit by this ability to be Imprisoned for 1 turn.<br />Imprisoned enemies have their <span class=\"tooltip-action delayed\">actions delayed</span> by <span class=\"text-value\">32%</span> and SPD reduced by 10%.",
                 "scaling": [
                     [
                         "90%",
@@ -7167,7 +7167,7 @@
             },
             "skill": {
                 "name": "Darting Ironthorn",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">110%</span> of Yanqing's ATK to a single enemy and activates Soulsteel Sync for 1 turn.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">110%</span> of Yanqing's ATK to a single enemy and activates Soulsteel Sync for 1 turn.",
                 "scaling": [
                     [
                         "110%",
@@ -7190,7 +7190,7 @@
             },
             "ultimate": {
                 "name": "Amidst the Raining Bliss",
-                "description": "<span class=\"text-highlight\">[Single Target] | Energy Cost: 140</span><br />Increases Yanqing's CRIT Rate by 60%. When Soulsteel Sync is active, increases Yanqing's CRIT DMG by an extra <span class=\"text-value\">30%</span>. This <span class=\"tooltip-buff\">buff</span> lasts for one turn. Afterwards, deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">210%</span> of Yanqing's ATK to a single enemy.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">140</span><br />Increases Yanqing's CRIT Rate by 60%. When Soulsteel Sync is active, increases Yanqing's CRIT DMG by an extra <span class=\"text-value\">30%</span>. This <span class=\"tooltip-buff\">buff</span> lasts for one turn. Afterwards, deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">210%</span> of Yanqing's ATK to a single enemy.",
                 "scaling": [
                     [
                         "30%",
@@ -7555,7 +7555,7 @@
             },
             "skill": {
                 "name": "Sheathed Blade",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Increases Seele's SPD by 25% for 2 turn(s) and deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">110%</span> of Seele's ATK to a single enemy.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Increases Seele's SPD by 25% for 2 turn(s) and deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">110%</span> of Seele's ATK to a single enemy.",
                 "scaling": [
                     [
                         "110%",
@@ -7578,7 +7578,7 @@
             },
             "ultimate": {
                 "name": "Butterfly Flurry",
-                "description": "<span class=\"text-highlight\">[Single Target] | Energy Cost: 120</span><br />Seele enters the buffed state and deals Quantum DMG equal to <span class=\"text-value\">255%</span> of her ATK to a single enemy.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">120</span><br />Seele enters the buffed state and deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">255%</span> of her ATK to a single enemy.",
                 "scaling": [
                     [
                         "254%",
@@ -7858,7 +7858,7 @@
             },
             "skill": {
                 "name": "Rifting Zenith",
-                "description": "<span class=\"text-highlight\">[AoE]</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">50%</span> of Jing Yuan's ATK to all enemies and increases Lightning-Lord's Hits Per Action by 2 for the next turn.",
+                "description": "<span class=\"text-highlight\">[AoE]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">50%</span> of Jing Yuan's ATK to all enemies and increases Lightning-Lord's Hits Per Action by 2 for the next turn.",
                 "scaling": [
                     [
                         "50%",
@@ -7881,7 +7881,7 @@
             },
             "ultimate": {
                 "name": "Lightbringer",
-                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 130</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">120%</span> of Jing Yuan's ATK to all enemies and increases Lightning-Lord's Hits Per Action by 3 for the next turn.",
+                "description": "<span class=\"text-highlight\">[AoE]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">130</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">120%</span> of Jing Yuan's ATK to all enemies and increases Lightning-Lord's Hits Per Action by 3 for the next turn.",
                 "scaling": [
                     [
                         "120%",
@@ -8159,7 +8159,7 @@
             },
             "skill": {
                 "name": "Allow Changes?",
-                "description": "<span class=\"text-highlight\">[Impair]</span><br />There is a <span class=\"text-value\">75%</span> <span class=\"tooltip-base chance\">base chance</span> to add 1 Weakness of an on-field ally's Type to the target enemy. This also reduces the enemy's DMG RES to that Weakness Type by 20% for 2 turn(s). If the enemy already has that Type Weakness, the effect of DMG RES reduction to that Weakness Type will not be triggered.<br />Each enemy can only have 1 Weakness implanted by Silver Wolf. When Silver Wolf implants another Weakness to the target, only the most recent implanted Weakness will be kept.<br />In addition, there is a 100% <span class=\"tooltip-base chance\">base chance</span> to reduce the All-Type RES of the enemy further by <span class=\"text-value\">7.50%</span> for 2 turn(s).<br />Deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">98%</span> of Silver Wolf's ATK to this enemy.",
+                "description": "<span class=\"text-highlight\">[Impair]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />There is a <span class=\"text-value\">75%</span> <span class=\"tooltip-base chance\">base chance</span> to add 1 Weakness of an on-field ally's Type to the target enemy. This also reduces the enemy's DMG RES to that Weakness Type by 20% for 2 turn(s). If the enemy already has that Type Weakness, the effect of DMG RES reduction to that Weakness Type will not be triggered.<br />Each enemy can only have 1 Weakness implanted by Silver Wolf. When Silver Wolf implants another Weakness to the target, only the most recent implanted Weakness will be kept.<br />In addition, there is a 100% <span class=\"tooltip-base chance\">base chance</span> to reduce the All-Type RES of the enemy further by <span class=\"text-value\">7.50%</span> for 2 turn(s).<br />Deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">98%</span> of Silver Wolf's ATK to this enemy.",
                 "scaling": [
                     [
                         "75%",
@@ -8216,7 +8216,7 @@
             },
             "ultimate": {
                 "name": "User Banned",
-                "description": "<span class=\"text-highlight\">[Impair] | Energy Cost: 110</span><br />There's a <span class=\"text-value\">85%</span> <span class=\"tooltip-base chance\">base chance</span> to decrease the target enemy's DEF by <span class=\"text-value\">36%</span> for 3 turn(s). And at the same time, deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">228%</span> of Silver Wolf's ATK to the target enemy.",
+                "description": "<span class=\"text-highlight\">[Impair]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">110</span><br />There's a <span class=\"text-value\">85%</span> <span class=\"tooltip-base chance\">base chance</span> to decrease the target enemy's DEF by <span class=\"text-value\">36%</span> for 3 turn(s). And at the same time, deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">228%</span> of Silver Wolf's ATK to the target enemy.",
                 "scaling": [
                     [
                         "85%",
@@ -8585,7 +8585,7 @@
             },
             "skill": {
                 "name": "Prayer of Abyss Flower",
-                "description": "<span class=\"text-highlight\">[Restore]</span><br />After using his Skill, Luocha immediately restores the target ally's HP equal to <span class=\"text-value\">40%</span> of Luocha's ATK plus <span class=\"text-value\">200</span>. Meanwhile, Luocha gains 1 stack of Abyss Flower.<br />When any ally's HP percentage drops to 50% or lower, an effect equivalent to Luocha's Skill will immediately be triggered and applied to this ally for one time (without consuming Skill Points). This effect can be triggered again after 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />After using his Skill, Luocha immediately restores the target ally's HP equal to <span class=\"text-value\">40%</span> of Luocha's ATK plus <span class=\"text-value\">200</span>. Meanwhile, Luocha gains 1 stack of Abyss Flower.<br />When any ally's HP percentage drops to 50% or lower, an effect equivalent to Luocha's Skill will immediately be triggered and applied to this ally for one time (without consuming Skill Points). This effect can be triggered again after 2 turn(s).",
                 "scaling": [
                     [
                         "40%",
@@ -8625,7 +8625,7 @@
             },
             "ultimate": {
                 "name": "Death Wish",
-                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 100</span><br />Removes 1 <span class=\"tooltip-buff\">buff(s)</span> from all enemies and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">120%</span> of Luocha's ATK to all enemies. Luocha gains 1 stack of Abyss Flower.",
+                "description": "<span class=\"text-highlight\">[AoE]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">100</span><br />Removes 1 <span class=\"tooltip-buff\">buff(s)</span> from all enemies and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">120%</span> of Luocha's ATK to all enemies. Luocha gains 1 stack of Abyss Flower.",
                 "scaling": [
                     [
                         "120%",
@@ -8924,7 +8924,7 @@
             },
             "skill": {
                 "name": "Emboldening Salvo",
-                "description": "<span class=\"text-highlight\">[Support]</span><br />Obtains 2 stack(s) of \"Roaring Bowstrings\" (to a maximum of 2 stacks). When \"Roaring Bowstrings\" is active, the ATK of all allies increases by <span class=\"text-value\">40%</span>, and every time an ally's turn ends, Yukong loses 1 stack of \"Roaring Bowstrings.\"<br />When it's the turn where Yukong gains \"Roaring Bowstrings\" by using Skill, \"Roaring Bowstrings\" will not be removed.",
+                "description": "<span class=\"text-highlight\">[Support]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Obtains 2 stack(s) of \"Roaring Bowstrings\" (to a maximum of 2 stacks). When \"Roaring Bowstrings\" is active, the ATK of all allies increases by <span class=\"text-value\">40%</span>, and every time an ally's turn ends, Yukong loses 1 stack of \"Roaring Bowstrings.\"<br />When it's the turn where Yukong gains \"Roaring Bowstrings\" by using Skill, \"Roaring Bowstrings\" will not be removed.",
                 "scaling": [
                     [
                         "40%",
@@ -8947,7 +8947,7 @@
             },
             "ultimate": {
                 "name": "Diving Kestrel",
-                "description": "<span class=\"text-highlight\">[Single Target] | Energy Cost: 130</span><br />If \"Roaring Bowstrings\" is active on Yukong when her Ultimate is used, additionally increases all allies' CRIT Rate by <span class=\"text-value\">21%</span> and CRIT DMG by <span class=\"text-value\">39%</span>. At the same time, deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">228%</span> of Yukong's ATK to a single enemy.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">130</span><br />If \"Roaring Bowstrings\" is active on Yukong when her Ultimate is used, additionally increases all allies' CRIT Rate by <span class=\"text-value\">21%</span> and CRIT DMG by <span class=\"text-value\">39%</span>. At the same time, deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">228%</span> of Yukong's ATK to a single enemy.",
                 "scaling": [
                     [
                         "21%",
@@ -9307,7 +9307,7 @@
             },
             "skill": {
                 "name": "Hellscape",
-                "description": "<span class=\"text-highlight\">[Enhance]</span><br />Consumes HP equal to 30% of Blade's Max HP to enter the Hellscape state.<br />When Hellscape is active, his Skill cannot be used, his DMG dealt increases by <span class=\"text-value\">12%</span>, and his Basic ATK Shard Sword is enhanced to Forest of Swords for 3 turn(s).<br />If Blade's current HP is insufficient, his HP will be reduced to 1 when he uses his Skill.<br />This Skill does not regenerate Energy. Using this Skill does not end the current turn.",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Consumes HP equal to 30% of Blade's Max HP to enter the Hellscape state.<br />When Hellscape is active, his Skill cannot be used, his DMG dealt increases by <span class=\"text-value\">12%</span>, and his Basic ATK Shard Sword is enhanced to Forest of Swords for 3 turn(s).<br />If Blade's current HP is insufficient, his HP will be reduced to 1 when he uses his Skill.<br />This Skill does not regenerate Energy. Using this Skill does not end the current turn.",
                 "scaling": [
                     [
                         "12%",
@@ -9330,7 +9330,7 @@
             },
             "ultimate": {
                 "name": "Death Sentence",
-                "description": "<span class=\"text-highlight\">[Blast] | Energy Cost: 130</span><br />Sets Blade's current HP to 50% of his Max HP and deals to a single enemy <span class=\"text-wind\">Wind DMG</span> equal to the sum of <span class=\"text-value\">24%</span> of his ATK, <span class=\"text-value\">60%</span> of his Max HP, and <span class=\"text-value\">60%</span> of the total HP he has lost in the current battle. At the same time, deals <span class=\"text-wind\">Wind DMG</span> to adjacent targets equal to the sum of <span class=\"text-value\">9.6%</span> of his ATK, <span class=\"text-value\">24%</span> of his Max HP, and <span class=\"text-value\">24%</span> of the total HP he has lost in the current battle.<br />The total HP Blade has lost in the current battle is capped at 90% of his Max HP. This value will be reset and re-accumulated after his Ultimate has been used.",
+                "description": "<span class=\"text-highlight\">[Blast]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">130</span><br />Sets Blade's current HP to 50% of his Max HP and deals to a single enemy <span class=\"text-wind\">Wind DMG</span> equal to the sum of <span class=\"text-value\">24%</span> of his ATK, <span class=\"text-value\">60%</span> of his Max HP, and <span class=\"text-value\">60%</span> of the total HP he has lost in the current battle. At the same time, deals <span class=\"text-wind\">Wind DMG</span> to adjacent targets equal to the sum of <span class=\"text-value\">9.6%</span> of his ATK, <span class=\"text-value\">24%</span> of his Max HP, and <span class=\"text-value\">24%</span> of the total HP he has lost in the current battle.<br />The total HP Blade has lost in the current battle is capped at 90% of his Max HP. This value will be reset and re-accumulated after his Ultimate has been used.",
                 "scaling": [
                     [
                         "24%",
@@ -9716,7 +9716,7 @@
             },
             "skill": {
                 "name": "Caressing Moonlight",
-                "description": "<span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">80%</span> of Kafka's ATK to a target enemy and <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">30%</span> of Kafka's ATK to enemies adjacent to it.<br />If the target enemy is currently receiving DoT, all DoTs currently placed on that enemy immediately produce DMG equal to <span class=\"text-value\">60%</span> of their original DMG.",
+                "description": "<span class=\"text-highlight\">[Blast]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">80%</span> of Kafka's ATK to a target enemy and <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">30%</span> of Kafka's ATK to enemies adjacent to it.<br />If the target enemy is currently receiving DoT, all DoTs currently placed on that enemy immediately produce DMG equal to <span class=\"text-value\">60%</span> of their original DMG.",
                 "scaling": [
                     [
                         "80%",
@@ -9773,7 +9773,7 @@
             },
             "ultimate": {
                 "name": "Twilight Trill",
-                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 120</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">48%</span> of Kafka's ATK to all enemies, with a 100% <span class=\"tooltip-base chance\">base chance</span> for enemies hit to become Shocked and immediately take DMG equal to <span class=\"text-value\">80%</span> of the DoT. Shock lasts for 2 turn(s).<br />While Shocked, enemies receive <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">115%</span> of Kafka's ATK at the beginning of each turn.",
+                "description": "<span class=\"text-highlight\">[AoE]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">120</span><br />Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">48%</span> of Kafka's ATK to all enemies, with a 100% <span class=\"tooltip-base chance\">base chance</span> for enemies hit to become Shocked and immediately take DMG equal to <span class=\"text-value\">80%</span> of the DoT. Shock lasts for 2 turn(s).<br />While Shocked, enemies receive <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">115%</span> of Kafka's ATK at the beginning of each turn.",
                 "scaling": [
                     [
                         "48%",
@@ -10113,7 +10113,7 @@
             },
             "skill": {
                 "name": "Lacerating Fist",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">60%</span> of Luka's ATK to a single enemy target. In addition, there is a 100% <span class=\"tooltip-base chance\">base chance</span> to inflict Bleed on them, lasting for 3 turn(s).<br />While Bleeding, the enemy will take 24.0% of their Max HP as <span class=\"text-physical\">Physical DMG</span> at the start of each turn. This DMG will not exceed more than <span class=\"text-value\">130%</span> of Luka's ATK.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">60%</span> of Luka's ATK to a single enemy target. In addition, there is a 100% <span class=\"tooltip-base chance\">base chance</span> to inflict Bleed on them, lasting for 3 turn(s).<br />While Bleeding, the enemy will take 24.0% of their Max HP as <span class=\"text-physical\">Physical DMG</span> at the start of each turn. This DMG will not exceed more than <span class=\"text-value\">130%</span> of Luka's ATK.",
                 "scaling": [
                     [
                         "60%",
@@ -10153,7 +10153,7 @@
             },
             "ultimate": {
                 "name": "Coup de Grâce",
-                "description": "<span class=\"text-highlight\">[Single Target] | Energy Cost: 130</span><br />Receives 2 stack(s) of Fighting Will, with a 100% <span class=\"tooltip-base chance\">base chance</span> to increase a single enemy target's DMG received by <span class=\"text-value\">12%</span> for 3 turn(s). Then, deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">198%</span> of Luka's ATK to the target.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">130</span><br />Receives 2 stack(s) of Fighting Will, with a 100% <span class=\"tooltip-base chance\">base chance</span> to increase a single enemy target's DMG received by <span class=\"text-value\">12%</span> for 3 turn(s). Then, deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">198%</span> of Luka's ATK to the target.",
                 "scaling": [
                     [
                         "12%",
@@ -10438,7 +10438,7 @@
         "skills": {
             "attack": {
                 "name": "Beneficent Lotus",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Uses a 2-hit attack and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">50%</span> of Imbibitor Lunae's ATK to a single enemy target.<br /><br /><span style=\"font-size:2.125rem;\">Transcendence</span><br /><span class=\"text-highlight\">[Single Target]</span><br />Uses a 3-hit attack and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">130%</span> of Imbibitor Lunae's ATK to a single enemy target.<br /><br /><span style=\"font-size:2.125rem;\">Divine Spear</span><br /><span class=\"text-highlight\">[Blast]</span><br />Uses a 5-hit attack, dealing <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">190%</span> of Imbibitor Lunae's ATK to a single enemy target. From the fourth hit onward, simultaneously deal <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">30%</span> of Imbibitor Lunae's ATK to adjacent targets.<br /><br /><span style=\"font-size:2.125rem;\">Fulgurant Leap</span><br /><span class=\"text-highlight\">[Blast]</span><br />Uses a 7-hit attack, dealing <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">250%</span> of Imbibitor Lunae's ATK to a single enemy target. From the fourth hit onward, simultaneously deal <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">90%</span> of Imbibitor Lunae's ATK to adjacent targets.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Uses a 2-hit attack and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">50%</span> of Imbibitor Lunae's ATK to a single enemy target.<br /><br /><span style=\"font-size:2.125rem;\">Transcendence</span><br /><span class=\"text-highlight\">[Single Target]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Uses a 3-hit attack and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">130%</span> of Imbibitor Lunae's ATK to a single enemy target.<br /><br /><span style=\"font-size:2.125rem;\">Divine Spear</span><br /><span class=\"text-highlight\">[Blast]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/><img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Uses a 5-hit attack, dealing <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">190%</span> of Imbibitor Lunae's ATK to a single enemy target. From the fourth hit onward, simultaneously deal <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">30%</span> of Imbibitor Lunae's ATK to adjacent targets.<br /><br /><span style=\"font-size:2.125rem;\">Fulgurant Leap</span><br /><span class=\"text-highlight\">[Blast]<br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/><img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/><img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span></span><br />Uses a 7-hit attack, dealing <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">250%</span> of Imbibitor Lunae's ATK to a single enemy target. From the fourth hit onward, simultaneously deal <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">90%</span> of Imbibitor Lunae's ATK to adjacent targets.",
                 "scaling": [
                     [
                         "50%",
@@ -10533,7 +10533,7 @@
             },
             "ultimate": {
                 "name": "Azure's Aqua Ablutes All",
-                "description": "<span class=\"text-highlight\">[Blast] | Energy Cost: 140</span><br />Uses a 3-hit attack and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">180%</span> of Imbibitor Lunae's ATK to a single enemy target. At the same time, deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">84%</span> of Imbibitor Lunae's ATK to adjacent targets. Then, obtains 2 Squama Sacrosancta.<br />It's possible to hold up to 3 Squama Sacrosancta, which can be used to offset the consumption of Imbibitor Lunae's skill points. Consuming Squama Sacrosancta is considered equivalent to consuming skill points.",
+                "description": "<span class=\"text-highlight\">[Blast]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">140</span><br />Uses a 3-hit attack and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">180%</span> of Imbibitor Lunae's ATK to a single enemy target. At the same time, deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">84%</span> of Imbibitor Lunae's ATK to adjacent targets. Then, obtains 2 Squama Sacrosancta.<br />It's possible to hold up to 3 Squama Sacrosancta, which can be used to offset the consumption of Imbibitor Lunae's skill points. Consuming Squama Sacrosancta is considered equivalent to consuming skill points.",
                 "scaling": [
                     [
                         "180%",
@@ -10834,7 +10834,7 @@
             },
             "skill": {
                 "name": "Known by Stars, Shown by Hearts",
-                "description": "<span class=\"text-highlight\">[Defense]</span><br />Activates Matrix of Prescience, via which other team members will <span class=\"tooltip-distribute\">Distribute</span> 65% of the DMG they receive (before this DMG is mitigated by any Shields) to Fu Xuan for 3 turn(s).<br />While affected by Matrix of Prescience, all team members gain the Knowledge effect, which increases their respective Max HP by <span class=\"text-value\">3%</span> of Fu Xuan's Max HP, and increases CRIT Rate by <span class=\"text-value\">6%</span>.<br />When Fu Xuan is <span class=\"tooltip-downed state\">knocked down</span>, the Matrix of Prescience will be dispelled.",
+                "description": "<span class=\"text-highlight\">[Defense]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Activates Matrix of Prescience, via which other team members will <span class=\"tooltip-distribute\">Distribute</span> 65% of the DMG they receive (before this DMG is mitigated by any Shields) to Fu Xuan for 3 turn(s).<br />While affected by Matrix of Prescience, all team members gain the Knowledge effect, which increases their respective Max HP by <span class=\"text-value\">3%</span> of Fu Xuan's Max HP, and increases CRIT Rate by <span class=\"text-value\">6%</span>.<br />When Fu Xuan is <span class=\"tooltip-downed state\">knocked down</span>, the Matrix of Prescience will be dispelled.",
                 "scaling": [
                     [
                         "3%",
@@ -10874,7 +10874,7 @@
             },
             "ultimate": {
                 "name": "Woes of Many Morphed to One",
-                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 135</span><br />Deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">60%</span> of Fu Xuan's Max HP to all enemies and obtains 1 trigger count for the HP Restore effect granted by Fu Xuan's Talent.",
+                "description": "<span class=\"text-highlight\">[AoE]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">135</span><br />Deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">60%</span> of Fu Xuan's Max HP to all enemies and obtains 1 trigger count for the HP Restore effect granted by Fu Xuan's Talent.",
                 "scaling": [
                     [
                         "60%",
@@ -11173,7 +11173,7 @@
             },
             "skill": {
                 "name": "Salted Camping Cans",
-                "description": "<span class=\"text-highlight\">[Restore]</span><br />Applies Survival Response to a single target ally and increases their Max HP by <span class=\"text-value\">5%</span> of Lynx's Max HP plus <span class=\"text-value\">50</span>. If the target ally is a character on the Path of Destruction or Preservation, the chance of them being attacked by enemies will greatly increase. Survival Response lasts for 2 turn(s).<br />Restores the target's HP by <span class=\"text-value\">8%</span> of Lynx's Max HP plus <span class=\"text-value\">80</span>.",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Applies Survival Response to a single target ally and increases their Max HP by <span class=\"text-value\">5%</span> of Lynx's Max HP plus <span class=\"text-value\">50</span>. If the target ally is a character on the Path of Destruction or Preservation, the chance of them being attacked by enemies will greatly increase. Survival Response lasts for 2 turn(s).<br />Restores the target's HP by <span class=\"text-value\">8%</span> of Lynx's Max HP plus <span class=\"text-value\">80</span>.",
                 "scaling": [
                     [
                         "5%",
@@ -11247,7 +11247,7 @@
             },
             "ultimate": {
                 "name": "Snowfield First Aid",
-                "description": "<span class=\"text-highlight\">[Restore] | Energy Cost: 100</span><br />Dispels 1 debuff(s) from all allies and immediately restores their respective HP by an amount equal to <span class=\"text-value\">9%</span> of Lynx's Max HP plus <span class=\"text-value\">90</span>.",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">100</span><br />Dispels 1 debuff(s) from all allies and immediately restores their respective HP by an amount equal to <span class=\"text-value\">9%</span> of Lynx's Max HP plus <span class=\"text-value\">90</span>.",
                 "scaling": [
                     [
                         "9%",
@@ -11597,7 +11597,7 @@
             },
             "skill": {
                 "name": "Transcendent Flash",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">100%</span> of Jingliu's ATK to a single enemy and obtains 1 stack(s) of Syzygy.<br /><br /><span style=\"font-size:2.125rem;\">Moon On Glacial River</span><br /><span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">125%</span> of Jingliu's ATK to a single enemy, and deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">62%</span> of Jingliu's ATK to adjacent enemies. Consumes 1 stack(s) of Syzygy. Using this ability does not consume Skill Points.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">100%</span> of Jingliu's ATK to a single enemy and obtains 1 stack(s) of Syzygy.<br /><br /><span style=\"font-size:2.125rem;\">Moon On Glacial River</span><br /><span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">125%</span> of Jingliu's ATK to a single enemy, and deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">62%</span> of Jingliu's ATK to adjacent enemies. Consumes 1 stack(s) of Syzygy. Using this ability does not consume Skill Points.",
                 "scaling": [
                     [
                         "100%",
@@ -11654,7 +11654,7 @@
             },
             "ultimate": {
                 "name": "Florephemeral Dreamflux",
-                "description": "<span class=\"text-highlight\">[Blast] | Energy Cost: 140</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">180%</span> of Jingliu's ATK to a single enemy, and deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">90%</span> of Jingliu's ATK to any adjacent enemies. Gains 1 stack(s) of Syzygy after attack ends.",
+                "description": "<span class=\"text-highlight\">[Blast]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">140</span><br />Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">180%</span> of Jingliu's ATK to a single enemy, and deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">90%</span> of Jingliu's ATK to any adjacent enemies. Gains 1 stack(s) of Syzygy after attack ends.",
                 "scaling": [
                     [
                         "180%",
@@ -11972,7 +11972,7 @@
             },
             "skill": {
                 "name": "Blazing Welcome",
-                "description": "<span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">60%</span> of Guinaifen's ATK to a single enemy and deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">20%</span> of Guinaifen's ATK to any adjacent enemies with a 100% <span class=\"tooltip-base chance\">base chance</span> to Burn the target and adjacent targets. When Burned, enemies will take a <span class=\"text-fire\">Fire DoT</span> equal to <span class=\"text-value\">83%</span> of Guinaifen's ATK at the beginning of each turn, lasting for 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[Blast]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">60%</span> of Guinaifen's ATK to a single enemy and deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">20%</span> of Guinaifen's ATK to any adjacent enemies with a 100% <span class=\"tooltip-base chance\">base chance</span> to Burn the target and adjacent targets. When Burned, enemies will take a <span class=\"text-fire\">Fire DoT</span> equal to <span class=\"text-value\">83%</span> of Guinaifen's ATK at the beginning of each turn, lasting for 2 turn(s).",
                 "scaling": [
                     [
                         "60%",
@@ -12029,7 +12029,7 @@
             },
             "ultimate": {
                 "name": "Watch This Showstopper",
-                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 120</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">72%</span> of Guinaifen's ATK to all enemies. If the target enemy is currently inflicted with Burn, then their Burn status immediately produce DMG equal to <span class=\"text-value\">72%</span> of their original DMG.",
+                "description": "<span class=\"text-highlight\">[AoE]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">120</span><br />Deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">72%</span> of Guinaifen's ATK to all enemies. If the target enemy is currently inflicted with Burn, then their Burn status immediately produce DMG equal to <span class=\"text-value\">72%</span> of their original DMG.",
                 "scaling": [
                     [
                         "72%",
@@ -12330,7 +12330,7 @@
             },
             "skill": {
                 "name": "Difficulty Paying?",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Inflicts a single target enemy with a Proof of Debt status, increasing the DMG it takes from <span class=\"tooltip-follow up attack\">follow-up attacks</span> by <span class=\"text-value\">25%</span>. Proof of Debt only takes effect on the most recent target it is applied to. If there are no enemies inflicted with Proof of Debt on the field when an ally's turn starts or when an ally takes action, Topaz will inflict a random enemy with Proof of Debt.<br />Numby deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">75%</span> of Topaz's ATK to this target. Using this Skill to deal DMG is considered as launching a <span class=\"tooltip-follow up attack\">follow-up attack</span>.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Inflicts a single target enemy with a Proof of Debt status, increasing the DMG it takes from <span class=\"tooltip-follow up attack\">follow-up attacks</span> by <span class=\"text-value\">25%</span>. Proof of Debt only takes effect on the most recent target it is applied to. If there are no enemies inflicted with Proof of Debt on the field when an ally's turn starts or when an ally takes action, Topaz will inflict a random enemy with Proof of Debt.<br />Numby deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">75%</span> of Topaz's ATK to this target. Using this Skill to deal DMG is considered as launching a <span class=\"tooltip-follow up attack\">follow-up attack</span>.",
                 "scaling": [
                     [
                         "25%",
@@ -12370,7 +12370,7 @@
             },
             "ultimate": {
                 "name": "Turn a Profit!",
-                "description": "<span class=\"text-highlight\">[Enhance] | Energy Cost: 130</span><br />Numby enters the Windfall Bonanza! state and its DMG multiplier increases by <span class=\"text-value\">75%</span> and CRIT DMG increases by <span class=\"text-value\">12%</span>. Also, when enemies with Proof of Debt are hit by an ally's Basic ATK, Skill, or Ultimate, Numby's action is Advanced Forward by 50%. Numby exits the Windfall Bonanza! state after using 2 attacks.",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">130</span><br />Numby enters the Windfall Bonanza! state and its DMG multiplier increases by <span class=\"text-value\">75%</span> and CRIT DMG increases by <span class=\"text-value\">12%</span>. Also, when enemies with Proof of Debt are hit by an ally's Basic ATK, Skill, or Ultimate, Numby's action is Advanced Forward by 50%. Numby exits the Windfall Bonanza! state after using 2 attacks.",
                 "scaling": [
                     [
                         "75%",
@@ -12667,7 +12667,7 @@
             },
             "skill": {
                 "name": "Talisman: Protection",
-                "description": "<span class=\"text-highlight\">[Restore]</span><br />Dispels 1 <span class=\"tooltip-debuff\">debuff(s)</span> from a single target ally and immediately restores this ally's HP by an amount equal to <span class=\"text-value\">14%</span> of Huohuo's Max HP plus <span class=\"text-value\">140</span>. At the same time, restores HP for allies that are adjacent to this target ally by an amount equal to <span class=\"text-value\">11.2%</span> of Huohuo's Max HP plus <span class=\"text-value\">112</span>.",
+                "description": "<span class=\"text-highlight\">[Restore]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Dispels 1 <span class=\"tooltip-debuff\">debuff(s)</span> from a single target ally and immediately restores this ally's HP by an amount equal to <span class=\"text-value\">14%</span> of Huohuo's Max HP plus <span class=\"text-value\">140</span>. At the same time, restores HP for allies that are adjacent to this target ally by an amount equal to <span class=\"text-value\">11.2%</span> of Huohuo's Max HP plus <span class=\"text-value\">112</span>.",
                 "scaling": [
                     [
                         "14%",
@@ -12741,7 +12741,7 @@
             },
             "ultimate": {
                 "name": "Tail: Spiritual Domination",
-                "description": "<span class=\"text-highlight\">[Support] | Energy Cost: 140</span><br />Regenerates Energy for all allies (excluding this character) by an amount equal to <span class=\"text-value\">15%</span> of their respective Max Energy. At the same time, increases their ATK by <span class=\"text-value\">24%</span> for 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[Support]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">140</span><br />Regenerates Energy for all allies (excluding this character) by an amount equal to <span class=\"text-value\">15%</span> of their respective Max Energy. At the same time, increases their ATK by <span class=\"text-value\">24%</span> for 2 turn(s).",
                 "scaling": [
                     [
                         "15%",
@@ -13080,7 +13080,7 @@
             },
             "ultimate": {
                 "name": "For In This Garden Supreme Beauty Bestows",
-                "description": "<span class=\"text-highlight\">[AoE]</span><br /><span class=\"energy-cost\">Energy Cost: 90</span><br />Consumes 90 Energy and deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">96%</span> of Argenti's ATK to all enemies.<br /><br /><span style=\"font-size:2.125rem;\">Merit Bestowed in \"My\" Garden</span><br /><span class=\"text-highlight\">[AoE]</span><br /><span class=\"energy-cost\">Energy Cost: 180</span><br />Consumes 180 Energy and deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">168%</span> of Argenti's ATK to all enemies. And further deals DMG for 6 extra time(s), with each time dealing <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">56%</span> of Argenti's ATK to a random enemy.",
+                "description": "<span class=\"text-highlight\">[AoE]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">90</span><br />Consumes 90 Energy and deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">96%</span> of Argenti's ATK to all enemies.<br /><br /><span style=\"font-size:2.125rem;\">Merit Bestowed in \"My\" Garden</span><br /><span class=\"text-highlight\">[AoE]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">180</span><br />Consumes 180 Energy and deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">168%</span> of Argenti's ATK to all enemies. And further deals DMG for 6 extra time(s), with each time dealing <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">56%</span> of Argenti's ATK to a random enemy.",
                 "scaling": [
                     [
                         "96%",
@@ -13392,7 +13392,7 @@
             },
             "skill": {
                 "name": "Samsara, Locked",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">120%</span> of Hanya's ATK to a single enemy, then applies Burden to them.<br />For every 2 Basic ATKs, Skills, or Ultimates allies use on an enemy with Burden, allies will immediately recover 1 Skill Point. Burden is only active on the latest target it is applied to, and will be dispelled automatically after the Skill Point recovery effect has been triggered 2 times.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">120%</span> of Hanya's ATK to a single enemy, then applies Burden to them.<br />For every 2 Basic ATKs, Skills, or Ultimates allies use on an enemy with Burden, allies will immediately recover 1 Skill Point. Burden is only active on the latest target it is applied to, and will be dispelled automatically after the Skill Point recovery effect has been triggered 2 times.",
                 "scaling": [
                     [
                         "120%",
@@ -13415,7 +13415,7 @@
             },
             "ultimate": {
                 "name": "Ten-Lords' Decree, All Shall Obey",
-                "description": "<span class=\"text-highlight\">[Enhance] | Energy Cost: 140</span><br />Increases the SPD of a target ally by <span class=\"text-value\">15%</span> of Hanya's SPD and increases the same target ally's ATK by <span class=\"text-value\">36%</span>, lasting for 2 turn(s).",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">140</span><br />Increases the SPD of a target ally by <span class=\"text-value\">15%</span> of Hanya's SPD and increases the same target ally's ATK by <span class=\"text-value\">36%</span>, lasting for 2 turn(s).",
                 "scaling": [
                     [
                         "15%",
@@ -13714,7 +13714,7 @@
             },
             "skill": {
                 "name": "String Sings Slow Swirls",
-                "description": "<span class=\"text-highlight\">[Support]</span><br />After using her Skill, Ruan Mei gains Overtone, lasting for 3 turn(s). This duration decreases by 1 at the start of Ruan Mei's turn. When Ruan Mei has Overtone, all allies' DMG increases by <span class=\"text-value\">16%</span> and Weakness Break Efficiency increases by 50%.",
+                "description": "<span class=\"text-highlight\">[Support]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />After using her Skill, Ruan Mei gains Overtone, lasting for 3 turn(s). This duration decreases by 1 at the start of Ruan Mei's turn. When Ruan Mei has Overtone, all allies' DMG increases by <span class=\"text-value\">16%</span> and Weakness Break Efficiency increases by 50%.",
                 "scaling": [
                     [
                         "16%",
@@ -13737,7 +13737,7 @@
             },
             "ultimate": {
                 "name": "Petals to Stream, Repose in Dream",
-                "description": "<span class=\"text-highlight\">[Support] | Energy Cost: 130</span><br />Ruan Mei deploys a field that lasts for 2 turns. The field's duration decreases by 1 at the start of her turn.<br />While inside the field, all allies' All-Type RES PEN increases by <span class=\"text-value\">15%</span> and their attacks apply Thanatoplum Rebloom to the enemies hit.<br />When these enemies attempt to recover from Weakness Break, Thanatoplum Rebloom is triggered, extending the duration of their Weakness Break, delaying their action by an amount equal to 20% of Ruan Mei's Break Effect plus 10%, and dealing Break DMG equal to <span class=\"text-value\">30%</span> of Ruan Mei's <span class=\"text-ice\">Ice Break</span> DMG.<br />Enemy targets cannot have Thanatoplum Rebloom re-applied to them until they recover from Weakness Break.",
+                "description": "<span class=\"text-highlight\">[Support]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">130</span><br />Ruan Mei deploys a field that lasts for 2 turns. The field's duration decreases by 1 at the start of her turn.<br />While inside the field, all allies' All-Type RES PEN increases by <span class=\"text-value\">15%</span> and their attacks apply Thanatoplum Rebloom to the enemies hit.<br />When these enemies attempt to recover from Weakness Break, Thanatoplum Rebloom is triggered, extending the duration of their Weakness Break, delaying their action by an amount equal to 20% of Ruan Mei's Break Effect plus 10%, and dealing Break DMG equal to <span class=\"text-value\">30%</span> of Ruan Mei's <span class=\"text-ice\">Ice Break</span> DMG.<br />Enemy targets cannot have Thanatoplum Rebloom re-applied to them until they recover from Weakness Break.",
                 "scaling": [
                     [
                         "15%",
@@ -14053,7 +14053,7 @@
             },
             "skill": {
                 "name": "Intellectual Midwifery",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">75%</span> of Dr. Ratio's ATK to a single target enemy.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">75%</span> of Dr. Ratio's ATK to a single target enemy.",
                 "scaling": [
                     [
                         "75%",
@@ -14076,7 +14076,7 @@
             },
             "ultimate": {
                 "name": "Syllogistic Paradox",
-                "description": "<span class=\"text-highlight\">[Single Target] | Energy Cost: 140</span><br />Deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">144%</span> of Dr. Ratio's ATK to a single target enemy and applies Wiseman's Folly. When Dr. Ratio's allies attack a target afflicted with Wiseman's Folly, Dr. Ratio launches his Talent's <span class=\"tooltip-follow up attack\">follow-up attack</span> for 1 time against this target.<br />Wiseman's Folly can be triggered for up to 2 times and only affects the most recent target of Dr. Ratio's Ultimate. This trigger count resets after Dr. Ratio's Ultimate is used.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">140</span><br />Deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">144%</span> of Dr. Ratio's ATK to a single target enemy and applies Wiseman's Folly. When Dr. Ratio's allies attack a target afflicted with Wiseman's Folly, Dr. Ratio launches his Talent's <span class=\"tooltip-follow up attack\">follow-up attack</span> for 1 time against this target.<br />Wiseman's Folly can be triggered for up to 2 times and only affects the most recent target of Dr. Ratio's Ultimate. This trigger count resets after Dr. Ratio's Ultimate is used.",
                 "scaling": [
                     [
                         "144%",
@@ -14356,7 +14356,7 @@
             },
             "skill": {
                 "name": "Iniquity Obliteration",
-                "description": "<span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">70%</span> of Xueyi's ATK to a single enemy, and <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">35%</span> of Xueyi's ATK to any adjacent enemies.",
+                "description": "<span class=\"text-highlight\">[Blast]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">70%</span> of Xueyi's ATK to a single enemy, and <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">35%</span> of Xueyi's ATK to any adjacent enemies.",
                 "scaling": [
                     [
                         "70%",
@@ -14396,7 +14396,7 @@
             },
             "ultimate": {
                 "name": "Divine Castigation",
-                "description": "<span class=\"text-highlight\">[Single Target] | Energy Cost: 120</span><br />Deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">150%</span> of Xueyi's ATK to a single target enemy. This attack ignores Weakness Types and reduces the enemy's Toughness. When the enemy's Weakness is Broken, the Quantum Weakness Break effect is triggered.<br />In this attack, the more Toughness is reduced, the higher the DMG will be dealt, up to a max of <span class=\"text-value\">36%</span> increase.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">120</span><br />Deals <span class=\"text-quantum\">Quantum DMG</span> equal to <span class=\"text-value\">150%</span> of Xueyi's ATK to a single target enemy. This attack ignores Weakness Types and reduces the enemy's Toughness. When the enemy's Weakness is Broken, the Quantum Weakness Break effect is triggered.<br />In this attack, the more Toughness is reduced, the higher the DMG will be dealt, up to a max of <span class=\"text-value\">36%</span> increase.",
                 "scaling": [
                     [
                         "150%",
@@ -14719,7 +14719,7 @@
             },
             "skill": {
                 "name": "Decadence, False Twilight",
-                "description": "<span class=\"text-highlight\">[Blast]</span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">45%</span> of Black Swan's ATK to a single target enemy and any adjacent targets. At the same time, there is a 100% <span class=\"tooltip-base chance\">base chance</span> of inflicting 1 stack of <span class=\"tooltip-arcana\">Arcana</span> on the target enemy and the adjacent targets. And there is a 100% <span class=\"tooltip-base chance\">base chance</span> of reducing the DEF of the target enemy and the adjacent targets by <span class=\"text-value\">14.8%</span>, lasting for 3 turn(s).",
+                "description": "<span class=\"text-highlight\">[Blast]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">45%</span> of Black Swan's ATK to a single target enemy and any adjacent targets. At the same time, there is a 100% <span class=\"tooltip-base chance\">base chance</span> of inflicting 1 stack of <span class=\"tooltip-arcana\">Arcana</span> on the target enemy and the adjacent targets. And there is a 100% <span class=\"tooltip-base chance\">base chance</span> of reducing the DEF of the target enemy and the adjacent targets by <span class=\"text-value\">14.8%</span>, lasting for 3 turn(s).",
                 "scaling": [
                     [
                         "45%",
@@ -14759,7 +14759,7 @@
             },
             "ultimate": {
                 "name": "Bliss of Otherworld's Embrace",
-                "description": "<span class=\"text-highlight\">[AoE] | Energy Cost: 120</span><br />Inflicts Epiphany on all enemies for 2 turn(s).<br />Enemies affected by Epiphany take <span class=\"text-value\">15%</span> more DMG in their turn, and their <span class=\"tooltip-arcana\">Arcana</span> effect is regarded as Wind Shear, Bleed, Burn, and Shock effects. In addition, when their <span class=\"tooltip-arcana\">Arcana</span> effect is triggered at the beginning of the next turn, the <span class=\"tooltip-arcana\">Arcana</span> stacks are not reset. The stack non-reset effect can be triggered up to 1 time(s) in Epiphany's duration, and its charges are replenished when Epiphany is applied again.<br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">72%</span> of Black Swan's ATK to all enemies.",
+                "description": "<span class=\"text-highlight\">[AoE]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">120</span><br />Inflicts Epiphany on all enemies for 2 turn(s).<br />Enemies affected by Epiphany take <span class=\"text-value\">15%</span> more DMG in their turn, and their <span class=\"tooltip-arcana\">Arcana</span> effect is regarded as Wind Shear, Bleed, Burn, and Shock effects. In addition, when their <span class=\"tooltip-arcana\">Arcana</span> effect is triggered at the beginning of the next turn, the <span class=\"tooltip-arcana\">Arcana</span> stacks are not reset. The stack non-reset effect can be triggered up to 1 time(s) in Epiphany's duration, and its charges are replenished when Epiphany is applied again.<br />Deals <span class=\"text-wind\">Wind DMG</span> equal to <span class=\"text-value\">72%</span> of Black Swan's ATK to all enemies.",
                 "scaling": [
                     [
                         "15%",
@@ -15133,7 +15133,7 @@
             },
             "skill": {
                 "name": "R—Room Service",
-                "description": "<span class=\"text-highlight\">[Blast]</span><br />Increases the Hits Per Action for Misha's next Ultimate by 1 hit(s). Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">100%</span> of Misha's ATK to a single target enemy, and <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">40%</span> of Misha's ATK to adjacent targets.",
+                "description": "<span class=\"text-highlight\">[Blast]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Increases the Hits Per Action for Misha's next Ultimate by 1 hit(s). Deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">100%</span> of Misha's ATK to a single target enemy, and <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">40%</span> of Misha's ATK to adjacent targets.",
                 "scaling": [
                     [
                         "100%",
@@ -15173,7 +15173,7 @@
             },
             "ultimate": {
                 "name": "G—Gonna Be Late!",
-                "description": "<span class=\"text-highlight\">[Bounce] | Energy Cost: 100</span><br />Has 3 Hits Per Action by default. First, uses 1 hit to deal <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">36%</span> of Misha's ATK to a single target enemy. Then, the rest of the hits each deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">36%</span> of Misha's ATK to a single random enemy. Just before each hit lands, there is a <span class=\"text-value\">12%</span> <span class=\"tooltip-base chance\">base chance</span> to Freeze the target, lasting for 1 turn.<br />While Frozen, enemy targets cannot take any actions, and at the start of their turn, they receive <span class=\"tooltip-additional dmg\">Additional</span> <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">18%</span> of Misha's ATK.<br />This Ultimate can possess up to 10 Hits Per Action. After the Ultimate is used, its Hits Per Action will be reset to the default level.",
+                "description": "<span class=\"text-highlight\">[Bounce]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">100</span><br />Has 3 Hits Per Action by default. First, uses 1 hit to deal <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">36%</span> of Misha's ATK to a single target enemy. Then, the rest of the hits each deals <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">36%</span> of Misha's ATK to a single random enemy. Just before each hit lands, there is a <span class=\"text-value\">12%</span> <span class=\"tooltip-base chance\">base chance</span> to Freeze the target, lasting for 1 turn.<br />While Frozen, enemy targets cannot take any actions, and at the start of their turn, they receive <span class=\"tooltip-additional dmg\">Additional</span> <span class=\"text-ice\">Ice DMG</span> equal to <span class=\"text-value\">18%</span> of Misha's ATK.<br />This Ultimate can possess up to 10 Hits Per Action. After the Ultimate is used, its Hits Per Action will be reset to the default level.",
                 "scaling": [
                     [
                         "36%",
@@ -15508,7 +15508,7 @@
             },
             "skill": {
                 "name": "Dreamdiver",
-                "description": "<span class=\"text-highlight\">[Support]</span><br />Increases the CRIT DMG of a single ally by <span class=\"text-value\">12%</span> of Sparkle's CRIT DMG plus <span class=\"text-value\">27%</span>, lasting for 1 turn(s). And at the same time, <span class=\"tooltip-action advanced\">Advances Forward</span> this ally's action by 50%.<br />When Sparkle uses this ability on herself, the Action Advance effect will not trigger.",
+                "description": "<span class=\"text-highlight\">[Support]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Increases the CRIT DMG of a single ally by <span class=\"text-value\">12%</span> of Sparkle's CRIT DMG plus <span class=\"text-value\">27%</span>, lasting for 1 turn(s). And at the same time, <span class=\"tooltip-action advanced\">Advances Forward</span> this ally's action by 50%.<br />When Sparkle uses this ability on herself, the Action Advance effect will not trigger.",
                 "scaling": [
                     [
                         "12%",
@@ -15548,7 +15548,7 @@
             },
             "ultimate": {
                 "name": "The Hero with a Thousand Faces",
-                "description": "<span class=\"text-highlight\">[Support] | Energy Cost: 110</span><br />Recovers 4 Skill Points for the team and grants all allies Cipher. When allies with Cipher trigger the DMG Boost effect provided by Sparkle's Talent, each stack additionally increases its effect by <span class=\"text-value\">6%</span>, lasting for 2 turns.",
+                "description": "<span class=\"text-highlight\">[Support]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">110</span><br />Recovers 4 Skill Points for the team and grants all allies Cipher. When allies with Cipher trigger the DMG Boost effect provided by Sparkle's Talent, each stack additionally increases its effect by <span class=\"text-value\">6%</span>, lasting for 2 turns.",
                 "scaling": [
                     [
                         "6%",
@@ -15870,7 +15870,7 @@
             },
             "ultimate": {
                 "name": "Slashed Dream Cries in Red",
-                "description": "<span class=\"text-highlight\">[AoE]</span><br /><span class=\"energy-cost\">Ability Cost: 9 points of Slashed Dream</span><br />Sequentially unleash Rainblade 3 times and Stygian Resurge 1 time, dealing <span class=\"text-lightning\">Lightning DMG</span> up to <span class=\"text-value\">223%</span> of Acheron's ATK to a single target enemy, as well as <span class=\"text-lightning\">Lightning DMG</span> up to <span class=\"text-value\">180%</span> of Acheron's ATK to other targets.<br /><br />Rainblade: Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">14.4%</span> of Acheron's ATK to a single target enemy and removes up to 3 stacks of Crimson Knot from the target. When Crimson Knot is removed, immediately deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">9%</span> of Acheron's ATK to all enemies. For every stack of Crimson Knot removed, this DMG Multiplier is additionally increased, up to a maximum of <span class=\"text-value\">36%</span>.<br /><br />Stygian Resurge: Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">72%</span> of Acheron's ATK to all enemies and remove all Crimson Knots.<br /><br />Crimson Knot cannot be applied to enemies during the Ultimate.",
+                "description": "<span class=\"text-highlight\">[AoE]</span><br /><span class=\"energy-cost\">Ability Cost</span>: <span class=\"text-value\">9</span> <span class=\"energy-cost-number\">points of Slashed Dream</span><br />Sequentially unleash Rainblade 3 times and Stygian Resurge 1 time, dealing <span class=\"text-lightning\">Lightning DMG</span> up to <span class=\"text-value\">223%</span> of Acheron's ATK to a single target enemy, as well as <span class=\"text-lightning\">Lightning DMG</span> up to <span class=\"text-value\">180%</span> of Acheron's ATK to other targets.<br /><br />Rainblade: Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">14.4%</span> of Acheron's ATK to a single target enemy and removes up to 3 stacks of Crimson Knot from the target. When Crimson Knot is removed, immediately deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">9%</span> of Acheron's ATK to all enemies. For every stack of Crimson Knot removed, this DMG Multiplier is additionally increased, up to a maximum of <span class=\"text-value\">36%</span>.<br /><br />Stygian Resurge: Deals <span class=\"text-lightning\">Lightning DMG</span> equal to <span class=\"text-value\">72%</span> of Acheron's ATK to all enemies and remove all Crimson Knots.<br /><br />Crimson Knot cannot be applied to enemies during the Ultimate.",
                 "scaling": [
                     [
                         "223%",
@@ -16284,7 +16284,7 @@
             },
             "ultimate": {
                 "name": "Champagne Etiquette",
-                "description": "<span class=\"text-highlight\">[AoE]</span><br /><span class=\"energy-cost\">Energy Cost: 110</span><br />Inflicts Besotted on all enemies, lasting for 2 turn(s). At the same time, deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">75%</span> of Gallagher's ATK to all enemies, and enhances his next Basic ATK to Nectar Blitz.",
+                "description": "<span class=\"text-highlight\">[AoE]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">110</span><br />Inflicts Besotted on all enemies, lasting for 2 turn(s). At the same time, deals <span class=\"text-fire\">Fire DMG</span> equal to <span class=\"text-value\">75%</span> of Gallagher's ATK to all enemies, and enhances his next Basic ATK to Nectar Blitz.",
                 "scaling": [
                     [
                         "75%",
@@ -16623,7 +16623,7 @@
             },
             "ultimate": {
                 "name": "Roulette Shark",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br /><span class=\"energy-cost\">Energy Cost: 110</span><br />Randomly gains 1 to 7 points of Blind Bet. Then, inflicts Unnerved on a single target enemy for 3 turn(s) and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">162%</span> of Aventurine's DEF to the single target enemy. When an ally hits an Unnerved enemy target, the CRIT DMG dealt increases by <span class=\"text-value\">9%</span>.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">110</span><br />Randomly gains 1 to 7 points of Blind Bet. Then, inflicts Unnerved on a single target enemy for 3 turn(s) and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">162%</span> of Aventurine's DEF to the single target enemy. When an ally hits an Unnerved enemy target, the CRIT DMG dealt increases by <span class=\"text-value\">9%</span>.",
                 "scaling": [
                     [
                         "162%",
