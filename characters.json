@@ -16980,7 +16980,7 @@
             },
             "ultimate": {
                 "name": "All-Out Footlight Parade",
-                "description": "<span class=\"text-highlight\">[Support]</span><br /><span class=\"energy-cost\">Energy Cost: 140</span><br />Grants all allies the Backup Dancer effect, lasting for 3 turn(s). This duration reduces by 1 at the start of Trailblazer's every turn. Allies with the Backup Dancer effect have their Break Effect increased by <span class=\"text-value\">15%</span>. And when they attack enemy targets that are in the <span class=\"tooltip-weakness break state\">Weakness Broken state</span>, the Toughness Reduction of the attack will be converted into 1 instance of Super Break DMG.",
+                "description": "<span class=\"text-highlight\">[Support]</span><br /><span class=\"energy-cost\">Energy Cost: 140</span><br />Grants all allies the Backup Dancer effect, lasting for 3 turn(s). This duration reduces by 1 at the start of Trailblazer's every turn. Allies with the Backup Dancer effect have their Break Effect increased by <span class=\"text-value\">15%</span>. And when they attack enemy targets that are in the <span class=\"tooltip-weakness break state\">Weakness Broken state</span>, the Toughness Reduction of the attack will be converted into 1 instance of <span class=\"tooltip-super break dmg\">Super Break DMG</span>.",
                 "scaling": [
                     [
                         "15%",
