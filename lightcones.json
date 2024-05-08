@@ -3736,5 +3736,109 @@
         "release": {
             "version": "2.1"
         }
+    },
+    {
+        "id": 96,
+        "name": "Flowing Nightglow",
+        "rarity": 5,
+        "path": "Harmony",
+        "stats": {
+            "hp": 43,
+            "atk": 28,
+            "def": 21
+        },
+        "passive": {
+            "name": "Pacify",
+            "effect": "Every time an ally attacks, the wearer gains 1 stack of Cantillation. Each stack of Cantillation increases the wearer's Energy Regeneration Rate by <span class=\"text-value\">3%</span>, stacking up to 5 time(s). When the wearer uses their Ultimate, removes Cantillation and gains Cadenza. Cadenza increases the Wearer's ATK by <span class=\"text-value\">48%</span> and increases all allies' DMG dealt by <span class=\"text-value\">24%</span>, lasting for 1 turn(s).",
+            "scaling": [
+                ["3%", "3.5%", "4%", "4.5%", "5%"], ["48%", "60%", "72%", "84%", "96%"], ["24%", "28%", "32%", "36%", "40%"]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Melody",
+            "commonMat": "Dreamjolt"
+        },
+        "description": "Time flows through the mirror, metamorphosing the once inexperienced little girl into a seasoned songstress.<br />She studies her reflection in the mirror. Time has altered all but her green eyes, which still remain as serene as a lake, as if recounting an unshakable faith.<br /><br /><i>\"You seem in high spirits today.\"</i><br /><i>\"Yes... after all, there's a very important 'performance'.\"</i><br /><i>\"Indeed. The Charmony Festival's rehearsal is about to start. Please head to the preparation room.\"</i><br />...<br /><br />She steps out from the dressing room, leaving behind the brilliant lights of the theater, fading into the distance.<br /><i>\"My stage lies not here.\"</i><br />She closes her eyes, letting the night swallow her silhouette.<br /><i>\"From the past to the present, my song has always been for...\"</i><br /><i>\"For those who have lost hope.\"</i>",
+        "release": {
+            "version": "2.2"
+        }
+    },
+    {
+        "id": 97,
+        "name": "Sailing Towards a Second Life",
+        "rarity": 5,
+        "path": "Hunt",
+        "stats": {
+            "hp": 48,
+            "atk": 26,
+            "def": 21
+        },
+        "passive": {
+            "name": "Rough Water",
+            "effect": "Increases the wearer's Break Effect by <span class=\"text-value\">60%</span>. The Break DMG dealt by the wearer ignores <span class=\"text-value\">20%</span> of the target's DEF. When the wearer's Break Effect in battle is at 150% or greater, increases their SPD by <span class=\"text-value\">12%</span>.",
+            "scaling": [
+                ["60%", "70%", "80%", "90%", "100%"], ["20%", "23%", "26%", "29%", "32%"], ["12%", "14%", "16%", "18%", "20%"]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Bullet",
+            "commonMat": "Memoria"
+        },
+        "description": "He felt as if he had fallen into a deep sea. Everything was departing from him, leaving only his hollow thoughts writhing and struggling all alone.<br /><br />Terror, anxiety, loneliness, darkness, rage — these feelings didn't dissipate with his physical body, but remained within the mechanical shell in a different manner — and they were even heavier than before.<br /><br />He heard the call of the dead, smelled the scent of something being charred, the whirl of machinery buzzed around his ears, and the new blue blood flew towards his thirsty heart... Some cruel memories resurfaced as the unforgettable hatred turned into a weak light in the darkness. He followed the light to walk toward the end of it all, exerting every ounce of his strength to rise once again to the surface.<br /><br />He opened his eyes and a flash of fireworks darted past before hearing the doctor's congratulations — <br /><i>\"Welcome to this world, once again.\"</i><br />He balled his hands into fists — hands that were now made of cold iron...<br />He would no longer live for himself.",
+        "release": {
+            "version": "2.2"
+        }
+    },
+    {
+        "id": 98,
+        "name": "Boundless Choreo",
+        "rarity": 4,
+        "path": "Nihility",
+        "stats": {
+            "hp": 43,
+            "atk": 21,
+            "def": 15
+        },
+        "passive": {
+            "name": "Scrutinize",
+            "effect": "Increase the wearer's CRIT Rate by <span class=\"text-value\">8%</span>. The wearer deals <span class=\"text-value\">24%</span> more CRIT DMG to enemies that are currently Slowed or have reduced DEF.",
+            "scaling": [
+                ["8%", "10%", "12%", "14%", "16%"], ["24%", "30%", "36%", "42%", "48%"]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Heliobus",
+            "commonMat": "Memoria"
+        },
+        "description": "Their dance glides gracefully, shadows and light silently exchanging places. She takes the other person's hand, her smile beaming into those indifferent eyes.<br /><i>\"Beautiful Ranger... Welcome to the stage of the Remembrance. At this proximity... you are far more enchanting than one might perceive.\"</i><br /><br />The surroundings darken, a beam of light cascading from the dome above, tracing their evolving steps.<br /><i>\"However, some were meant to dance with us but have yet to arrive...\"</i><br /><br />In a spinning moment, she draws closer to that expressionless face, grips that cold hand, and softly inquires—<br /><i>\"Tell me. What have you done?\"</i><br /><br />As their dance steps grow hurried more and more, fragmented snippets of the past rush into her mind through their joined fingertips.<br />In a past that stretches back further and further, she hears the sound of rain and the lamentations just before life's extinguish. Then, she sees her dance partner holding a blood-red paper umbrella in the drizzling rain. Finally, as far as her eyes can see—<br /><br />A field of drowned corpses bobbing in the deluge.<br /><br />Panic-stricken, she tries to withdraw her hand, falling backward.<br />The surroundings brighten again, the banquet's clamor resurfacing. Her dance partner gently supports her waist, as if oblivious to the ordeal that just unfolded.<br /><i>\"What a lovely dance that was, Memokeeper. Shall we have another go?\"</i>",
+        "release": {
+            "version": "2.2"
+        }
+    },
+    {
+        "id": 99,
+        "name": "For Tomorrow's Journey",
+        "rarity": 4,
+        "path": "Harmony",
+        "stats": {
+            "hp": 43,
+            "atk": 21,
+            "def": 15
+        },
+        "passive": {
+            "name": "Bonds",
+            "effect": "Increases the wearer's ATK by <span class=\"text-value\">16%</span>. After the wearer uses their Ultimate, increases their DMG dealt by <span class=\"text-value\">18%</span>, lasting for 1 turn(s).",
+            "scaling": [
+                ["16%", "20%", "24%", "28%", "32%"], ["18%", "21%", "24%", "27%", "30%"]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Melody",
+            "commonMat": "Dreamjolt"
+        },
+        "description": "The hands of the compass keep turning until they point to the moment of dreams.<br />The Asdana system, overflowing with memoria, glows with a soft light outside the train's windows. The frontier prison within is currently engulfed in the fires of war.<br /><br /><i>\"Hey guys, what do you suppose the world within the dream would look like?? I must meticulously map it out!\"</i><br />The girl, packing away her surveying tools, gazes at the new world within reach, filled with anticipation.<br /><i>\"That place is a mess. Don't you run off once we get there. I won't have you two getting kidnapped again...\"</i><br />The man in cowboy attire grumbles as he cleans his weapon, then walks over to the sofa with a drink, shaking his head in resignation.<br /><i>\"The Land of the Dreams promises infinite possibilities. We'll surely make our mark... Hey, conductor, if we fall in love with that place and never return, would you miss us?\"</i><br />The Nameless dressed like a gentleman winks at Pom-Pom, smiling.<br /><i>\"'You can't joke at the conductor's expense like this!' Is that what you want to say, conductor?\"</i> The girl's mischievous grin spreads across her face.<br /><i>\"You guys are! So! Mean!\"</i><br />Bubbles drift up and down in the glass as the Express fills up with joyful laughter.<br />...<br />The youthful silhouettes of these Nameless get gradually swallowed by memoria.<br /><i>\"Have a... safe... trip...please...\"</i><br />When the conductor turns their head, the Express is already empty.<br />The conductor stand frozen, this scene hauntingly familiar, as if lived through countless times before.",
+        "release": {
+            "version": "2.2"
+        }
     }
 ]

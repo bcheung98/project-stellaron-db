@@ -213,5 +213,30 @@
                 "Shared Feeling"
             ]
         }
+    },
+    {
+        "version": "2.2",
+        "phase1": {
+            "startDate": "May 8, 2024",
+            "endDate": "May 28, 2024",
+            "banner": [
+                "Flowing Nightglow",
+                "Worrisome, Blissful",
+                "Boundless Choreo",
+                "Perfect Timing",
+                "Swordplay"
+            ]
+        },
+        "phase2": {
+            "startDate": "May 28, 2024",
+            "endDate": "June 18, 2024",
+            "banner": [
+                "Sailing Towards A Second Life",
+                "She Already Shut Her Eyes",
+                "A Secret Vow",
+                "Geniuses' Repose",
+                "Landau's Choice"
+            ]
+        }
     }
 ]

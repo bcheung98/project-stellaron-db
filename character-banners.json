@@ -213,5 +213,30 @@
                 "Serval"
             ]
         }
+    },
+    {
+        "version": "2.2",
+        "phase1": {
+            "startDate": "May 8, 2024",
+            "endDate": "May 28, 2024",
+            "banner": [
+                "Robin",
+                "Topaz and Numby",
+                "Hanya",
+                "March 7th",
+                "Xueyi"
+            ]
+        },
+        "phase2": {
+            "startDate": "May 28, 2024",
+            "endDate": "June 18, 2024",
+            "banner": [
+                "Boothill",
+                "Fu Xuan",
+                "Hook",
+                "Luka",
+                "Pela"
+            ]
+        }
     }
 ]
