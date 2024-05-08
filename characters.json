@@ -314,6 +314,7 @@
         "description": "The head of Herta Space Station's Security Department. This quiet boy hopes to protect the researchers who value their pursuit of knowledge, and to help them to complete their work.",
         "gender": "Male",
         "faction": "Herta Space Station",
+        "world": "Herta Space Station",
         "voiceActors": {
             "en": "Dani Chambers",
             "jp": "Ryoko Shiraishi (白石 涼子)"
@@ -636,6 +637,7 @@
         "description": "The lead researcher of Herta Space Station and a lady from a renowned family. She's an astronomer overflowing with curiosity, and excels at managing the disparate staff of the space station.",
         "gender": "Female",
         "faction": "Herta Space Station",
+        "world": "Herta Space Station",
         "voiceActors": {
             "en": "Felecia Angelle",
             "jp": "Chinatsu Akasaki (赤﨑 千夏)"
@@ -1026,6 +1028,7 @@
         "description": "The High Elder of the Vidyadhara, who is also known as the \"Healer Lady\" on the Luofu. She uses her unique medical treatment that can only be provided by the Vidyadhara dragon race to save lives.",
         "gender": "Female",
         "faction": "The Xianzhou Luofu",
+        "world": "The Xianzhou Luofu",
         "voiceActors": {
             "en": "Su Ling Chan",
             "jp": "Emiri Katō (加藤 英美里)"
@@ -1365,6 +1368,7 @@
         "description": "Heir apparent to the Supreme Guardian of Belobog. She possesses pride befitting of a princess, but also the determination and integrity of a soldier.",
         "gender": "Female",
         "faction": "Belobog",
+        "world": "Jarilo-VI",
         "voiceActors": {
             "en": "Madeline Reiter",
             "jp": "Kana Asumi (阿澄 佳奈)"
@@ -1706,9 +1710,10 @@
         "description": "A vagrant girl who lives with robots. She is introverted, gentle, and has a pure heart. She wishes for all Underworlders to become a family.",
         "gender": "Female",
         "faction": "Belobog",
+        "world": "Jarilo-VI",
         "voiceActors": {
-            "en": "Emily Sun",
-            "jp": "Rina Hidaka (日高 里菜)"
+            "en": "Emily Sun / Svarog: D.C. Douglas",
+            "jp": "Rina Hidaka (日高 里菜) / Svarog: Hiroki Yasumoto (安元 洋貴)"
         },
         "release": {
             "date": "April 26, 2023",
@@ -2026,6 +2031,7 @@
         "description": "A cold and reserved young man who is reticent about his past. To avoid his kin, he decided to travel with the Astral Express.",
         "gender": "Male",
         "faction": "Astral Express",
+        "world": "Astral Express",
         "voiceActors": {
             "en": "Nicholas Leung",
             "jp": "Kent Itō (伊東 健人)"
@@ -2365,6 +2371,7 @@
         "description": "A captain in the Silvermane Guards and an outstanding warrior of Belobog. He is meticulous and vigilant to the core and is always true to himself.",
         "gender": "Male",
         "faction": "Belobog",
+        "world": "Jarilo-VI",
         "voiceActors": {
             "en": "Bryson Baugus",
             "jp": "Makoto Furukawa (古川 慎)"
@@ -2666,6 +2673,7 @@
         "description": "Member 83 of the Genius Society. The real master of the space station. An incredibly intelligent yet unsympathetic scientist.",
         "gender": "Female",
         "faction": "Herta Space Station",
+        "world": "Herta Space Station",
         "voiceActors": {
             "en": "PJ Mattson",
             "jp": "Haruka Yamazaki (山崎 はるか)"
@@ -2984,6 +2992,7 @@
         "description": "The one who repaired the Astral Express. To witness the vast starry sky, she decided to travel with the Astral Express. Her hobby is brewing hand-made coffee.",
         "gender": "Female",
         "faction": "Astral Express",
+        "world": "Astral Express",
         "voiceActors": {
             "en": "Cia Court",
             "jp": "Rie Tanaka (田中 理恵)"
@@ -3359,6 +3368,7 @@
         "description": "Boss (self-proclaimed) of an Underworld adventure squad, The Moles. She loves freedom and sees life as a series of adventures.",
         "gender": "Female",
         "faction": "Belobog",
+        "world": "Jarilo-VI",
         "voiceActors": {
             "en": "Felecia Angelle",
             "jp": "Sora Tokui (徳井 青空)"
@@ -3698,6 +3708,7 @@
         "description": "A girl who once slumbered in eternal ice and knows nothing about her past. To find out the truth about her origins, she decided to travel with the Astral Express. As of right now, she has prepared about 67 different versions of her life story for herself.",
         "gender": "Female",
         "faction": "Astral Express",
+        "world": "Astral Express",
         "voiceActors": {
             "en": "Skyler Davenport",
             "jp": "Yui Ogura (小倉 唯)"
@@ -4071,6 +4082,7 @@
         "description": "A doctor from the Underworld and a caregiver of children. Alongside her kindness and caring, she also has a hidden dangerous side.",
         "gender": "Female",
         "faction": "Belobog",
+        "world": "Jarilo-VI",
         "voiceActors": {
             "en": "Elizabeth Maxwell",
             "jp": "Yumi Uchiyama (内山 夕実)"
@@ -4395,6 +4407,7 @@
         "description": "A secretarial officer for the Silvermane Guards. She has a serious personality and is revered by other members of the Silvermane Guards.",
         "gender": "Female",
         "faction": "Belobog",
+        "world": "Jarilo-VI",
         "voiceActors": {
             "en": "Xanthe Huynh",
             "jp": "Sumire Morohoshi (諸星 すみれ)"
@@ -4718,6 +4731,7 @@
         "description": "Diviner of the Divination Commission on the Xianzhou Luofu, and a librarian. Always slacks off and is about to be demoted to a \"door guardian.\"",
         "gender": "Female",
         "faction": "The Xianzhou Luofu",
+        "world": "The Xianzhou Luofu",
         "voiceActors": {
             "en": "Bryn Apprill",
             "jp": "Arisa Date (伊達 朱里紗)"
@@ -5059,6 +5073,7 @@
         "description": "A merchant who freely travels between the Overworld and the Underworld. He acts like he is everyone's friend, is enthusiastically humorous, and is good at bantering.",
         "gender": "Male",
         "faction": "Belobog",
+        "world": "Jarilo-VI",
         "voiceActors": {
             "en": "Roger Rose",
             "jp": "Daisuke Hirakawa (平川 大輔)"
@@ -5394,6 +5409,7 @@
         "description": "A Belobog mechanic who used to be a researcher for the Technology Division of the Architects.<br />As Gepard Landau's elder sister, her personality stands in stark contrast to her brother's. She loves an ancient form of music known as \"rock 'n' roll\" that was popular before the Eternal Freeze.",
         "gender": "Female",
         "faction": "Belobog",
+        "world": "Jarilo-VI",
         "voiceActors": {
             "en": "Natalie Van Sistine",
             "jp": "Aimi (愛美)"
@@ -5731,6 +5747,7 @@
         "description": "Born on the Xianzhou Yaoqing, sent to the Cloud Knights of the Luofu for military training. She wields her family sword, a gift from her mother, and longs for the future she will go on to write.",
         "gender": "Female",
         "faction": "The Xianzhou Luofu",
+        "world": "The Xianzhou Luofu",
         "voiceActors": {
             "en": "Anjali Kunapaneni",
             "jp": "Misato Fukuen (福圓 美里)"
@@ -6070,6 +6087,7 @@
         "description": "Amicassador of the Sky-Faring Commission of the Xianzhou Luofu. She travels with business delegates, forging trade relationships and alliances with many worlds.",
         "gender": "Female",
         "faction": "The Xianzhou Luofu",
+        "world": "The Xianzhou Luofu",
         "voiceActors": {
             "en": "Laci Morgan",
             "jp": "Yūki Takada (高田 憂希)"
@@ -6412,9 +6430,10 @@
         "description": "A person who boarded the Astral Express. They chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron.",
         "gender": "Adaptive",
         "faction": "Astral Express",
+        "world": "Astral Express",
         "voiceActors": {
-            "en": "Caleb Yen / Rachael Chau",
-            "jp": "Junya Enoki (榎木 淳弥) / Yui Ishikawa (石川 由依)"
+            "en": "Male: Caleb Yen / Female: Rachael Chau",
+            "jp": "Male: Junya Enoki (榎木 淳弥) / Female: Yui Ishikawa (石川 由依)"
         },
         "release": {
             "date": "April 26, 2023",
@@ -6774,9 +6793,10 @@
         "description": "A person who boarded the Astral Express. They chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron.",
         "gender": "Adaptive",
         "faction": "Astral Express",
+        "world": "Astral Express",
         "voiceActors": {
-            "en": "Caleb Yen / Rachael Chau",
-            "jp": "Junya Enoki (榎木 淳弥) / Yui Ishikawa (石川 由依)"
+            "en": "Male: Caleb Yen / Female: Rachael Chau",
+            "jp": "Male: Junya Enoki (榎木 淳弥) / Female: Yui Ishikawa (石川 由依)"
         },
         "release": {
             "date": "April 26, 2023",
@@ -7132,6 +7152,7 @@
         "description": "A seasoned member of the Express crew. The passion buried in his heart burns anew as he enjoys this fresh adventure. Occasionally, he would sketch the experiences in a notebook.",
         "gender": "Male",
         "faction": "Astral Express",
+        "world": "Astral Express",
         "voiceActors": {
             "en": "Corey Landis",
             "jp": "Yoshimasa Hosoya (細谷 佳正)"
@@ -7520,6 +7541,7 @@
         "description": "General Jing Yuan's retainer. A gifted swordsman who hasn't even come of age. No one can best Yanqing when he holds a sword in hand.",
         "gender": "Male",
         "faction": "The Xianzhou Luofu",
+        "world": "The Xianzhou Luofu",
         "voiceActors": {
             "en": "Amber May",
             "jp": "Marina Inoue (井上 麻里奈)"
@@ -7823,6 +7845,7 @@
         "description": "A resident of the Underworld and the backbone of Wildfire. She goes by the alias \"Babochka.\" She has a frank personality, but there is a delicate and sensitive hidden side to her deep in her heart.",
         "gender": "Female",
         "faction": "Belobog",
+        "world": "Jarilo-VI",
         "voiceActors": {
             "en": "Molly Zhang",
             "jp": "Mai Nakahara (中原 麻衣)"
@@ -8124,6 +8147,7 @@
         "description": "The Divine Foresight, one of the Seven Arbiter-Generals of the Xianzhou Alliance, leads the Cloud Knights of the Xianzhou Luofu. A student of the Luofu's previous Sword Champion, though not known for his martial prowess.",
         "gender": "Male",
         "faction": "The Xianzhou Luofu",
+        "world": "The Xianzhou Luofu",
         "voiceActors": {
             "en": "Alejandro Saab",
             "jp": "Daisuke Ono (小野 大輔)"
@@ -8550,6 +8574,7 @@
         "description": "A member of the Stellaron Hunters and a genius hacker. She sees the universe as a massive immersive simulation game and has fun with it. She's mastered the skill known as \"aether editing,\" which can be used to tamper with the data of reality.",
         "gender": "Female",
         "faction": "Stellaron Hunters",
+        "world": "Stellaron Hunters",
         "voiceActors": {
             "en": "Melissa Fahn",
             "jp": "Kana Asumi (阿澄 佳奈)"
@@ -8889,6 +8914,7 @@
         "description": "Carrying a coffin wherever he goes, he is a foreign trader who came from beyond the stellar seas. Has excellent medical skills.",
         "gender": "Male",
         "faction": "The Xianzhou Luofu",
+        "world": "The Xianzhou Luofu",
         "voiceActors": {
             "en": "Craig Lee Thomas",
             "jp": "Akira Ishida (石田 彰)"
@@ -9228,6 +9254,7 @@
         "description": "Head of the Sky-Faring Commission on the Xianzhou Luofu. Yukong was a seasoned pilot and a deadshot. Since heading up the commission, she's been buried under mountains of paperwork.",
         "gender": "Female",
         "faction": "The Xianzhou Luofu",
+        "world": "The Xianzhou Luofu",
         "voiceActors": {
             "en": "Dawn M. Bennett",
             "jp": "Yumi Tōma (冬馬 由美)"
@@ -9681,6 +9708,7 @@
         "description": "A member of the Stellaron Hunters, and a swordsman who abandoned his blade. Pledges loyalty to \"Destiny's Slave\", and possesses a terrifying self-healing ability.",
         "gender": "Male",
         "faction": "Stellaron Hunters",
+        "world": "Stellaron Hunters",
         "voiceActors": {
             "en": "Daman Mills",
             "jp": "Shin-ichiro Miki (三木眞一郎)"
@@ -10056,6 +10084,7 @@
         "description": "A member of the Stellaron Hunters. A dashing, collected, and professional beauty. Used the enchantment of Spirit Whisper to set up Trailblazer to absorb the Stellaron. Her hobby is shopping for and organizing her collection of coats.",
         "gender": "Female",
         "faction": "Stellaron Hunters",
+        "world": "Stellaron Hunters",
         "voiceActors": {
             "en": "Cheryl Texiera",
             "jp": "Shizuka Itō (伊藤 静)"
@@ -10419,6 +10448,7 @@
         "description": "The boxing champion in Belobog's Underworld, and one of Wildfire's most capable fighters. The consecutive champion of the Fight Club, his enthusiasm inspires children of the Underworld who dare to dream.",
         "gender": "Male",
         "faction": "Belobog",
+        "world": "Jarilo-VI",
         "voiceActors": {
             "en": "Howard Wang",
             "jp": "Gakuto Kajiwara (梶原 岳人)"
@@ -10799,6 +10829,7 @@
         "description": "Dan Heng's true form from his Vidyadhara lineage carries the residual power left behind by his past incarnation, the Imbibitor Lunae. Upon accepting the majestic horns atop his crown, he must accept all the merits and faults attributed to that sinner.",
         "gender": "Male",
         "faction": "The Xianzhou Luofu",
+        "world": "The Xianzhou Luofu",
         "voiceActors": {
             "en": "Nicholas Leung",
             "jp": "Kent Itō (伊東 健人)"
@@ -11138,6 +11169,7 @@
         "description": "Head of the Divination Commission on the Luofu. The person who uses the third eye and Matrix of Prescience to foretell the route of Xianzhou and the outcomes of events.",
         "gender": "Female",
         "faction": "The Xianzhou Luofu",
+        "world": "The Xianzhou Luofu",
         "voiceActors": {
             "en": "Sarah Wiedenheft",
             "jp": "Miku Itō (伊藤 美来)"
@@ -11562,6 +11594,7 @@
         "description": "A Belobogian Snow Plains Explorer, and the youngest of the Landau siblings. Calm and collected, with a strong drive for action. Often embarks on solo adventures to explore the snowy wilderness.",
         "gender": "Female",
         "faction": "Belobog",
+        "world": "Jarilo-VI",
         "voiceActors": {
             "en": "Risa Mei",
             "jp": "Haruka Terui (照井 春佳)"
@@ -11937,6 +11970,7 @@
         "description": "Former Sword Champion of the Luofu, and the creator of the Cloud Knights' legends of undefeated might. Now, her name has been wiped from the records, and she is a traitor of the Xianzhou walking on the fine line between sanity and mara-struck.",
         "gender": "Female",
         "faction": "The Xianzhou Luofu",
+        "world": "The Xianzhou Luofu",
         "voiceActors": {
             "en": "AmaLee",
             "jp": "Houko Kuwashima (桑島 法子)"
@@ -12295,6 +12329,7 @@
         "description": "A performance artist visiting the Xianzhou Luofu — in other words, a street performer. She's chasing a new life on the Luofu when not concerned with food and shelter.",
         "gender": "Female",
         "faction": "The Xianzhou Luofu",
+        "world": "The Xianzhou Luofu",
         "voiceActors": {
             "en": "Morgan Lauré",
             "jp": "Hina Suguta (直田 姫奈)"
@@ -12632,6 +12667,7 @@
         "description": "Topaz is the Leader of the Special Debts Picket Team and high-level manager of the Strategic Investment Department under the Interastral Peace Corporation. A member of the \"Ten Stonehearts\" at a young age, Topaz's foundational expertise is \"debt retrieval\". Her partner, the Warp Trotter \"Numby\", is also capable of keenly perceiving where \"riches\" are located, ensuring that jobs based in security, debt collection, and actuarial varieties are of no great challenge. At presently they are traveling the cosmos together, seeking all manner of liability disputes that might be affecting the stable progression of the IPC's businesses.",
         "gender": "Female",
         "faction": "Interastral Peace Corporation",
+        "world": "Interastral Peace Corporation",
         "voiceActors": {
             "en": "Sam Slade",
             "jp": "Yoshino Nanjō (南條 愛乃)"
@@ -13022,9 +13058,10 @@
         "description": "A trainee Ten-Lords Commission Judge of the Xianzhou Luofu, she is a young Foxian girl possessed by a heliobus. She is a timid and weak girl who is afraid of all kinds of strange things, but is responsible for luring and subduing evil spirits.",
         "gender": "Female",
         "faction": "The Xianzhou Luofu",
+        "world": "The Xianzhou Luofu",
         "voiceActors": {
-            "en": "Courtney Lin & Adam Michael Gold",
-            "jp": "Maria Naganawa (長縄 まりあ) & Takeshi Hirabayashi (平林 剛)"
+            "en": "Courtney Lin / Tail: Adam Michael Gold",
+            "jp": "Maria Naganawa (長縄 まりあ) / Tail: Takeshi Hirabayashi (平林 剛)"
         },
         "release": {
             "date": "November 15, 2023",
@@ -13357,6 +13394,7 @@
         "description": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\" Forthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name.",
         "gender": "Male",
         "faction": "The Knights of Beauty",
+        "world": "Cosmic",
         "voiceActors": {
             "en": "Adam Michael Gold",
             "jp": "Shinnosuke Tachibana (立花 慎之介)"
@@ -13679,6 +13717,7 @@
         "description": "One of the judges of the Xianzhou Luofu's Ten-Lords Commission. Ordained by the Ten-Lords and wielding the authority of the Oracle Brush, she reads the multitudes of human sins and transgressions, then issues punishments and karmic retribution.",
         "gender": "Female",
         "faction": "The Xianzhou Luofu",
+        "world": "The Xianzhou Luofu",
         "voiceActors": {
             "en": "Suzie Yeung",
             "jp": "Sayumi Suzushiro (鈴代 紗弓)"
@@ -14018,6 +14057,7 @@
         "description": "A member of the Genius Society and an expert in life sciences. She teamed up with Herta and the others to develop the Simulated Universe.",
         "gender": "Female",
         "faction": "Herta Space Station",
+        "world": "Herta Space Station",
         "voiceActors": {
             "en": "Emi Lo",
             "jp": "Saori Ōnishi (大西 沙織)"
@@ -14321,6 +14361,7 @@
         "description": "Member of the Intelligentsia Guild. Eccentric temperament, sharp-tongued but with an elegant demeanor. The face under the strange plaster head sculpture is apparently unexpectedly handsome.",
         "gender": "Male",
         "faction": "Intelligentsia Guild",
+        "world": "Cosmic",
         "voiceActors": {
             "en": "Jordan Paul Haro",
             "jp": "Shunsuke Takeuchi (武内 駿輔)"
@@ -14662,6 +14703,7 @@
         "description": "Judge of the Ten-Lords Commission, which controls life and death on the Luofu. For years after her death, she inhabited a puppet body and returned to the world to fulfill her mission.",
         "gender": "Female",
         "faction": "The Xianzhou Luofu",
+        "world": "The Xianzhou Luofu",
         "voiceActors": {
             "en": "Jenny Yokobori",
             "jp": "Maki Kawase (河瀬 茉希)"
@@ -15098,6 +15140,7 @@
         "description": "A Memokeeper of the Garden of Recollection. An indolent and mysterious soothsayer. \"Remembrance\" of men are hers to heed, threads of fate are hers to tug.",
         "gender": "Female",
         "faction": "Garden of Recollection",
+        "world": "Penacony",
         "voiceActors": {
             "en": "Arryn Zech",
             "jp": "Hitomi Nabatame (生天目 仁美)"
@@ -15473,6 +15516,7 @@
         "description": "A well-behaved young man serving as a hotel bellboy in Penacony. Misha has a great longing for the Nameless and dreams of one day embarking on a journey of his own.",
         "gender": "Male",
         "faction": "Penacony",
+        "world": "Penacony",
         "voiceActors": {
             "en": "Cat Protano",
             "jp": "Eriko Matsui (松井 恵理子)"
@@ -15795,6 +15839,7 @@
         "description": "A member of the Masked Fools. Inscrutable and unscrupulous. A dangerous maestro of theatrics, utterly engrossed in the art of performance. Adorned with innumerable masks, she is the hero with a thousand faces. Wealth, status, power... None of this matters to Sparkle. The only thing that can get her attention is \"amusement.\"",
         "gender": "Female",
         "faction": "Masked Fools",
+        "world": "Penacony",
         "voiceActors": {
             "en": "Lizzie Freeman",
             "jp": "Reina Ueda (上田 麗奈)"
@@ -16204,6 +16249,7 @@
         "description": "A drifter claiming to be a Galaxy Ranger. Her true name is unknown. She walks the cosmos alone, carrying with her a long sword.",
         "gender": "Female",
         "faction": "Self-Annihilator",
+        "world": "Cosmic",
         "voiceActors": {
             "en": "Allegra Clark",
             "jp": "Miyuki Sawashiro (沢城 みゆき)"
@@ -16548,6 +16594,7 @@
         "description": "A security officer of the Bloodhound Family at Penacony. He is always courteous toward visiting guests but keeps his vigilance about him. He seems to carry a weight of a complicated past, yet he never voluntarily divulges any details.",
         "gender": "Male",
         "faction": "Penacony",
+        "world": "Penacony",
         "voiceActors": {
             "en": "Erik Braa",
             "jp": "Satoshi Mikami (三上 哲)"
@@ -16904,6 +16951,7 @@
         "description": "A high-ranking executive of the IPC's Strategic Investment Department. A risk-taker, his constant smile makes it difficult for people to discern his true feelings.",
         "gender": "Male",
         "faction": "Interastral Peace Corporation",
+        "world": "Interastral Peace Corporation",
         "voiceActors": {
             "en": "Camden Sutkowski",
             "jp": "Kengo Kawanishi (河西健吾)"
@@ -17227,9 +17275,10 @@
         "description": "A person who boarded the Astral Express. They chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron.",
         "gender": "Adaptive",
         "faction": "Astral Express",
+        "world": "Astral Express",
         "voiceActors": {
-            "en": "Caleb Yen / Rachael Chau",
-            "jp": "Junya Enoki (榎木 淳弥) / Yui Ishikawa (石川 由依)"
+            "en": "Male: Caleb Yen / Female: Rachael Chau",
+            "jp": "Male: Junya Enoki (榎木 淳弥) / Female: Yui Ishikawa (石川 由依)"
         },
         "release": {
             "date": "May 8, 2023",
@@ -17566,6 +17615,7 @@
         "description": "A Halovian singer who was born in Penacony and has risen to cosmic fame. An elegant and demure young lady. This time, she has been invited home by The Family to grace everyone with song during the Charmony Festival. She can use the power of \"Harmony\" to broadcast her music, manifesting \"resonance\" among not only her fans but all manner of lifeforms.",
         "gender": "Female",
         "faction": "Penacony",
+        "world": "Penacony",
         "voiceActors": {
             "en": "Alice Himora / Song Vocals: Chevy",
             "jp": "Kaori Nazuka (名塚 佳織) / Song Vocals: Chevy"
@@ -17931,6 +17981,7 @@
         "description": "A cyborg cowboy drifting among the stars. Extremely optimistic and unrestrained. He is a member of the Galaxy Rangers who swore to punish the wretched by any and all means... His flamboyant and brash actions were all to draw the attention of the Interastral Peace Corporation — the target of his revenge.",
         "gender": "Male",
         "faction": "Galaxy Ranger",
+        "world": "Cosmic",
         "voiceActors": {
             "en": "Andrew Russell",
             "jp": "Katsuyuki Konishi (小西 克幸)"
