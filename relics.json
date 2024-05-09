@@ -1,0 +1,912 @@
+[
+    {
+        "cavernRelics": [
+            {
+                "name": "Band of Sizzling Thunder",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases Lightning DMG by 10%.",
+                    "fourPiece": "When the wearer uses their Skill, increases the wearer's ATK by 20% for 1 turn(s)."
+                },
+                "pieces": [
+                    {
+                        "type": "head",
+                        "name": "Band's Polarized Sunglasses",
+                        "description": "A pair of classic sunglasses worn by one of the lead singers, Janis, whose chrome lenses reflect a blue hue."
+                    },
+                    {
+                        "type": "hand",
+                        "name": "Band's Touring Bracelet",
+                        "description": "Bassist Sid's bracelet, woven from silk wristbands from tours. Several lines of lyrics are written on it."
+                    },
+                    {
+                        "type": "body",
+                        "name": "Band's Leather Jacket With Studs",
+                        "description": "David, one of the band's lead singers, drew a white star on the back of this leather jacket and made it the cover of the band's final album."
+                    },
+                    {
+                        "type": "feet",
+                        "name": "Band's Ankle Boots With Rivets",
+                        "description": "Drummer Bonham's ankle boots, the dark leather surface glued with rivets reflecting the stage lights."
+                    }
+                ],
+                "release": {
+                    "version": "1.0"
+                }
+            },
+            {
+                "name": "Champion of Streetwise Boxing",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases Physical DMG by 10%.",
+                    "fourPiece": "After the wearer attacks or is hit, their ATK increases by 5% for the rest of the battle. This effect can stack up to 5 time(s)."
+                },
+                "pieces": [
+                    {
+                        "type": "head",
+                        "name": "Champion's Headgear",
+                        "description": "Boxing headgear that provides excellent protection. It perfectly fits the shape of the owner's face."
+                    },
+                    {
+                        "type": "hand",
+                        "name": "Champion's Heavy Gloves",
+                        "description": "A pair of boxing gloves kept in excellent condition. Some slight wear doesn't hinder their effectiveness."
+                    },
+                    {
+                        "type": "body",
+                        "name": "Champion's Chest Guard",
+                        "description": "A boxer's professional-level chest guard. The outer and inner padding is designed to provide protection while not hindering movement."
+                    },
+                    {
+                        "type": "feet",
+                        "name": "Champion's Fleetfoot Boots",
+                        "description": "Intricately crafted from leather and mesh, the combination of a thick insole and thin outsole ensures the wearer can be agile on their feet."
+                    }
+                ],
+                "release": {
+                    "version": "1.0"
+                }
+            },
+            {
+                "name": "Eagle of Twilight Line",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases Wind DMG by 10%.",
+                    "fourPiece": "After the wearer uses their Ultimate, their action is Advanced Forward by 25%."
+                },
+                "pieces": [
+                    {
+                        "type": "head",
+                        "name": "Eagle's Beaked Helmet",
+                        "description": "An aerodynamic helmet used in high-speed flights. It is shaped like the beak of a skyfish eagle."
+                    },
+                    {
+                        "type": "hand",
+                        "name": "Eagle's Soaring Ring",
+                        "description": "A ring worn by an outstanding skyfisher master, with a pair of skyfish eagle's wings holding tight the wearer's finger."
+                    },
+                    {
+                        "type": "body",
+                        "name": "Eagle's Winged Suit Harness",
+                        "description": "A belt harness that connects the winged suit with metal supports embedded in thick linen. Soft and tight-fitting."
+                    },
+                    {
+                        "type": "feet",
+                        "name": "Eagle's Quilted Puttees",
+                        "description": "Puttees to keep the legs warm during flights, decorated with a skyfish eagle's bristle feathers."
+                    }
+                ],
+                "release": {
+                    "version": "1.0"
+                }
+            },
+            {
+                "name": "Firesmith of Lava-Forging",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases Fire DMG by 10%.",
+                    "fourPiece": "Increases the wearer's Skill DMG by 12%. After unleashing Ultimate, increases the wearer's Fire DMG by 12% for the next attack."
+                },
+                "pieces": [
+                    {
+                        "type": "head",
+                        "name": "Firesmith's Obsidian Goggles",
+                        "description": "Protective goggles crafted from dark-black fire crystals. Through these lenses, even the flurry of intense sparks becomes a mosaic of dull shadows."
+                    },
+                    {
+                        "type": "hand",
+                        "name": "Firesmith's Ring of Flame-Mastery",
+                        "description": "A ring with a symbol of flames. It is the highest symbol of honor among the Firesmith clan."
+                    },
+                    {
+                        "type": "body",
+                        "name": "Firesmith's Fireproof Apron",
+                        "description": "A blacksmith's apron without any superfluous adornment. The texture of the leather and the family emblem are clearly visible."
+                    },
+                    {
+                        "type": "feet",
+                        "name": "Firesmith's Alloy Leg",
+                        "description": "A prosthetic produced from metallic alloy. Its surface is entwined with vivid fiery carvings."
+                    }
+                ],
+                "release": {
+                    "version": "1.0"
+                }
+            },
+            {
+                "name": "Genius of Brilliant Stars",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases Quantum DMG by 10%.",
+                    "fourPiece": "When the wearer deals DMG to the target enemy, ignores 10% DEF. If the target enemy has Quantum Weakness, the wearer additionally ignores 10% DEF."
+                },
+                "pieces": [
+                    {
+                        "type": "head",
+                        "name": "Genius's Ultraremote Sensing Visor",
+                        "description": "A pair of communication goggles embedded with ultraremote sensing technology that breaks through the shackles of limited transmission and remote distances."
+                    },
+                    {
+                        "type": "hand",
+                        "name": "Genius's Frequency Catcher",
+                        "description": "A pair of gloves equipped with a precision frequency-capture device, which enables direct manipulation of otherwise-intangible sound and light vibrations."
+                    },
+                    {
+                        "type": "body",
+                        "name": "Genius's Metafield Suit",
+                        "description": "Diving-suit-like attire that envelops the body when activated, sending neural signals from your whole body to the metafield in real time."
+                    },
+                    {
+                        "type": "feet",
+                        "name": "Genius's Gravity Walker",
+                        "description": "A wearable gravity-capture device. It is shaped like a pair of ice skates that reflects the stars' twinkling lights during quick gliding."
+                    }
+                ],
+                "release": {
+                    "version": "1.0"
+                }
+            },
+            {
+                "name": "Guard of Wuthering Snow",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Reduces DMG taken by 8%.",
+                    "fourPiece": "At the beginning of the turn, if the wearer's HP is equal to or less than 50%, restores HP equal to 8% of their Max HP and regenerates 5 Energy."
+                },
+                "pieces": [
+                    {
+                        "type": "head",
+                        "name": "Guard's Cast Iron Helmet",
+                        "description": "A standard-issue helmet that covers the head and face. It has lining inside to help keep its wearer warm."
+                    },
+                    {
+                        "type": "hand",
+                        "name": "Guard's Shining Gauntlets",
+                        "description": "Metal gauntlets that give off a silvery sparkle. A complex mechanical structure is hidden within its design."
+                    },
+                    {
+                        "type": "body",
+                        "name": "Guard's Uniform of Old",
+                        "description": "A neatly-ironed uniform of the Silvermane Guards from long ago. The sturdy buttons press creases in the fabric."
+                    },
+                    {
+                        "type": "feet",
+                        "name": "Guard's Silver Greaves",
+                        "description": "A pair of hard, silver-white metal greaves. They provide protection while also being lightweight and warm."
+                    }
+                ],
+                "release": {
+                    "version": "1.0"
+                }
+            },
+            {
+                "name": "Hunter of Glacial Forest",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases Ice DMG by 10%.",
+                    "fourPiece": "After the wearer uses their Ultimate, their CRIT DMG increases by 25% for 2 turn(s)."
+                },
+                "pieces": [
+                    {
+                        "type": "head",
+                        "name": "Hunter's Artaius Hood",
+                        "description": "A hood made from the head of a huge Snow Plains bear. The fur seems to be possessed by some ghost or deity, making it invulnerable to physical attacks."
+                    },
+                    {
+                        "type": "hand",
+                        "name": "Hunter's Lizard Gloves",
+                        "description": "A pair of tactical gloves, on which scaly claws of snowrock lizards are tightly sewn. It can be used to safely climb up and hang on to any wall."
+                    },
+                    {
+                        "type": "body",
+                        "name": "Hunter's Ice Dragon Cloak",
+                        "description": "A cloak made from the fine scales of the Ice Dragon, nearly invisible under the brilliant refraction of light."
+                    },
+                    {
+                        "type": "feet",
+                        "name": "Hunter's Soft Elkskin Boots",
+                        "description": "A pair of enhanced power boots wrapped in soft elk fur. With these, the hunter will only leave shallow footprints behind in the Snow Plains."
+                    }
+                ],
+                "release": {
+                    "version": "1.0"
+                }
+            },
+            {
+                "name": "Knight of Purity Palace",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases DEF by 15%.",
+                    "fourPiece": "Increases the max DMG that can be absorbed by the Shield created by the wearer by 20%."
+                },
+                "pieces": [
+                    {
+                        "type": "head",
+                        "name": "Knight's Forgiving Casque",
+                        "description": "A casque that resembles the religious stone statues of the Goddess of Forgiveness. It was used to hide the wearer's appearance."
+                    },
+                    {
+                        "type": "hand",
+                        "name": "Knight's Silent Oath Ring",
+                        "description": "A silver ring decorated with an ecclesiastical pattern, embedded with a rather cloudy gemstone."
+                    },
+                    {
+                        "type": "body",
+                        "name": "Knight's Solemn Breastplate",
+                        "description": "A heavy breastplate decorated with the distinctive symbols of the Church of Purity Palace. Even the joints are airtight."
+                    },
+                    {
+                        "type": "feet",
+                        "name": "Knight's Iron Boots of Order",
+                        "description": "Standard boots distributed to the Knights of the Church of Purity Palace, with a simple word carved on their heels: Order."
+                    }
+                ],
+                "release": {
+                    "version": "1.0"
+                }
+            },
+            {
+                "name": "Musketeer of Wild Wheat",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "ATK increases by 12%.",
+                    "fourPiece": "The wearer's SPD increases by 6% and Basic ATK DMG increases by 10%."
+                },
+                "pieces": [
+                    {
+                        "type": "head",
+                        "name": "Musketeer's Wild Wheat Felt Hat",
+                        "description": "A cowboy hat decorated with wild wheat — a mark of the legendary Musketeer Oakley."
+                    },
+                    {
+                        "type": "hand",
+                        "name": "Musketeer's Coarse Leather Gloves",
+                        "description": "A pair of leather gloves with partially cracked surfaces. The part where one holds a gun is particularly worn out."
+                    },
+                    {
+                        "type": "body",
+                        "name": "Musketeer's Wind-Hunting Shawl",
+                        "description": "A knitted cape in an ethnic style, lined with bulletproof fibers."
+                    },
+                    {
+                        "type": "feet",
+                        "name": "Musketeer's Rivets Riding Boots",
+                        "description": "These riding boots have a V-shaped cutout. Appearing casual and loose, they are also very comfortable to wear."
+                    }
+                ],
+                "release": {
+                    "version": "1.0"
+                }
+            },
+            {
+                "name": "Passerby of Wandering Cloud",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases Outgoing Healing by 10%.",
+                    "fourPiece": "At the start of the battle, immediately regenerates 1 Skill Point."
+                },
+                "pieces": [
+                    {
+                        "type": "head",
+                        "name": "Passerby's Rejuvenated Wooden Hairstick",
+                        "description": "A withered twig that was used as a hairstick, with new flower buds sprouting on the end. Now, the past is long gone, and the stick inlaid with parcel-gilt flower buds commemorates the beginning of a new life."
+                    },
+                    {
+                        "type": "hand",
+                        "name": "Passerby's Roaming Dragon Bracer",
+                        "description": "Bracers made from flowing coral gold and the leather of unknown beasts. Only master artisans from the Vidyadhara dragon race can create this kind of superior armor."
+                    },
+                    {
+                        "type": "body",
+                        "name": "Passerby's Ragged Embroided Coat",
+                        "description": "An old coat with a ragged hemline. The embroidery has been ruined by blade marks. Flesh heals quickly, but a coat does not, nor does a person's pain."
+                    },
+                    {
+                        "type": "feet",
+                        "name": "Passerby's Stygian Hiking Boots",
+                        "description": "A durable pair of boots that have left shoe-prints on many worlds and have witnessed many lethal situations."
+                    }
+                ],
+                "release": {
+                    "version": "1.0"
+                }
+            },
+            {
+                "name": "Thief of Shooting Meteor",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases Break Effect by 16%.",
+                    "fourPiece": "Increases the wearer's Break Effect by 16%. After the wearer inflicts Weakness Break on an enemy, regenerates 3 Energy."
+                },
+                "pieces": [
+                    {
+                        "type": "head",
+                        "name": "Thief's Myriad-Faced Mask",
+                        "description": "A mask used to change one's facial appearance. Coupled with evocative acting skills, it can help you deceive anyone."
+                    },
+                    {
+                        "type": "hand",
+                        "name": "Thief's Gloves With Prints",
+                        "description": "A pair of special gloves interlaced with nanomaterials. The prints on its surface can change in real time."
+                    },
+                    {
+                        "type": "body",
+                        "name": "Thief's Steel Grappling Hook",
+                        "description": "A steel cable disguised as a woven belt, with hooks and pulleys hidden in its buckle."
+                    },
+                    {
+                        "type": "feet",
+                        "name": "Thief's Meteor Boots",
+                        "description": "A pair of boots that enhances any human's physical prowess. It helps the Meteor Thief stride between buildings."
+                    }
+                ],
+                "release": {
+                    "version": "1.0"
+                }
+            },
+            {
+                "name": "Wastelander of Banditry Desert",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases Imaginary DMG by 10%.",
+                    "fourPiece": "When attacking debuffed enemies, the wearer's CRIT Rate increases by 10%, and their CRIT DMG increases by 20% against Imprisoned enemies."
+                },
+                "pieces": [
+                    {
+                        "type": "head",
+                        "name": "Wastelander's Breathing Mask",
+                        "description": "A breathing mask able to filter sand and radiation out from the air. It seems like it was made from a discarded respirator."
+                    },
+                    {
+                        "type": "hand",
+                        "name": "Wastelander's Desert Terminal",
+                        "description": "Multi-functional trash that can detect ionizing radiation in the air. It can also trash-talk."
+                    },
+                    {
+                        "type": "body",
+                        "name": "Wastelander's Friar Robe",
+                        "description": "A baggy robe adapted from a missionary's attire."
+                    },
+                    {
+                        "type": "feet",
+                        "name": "Wastelander's Powered Greaves",
+                        "description": "The leg part of powered armor, an exoskeleton made from scrap metals and old wires."
+                    }
+                ],
+                "release": {
+                    "version": "1.0"
+                }
+            },
+            {
+                "name": "Longevous Disciple",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases Max HP by 12%.",
+                    "fourPiece": "When the wearer is hit or has their HP consumed by an ally or themselves, their CRIT Rate increases by 8% for 2 turn(s) and up to 2 stacks."
+                },
+                "pieces": [
+                    {
+                        "type": "head",
+                        "name": "Disciple's Prosthetic Eye",
+                        "description": "An ingenium eye that once belonged to someone. After being expelled from its owner's body, it is now completely useless."
+                    },
+                    {
+                        "type": "hand",
+                        "name": "Disciple's Ingenium Hand",
+                        "description": "An ingenium prosthetic limb made specifically for long-life species. Requires no invasive procedure to use."
+                    },
+                    {
+                        "type": "body",
+                        "name": "Disciple's Dewy Feather Garb",
+                        "description": "A feather garb made according to old scrolls. Its owner was either a demon reviled in the pages of history or a savior of humanity."
+                    },
+                    {
+                        "type": "feet",
+                        "name": "Disciple's Celestial Silk Sandals",
+                        "description": "A pair of silk boots with soles as thin as cicada's wings. Its owner must not have walked on their feet for a long time."
+                    }
+                ],
+                "release": {
+                    "version": "1.2"
+                }
+            },
+            {
+                "name": "Messenger Traversing Hackerspace",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases SPD by 6%.",
+                    "fourPiece": "When the wearer uses their Ultimate on an ally, SPD for all allies increases by 12% for 1 turn(s). This effect cannot be stacked."
+                },
+                "pieces": [
+                    {
+                        "type": "head",
+                        "name": "Messenger's Holovisor",
+                        "description": "The shape is exactly like a ski goggle. Not only does it have anti-glare properties, it can also be used to watch virtual live streams."
+                    },
+                    {
+                        "type": "hand",
+                        "name": "Messenger's Transformative Arm",
+                        "description": "A cybernetic prosthetic arm that can be disassembled at will. Capable of firing knuckles like bullets."
+                    },
+                    {
+                        "type": "body",
+                        "name": "Messenger's Secret Satchel",
+                        "description": "A trendy courier satchel. It's adorned with many cute accessories."
+                    },
+                    {
+                        "type": "feet",
+                        "name": "Messenger's Par-kool Sneakers",
+                        "description": "A pair of sneakers that support parkour activities. It is comfortable, and that is all it needs."
+                    }
+                ],
+                "release": {
+                    "version": "1.2"
+                }
+            },
+            {
+                "name": "Prisoner in Deep Confinement",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "ATK increases by 12%.",
+                    "fourPiece": "For every DoT the target enemy is afflicted with, the wearer will ignore 6% of its DEF when dealing DMG to it. This effect is valid for a max of 3 DoTs."
+                },
+                "pieces": [
+                    {
+                        "type": "head",
+                        "name": "Prisoner's Sealed Muzzle",
+                        "description": "A muzzle designed to tightly encage the captive's beastly visage, guarding against the feral fangs that yearn to inflict harm."
+                    },
+                    {
+                        "type": "hand",
+                        "name": "Prisoner's Leadstone Shackles",
+                        "description": "Heavy shackles that tightly bind the evildoer's hands with steel needles pinning into the wrists, preventing the vicious claws from doing harm again."
+                    },
+                    {
+                        "type": "body",
+                        "name": "Prisoner's Repressive Straitjacket",
+                        "description": "A prisoner's garment that restrains dangerous criminals. Its reversed-joint design confines the prisoner's body."
+                    },
+                    {
+                        "type": "feet",
+                        "name": "Prisoner's Restrictive Fetters",
+                        "description": "Metal shackles that bind the feet of the beasts, imprisoning evils and preventing them from escaping and wrecking havoc."
+                    }
+                ],
+                "release": {
+                    "version": "1.5"
+                }
+            },
+            {
+                "name": "The Ashblazing Grand Duke",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases the DMG dealt by follow-up attacks by 20%.",
+                    "fourPiece": "When the wearer uses follow-up attacks, increases the wearer's ATK by 6% for every time the follow-up attack deals DMG. This effect can stack up to 8 time(s) and lasts for 3 turn(s). This effect is removed the next time the wearer uses a follow-up attack."
+                },
+                "pieces": [
+                    {
+                        "type": "head",
+                        "name": "Grand Duke's Crown of Netherflame",
+                        "description": "A crown of unceasing flame, with its burning ambition serving as its inexhaustible fuel."
+                    },
+                    {
+                        "type": "hand",
+                        "name": "Grand Duke's Gloves of Fieryfur",
+                        "description": "Pure white gloves with flames as its fur, hiding its brutality under smooth silk."
+                    },
+                    {
+                        "type": "body",
+                        "name": "Grand Duke's Robe of Grace",
+                        "description": "A gorgeous robe that emphasizes the dignity and elegance of its owner."
+                    },
+                    {
+                        "type": "feet",
+                        "name": "Grand Duke's Ceremonial Boots",
+                        "description": "A pair of classic and comfortable boots in pristine condition, with a sleek design and flattering style."
+                    }
+                ],
+                "release": {
+                    "version": "1.5"
+                }
+            },
+            {
+                "name": "Pioneer Diver of Dead Waters",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases DMG dealt to enemies with debuffs by 12%.",
+                    "fourPiece": "Increases CRIT Rate by 4%. The wearer deals 8%/12% increased CRIT DMG to enemies with at least 2/3 debuffs. After the wearer inflicts a debuff on enemy targets, the aforementioned effects increase by 100%, lasting for 1 turn(s)."
+                },
+                "pieces": [
+                    {
+                        "type": "head",
+                        "name": "Pioneer's Heatproof Shell",
+                        "description": "A heavy diving helmet in a style common in Orkron. Through the small porthole, one can only see the unbearable and endless expanse of darkness."
+                    },
+                    {
+                        "type": "hand",
+                        "name": "Pioneer's Lacuna Compass",
+                        "description": "A compass in the form of a wristwatch. The magnetic needle has been removed and can no longer point in any direction."
+                    },
+                    {
+                        "type": "body",
+                        "name": "Pioneer's Sealed Lead Apron",
+                        "description": "A heavy diving suit crafted from scrap iron, airtight and impenetrable. Even its wearer often jests that it resembles more of a deep-sea coffin."
+                    },
+                    {
+                        "type": "feet",
+                        "name": "Pioneer's Starfaring Anchor",
+                        "description": "The heavy boots are formed like the anchor of a ship. Its owner is prepared to never return to the surface."
+                    }
+                ],
+                "release": {
+                    "version": "2.0"
+                }
+            },
+            {
+                "name": "Watchmaker, Master of Dream Machinations",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases Break Effect by 16%.",
+                    "fourPiece": "When the wearer uses their Ultimate on an ally, all allies' Break Effect increases by 30% for 2 turn(s). This effect cannot be stacked."
+                },
+                "pieces": [
+                    {
+                        "type": "head",
+                        "name": "Watchmaker's Telescoping Lens",
+                        "description": "An eyepiece with gold carvings. The lens reflects the wonders from far away to help its owner peer through the illusory dreams."
+                    },
+                    {
+                        "type": "hand",
+                        "name": "Watchmaker's Fortuitous Wristwatch",
+                        "description": "A wristwatch of fine craftsmanship. It contains a unique watch face and clock hands. It is said to be the symbol of good luck in the Dreamscape."
+                    },
+                    {
+                        "type": "body",
+                        "name": "Watchmaker's Illusory Formal Suit",
+                        "description": "A splendid and luxurious formal suit with leather collars. It is magnificent and elegant, usually reserved for formal occasions such as feasts."
+                    },
+                    {
+                        "type": "feet",
+                        "name": "Watchmaker's Dream-Concealing Dress Shoes",
+                        "description": "A pair of elegant leather shoes. The wearer had once stealthily walked upon dreams in an arcane form."
+                    }
+                ],
+                "release": {
+                    "version": "2.0"
+                }
+            }
+        ],
+        "planarOrnaments": [
+            {
+                "name": "Belobog of the Architects",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases the wearer's DEF by 15%. When the wearer's Effect Hit Rate is 50% or higher, the wearer gains an extra 15% DEF."
+                },
+                "pieces": [
+                    {
+                        "type": "orb",
+                        "name": "Belobog's Fortress of Preservation",
+                        "description": "The Everwinter Monument, the most obvious landmark in Belobog's Administrative District, is enclosed within the plane. Those passing this monument can all feel a distant and warm gaze protecting them."
+                    },
+                    {
+                        "type": "rope",
+                        "name": "Belobog's Iron Defense",
+                        "description": "The Silvermane Guards of Belobog stood firmly in the icy winter storm, forming a line as they wait for the incoming assault from invaders beyond the sky. The will of the Silvermane Guards was indestructible, and their line of defense would never falter."
+                    }
+                ],
+                "release": {
+                    "version": "1.0"
+                }
+            },
+            {
+                "name": "Celestial Differentiator",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases the wearer's CRIT DMG by 16%. When the wearer's current CRIT DMG reaches 120% or higher, after entering battle, the wearer's CRIT Rate increases by 60% until the end of their first attack."
+                },
+                "pieces": [
+                    {
+                        "type": "orb",
+                        "name": "Planet Screwllum's Mechanical Sun",
+                        "description": "The plane encapsulates the core of Planet Screwllum, imprisoned in a cage composed of countless levers, pistons, and gears. The inhabitants of Planet Screwllum euphemistically refer to it as the \"Steel Sun.\""
+                    },
+                    {
+                        "type": "rope",
+                        "name": "Planet Screwllum's Ring System",
+                        "description": "The planetary ring supports all of Planet Screwllum. Just how many are aware that the dense porous rectangular array reflects the truth about the planetary system?"
+                    }
+                ],
+                "release": {
+                    "version": "1.0"
+                }
+            },
+            {
+                "name": "Fleet of the Ageless",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases the wearer's Max HP by 12%. When the wearer's SPD reaches 120 or higher, all allies' ATK increases by 8%."
+                },
+                "pieces": [
+                    {
+                        "type": "orb",
+                        "name": "The Xianzhou Luofu's Celestial Ark",
+                        "description": "The Xianzhou Luofu floating above the seas of stars was enclosed within the sphere. Skiffs went to and fro through the Jade Gate just like the celestial movements of stars and moons. Countless people had come here to seek the secrets of immortality, only to return in disappointment."
+                    },
+                    {
+                        "type": "rope",
+                        "name": "The Xianzhou Luofu's Ambrosial Arbor Vines",
+                        "description": "Once, the Luofu reigned supreme over other ships in the Xianzhou fleet due to the grace of the Ambrosial Arbor. Later, when people consumed the cursed fruit of immortality, calamity was brought upon the Luofu by the Ambrosial Arbor, whose vines had already entrapped the Luofu in its firm and inseparable grip."
+                    }
+                ],
+                "release": {
+                    "version": "1.0"
+                }
+            },
+            {
+                "name": "Inert Salsotto",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases the wearer's CRIT Rate by 8%. When the wearer's current CRIT Rate reaches 50% or higher, the wearer's Ultimate and follow-up attack DMG increases by 15%."
+                },
+                "pieces": [
+                    {
+                        "type": "orb",
+                        "name": "Salsotto's Moving City",
+                        "description": "Enclosed within the plane is one of Salsotto's last remaining moving cities — Tumbleweed. This city never stopped and barely escaped from a fate of being swallowed up either by the dark night or the midnight sun."
+                    },
+                    {
+                        "type": "rope",
+                        "name": "Salsotto's Terminator Line",
+                        "description": "Planet Salsotto's own rotation stopped, and thus each cycle of its day and night seemed to last forever. People can only gain the bare minimum space for survival when they ceaselessly migrated and closely chased the ever-moving terminator line."
+                    }
+                ],
+                "release": {
+                    "version": "1.0"
+                }
+            },
+            {
+                "name": "Pan-Cosmic Commercial Enterprise",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases the wearer's Effect Hit Rate by 10%. Meanwhile, the wearer's ATK increases by an amount that is equal to 25% of the current Effect Hit Rate, up to a maximum of 25%."
+                },
+                "pieces": [
+                    {
+                        "type": "orb",
+                        "name": "The IPC's Mega HQ",
+                        "description": "The IPC's headquarters at Pier Point is sealed within a Planar Sphere. No planet can hide from the grand business plan of the Interastral Peace Corporation. They ventured into deep space to harvest the power of the entire universe."
+                    },
+                    {
+                        "type": "rope",
+                        "name": "The IPC's Trade Route",
+                        "description": "With the convenient help of the credit system, interstellar commerce was established. The Interastral Peace Corporation connected the stars with economic activity and expanded the borders of trade."
+                    }
+                ],
+                "release": {
+                    "version": "1.0"
+                }
+            },
+            {
+                "name": "Space Sealing Station",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases the wearer's ATK by 12%. When the wearer's SPD reaches 120 or higher, the wearer's ATK increases by an extra 12%."
+                },
+                "pieces": [
+                    {
+                        "type": "orb",
+                        "name": "Herta's Space Station",
+                        "description": "Sealed within this plane is the Herta Space Station. Parked above The Blue, it slowly drifts along its predetermined orbit, with the silent galaxy looking like a book waiting to be read."
+                    },
+                    {
+                        "type": "rope",
+                        "name": "Herta's Wandering Trek",
+                        "description": "Madam Herta lost all interest in the space station the moment it was complete. The station maintains a steady orbital velocity as it circles The Blue, leaving a track of its circular motion on the planet below."
+                    }
+                ],
+                "release": {
+                    "version": "1.0"
+                }
+            },
+            {
+                "name": "Sprightly Vonwacq",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases the wearer's Energy Regeneration Rate by 5%. When the wearer's SPD reaches 120 or higher, the wearer's action is Advanced Forward by 40% immediately upon entering battle."
+                },
+                "pieces": [
+                    {
+                        "type": "orb",
+                        "name": "Vonwacq's Island of Birth",
+                        "description": "Teeming with plant life, Wacq Island was the most well-known island on Planet Vonwacq and is sealed within the plane. On the island was a gigantic tree called Thestang, bearing fruits that would give birth to the various kinds of the island's wildlife."
+                    },
+                    {
+                        "type": "rope",
+                        "name": "Vonwacq's Islandic Coast",
+                        "description": "On the coastline of Wacq Island, tidal waves rose and fell... This landscape remained the same for millennia and witnessed the rise and fall of civilizations just like those changing tides."
+                    }
+                ],
+                "release": {
+                    "version": "1.0"
+                }
+            },
+            {
+                "name": "Talia Kingdom of Banditry",
+                "displayName": "Talia: Kingdom of Banditry",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases the wearer's Break Effect by 16%. When the wearer's SPD reaches 145 or higher, the wearer's Break Effect increases by an extra 20%."
+                },
+                "pieces": [
+                    {
+                        "type": "orb",
+                        "name": "Talia's Nailscrap Town",
+                        "description": "Enclosed within the plane is Talia's miserable desolate small town called Nailscrap. For a short-lived peace, bandits chose this place for its water supplies and built this small town out of rags, rebars, and planks."
+                    },
+                    {
+                        "type": "rope",
+                        "name": "Talia's Exposed Electric Wire",
+                        "description": "This is a stretch of wire scavenged from the junkyard. Despite bits of its insulation falling off, there is still some use left in it. No such thing as useless trash exists in Talia's small bandit towns."
+                    }
+                ],
+                "release": {
+                    "version": "1.0"
+                }
+            },
+            {
+                "name": "Broken Keel",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases the wearer's Effect RES by 10%. When the wearer's Effect RES is at 30% or higher, all allies' CRIT DMG increases by 10%."
+                },
+                "pieces": [
+                    {
+                        "type": "orb",
+                        "name": "Insumousu's Whalefall Ship",
+                        "description": "The plane encapsulates the Insumousu Autonomous Region of Thalassa. The Xianzhou Daiyu had crashed here, inspiring the civilization of Insumousu."
+                    },
+                    {
+                        "type": "rope",
+                        "name": "Insumousu's Frayed Hawser",
+                        "description": "The fallen Xianzhou Daiyu is forever anchored in a foreign land. Perhaps it is time to untie its mooring ropes and let it return home."
+                    }
+                ],
+                "release": {
+                    "version": "1.2"
+                }
+            },
+            {
+                "name": "Rutilant Arena",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases the wearer's CRIT Rate by 8%. When the wearer's current CRIT Rate reaches 70% or higher, the wearer's Basic ATK and Skill DMG increase by 20%."
+                },
+                "pieces": [
+                    {
+                        "type": "orb",
+                        "name": "Taikiyan Laser Stadium",
+                        "description": "The plane encapsulates the most advanced arena on Planet Taikiyan — the Taikiyan Stadium. The atmosphere is lively both inside and outside the dome as flags wave in the air. With all eyes on the arena, an exciting game of Roboball is about to kick off."
+                    },
+                    {
+                        "type": "rope",
+                        "name": "Taikiyan's Arclight Race Track",
+                        "description": "The Taikiyan Stadium's standard race track is usually made with a metal structure covered with smooth concrete and natural wooden floors. A large amount of transparent polycarbonate material was used in the construction of the stadium to give the audience an unobstructed view of the games."
+                    }
+                ],
+                "release": {
+                    "version": "1.2"
+                }
+            },
+            {
+                "name": "Firmament Frontline Glamoth",
+                "displayName": "Firmament Frontline: Glamoth",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases the wearer's ATK by 12%. When the wearer's SPD is equal to or higher than 135/160, the wearer deals 12%/18% more DMG."
+                },
+                "pieces": [
+                    {
+                        "type": "orb",
+                        "name": "Glamoth's Iron Cavalry Regiment",
+                        "description": "Encapsulated in the Planar Sphere is the renowned shapeshifting oothecae of the Glamoth Empire's Iron Cavalry. Countless silver mechas were loaded into warships and sailed to the outer edges of the galaxy to fend off the vicious Swarm from deep space."
+                    },
+                    {
+                        "type": "rope",
+                        "name": "Glamoth's Silent Tombstone",
+                        "description": "The flourishing Empire of Glamoth turned into dust. There was no evidence of its former glory. Only the debris of stardust, mechas, warships, and the corpses of the Swarm were left drifting in the vacuum to form a river of residua — preserving the original battle scene of the bloody warfronts and serving as a monument to its downfall."
+                    }
+                ],
+                "release": {
+                    "version": "1.5"
+                }
+            },
+            {
+                "name": "Penacony, Land of the Dreams",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases wearer's Energy Regeneration Rate by 5%. Increases DMG by 10% for all other allies that are of the same Type as the wearer."
+                },
+                "pieces": [
+                    {
+                        "type": "orb",
+                        "name": "Penacony's Grand Hotel",
+                        "description": "Encapsulated in the plane is Penacony's main structure — the Reverie hotel. Guests staying here will travel to a world of sweet dreams and enjoy a feast of luxury and extravagance in a seemingly omnipotent metropolis."
+                    },
+                    {
+                        "type": "rope",
+                        "name": "Penacony's Dream-Seeking Tracks",
+                        "description": "In Penacony's dreamscape city, intricate tracks meander between buildings, supporting the Spheroids that visitors ride in, and connecting rich and diverse dreams together."
+                    }
+                ],
+                "release": {
+                    "version": "1.5"
+                }
+            },
+            {
+                "name": "Izumo Gensei and Takama Divine Realm",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases the wearer's ATK by 12%. When entering battle, if at least one other ally follows the same Path as the wearer, then the wearer's CRIT Rate increases by 12%."
+                },
+                "pieces": [
+                    {
+                        "type": "orb",
+                        "name": "Izumo's Magatsu no Morokami",
+                        "description": "Enclosed within the plane is Izumo, with its past and future severed with a slash. Izumo was once covered in indescribable wars of survival, as well as once being blessed with glorious days of bountiful luxury... Now, the barren land is nowhere to be found, leaving behind only a graveyard of swords where the past lies buried."
+                    },
+                    {
+                        "type": "rope",
+                        "name": "Izumo's Blades of Origin and End",
+                        "description": "The people of Izumo use tassels to bind the sharp blades to their belts. They walk the world to hunt down kami with their blades, then used the divine carcasses to forge new blades... In this never-ending cycle, Izumo marches toward prosperity, towards disillusion, and towards the void."
+                    }
+                ],
+                "release": {
+                    "version": "2.1"
+                }
+            },
+            {
+                "name": "Sigonia, the Unclaimed Desolation",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases the wearer's CRIT Rate by 4%. When an enemy target gets defeated, the wearer's CRIT DMG increases by 4%, stacking up to 10 time(s)."
+                },
+                "pieces": [
+                    {
+                        "type": "orb",
+                        "name": "Sigonia's Gaiathra Berth",
+                        "description": "Sealed within this plane is the most habitable zone in Sigonia-IV — the desolate barren desert known as the Gaiathra Berth. The silent and unassuming Gaiathra Triclops, with HER immense and weighty torso, quietly encompasses all the living and deceased in Sigonia."
+                    },
+                    {
+                        "type": "rope",
+                        "name": "Sigonia's Knot of Cyclicality",
+                        "description": "Turquoise meteorites are meticulously polished and shaped, then strung together with gold threads and viridescent silk by the Avgins. They believe that these protective knots must not be buried in the sand, but radiate like the Mother Goddess' divine body reborn from death on the night of Kakava."
+                    }
+                ],
+                "release": {
+                    "version": "2.1"
+                }
+            }
+        ]
+    }
+]
