@@ -17334,7 +17334,7 @@
             },
             "ultimate": {
                 "name": "Vox Harmonique, Opus Cosmique",
-                "description": "<span class=\"text-highlight\">[Support]</span><br /><span class=\"energy-cost\">Energy Cost: 160</span><br />Robin enters the Concerto state and makes all other allies immediately take action.<br />While in the Concerto state, increases all allies' ATK by <span class=\"text-value\">15.2%</span> of Robin's ATK plus <span class=\"text-value\">50</span>. Moreover, after every attack by allies, Robin deals <span class=\"tooltip-additional dmg\">Additional Physical DMG</span> equal to <span class=\"text-value\">72%</span> of her ATK for 1 time, with a fixed CRIT Rate for this damage set at 100% and fixed CRIT DMG set at 150%.<br />While in the Concerto state, Robin is immune to <span class=\"tooltip-crowd control debuff\">Crowd Control debuffs</span> and cannot enter her turn or take action until the Concerto state ends.<br />A Concerto countdown appears on the Action Order bar. When the countdown's turn begins, Robin exits the Concerto state and immediately takes action. The countdown has its own fixed SPD of 90.",
+                "description": "<span class=\"text-highlight\">[Support]</span><br /><span class=\"energy-cost\">Energy Cost: <span class=\"energy-cost-number\">160</span></span><br />Robin enters the Concerto state and makes all other allies immediately take action.<br />While in the Concerto state, increases all allies' ATK by <span class=\"text-value\">15.2%</span> of Robin's ATK plus <span class=\"text-value\">50</span>. Moreover, after every attack by allies, Robin deals <span class=\"tooltip-additional dmg\">Additional Physical DMG</span> equal to <span class=\"text-value\">72%</span> of her ATK for 1 time, with a fixed CRIT Rate for this damage set at 100% and fixed CRIT DMG set at 150%.<br />While in the Concerto state, Robin is immune to <span class=\"tooltip-crowd control debuff\">Crowd Control debuffs</span> and cannot enter her turn or take action until the Concerto state ends.<br />A Concerto countdown appears on the Action Order bar. When the countdown's turn begins, Robin exits the Concerto state and immediately takes action. The countdown has its own fixed SPD of 90.",
                 "scaling": [
                     [
                         "15.2%",
@@ -17685,7 +17685,7 @@
             },
             "ultimate": {
                 "name": "Dust Devil's Sunset Rodeo",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br /><span class=\"energy-cost\">Energy Cost: 115</span><br />Applies Physical Weakness to a single target enemy, lasting for 2 turn(s).<br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">240%</span> of Boothill's ATK to the target and <span class=\"tooltip-action delayed\">delays their action</span> by <span class=\"text-value\">30%</span>.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br /><span class=\"energy-cost\">Energy Cost: <span class=\"energy-cost-number\">115</span></span><br />Applies Physical Weakness to a single target enemy, lasting for 2 turn(s).<br />Deals <span class=\"text-physical\">Physical DMG</span> equal to <span class=\"text-value\">240%</span> of Boothill's ATK to the target and <span class=\"tooltip-action delayed\">delays their action</span> by <span class=\"text-value\">30%</span>.",
                 "scaling": [
                     [
                         "240%",
