@@ -3380,7 +3380,8 @@
     },
     {
         "id": 10,
-        "name": "March 7th",
+        "name": "March 7th Preservation",
+        "displayName": "March 7th",
         "rarity": 4,
         "element": "Ice",
         "path": "Preservation",
@@ -7439,7 +7440,7 @@
             },
             "e4": {
                 "name": "Searing Sting",
-                "description": "When the current HP percentage is 80% or higher, <span class=\"text-ice\">Ice RES</span> PEN increases by 12%."
+                "description": "When the current HP percentage is 80% or higher, <span class=\"text-ice\">Ice RES PEN</span> increases by 12%."
             },
             "e5": {
                 "name": "Surging Strife",
@@ -10460,15 +10461,15 @@
     },
     {
         "id": 30,
-        "name": "Imbibitor Lunae",
-        "fullName": "Dan Heng • Imbibitor Lunae",
+        "name": "Dan Heng Imbibitor Lunae",
+        "displayName": "Dan Heng • Imbibitor Lunae",
         "rarity": 5,
         "element": "Imaginary",
         "path": "Destruction",
         "skills": {
             "attack": {
                 "name": "Beneficent Lotus",
-                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Uses a 2-hit attack and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">50%</span> of Imbibitor Lunae's ATK to a single enemy target.<br /><br /><span style=\"font-size:2.125rem;\">Transcendence</span><br /><span class=\"text-highlight\">[Single Target]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Uses a 3-hit attack and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">130%</span> of Imbibitor Lunae's ATK to a single enemy target.<br /><br /><span style=\"font-size:2.125rem;\">Divine Spear</span><br /><span class=\"text-highlight\">[Blast]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/><img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Uses a 5-hit attack, dealing <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">190%</span> of Imbibitor Lunae's ATK to a single enemy target. From the fourth hit onward, simultaneously deal <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">30%</span> of Imbibitor Lunae's ATK to adjacent targets.<br /><br /><span style=\"font-size:2.125rem;\">Fulgurant Leap</span><br /><span class=\"text-highlight\">[Blast]<br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/><img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/><img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span></span><br />Uses a 7-hit attack, dealing <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">250%</span> of Imbibitor Lunae's ATK to a single enemy target. From the fourth hit onward, simultaneously deal <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">90%</span> of Imbibitor Lunae's ATK to adjacent targets.",
+                "description": "<span class=\"text-highlight\">[Single Target]</span><br />Uses a 2-hit attack and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">50%</span> of Dan Heng • Imbibitor Lunae's ATK to a single enemy target.<br /><br /><span style=\"font-size:2.125rem;\">Transcendence</span><br /><span class=\"text-highlight\">[Single Target]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Uses a 3-hit attack and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">130%</span> of Dan Heng • Imbibitor Lunae's ATK to a single enemy target.<br /><br /><span style=\"font-size:2.125rem;\">Divine Spear</span><br /><span class=\"text-highlight\">[Blast]</span><br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/><img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span><br />Uses a 5-hit attack, dealing <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">190%</span> of Dan Heng • Imbibitor Lunae's ATK to a single enemy target. From the fourth hit onward, simultaneously deal <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">30%</span> of Dan Heng • Imbibitor Lunae's ATK to adjacent targets.<br /><br /><span style=\"font-size:2.125rem;\">Fulgurant Leap</span><br /><span class=\"text-highlight\">[Blast]<br /><span class=\"sp-cost\">SP Cost: <img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/><img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/><img src=\"https://raw.githubusercontent.com/bcheung98/project-stellaron-assets/main/assets/icons/SP.png\" alt=\"SP\" class=\"sp-icon\"/></span></span><br />Uses a 7-hit attack, dealing <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">250%</span> of Dan Heng • Imbibitor Lunae's ATK to a single enemy target. From the fourth hit onward, simultaneously deal <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">90%</span> of Dan Heng • Imbibitor Lunae's ATK to adjacent targets.",
                 "scaling": [
                     [
                         "50%",
@@ -10540,7 +10541,7 @@
             },
             "skill": {
                 "name": "Dracore Libre",
-                "description": "<span class=\"text-highlight\">[Enhance]</span><br />Enhances Basic ATK. Enhancements may be applied up to 3 times consecutively. Using this ability does not consume Skill Points and is not considered as using a Skill.<br />Enhanced once, Beneficent Lotus becomes Transcendence.<br />Enhanced twice, Beneficent Lotus becomes Divine Spear.<br />Enhanced 3 times, Beneficent Lotus becomes Fulgurant Leap.<br />When using Divine Spear or Fulgurant Leap, starting from the fourth hit, 1 stack of Outroar is gained before every hit. Each stack of Outroar increases Imbibitor Lunae's CRIT DMG by <span class=\"text-value\">6%</span>, for a max of 4 stacks. These stacks last until the end of his turn.",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />Enhances Basic ATK. Enhancements may be applied up to 3 times consecutively. Using this ability does not consume Skill Points and is not considered as using a Skill.<br />Enhanced once, Beneficent Lotus becomes Transcendence.<br />Enhanced twice, Beneficent Lotus becomes Divine Spear.<br />Enhanced 3 times, Beneficent Lotus becomes Fulgurant Leap.<br />When using Divine Spear or Fulgurant Leap, starting from the fourth hit, 1 stack of Outroar is gained before every hit. Each stack of Outroar increases Dan Heng • Imbibitor Lunae's CRIT DMG by <span class=\"text-value\">6%</span>, for a max of 4 stacks. These stacks last until the end of his turn.",
                 "scaling": [
                     [
                         "6%",
@@ -10563,7 +10564,7 @@
             },
             "ultimate": {
                 "name": "Azure's Aqua Ablutes All",
-                "description": "<span class=\"text-highlight\">[Blast]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">140</span><br />Uses a 3-hit attack and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">180%</span> of Imbibitor Lunae's ATK to a single enemy target. At the same time, deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">84%</span> of Imbibitor Lunae's ATK to adjacent targets. Then, obtains 2 Squama Sacrosancta.<br />It's possible to hold up to 3 Squama Sacrosancta, which can be used to offset the consumption of Imbibitor Lunae's skill points. Consuming Squama Sacrosancta is considered equivalent to consuming skill points.",
+                "description": "<span class=\"text-highlight\">[Blast]</span><br /><span class=\"energy-cost\">Energy Cost:</span> <span class=\"energy-cost-number\">140</span><br />Uses a 3-hit attack and deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">180%</span> of Dan Heng • Imbibitor Lunae's ATK to a single enemy target. At the same time, deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to <span class=\"text-value\">84%</span> of Dan Heng • Imbibitor Lunae's ATK to adjacent targets. Then, obtains 2 Squama Sacrosancta.<br />It's possible to hold up to 3 Squama Sacrosancta, which can be used to offset the consumption of Dan Heng • Imbibitor Lunae's skill points. Consuming Squama Sacrosancta is considered equivalent to consuming skill points.",
                 "scaling": [
                     [
                         "180%",
@@ -10603,7 +10604,7 @@
             },
             "talent": {
                 "name": "Righteous Heart",
-                "description": "<span class=\"text-highlight\">[Enhance]</span><br />After each hit dealt during an attack, Imbibitor Lunae gains 1 stack of Righteous Heart, increasing his DMG by <span class=\"text-value\">5%</span>. This effect can stack up to 6 time(s), lasting until the end of his turn.",
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />After each hit dealt during an attack, Dan Heng • Imbibitor Lunae gains 1 stack of Righteous Heart, increasing his DMG by <span class=\"text-value\">5%</span>. This effect can stack up to 6 time(s), lasting until the end of his turn.",
                 "scaling": [
                     [
                         "5%",
@@ -10626,7 +10627,7 @@
             },
             "technique": {
                 "name": "Heaven-Quelling Prismadrakon",
-                "description": "<span class=\"text-highlight\">[Enhance]</span><br />After using his Technique, Imbibitor Lunae enters the Leaping Dragon state for 20 seconds. While in the Leaping Dragon state, using his attack enables him to move forward rapidly for a set distance, attacking all enemies he touches and blocking all incoming attacks. After entering combat via attacking enemies in the Leaping Dragon state, Imbibitor Lunae deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to 120% of his ATK to all enemies, and gains 1 Squama Sacrosancta."
+                "description": "<span class=\"text-highlight\">[Enhance]</span><br />After using his Technique, Dan Heng • Imbibitor Lunae enters the Leaping Dragon state for 20 seconds. While in the Leaping Dragon state, using his attack enables him to move forward rapidly for a set distance, attacking all enemies he touches and blocking all incoming attacks. After entering combat via attacking enemies in the Leaping Dragon state, Dan Heng • Imbibitor Lunae deals <span class=\"text-imaginary\">Imaginary DMG</span> equal to 120% of his ATK to all enemies, and gains 1 Squama Sacrosancta."
             }
         },
         "traces": [
@@ -10719,7 +10720,7 @@
             },
             "e2": {
                 "name": "Imperium On Cloud Nine",
-                "description": "After using his Ultimate, Imbibitor Lunae's action is Advanced Forward by 100% and gains 1 extra Squama Sacrosancta."
+                "description": "After using his Ultimate, Dan Heng • Imbibitor Lunae's action is Advanced Forward by 100% and gains 1 extra Squama Sacrosancta."
             },
             "e3": {
                 "name": "Clothed in Clouds",
@@ -10735,7 +10736,7 @@
             },
             "e6": {
                 "name": "Reign, Returned",
-                "description": "After any other ally uses their Ultimate, the <span class=\"text-imaginary\">Imaginary RES</span> PEN of Imbibitor Lunae's next Fulgurant Leap attack increases by 20%. This effect can stack up to 3 time(s)."
+                "description": "After any other ally uses their Ultimate, the <span class=\"text-imaginary\">Imaginary RES PEN</span> of Dan Heng • Imbibitor Lunae's next Fulgurant Leap attack increases by 20%. This effect can stack up to 3 time(s)."
             }
         },
         "stats": {
@@ -18291,7 +18292,7 @@
             },
             "e6": {
                 "name": "In Finalized Morrow, I Full Bloom",
-                "description": "While in Complete Combustion, increases SAM's Fire RES PEN by 20%. When using the Enhanced Basic ATK or Enhanced Skill, increases the Weakness Break efficiency by 50%."
+                "description": "While in Complete Combustion, increases SAM's <span class=\"text-fire\">Fire RES PEN</span> by 20%. When using the Enhanced Basic ATK or Enhanced Skill, increases the Weakness Break efficiency by 50%."
             }
         },
         "stats": {
@@ -18638,7 +18639,7 @@
             },
             "e6": {
                 "name": "Equity? Pending Sponsorship",
-                "description": "When the Debt Collector character exists on the field, Jade's <span class=\"text-quantum\">Quantum DMG>Quantum RES PEN</span> increases by 20%, and Jade gains the Debt Collector state."
+                "description": "When the Debt Collector character exists on the field, Jade's <span class=\"text-quantum\">Quantum RES PEN</span> increases by 20%, and Jade gains the Debt Collector state."
             }
         },
         "stats": {
