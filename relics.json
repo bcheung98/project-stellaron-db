@@ -594,6 +594,72 @@
                 "release": {
                     "version": "2.0"
                 }
+            },
+            {
+                "name": "Iron Cavalry Against the Scourge",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases Break Effect by 16%.",
+                    "fourPiece": "If the wearer's Break Effect is 150% or higher, the Break DMG dealt to the enemy target ignores 10% of their DEF. If the wearer's Break Effect is 250% or higher, the Super Break DMG dealt to the enemy target additionally ignores 15% of their DEF."
+                },
+                "pieces": [
+                    {
+                        "type": "head",
+                        "name": "Iron Cavalry's Homing Helm",
+                        "description": "An iron helm that significantly enhances sensory signals, fusing the consciousness of the Glamoth Iron Cavalry together with their armor."
+                    },
+                    {
+                        "type": "hand",
+                        "name": "Iron Cavalry's Crushing Wristguard",
+                        "description": "A powerful iron wristguard that can crush insectoids. It is sharp and light while being hard and sturdy."
+                    },
+                    {
+                        "type": "body",
+                        "name": "Iron Cavalry's Silvery Armor",
+                        "description": "The fiery propulsion armor gives Glamoth's Iron Cavalry a flame hot enough to ignite the battlefield."
+                    },
+                    {
+                        "type": "feet",
+                        "name": "Iron Cavalry's Skywalk Greaves",
+                        "description": "Mechanical greaves that combine destructive capacities with speed. They allow Glamoth's Iron Cavalry to leap high and concentrate their strength into a kick directed at a single point on the enemy."
+                    }
+                ],
+                "release": {
+                    "version": "2.3"
+                }
+            },
+            {
+                "name": "The Wind-Soaring Valorous",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases ATK by 12%.",
+                    "fourPiece": "Increases the wearer's CRIT Rate by 6%. When the wearer uses a follow-up attack, increases the DMG dealt by Ultimate by 36%, lasting for 1 turn(s)."
+                },
+                "pieces": [
+                    {
+                        "type": "head",
+                        "name": "Valorous Mask of Northern Skies",
+                        "description": "A face mask modeled after the ferocious bird \"Dafeng.\" With its two pairs of auxiliary eyes, it has witnessed divine miracles."
+                    },
+                    {
+                        "type": "hand",
+                        "name": "Valorous Bracelet of Grappling Hooks",
+                        "description": "A bionic gauntlet integrated with the body. To hunt fearsome beasts, one must possess claws sharper than those of the beasts themselves."
+                    },
+                    {
+                        "type": "body",
+                        "name": "Valorous Plate of Soaring Flight",
+                        "description": "Like the cold wind, soaring above a pack of wolves with their heads held high. The hunter and the hunted will eventually switch places."
+                    },
+                    {
+                        "type": "feet",
+                        "name": "Valorous Greaves of Pursuing Hunt",
+                        "description": "Combat boots fashioned after talons. They allow the wearer to swiftly dash onto the battlefield like the wind, effortlessly traversing through thorns and rugged terrain."
+                    }
+                ],
+                "release": {
+                    "version": "2.3"
+                }
             }
         ],
         "planarOrnaments": [
@@ -905,6 +971,50 @@
                 ],
                 "release": {
                     "version": "2.1"
+                }
+            },
+            {
+                "name": "Duran, Dynasty of Running Wolves",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "When allies use follow-up attacks, the wearer gains 1 stack of Merit, stacking up to 5 times. Each stack of Merit increases the DMG dealt by the wearer's follow-up attacks by 5%. When there are 5 stacks, additionally increases the wearer's CRIT DMG by 25%."
+                },
+                "pieces": [
+                    {
+                        "type": "orb",
+                        "name": "Duran's Tent of Golden Sky",
+                        "description": "Encapsulated in the plane is the Golden Sky Tent belonging to the borisins of the Old Verdant Home. Different to the savage name that borisin left in the cosmos, the borisins of the Old Verdant Home possess outstanding biotechnology. The children of the wolves gather next to the great Brood Lord Duran, and regard the celestial objects in the sky as their herd as they gallop between the stars."
+                    },
+                    {
+                        "type": "rope",
+                        "name": "Duran's Mechabeast Bridle",
+                        "description": "These were the reins, shackles, and whips. The first thing taught to borisin youths who had grown taller than war beasts' legs was to always grasp the reins tight in their hands, or else the youths themselves would become enslaved livestock — or worse, become feed."
+                    }
+                ],
+                "release": {
+                    "version": "2.3"
+                }
+            },
+            {
+                "name": "Forge of the Kalpagni Lantern",
+                "rarity": 5,
+                "setEffect": {
+                    "twoPiece": "Increases the wearer's SPD by 6%. When the wearer hits an enemy target that has Fire Weakness, the wearer's Break Effect increases by 40%, lasting for 1 turn(s)."
+                },
+                "pieces": [
+                    {
+                        "type": "orb",
+                        "name": "Forge's Lotus Lantern Wick",
+                        "description": "Encapsulated in the plane is the Flamewheel Forge, the location of the Xianzhou Zhuming's Artisanship Commission. A sphere the size of a celestial body, constructed around the progenitor of all heliobi, the Flint Emperor. Ingenious artisans draw energy from it and mold wondrous thoughts and inspirations into form."
+                    },
+                    {
+                        "type": "rope",
+                        "name": "Forge's Heavenly Flamewheel Silk",
+                        "description": "The heliobus progenitor, as grand in scope and size as a star, drowns in an endless dream. As it slumbers, the atoms and molecules around its body clash and spark, endlessly permeating outward from the external shell crafted from the Flamewheel, ultimately appearing as iridescent light bands resembling strands of celestial silk."
+                    }
+                ],
+                "release": {
+                    "version": "2.3"
                 }
             }
         ]

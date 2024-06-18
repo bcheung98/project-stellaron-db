@@ -238,5 +238,30 @@
                 "Landau's Choice"
             ]
         }
+    },
+    {
+        "version": "2.3",
+        "phase1": {
+            "startDate": "June 19, 2024",
+            "endDate": "July 10, 2024",
+            "banner": [
+                "Whereabouts Should Dreams Rest",
+                "Past Self in Mirror",
+                "Day One of My New Life",
+                "Eyes of the Prey",
+                "Memories of the Past"
+            ]
+        },
+        "phase2": {
+            "startDate": "July 10, 2024",
+            "endDate": "July 30, 2024",
+            "banner": [
+                "Yet Hope is Priceless",
+                "An Instant Before A Gaze",
+                "After the Charmony Fall",
+                "Shared Feeling",
+                "Trend of the Universal Market"
+            ]
+        }
     }
 ]

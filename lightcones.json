@@ -3751,7 +3751,27 @@
             "name": "Pacify",
             "effect": "Every time an ally attacks, the wearer gains 1 stack of Cantillation. Each stack of Cantillation increases the wearer's Energy Regeneration Rate by <span class=\"text-value\">3%</span>, stacking up to 5 time(s). When the wearer uses their Ultimate, removes Cantillation and gains Cadenza. Cadenza increases the Wearer's ATK by <span class=\"text-value\">48%</span> and increases all allies' DMG dealt by <span class=\"text-value\">24%</span>, lasting for 1 turn(s).",
             "scaling": [
-                ["3%", "3.5%", "4%", "4.5%", "5%"], ["48%", "60%", "72%", "84%", "96%"], ["24%", "28%", "32%", "36%", "40%"]
+                [
+                    "3%",
+                    "3.5%",
+                    "4%",
+                    "4.5%",
+                    "5%"
+                ],
+                [
+                    "48%",
+                    "60%",
+                    "72%",
+                    "84%",
+                    "96%"
+                ],
+                [
+                    "24%",
+                    "28%",
+                    "32%",
+                    "36%",
+                    "40%"
+                ]
             ]
         },
         "materials": {
@@ -3777,7 +3797,27 @@
             "name": "Rough Water",
             "effect": "Increases the wearer's Break Effect by <span class=\"text-value\">60%</span>. The Break DMG dealt by the wearer ignores <span class=\"text-value\">20%</span> of the target's DEF. When the wearer's Break Effect in battle is at 150% or greater, increases their SPD by <span class=\"text-value\">12%</span>.",
             "scaling": [
-                ["60%", "70%", "80%", "90%", "100%"], ["20%", "23%", "26%", "29%", "32%"], ["12%", "14%", "16%", "18%", "20%"]
+                [
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%",
+                    "100%"
+                ],
+                [
+                    "20%",
+                    "23%",
+                    "26%",
+                    "29%",
+                    "32%"
+                ],
+                [
+                    "12%",
+                    "14%",
+                    "16%",
+                    "18%",
+                    "20%"
+                ]
             ]
         },
         "materials": {
@@ -3803,7 +3843,20 @@
             "name": "Scrutinize",
             "effect": "Increase the wearer's CRIT Rate by <span class=\"text-value\">8%</span>. The wearer deals <span class=\"text-value\">24%</span> more CRIT DMG to enemies that are currently Slowed or have reduced DEF.",
             "scaling": [
-                ["8%", "10%", "12%", "14%", "16%"], ["24%", "30%", "36%", "42%", "48%"]
+                [
+                    "8%",
+                    "10%",
+                    "12%",
+                    "14%",
+                    "16%"
+                ],
+                [
+                    "24%",
+                    "30%",
+                    "36%",
+                    "42%",
+                    "48%"
+                ]
             ]
         },
         "materials": {
@@ -3829,7 +3882,20 @@
             "name": "Bonds",
             "effect": "Increases the wearer's ATK by <span class=\"text-value\">16%</span>. After the wearer uses their Ultimate, increases their DMG dealt by <span class=\"text-value\">18%</span>, lasting for 1 turn(s).",
             "scaling": [
-                ["16%", "20%", "24%", "28%", "32%"], ["18%", "21%", "24%", "27%", "30%"]
+                [
+                    "16%",
+                    "20%",
+                    "24%",
+                    "28%",
+                    "32%"
+                ],
+                [
+                    "18%",
+                    "21%",
+                    "24%",
+                    "27%",
+                    "30%"
+                ]
             ]
         },
         "materials": {
@@ -3839,6 +3905,176 @@
         "description": "The hands of the compass keep turning until they point to the moment of dreams.<br />The Asdana system, overflowing with memoria, glows with a soft light outside the train's windows. The frontier prison within is currently engulfed in the fires of war.<br /><br /><i>\"Hey guys, what do you suppose the world within the dream would look like?? I must meticulously map it out!\"</i><br />The girl, packing away her surveying tools, gazes at the new world within reach, filled with anticipation.<br /><i>\"That place is a mess. Don't you run off once we get there. I won't have you two getting kidnapped again...\"</i><br />The man in cowboy attire grumbles as he cleans his weapon, then walks over to the sofa with a drink, shaking his head in resignation.<br /><i>\"The Land of the Dreams promises infinite possibilities. We'll surely make our mark... Hey, conductor, if we fall in love with that place and never return, would you miss us?\"</i><br />The Nameless dressed like a gentleman winks at Pom-Pom, smiling.<br /><i>\"'You can't joke at the conductor's expense like this!' Is that what you want to say, conductor?\"</i> The girl's mischievous grin spreads across her face.<br /><i>\"You guys are! So! Mean!\"</i><br />Bubbles drift up and down in the glass as the Express fills up with joyful laughter.<br />...<br />The youthful silhouettes of these Nameless get gradually swallowed by memoria.<br /><i>\"Have a... safe... trip...please...\"</i><br />When the conductor turns their head, the Express is already empty.<br />The conductor stand frozen, this scene hauntingly familiar, as if lived through countless times before.",
         "release": {
             "version": "2.2"
+        }
+    },
+    {
+        "id": 100,
+        "name": "Eternal Calculus",
+        "rarity": 5,
+        "path": "Erudition",
+        "stats": {
+            "hp": 48,
+            "atk": 24,
+            "def": 18
+        },
+        "passive": {
+            "name": "Boundless Thought",
+            "effect": "Increases the wearer's ATK by <span class=\"text-value\">8%</span>. After using an attack, for each enemy target hit, additionally increases ATK by <span class=\"text-value\">4%</span>. This effect can stack 5 times and last until the next attack. If there are 3 or more enemy targets hit, this unit's SPD increases by <span class=\"text-value\">8%</span>, lasting for 1 turn(s).",
+            "scaling": [
+                [
+                    "8%",
+                    "9%",
+                    "10%",
+                    "11%",
+                    "12%"
+                ],
+                [
+                    "4%",
+                    "5%",
+                    "6%",
+                    "7%",
+                    "8%"
+                ],
+                [
+                    "8%",
+                    "10%",
+                    "12%",
+                    "14%",
+                    "16%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Draft",
+            "commonMat": "Core"
+        },
+        "description": "Eternally suspended in the void,<br />Streams of shimmering data flood into THEIR mind.<br />Turning all things past and future into symbols,<br />THEY deduce the end from the beginning.<br />Knowledge, answers, truths...<br />In the mist of information, a brilliant light arises,<br />And everything becomes clear to THEM.",
+        "release": {
+            "version": "2.3"
+        }
+    },
+    {
+        "id": 101,
+        "name": "Whereabouts Should Dreams Rest",
+        "rarity": 5,
+        "path": "Destruction",
+        "stats": {
+            "hp": 52,
+            "atk": 21,
+            "def": 24
+        },
+        "passive": {
+            "name": "Metamorphosis",
+            "effect": "Increases the wearer's Break Effect by <span class=\"text-value\">60%</span>. When the wearer deals Break DMG to an enemy target, inflicts Routed on the enemy, lasting for 2 turn(s). Targets afflicted with Routed receive <span class=\"text-value\">24%</span> increased Break DMG from the wearer, and their SPD is lowered by 20%. Effects of the similar type cannot be stacked.",
+            "scaling": [
+                [
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%",
+                    "100%"
+                ],
+                [
+                    "24%",
+                    "28%",
+                    "32%",
+                    "36%",
+                    "40%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Fang",
+            "commonMat": "Memoria"
+        },
+        "description": "This is the edge of the Asdana system. The ocean of memoria roars with mountainous waves and she, like a singular tiny spark, may be doused at any moment in the storm.<br /><i>\"For one who cannot dream to enter the Synesthesia Dreamscape, they would have to pay a price comparable to death.\"</i><br />She can still hear her companions' concerned voices next to her ears. She takes a deep breath and dives into the Memory Zone.<br />As the vessel silently sinks into the depth of the Memory Zone, small pinpricks of firefly lights dissipate from the cracks and are then immediately swallowed up by the endless darkness.<br /><br /><i>\"Wherefore do you hurtle unto death?\"</i><br />In the ocean of memoria that grows deeper and deeper, the weak light emitted by the Memory Zone creatures are like faraway eyes that nonchalantly glance at her.<br /><br />Dreams remained too distant for her. She gazes emptily out at the boundless darkness, her body and soul having reached the breakdown threshold long ago under the heavy pressure of memoria. Though she realizes her consciousness is gradually fading, only those remaining memories are playing over and over in her brain —<br />The Swarm that covered the sky tore through the frontline defenses as she flew towards the Swarm while enveloped in fire. The charred ash of the Swarm faded like snow, under which lies the pitch-black carcasses of the knights.<br />She didn't even have the time to take a bouquet and offer her final acknowledgement to knights, who were dying one after another. Their lives bloomed in the blink of an eye and went out equally fleetingly. Like a string of genetic code, they never possessed names and only had numbers allotted instead.<br /><br /><i>\"Wherefore do you live?\"</i><br />In the deathly silence, like flames dissolving in the sea, she is reduced to a singular spot of fire and unendingly progresses towards the light...<br />She opens her eyes after what seems to be forever. She sees the <i>\"future<i>\" looking like a pearl, radiating with a soft and vague light. Tears stream down her face —<br /><i>\"I do it to find... my own 'dream'...\"</i>",
+        "release": {
+            "version": "2.3"
+        }
+    },
+    {
+        "id": 102,
+        "name": "Yet Hope Is Priceless",
+        "rarity": 5,
+        "path": "Erudition",
+        "stats": {
+            "hp": 43,
+            "atk": 26,
+            "def": 24
+        },
+        "passive": {
+            "name": "Promise",
+            "effect": "Increases the wearer's CRIT Rate by <span class=\"text-value\">16%</span>. While the wearer is in battle, for every 20% CRIT DMG that exceeds 120%, the DMG dealt by follow-up attack increases by <span class=\"text-value\">12%</span>. This effect can stack up to 4 time(s). When the battle starts or after the wearer uses their Basic ATK, enables Ultimate or the DMG dealt by follow-up attack to ignore <span class=\"text-value\">20%</span> of the target's DEF, lasting for 2 turn(s).",
+            "scaling": [
+                [
+                    "16%",
+                    "19%",
+                    "22%",
+                    "25%",
+                    "28%"
+                ],
+                [
+                    "12%",
+                    "14%",
+                    "16%",
+                    "18%",
+                    "20%"
+                ],
+                [
+                    "20%",
+                    "24%",
+                    "28%",
+                    "32%",
+                    "36%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Draft",
+            "commonMat": "Dreamjolt"
+        },
+        "description": "<i>\"Lady Bonajade, if it weren't for your continuous supply of goods and donations, the orphanage would probably...\"</i><br />She gently stroked the children's heads, cutting off the director's words.<br /><i>\"As long as I'm here, there's no need to worry about the days ahead... And there's no need to say these things to the children, it only adds to their worries.\"</i><br /><br />The children looked up, chattering with her about recent happenings, their worries, and their dreams.<br /><i>\"Lady Bonajade, when are you gonna come visit us again?\"</i><br /><i>\"Don't work too hard, and make sure you get lotsa sleep...\"</i><br /><i>\"Lady Bonajade, when I grow up, I want to be someone like you!\"</i><br />She looked at the children's clear eyes and paused for a moment.<br /><i>\"Someone like me...\"</i><br />The child handed her an apple, <i>\"Yes! Someone who brings light and hope to others!\"</i><br /><br />Poverty, demerits, sorrow, suffering... She walked among the galaxies, taking others' pledges and giving equivalent returns.<br />Life exists for desire, runs on it, and dies from it — this is an irrefutable law, as well as an inevitability of life itself.<br />A philanthropist with a hidden agenda, a villainous merchant who mortgages souls... She was labeled by the world in many such ways, yet only she understood the true morals behind these actions.",
+        "release": {
+            "version": "2.3"
+        }
+    },
+    {
+        "id": 103,
+        "name": "After the Charmony Fall",
+        "rarity": 4,
+        "path": "Erudition",
+        "stats": {
+            "hp": 38,
+            "atk": 21,
+            "def": 18
+        },
+        "passive": {
+            "name": "Quiescence",
+            "effect": "Increases the wearer's Break Effect by <span class=\"text-value\">28%</span>. After the wearer uses Ultimate, increases SPD by <span class=\"text-value\">8%</span>, lasting for 2 turn(s).",
+            "scaling": [
+                [
+                    "28%",
+                    "35%",
+                    "42%",
+                    "49%",
+                    "56%"
+                ],
+                [
+                    "8%",
+                    "10%",
+                    "12%",
+                    "14%",
+                    "16%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Draft",
+            "commonMat": "Memoria"
+        },
+        "description": "The eternal dream he longed for vanished in an instant. As he plummeted towards the earth, he felt no sadness, only a desire to close his eyes.<br /><br />The old path treaded upon has now crumbled, yet the journey ahead remains shrouded in mist.<br /><i>\"After the awakening, the world continues its cycle of suffering, with no escape, the same as always...\"</i><br />He carries the past, turns his back on his homeland, and continues towards a paradise that does not yet exist.<br /><br />So, why do people slumber? And why do they wake?<br />— As planets streak past outside the window, this answer now demands a new meaning to be given.<br /><i>\"Maybe... just maybe I still can...\"</i>",
+        "release": {
+            "version": "2.3"
         }
     }
 ]
