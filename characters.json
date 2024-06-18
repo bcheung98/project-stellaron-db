@@ -3380,7 +3380,8 @@
     },
     {
         "id": 10,
-        "name": "March 7th",
+        "name": "March 7th Preservation",
+        "displayName": "March 7th",
         "rarity": 4,
         "element": "Ice",
         "path": "Preservation",
@@ -12341,7 +12342,7 @@
     },
     {
         "id": 35,
-        "name": "Topaz and Numby",
+        "name": "Topaz & Numby",
         "rarity": 5,
         "element": "Fire",
         "path": "Hunt",
@@ -12493,7 +12494,7 @@
             },
             {
                 "name": "Financial Turmoil",
-                "description": "Increases Topaz and Numby's DMG dealt to enemy targets with Fire Weakness by 15%.",
+                "description": "Increases Topaz & Numby's DMG dealt to enemy targets with Fire Weakness by 15%.",
                 "unlock": "A4",
                 "subTraces": [
                     {
