@@ -17029,7 +17029,7 @@
             },
             "ultimate": {
                 "name": "All-Out Footlight Parade",
-                "description": "<span class=\"text-highlight\">[Support]</span><br /><span class=\"energy-cost\">Energy Cost: 140</span><br />Grants all allies the Backup Dancer effect, lasting for 3 turn(s). This duration reduces by 1 at the start of Trailblazer's every turn. Allies with the Backup Dancer effect have their Break Effect increased by <span class=\"text-value\">15%</span>. And when they attack enemy targets that are in the <span class=\"tooltip-weakness break state\">Weakness Broken state</span>, the Toughness Reduction of the attack will be converted into 1 instance of <span class=\"tooltip-super break dmg\">Super Break DMG</span>.",
+                "description": "<span class=\"text-highlight\">[Support]</span><br /><span class=\"energy-cost\">Energy Cost: <span class=\"energy-cost-number\">140</span></span><br />Grants all allies the Backup Dancer effect, lasting for 3 turn(s). This duration reduces by 1 at the start of Trailblazer's every turn. Allies with the Backup Dancer effect have their Break Effect increased by <span class=\"text-value\">15%</span>. And when they attack enemy targets that are in the <span class=\"tooltip-weakness break state\">Weakness Broken state</span>, the Toughness Reduction of the attack will be converted into 1 instance of <span class=\"tooltip-super break dmg\">Super Break DMG</span>.",
                 "scaling": [
                     [
                         "15%",
@@ -18183,7 +18183,7 @@
             },
             "technique": {
                 "name": "Δ Order: Meteoric Incineration",
-                "description": "Leaps into the air and moves about freely for 5 seconds, which can be ended early by launching a plunging attack. When the duration ends, plunges and immediately attacks all enemies within a set area. At the start of each wave, applies a Fire Weakness to all enemies, lasting for 2 turn(s). Then, deals Fire DMG equal to 200% of SAM's ATK to all enemies."
+                "description": "Leaps into the air and moves about freely for 5 seconds, which can be ended early by launching a plunging attack. When the duration ends, plunges and immediately attacks all enemies within a set area. At the start of each wave, applies a Fire Weakness to all enemies, lasting for 2 turn(s). Then, deals <span class=\"text-fire\">Fire DMG</span> equal to 200% of SAM's ATK to all enemies."
             }
         },
         "traces": [
