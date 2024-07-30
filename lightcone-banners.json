@@ -263,5 +263,30 @@
                 "Trend of the Universal Market"
             ]
         }
+    },
+    {
+        "version": "2.4",
+        "phase1": {
+            "startDate": "July 31, 2024",
+            "endDate": "August 20, 2024",
+            "banner": [
+                "Dance at Sunset",
+                "Night of Fright",
+                "Perfect Timing",
+                "The Birth of the Self",
+                "The Moles Welcome You"
+            ]
+        },
+        "phase2": {
+            "startDate": "August 21, 2024",
+            "endDate": "September 9, 2024",
+            "banner": [
+                "Those Many Springs",
+                "Earthly Escapade",
+                "A Secret Vow",
+                "Eyes of the Prey",
+                "Poised to Bloom"
+            ]
+        }
     }
 ]

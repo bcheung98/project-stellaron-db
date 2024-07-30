@@ -4076,5 +4076,129 @@
         "release": {
             "version": "2.3"
         }
+    },
+    {
+        "id": 104,
+        "name": "Poised to Bloom",
+        "rarity": 4,
+        "path": "Harmony",
+        "stats": {
+            "hp": 43,
+            "atk": 19,
+            "def": 18
+        },
+        "passive": {
+            "name": "Lose Not, Forget Not",
+            "effect": "Increases the wearer's ATK by <span class=\"text-value\">16%</span>. Upon entering battle, if two or more characters follow the same Path, then these characters' CRIT DMG increases by <span class=\"text-value\">16%</span>. Abilities of the same type cannot stack.",
+            "scaling": [
+                [
+                    "16%",
+                    "20%",
+                    "24%",
+                    "28%",
+                    "32%"
+                ],
+                [
+                    "16%",
+                    "20%",
+                    "24%",
+                    "28%",
+                    "32%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Melody",
+            "commonMat": "Dreamjolt"
+        },
+        "description": "Dawn's first light whispers. In the stillness of the flower grove, a shifting form dances, startling birds into flight one after another.<br /><br />Silently reciting sword techniques, she moves with the flow, her once-clumsy moves now gaining finesse. Where the sword's cuts rend the air, petals fall like rain, swirling chaotically as they fall. Unbeknownst to her, the cool mist has dampened her hair.<br /><br /> <i>\"Nice swordplay!\"</i> <br />Startled, she instinctively turns her sword—<br />Behind her, a young man with gray hair lowers the camera in hand.<br /> <i>\"Beautiful memories won't just fade away with the wind.\"</i>",
+        "release": {
+            "version": "2.4"
+        }
+    },
+    {
+        "id": 105,
+        "name": "Dance at Sunset",
+        "rarity": 5,
+        "path": "Destruction",
+        "stats": {
+            "hp": 48,
+            "atk": 26,
+            "def": 21
+        },
+        "passive": {
+            "name": "Deeply Engrossed",
+            "effect": "Greatly increases the wearer's chance of getting attacked and increases CRIT DMG by <span class=\"text-value\">36%</span>. After the wearer uses Ultimate, receives 1 stack of Firedance, lasting for 2 turns and stacking up to 2 time(s). Each stack of Firedance increases the DMG dealt by the wearer's follow-up attack by <span class=\"text-value\">36%</span>.",
+            "scaling": [
+                [
+                    "36%",
+                    "42%",
+                    "48%",
+                    "54%",
+                    "60%"
+                ],
+                [
+                    "36%",
+                    "42%",
+                    "48%",
+                    "54%",
+                    "60%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Fang",
+            "commonMat": "Artifex"
+        },
+        "description": "In the resplendent twilight, a swift figure darts across the rooftops.<br /><br /><i>\"Lili, Guoguo, let's see who makes it to the finish line first!\"</i><br />Scaling the eaves, evading the guards, swaying with the wind, the girl moves like a nimble critter, chasing the last sliver of sunlight.<br /><br />The warm evening breeze caresses her face, and the setting sun bathes the cat in a kaleidoscope of colors.<br /><i>\"You guys won!\"</i><br />She declares, wiping sweat from her brow and cradling the cat in her arms.<br />Amidst a rising galaxy of stars, her unguarded smile dissolves into a bloom of innocence, akin to the layered twilight hues adrift in the sky.",
+        "release": {
+            "version": "2.4"
+        }
+    },
+    {
+        "id": 106,
+        "name": "Those Many Springs",
+        "rarity": 5,
+        "path": "Nihility",
+        "stats": {
+            "hp": 43,
+            "atk": 26,
+            "def": 24
+        },
+        "passive": {
+            "name": "Worldly Affairs Leave No Mark",
+            "effect": "Increases the wearer's Effect Hit Rate by <span class=\"text-value\">60%</span>. After the wearer uses Basic ATK, Skill, or Ultimate to attack an enemy target, there is a 60% base chance to inflict \"Unarmored\" on the target. While in the Unarmored state, the enemy target receives <span class=\"text-value\">10%</span> increased DMG, lasting for 2 turn(s). If the target is under a DoT state inflicted by the wearer, there is a 60% base chance to upgrade the \"Unarmored\" state inflicted by the wearer to the \"Cornered\" state, which additionally increases the DMG the target enemy receives by <span class=\"text-value\">14%</span>, lasting for 2 turn(s). During this period, the wearer cannot inflict \"Unarmored\" on the target.",
+            "scaling": [
+                [
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%",
+                    "100%"
+                ],
+                [
+                    "10%",
+                    "12%",
+                    "14%",
+                    "16%",
+                    "18%"
+                ],
+                [
+                    "14%",
+                    "16%",
+                    "18%",
+                    "20%",
+                    "22%"
+                ]
+            ]
+        },
+        "materials": {
+            "calyxMat": "Heliobus",
+            "commonMat": "Immortal"
+        },
+        "description": "After a few sudden drizzles, spring tides rise, birthing lush greenery.<br /><i>\"How many springs has it been?\"</i><br />He recalls those young soldiers heading to the battlefield for the first time. Year after year, the faces were all different, yet they radiated the exact same vigor and hope.<br />The willow withers as it waits for their return. But what they manage to bring home is often... the frost that can never melt.<br /><br />Birds' warbles linger in the air as he closes his eyes, allowing sunlight to fall on his face through the gaps between the leaves.<br />—<i>\"Alas, those who remain are the loneliest of all.\"</i>",
+        "release": {
+            "version": "2.4"
+        }
     }
 ]
